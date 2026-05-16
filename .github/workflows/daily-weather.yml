@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Run weather contributor agent
         run: |
           cd agents
