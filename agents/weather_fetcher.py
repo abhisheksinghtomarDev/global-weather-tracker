@@ -103,8 +103,8 @@ class WeatherFetcher:
                 # Fetch current weather
                 current = self.fetch_current_weather(lat, lon)
 
-                # Fetch historical data (last 24 hours)
-                historical = self.fetch_historical_weather(lat, lon, hours=24)
+                # Fetch historical data (last 6 hours) - reduced for speed
+                historical = self.fetch_historical_weather(lat, lon, hours=6)
 
                 city_data = {
                     "country": country_name,
