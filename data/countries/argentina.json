@@ -1,0 +1,101 @@
+{
+  "country": "Argentina",
+  "date": "2026-05-16",
+  "cities": [
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Buenos Aires",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "timestamp": "2026-05-16T19:04:34.906272",
+      "current": {
+        "time": "2026-05-16T16:00",
+        "interval": 900,
+        "temperature_2m": 13.4,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 11.9,
+        "weather_code": 3,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 182
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Cordoba",
+      "latitude": -31.4201,
+      "longitude": -64.1888,
+      "timestamp": "2026-05-16T19:04:34.908029",
+      "current": {
+        "time": "2026-05-16T16:00",
+        "interval": 900,
+        "temperature_2m": 11.6,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 8.7,
+        "weather_code": 51,
+        "wind_speed_10m": 16.6,
+        "wind_direction_10m": 190
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Mendoza",
+      "latitude": -32.8895,
+      "longitude": -68.8458,
+      "timestamp": "2026-05-16T19:04:34.910644",
+      "current": {
+        "time": "2026-05-16T16:00",
+        "interval": 900,
+        "temperature_2m": 8.4,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 4.0,
+        "weather_code": 2,
+        "wind_speed_10m": 16.0,
+        "wind_direction_10m": 179
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Rosario",
+      "latitude": -32.9442,
+      "longitude": -60.6505,
+      "timestamp": "2026-05-16T19:04:34.917091",
+      "current": {
+        "time": "2026-05-16T16:00",
+        "interval": 900,
+        "temperature_2m": 15.6,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 14.6,
+        "weather_code": 3,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 184
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Bariloche",
+      "latitude": -41.1335,
+      "longitude": -71.3103,
+      "timestamp": "2026-05-16T19:04:34.921483",
+      "current": {
+        "time": "2026-05-16T16:00",
+        "interval": 900,
+        "temperature_2m": 8.1,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 5.3,
+        "weather_code": 0,
+        "wind_speed_10m": 4.9,
+        "wind_direction_10m": 66
+      },
+      "history_24h": null
+    }
+  ]
+}

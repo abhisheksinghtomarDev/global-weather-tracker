@@ -1,0 +1,120 @@
+{
+  "country": "Japan",
+  "date": "2026-05-16",
+  "cities": [
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Tokyo",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "timestamp": "2026-05-16T19:04:34.194370",
+      "current": {
+        "time": "2026-05-17T04:00",
+        "interval": 900,
+        "temperature_2m": 13.0,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 13.3,
+        "weather_code": 0,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 257
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Kyoto",
+      "latitude": 35.0116,
+      "longitude": 135.7681,
+      "timestamp": "2026-05-16T19:04:34.198412",
+      "current": {
+        "time": "2026-05-17T04:00",
+        "interval": 900,
+        "temperature_2m": 14.7,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 13.9,
+        "weather_code": 0,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 49
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Osaka",
+      "latitude": 34.6937,
+      "longitude": 135.5023,
+      "timestamp": "2026-05-16T19:04:34.203653",
+      "current": {
+        "time": "2026-05-17T04:00",
+        "interval": 900,
+        "temperature_2m": 15.2,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 15.9,
+        "weather_code": 0,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 103
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Yokohama",
+      "latitude": 35.4437,
+      "longitude": 139.638,
+      "timestamp": "2026-05-16T19:04:34.205592",
+      "current": {
+        "time": "2026-05-17T04:00",
+        "interval": 900,
+        "temperature_2m": 14.7,
+        "relative_humidity_2m": 87,
+        "apparent_temperature": 14.7,
+        "weather_code": 0,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 312
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Sapporo",
+      "latitude": 43.0618,
+      "longitude": 141.3545,
+      "timestamp": "2026-05-16T19:04:34.213572",
+      "current": {
+        "time": "2026-05-17T04:00",
+        "interval": 900,
+        "temperature_2m": 10.6,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 9.2,
+        "weather_code": 3,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 337
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Nagoya",
+      "latitude": 35.1815,
+      "longitude": 136.9066,
+      "timestamp": "2026-05-16T19:04:34.215128",
+      "current": {
+        "time": "2026-05-17T04:00",
+        "interval": 900,
+        "temperature_2m": 14.4,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 14.8,
+        "weather_code": 0,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 319
+      },
+      "history_24h": null
+    }
+  ]
+}

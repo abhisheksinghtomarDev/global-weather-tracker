@@ -1,0 +1,101 @@
+{
+  "country": "Turkey",
+  "date": "2026-05-16",
+  "cities": [
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Istanbul",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "timestamp": "2026-05-16T19:04:34.528189",
+      "current": {
+        "time": "2026-05-16T22:00",
+        "interval": 900,
+        "temperature_2m": 19.4,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 19.2,
+        "weather_code": 3,
+        "wind_speed_10m": 5.1,
+        "wind_direction_10m": 45
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Izmir",
+      "latitude": 38.4237,
+      "longitude": 27.1428,
+      "timestamp": "2026-05-16T19:04:34.532088",
+      "current": {
+        "time": "2026-05-16T22:00",
+        "interval": 900,
+        "temperature_2m": 18.4,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 19.2,
+        "weather_code": 61,
+        "wind_speed_10m": 5.7,
+        "wind_direction_10m": 145
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Ankara",
+      "latitude": 39.9334,
+      "longitude": 32.8597,
+      "timestamp": "2026-05-16T19:04:34.535091",
+      "current": {
+        "time": "2026-05-16T22:00",
+        "interval": 900,
+        "temperature_2m": 13.0,
+        "relative_humidity_2m": 43,
+        "apparent_temperature": 10.2,
+        "weather_code": 3,
+        "wind_speed_10m": 5.2,
+        "wind_direction_10m": 124
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Antalya",
+      "latitude": 36.8969,
+      "longitude": 30.7133,
+      "timestamp": "2026-05-16T19:04:34.553290",
+      "current": {
+        "time": "2026-05-16T22:00",
+        "interval": 900,
+        "temperature_2m": 20.2,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 21.5,
+        "weather_code": 3,
+        "wind_speed_10m": 11.0,
+        "wind_direction_10m": 23
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Cappadocia",
+      "latitude": 38.6431,
+      "longitude": 34.8289,
+      "timestamp": "2026-05-16T19:04:34.571628",
+      "current": {
+        "time": "2026-05-16T22:00",
+        "interval": 900,
+        "temperature_2m": 12.0,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 9.9,
+        "weather_code": 3,
+        "wind_speed_10m": 7.3,
+        "wind_direction_10m": 189
+      },
+      "history_24h": null
+    }
+  ]
+}

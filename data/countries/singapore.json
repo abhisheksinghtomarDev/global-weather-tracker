@@ -1,0 +1,25 @@
+{
+  "country": "Singapore",
+  "date": "2026-05-16",
+  "cities": [
+    {
+      "country": "Singapore",
+      "country_code": "SG",
+      "city": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "timestamp": "2026-05-16T19:04:34.622772",
+      "current": {
+        "time": "2026-05-17T03:00",
+        "interval": 900,
+        "temperature_2m": 23.5,
+        "relative_humidity_2m": 100,
+        "apparent_temperature": 29.1,
+        "weather_code": 53,
+        "wind_speed_10m": 1.7,
+        "wind_direction_10m": 18
+      },
+      "history_24h": null
+    }
+  ]
+}

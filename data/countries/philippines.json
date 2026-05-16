@@ -1,0 +1,101 @@
+{
+  "country": "Philippines",
+  "date": "2026-05-16",
+  "cities": [
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Manila",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "timestamp": "2026-05-16T19:04:34.630667",
+      "current": {
+        "time": "2026-05-17T03:00",
+        "interval": 900,
+        "temperature_2m": 26.8,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 32.1,
+        "weather_code": 3,
+        "wind_speed_10m": 6.9,
+        "wind_direction_10m": 9
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Cebu",
+      "latitude": 10.3157,
+      "longitude": 123.8854,
+      "timestamp": "2026-05-16T19:04:34.641944",
+      "current": {
+        "time": "2026-05-17T03:00",
+        "interval": 900,
+        "temperature_2m": 26.5,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 30.0,
+        "weather_code": 3,
+        "wind_speed_10m": 3.0,
+        "wind_direction_10m": 346
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Davao",
+      "latitude": 7.0731,
+      "longitude": 125.6128,
+      "timestamp": "2026-05-16T19:04:34.651731",
+      "current": {
+        "time": "2026-05-17T03:00",
+        "interval": 900,
+        "temperature_2m": 25.8,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 32.3,
+        "weather_code": 51,
+        "wind_speed_10m": 2.7,
+        "wind_direction_10m": 8
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Boracay",
+      "latitude": 11.9674,
+      "longitude": 121.924,
+      "timestamp": "2026-05-16T19:04:34.673407",
+      "current": {
+        "time": "2026-05-17T03:00",
+        "interval": 900,
+        "temperature_2m": 27.3,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 32.6,
+        "weather_code": 51,
+        "wind_speed_10m": 8.0,
+        "wind_direction_10m": 28
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Palawan",
+      "latitude": 9.8348,
+      "longitude": 118.7383,
+      "timestamp": "2026-05-16T19:04:34.677989",
+      "current": {
+        "time": "2026-05-17T03:00",
+        "interval": 900,
+        "temperature_2m": 25.8,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 30.0,
+        "weather_code": 3,
+        "wind_speed_10m": 0.9,
+        "wind_direction_10m": 233
+      },
+      "history_24h": null
+    }
+  ]
+}

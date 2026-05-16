@@ -1,0 +1,101 @@
+{
+  "country": "Austria",
+  "date": "2026-05-16",
+  "cities": [
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Vienna",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "timestamp": "2026-05-16T19:04:35.101609",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 10.7,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 8.2,
+        "weather_code": 61,
+        "wind_speed_10m": 13.7,
+        "wind_direction_10m": 297
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Salzburg",
+      "latitude": 47.8095,
+      "longitude": 13.055,
+      "timestamp": "2026-05-16T19:04:35.103981",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 7.9,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 6.3,
+        "weather_code": 3,
+        "wind_speed_10m": 1.6,
+        "wind_direction_10m": 153
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Innsbruck",
+      "latitude": 47.2692,
+      "longitude": 11.4041,
+      "timestamp": "2026-05-16T19:04:35.107986",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 8.2,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 6.4,
+        "weather_code": 1,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 186
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Graz",
+      "latitude": 47.0707,
+      "longitude": 15.4395,
+      "timestamp": "2026-05-16T19:04:35.112584",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 10.7,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 8.3,
+        "weather_code": 3,
+        "wind_speed_10m": 4.1,
+        "wind_direction_10m": 255
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Hallstatt",
+      "latitude": 47.5622,
+      "longitude": 13.6493,
+      "timestamp": "2026-05-16T19:04:35.114737",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 8.0,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 6.0,
+        "weather_code": 80,
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 90
+      },
+      "history_24h": null
+    }
+  ]
+}

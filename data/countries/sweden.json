@@ -1,0 +1,101 @@
+{
+  "country": "Sweden",
+  "date": "2026-05-16",
+  "cities": [
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Stockholm",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "timestamp": "2026-05-16T19:04:34.743695",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 12.2,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 8.8,
+        "weather_code": 0,
+        "wind_speed_10m": 16.2,
+        "wind_direction_10m": 198
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Gothenburg",
+      "latitude": 57.7089,
+      "longitude": 11.9746,
+      "timestamp": "2026-05-16T19:04:34.746286",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 10.6,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 7.0,
+        "weather_code": 51,
+        "wind_speed_10m": 21.6,
+        "wind_direction_10m": 237
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Malmo",
+      "latitude": 55.6045,
+      "longitude": 13.0038,
+      "timestamp": "2026-05-16T19:04:34.749370",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 10.9,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 6.4,
+        "weather_code": 2,
+        "wind_speed_10m": 24.8,
+        "wind_direction_10m": 232
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Uppsala",
+      "latitude": 59.8588,
+      "longitude": 17.6389,
+      "timestamp": "2026-05-16T19:04:34.770362",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 13.6,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 11.1,
+        "weather_code": 2,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 163
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Kiruna",
+      "latitude": 67.8557,
+      "longitude": 20.2253,
+      "timestamp": "2026-05-16T19:04:34.782485",
+      "current": {
+        "time": "2026-05-16T21:00",
+        "interval": 900,
+        "temperature_2m": 10.5,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 7.9,
+        "weather_code": 2,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 3
+      },
+      "history_24h": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "country": "Indonesia",
+  "date": "2026-05-16",
+  "cities": [
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Jakarta",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "timestamp": "2026-05-16T19:04:34.474172",
+      "current": {
+        "time": "2026-05-17T02:00",
+        "interval": 900,
+        "temperature_2m": 24.2,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 29.9,
+        "weather_code": 51,
+        "wind_speed_10m": 2.2,
+        "wind_direction_10m": 185
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Surabaya",
+      "latitude": -7.2575,
+      "longitude": 112.7521,
+      "timestamp": "2026-05-16T19:04:34.476987",
+      "current": {
+        "time": "2026-05-17T02:00",
+        "interval": 900,
+        "temperature_2m": 24.2,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 28.6,
+        "weather_code": 51,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 280
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Bandung",
+      "latitude": -6.9175,
+      "longitude": 107.6191,
+      "timestamp": "2026-05-16T19:04:34.488564",
+      "current": {
+        "time": "2026-05-17T02:00",
+        "interval": 900,
+        "temperature_2m": 21.7,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 25.5,
+        "weather_code": 3,
+        "wind_speed_10m": 2.4,
+        "wind_direction_10m": 351
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Bali",
+      "latitude": -8.4095,
+      "longitude": 115.1889,
+      "timestamp": "2026-05-16T19:04:34.494889",
+      "current": {
+        "time": "2026-05-17T03:00",
+        "interval": 900,
+        "temperature_2m": 22.0,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 25.6,
+        "weather_code": 51,
+        "wind_speed_10m": 1.7,
+        "wind_direction_10m": 347
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Medan",
+      "latitude": 3.5952,
+      "longitude": 98.6722,
+      "timestamp": "2026-05-16T19:04:34.496267",
+      "current": {
+        "time": "2026-05-17T02:00",
+        "interval": 900,
+        "temperature_2m": 24.7,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 30.6,
+        "weather_code": 3,
+        "wind_speed_10m": 2.8,
+        "wind_direction_10m": 220
+      },
+      "history_24h": null
+    }
+  ]
+}
