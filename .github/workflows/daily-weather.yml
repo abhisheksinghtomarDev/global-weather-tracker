@@ -30,6 +30,8 @@ jobs:
 
       - name: Commit and push weather data
         uses: stefanzweifel/git-auto-commit-action@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: |
             🌍 Daily Weather Data - ${{ github.event.inputs.date || format('YYYY-MM-DD') }}
@@ -40,5 +42,6 @@ jobs:
           file_pattern: |
             data/*
             README.md
-          commit_author_name: weather-bot
-          commit_author_email: weather-bot@github.com
+          commit_user_name: weather-bot
+          commit_user_email: weather-bot@github.com
+          commit_author: weather-bot <weather-bot@github.com>
