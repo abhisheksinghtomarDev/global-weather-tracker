@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(where python *)",
+      "Bash(py *)",
+      "Bash(powershell *)",
+      "Bash(where gh *)",
+      "Bash(git init *)",
+      "Bash(git config *)",
+      "Bash(git add *)"
+    ]
+  }
+}
