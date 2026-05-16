@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 
 MAX_RETRIES = 3
 RETRY_DELAY = 2  # seconds
-REQUEST_DELAY = 0.5  # seconds between city requests
+REQUEST_DELAY = 0  # no delay - Open-Meteo handles high throughput
 
 class WeatherFetcher:
     def __init__(self):
