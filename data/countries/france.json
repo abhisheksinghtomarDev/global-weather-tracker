@@ -8,35 +8,16 @@
       "city": "Paris",
       "latitude": 48.8566,
       "longitude": 2.3522,
-      "timestamp": "2026-05-17T12:05:40.951263",
+      "timestamp": "2026-05-17T12:49:06.387579",
       "current": {
-        "time": "2026-05-17T14:00",
+        "time": "2026-05-17T14:45",
         "interval": 900,
-        "temperature_2m": 16.0,
+        "temperature_2m": 16.1,
         "relative_humidity_2m": 64,
-        "apparent_temperature": 14.3,
-        "weather_code": 61,
-        "wind_speed_10m": 10.0,
-        "wind_direction_10m": 218
-      },
-      "history_24h": null
-    },
-    {
-      "country": "France",
-      "country_code": "FR",
-      "city": "Lyon",
-      "latitude": 45.764,
-      "longitude": 4.8357,
-      "timestamp": "2026-05-17T12:05:40.952746",
-      "current": {
-        "time": "2026-05-17T14:00",
-        "interval": 900,
-        "temperature_2m": 18.2,
-        "relative_humidity_2m": 35,
-        "apparent_temperature": 18.4,
-        "weather_code": 3,
-        "wind_speed_10m": 1.1,
-        "wind_direction_10m": 288
+        "apparent_temperature": 14.1,
+        "weather_code": 80,
+        "wind_speed_10m": 12.1,
+        "wind_direction_10m": 217
       },
       "history_24h": null
     },
@@ -46,16 +27,16 @@
       "city": "Marseille",
       "latitude": 43.2965,
       "longitude": 5.3698,
-      "timestamp": "2026-05-17T12:05:40.954524",
+      "timestamp": "2026-05-17T12:49:06.445948",
       "current": {
-        "time": "2026-05-17T14:00",
+        "time": "2026-05-17T14:45",
         "interval": 900,
-        "temperature_2m": 20.2,
-        "relative_humidity_2m": 40,
-        "apparent_temperature": 15.6,
+        "temperature_2m": 17.9,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 14.0,
         "weather_code": 0,
-        "wind_speed_10m": 17.7,
-        "wind_direction_10m": 275
+        "wind_speed_10m": 25.6,
+        "wind_direction_10m": 260
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Nice",
       "latitude": 43.7102,
       "longitude": 7.262,
-      "timestamp": "2026-05-17T12:05:40.956391",
+      "timestamp": "2026-05-17T12:49:06.449832",
       "current": {
-        "time": "2026-05-17T14:00",
+        "time": "2026-05-17T14:45",
         "interval": 900,
-        "temperature_2m": 20.6,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 20.4,
+        "temperature_2m": 20.7,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 19.7,
         "weather_code": 0,
-        "wind_speed_10m": 11.3,
-        "wind_direction_10m": 127
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 136
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Toulouse",
       "latitude": 43.6047,
       "longitude": 1.4442,
-      "timestamp": "2026-05-17T12:05:40.967519",
+      "timestamp": "2026-05-17T12:49:06.451183",
       "current": {
-        "time": "2026-05-17T14:00",
+        "time": "2026-05-17T14:45",
         "interval": 900,
-        "temperature_2m": 17.1,
+        "temperature_2m": 17.3,
         "relative_humidity_2m": 51,
-        "apparent_temperature": 15.1,
-        "weather_code": 3,
-        "wind_speed_10m": 8.7,
-        "wind_direction_10m": 300
+        "apparent_temperature": 15.3,
+        "weather_code": 61,
+        "wind_speed_10m": 8.9,
+        "wind_direction_10m": 310
+      },
+      "history_24h": null
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "city": "Lyon",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "timestamp": "2026-05-17T12:49:06.454756",
+      "current": {
+        "time": "2026-05-17T14:45",
+        "interval": 900,
+        "temperature_2m": 18.5,
+        "relative_humidity_2m": 32,
+        "apparent_temperature": 17.9,
+        "weather_code": 2,
+        "wind_speed_10m": 4.4,
+        "wind_direction_10m": 351
       },
       "history_24h": null
     }
