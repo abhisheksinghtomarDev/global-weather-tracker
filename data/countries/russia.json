@@ -1,6 +1,6 @@
 {
   "country": "Russia",
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "cities": [
     {
       "country": "Russia",
@@ -8,16 +8,16 @@
       "city": "Moscow",
       "latitude": 55.7558,
       "longitude": 37.6173,
-      "timestamp": "2026-05-16T19:04:34.331563",
+      "timestamp": "2026-05-17T12:05:41.050837",
       "current": {
-        "time": "2026-05-16T22:00",
+        "time": "2026-05-17T15:00",
         "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 17.3,
+        "temperature_2m": 26.3,
+        "relative_humidity_2m": 45,
+        "apparent_temperature": 26.4,
         "weather_code": 2,
-        "wind_speed_10m": 5.0,
-        "wind_direction_10m": 300
+        "wind_speed_10m": 6.6,
+        "wind_direction_10m": 103
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Saint Petersburg",
       "latitude": 59.9311,
       "longitude": 30.3609,
-      "timestamp": "2026-05-16T19:04:34.332882",
+      "timestamp": "2026-05-17T12:05:41.052166",
       "current": {
-        "time": "2026-05-16T22:00",
+        "time": "2026-05-17T15:00",
         "interval": 900,
-        "temperature_2m": 14.2,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 12.9,
-        "weather_code": 0,
-        "wind_speed_10m": 9.7,
-        "wind_direction_10m": 131
+        "temperature_2m": 20.7,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 20.4,
+        "weather_code": 2,
+        "wind_speed_10m": 11.9,
+        "wind_direction_10m": 295
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Novosibirsk",
       "latitude": 55.0084,
       "longitude": 82.9357,
-      "timestamp": "2026-05-16T19:04:34.336428",
+      "timestamp": "2026-05-17T12:05:41.053632",
       "current": {
-        "time": "2026-05-17T02:00",
+        "time": "2026-05-17T19:00",
         "interval": 900,
-        "temperature_2m": 8.6,
-        "relative_humidity_2m": 99,
-        "apparent_temperature": 6.5,
-        "weather_code": 3,
-        "wind_speed_10m": 11.9,
-        "wind_direction_10m": 338
+        "temperature_2m": 8.8,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 3.6,
+        "weather_code": 1,
+        "wind_speed_10m": 19.4,
+        "wind_direction_10m": 350
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Vladivostok",
       "latitude": 43.1332,
       "longitude": 131.9113,
-      "timestamp": "2026-05-16T19:04:34.356721",
+      "timestamp": "2026-05-17T12:05:41.055991",
       "current": {
-        "time": "2026-05-17T05:00",
+        "time": "2026-05-17T22:00",
         "interval": 900,
-        "temperature_2m": 11.8,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 10.4,
+        "temperature_2m": 9.1,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 6.4,
         "weather_code": 3,
-        "wind_speed_10m": 8.1,
-        "wind_direction_10m": 13
+        "wind_speed_10m": 15.3,
+        "wind_direction_10m": 177
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Yekaterinburg",
       "latitude": 56.8389,
       "longitude": 60.6057,
-      "timestamp": "2026-05-16T19:04:34.377892",
+      "timestamp": "2026-05-17T12:05:41.065814",
       "current": {
-        "time": "2026-05-17T00:00",
+        "time": "2026-05-17T17:00",
         "interval": 900,
-        "temperature_2m": 18.7,
-        "relative_humidity_2m": 47,
-        "apparent_temperature": 17.4,
-        "weather_code": 1,
-        "wind_speed_10m": 3.6,
-        "wind_direction_10m": 143
+        "temperature_2m": 27.6,
+        "relative_humidity_2m": 21,
+        "apparent_temperature": 24.7,
+        "weather_code": 2,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 178
       },
       "history_24h": null
     }
