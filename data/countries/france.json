@@ -1,6 +1,6 @@
 {
   "country": "France",
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "cities": [
     {
       "country": "France",
@@ -8,16 +8,16 @@
       "city": "Paris",
       "latitude": 48.8566,
       "longitude": 2.3522,
-      "timestamp": "2026-05-18T17:37:55.774782",
+      "timestamp": "2026-05-19T17:43:06.368962",
       "current": {
-        "time": "2026-05-18T19:30",
+        "time": "2026-05-19T19:30",
         "interval": 900,
-        "temperature_2m": 14.6,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 13.3,
+        "temperature_2m": 17.0,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 15.5,
         "weather_code": 3,
-        "wind_speed_10m": 5.3,
-        "wind_direction_10m": 242
+        "wind_speed_10m": 15.6,
+        "wind_direction_10m": 203
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Lyon",
       "latitude": 45.764,
       "longitude": 4.8357,
-      "timestamp": "2026-05-18T17:37:55.776041",
+      "timestamp": "2026-05-19T17:43:06.376205",
       "current": {
-        "time": "2026-05-18T19:30",
+        "time": "2026-05-19T19:30",
         "interval": 900,
-        "temperature_2m": 18.7,
+        "temperature_2m": 21.5,
         "relative_humidity_2m": 40,
-        "apparent_temperature": 15.8,
+        "apparent_temperature": 19.6,
         "weather_code": 2,
-        "wind_speed_10m": 10.7,
-        "wind_direction_10m": 320
+        "wind_speed_10m": 7.8,
+        "wind_direction_10m": 167
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Marseille",
       "latitude": 43.2965,
       "longitude": 5.3698,
-      "timestamp": "2026-05-18T17:37:55.805207",
+      "timestamp": "2026-05-19T17:43:06.377711",
       "current": {
-        "time": "2026-05-18T19:30",
+        "time": "2026-05-19T19:30",
         "interval": 900,
-        "temperature_2m": 18.1,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 15.3,
-        "weather_code": 0,
-        "wind_speed_10m": 18.3,
-        "wind_direction_10m": 250
-      },
-      "history_24h": null
-    },
-    {
-      "country": "France",
-      "country_code": "FR",
-      "city": "Toulouse",
-      "latitude": 43.6047,
-      "longitude": 1.4442,
-      "timestamp": "2026-05-18T17:37:55.831753",
-      "current": {
-        "time": "2026-05-18T19:30",
-        "interval": 900,
-        "temperature_2m": 17.6,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 16.3,
-        "weather_code": 3,
-        "wind_speed_10m": 4.8,
-        "wind_direction_10m": 257
+        "temperature_2m": 19.1,
+        "relative_humidity_2m": 66,
+        "apparent_temperature": 18.4,
+        "weather_code": 2,
+        "wind_speed_10m": 7.1,
+        "wind_direction_10m": 255
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Nice",
       "latitude": 43.7102,
       "longitude": 7.262,
-      "timestamp": "2026-05-18T17:37:55.833322",
+      "timestamp": "2026-05-19T17:43:06.379183",
       "current": {
-        "time": "2026-05-18T19:30",
+        "time": "2026-05-19T19:30",
         "interval": 900,
-        "temperature_2m": 17.1,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 17.4,
+        "temperature_2m": 18.4,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 18.8,
         "weather_code": 1,
         "wind_speed_10m": 3.1,
-        "wind_direction_10m": 36
+        "wind_direction_10m": 159
+      },
+      "history_24h": null
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "city": "Toulouse",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "timestamp": "2026-05-19T17:43:06.381491",
+      "current": {
+        "time": "2026-05-19T19:30",
+        "interval": 900,
+        "temperature_2m": 23.7,
+        "relative_humidity_2m": 40,
+        "apparent_temperature": 22.9,
+        "weather_code": 3,
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 351
       },
       "history_24h": null
     }

@@ -1,6 +1,6 @@
 {
   "country": "Switzerland",
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "cities": [
     {
       "country": "Switzerland",
@@ -8,16 +8,16 @@
       "city": "Zurich",
       "latitude": 47.3769,
       "longitude": 8.5417,
-      "timestamp": "2026-05-18T17:37:56.355053",
+      "timestamp": "2026-05-19T17:43:07.202941",
       "current": {
-        "time": "2026-05-18T19:30",
+        "time": "2026-05-19T19:30",
         "interval": 900,
-        "temperature_2m": 13.4,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 12.1,
+        "temperature_2m": 16.8,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 14.5,
         "weather_code": 3,
-        "wind_speed_10m": 3.9,
-        "wind_direction_10m": 214
+        "wind_speed_10m": 5.8,
+        "wind_direction_10m": 266
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Geneva",
       "latitude": 46.2044,
       "longitude": 6.1432,
-      "timestamp": "2026-05-18T17:37:56.357802",
+      "timestamp": "2026-05-19T17:43:07.204520",
       "current": {
-        "time": "2026-05-18T19:30",
+        "time": "2026-05-19T19:30",
         "interval": 900,
-        "temperature_2m": 16.6,
-        "relative_humidity_2m": 50,
-        "apparent_temperature": 14.7,
-        "weather_code": 80,
-        "wind_speed_10m": 7.0,
-        "wind_direction_10m": 69
+        "temperature_2m": 18.7,
+        "relative_humidity_2m": 43,
+        "apparent_temperature": 16.4,
+        "weather_code": 3,
+        "wind_speed_10m": 9.3,
+        "wind_direction_10m": 208
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Bern",
       "latitude": 46.948,
       "longitude": 7.4474,
-      "timestamp": "2026-05-18T17:37:56.360435",
+      "timestamp": "2026-05-19T17:43:07.207290",
       "current": {
-        "time": "2026-05-18T19:30",
+        "time": "2026-05-19T19:30",
         "interval": 900,
-        "temperature_2m": 12.1,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 11.2,
-        "weather_code": 80,
-        "wind_speed_10m": 4.4,
-        "wind_direction_10m": 279
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Switzerland",
-      "country_code": "CH",
-      "city": "Lucerne",
-      "latitude": 47.0502,
-      "longitude": 8.3093,
-      "timestamp": "2026-05-18T17:37:56.364617",
-      "current": {
-        "time": "2026-05-18T19:30",
-        "interval": 900,
-        "temperature_2m": 13.1,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 11.9,
-        "weather_code": 2,
-        "wind_speed_10m": 4.0,
-        "wind_direction_10m": 175
+        "temperature_2m": 14.9,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 14.0,
+        "weather_code": 3,
+        "wind_speed_10m": 2.6,
+        "wind_direction_10m": 164
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Interlaken",
       "latitude": 46.6863,
       "longitude": 7.8632,
-      "timestamp": "2026-05-18T17:37:56.366014",
+      "timestamp": "2026-05-19T17:43:07.213191",
       "current": {
-        "time": "2026-05-18T19:30",
+        "time": "2026-05-19T19:30",
         "interval": 900,
-        "temperature_2m": 12.4,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 11.7,
+        "temperature_2m": 14.6,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 13.8,
         "weather_code": 2,
-        "wind_speed_10m": 2.7,
-        "wind_direction_10m": 337
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 221
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Lucerne",
+      "latitude": 47.0502,
+      "longitude": 8.3093,
+      "timestamp": "2026-05-19T17:43:07.225595",
+      "current": {
+        "time": "2026-05-19T19:30",
+        "interval": 900,
+        "temperature_2m": 15.8,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 14.5,
+        "weather_code": 3,
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 274
       },
       "history_24h": null
     }
