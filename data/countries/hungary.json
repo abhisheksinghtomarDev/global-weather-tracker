@@ -1,22 +1,41 @@
 {
   "country": "Hungary",
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "cities": [
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "city": "Szeged",
+      "latitude": 46.253,
+      "longitude": 20.1414,
+      "timestamp": "2026-05-20T18:05:33.605723",
+      "current": {
+        "time": "2026-05-20T20:00",
+        "interval": 900,
+        "temperature_2m": 22.9,
+        "relative_humidity_2m": 37,
+        "apparent_temperature": 20.7,
+        "weather_code": 0,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 314
+      },
+      "history_24h": null
+    },
     {
       "country": "Hungary",
       "country_code": "HU",
       "city": "Debrecen",
       "latitude": 47.5316,
       "longitude": 21.6273,
-      "timestamp": "2026-05-19T17:43:07.837480",
+      "timestamp": "2026-05-20T18:05:33.606023",
       "current": {
-        "time": "2026-05-19T19:30",
+        "time": "2026-05-20T20:00",
         "interval": 900,
-        "temperature_2m": 19.9,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 18.0,
-        "weather_code": 2,
-        "wind_speed_10m": 12.2,
+        "temperature_2m": 22.1,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 19.9,
+        "weather_code": 0,
+        "wind_speed_10m": 12.6,
         "wind_direction_10m": 18
       },
       "history_24h": null
@@ -27,35 +46,16 @@
       "city": "Budapest",
       "latitude": 47.4979,
       "longitude": 19.0402,
-      "timestamp": "2026-05-19T17:43:07.839099",
+      "timestamp": "2026-05-20T18:05:33.607314",
       "current": {
-        "time": "2026-05-19T19:30",
+        "time": "2026-05-20T20:00",
         "interval": 900,
-        "temperature_2m": 21.4,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 20.2,
+        "temperature_2m": 23.5,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 21.3,
         "weather_code": 0,
-        "wind_speed_10m": 5.0,
-        "wind_direction_10m": 41
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Hungary",
-      "country_code": "HU",
-      "city": "Szeged",
-      "latitude": 46.253,
-      "longitude": 20.1414,
-      "timestamp": "2026-05-19T17:43:07.839662",
-      "current": {
-        "time": "2026-05-19T19:30",
-        "interval": 900,
-        "temperature_2m": 20.8,
-        "relative_humidity_2m": 48,
-        "apparent_temperature": 19.4,
-        "weather_code": 2,
-        "wind_speed_10m": 8.6,
-        "wind_direction_10m": 354
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 319
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Pecs",
       "latitude": 46.0792,
       "longitude": 18.2,
-      "timestamp": "2026-05-19T17:43:07.851537",
+      "timestamp": "2026-05-20T18:05:33.636001",
       "current": {
-        "time": "2026-05-19T19:30",
+        "time": "2026-05-20T20:00",
         "interval": 900,
-        "temperature_2m": 19.7,
-        "relative_humidity_2m": 50,
-        "apparent_temperature": 18.8,
+        "temperature_2m": 20.7,
+        "relative_humidity_2m": 47,
+        "apparent_temperature": 19.3,
         "weather_code": 0,
-        "wind_speed_10m": 4.0,
-        "wind_direction_10m": 329
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 316
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Lake Balaton",
       "latitude": 46.7094,
       "longitude": 17.5526,
-      "timestamp": "2026-05-19T17:43:07.870083",
+      "timestamp": "2026-05-20T18:05:33.637509",
       "current": {
-        "time": "2026-05-19T19:30",
+        "time": "2026-05-20T20:00",
         "interval": 900,
-        "temperature_2m": 19.1,
-        "relative_humidity_2m": 59,
-        "apparent_temperature": 18.9,
-        "weather_code": 0,
-        "wind_speed_10m": 3.5,
-        "wind_direction_10m": 336
+        "temperature_2m": 19.6,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 17.7,
+        "weather_code": 1,
+        "wind_speed_10m": 11.0,
+        "wind_direction_10m": 341
       },
       "history_24h": null
     }

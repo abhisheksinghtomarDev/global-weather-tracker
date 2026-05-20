@@ -1,6 +1,6 @@
 {
   "country": "Romania",
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "cities": [
     {
       "country": "Romania",
@@ -8,35 +8,16 @@
       "city": "Bucharest",
       "latitude": 44.4268,
       "longitude": 26.1025,
-      "timestamp": "2026-05-19T17:43:07.872580",
+      "timestamp": "2026-05-20T18:05:33.638575",
       "current": {
-        "time": "2026-05-19T20:30",
+        "time": "2026-05-20T21:00",
         "interval": 900,
-        "temperature_2m": 20.7,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 21.3,
+        "temperature_2m": 21.4,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 22.1,
         "weather_code": 3,
-        "wind_speed_10m": 4.3,
-        "wind_direction_10m": 48
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Romania",
-      "country_code": "RO",
-      "city": "Cluj-Napoca",
-      "latitude": 46.7712,
-      "longitude": 23.6236,
-      "timestamp": "2026-05-19T17:43:07.875126",
-      "current": {
-        "time": "2026-05-19T20:30",
-        "interval": 900,
-        "temperature_2m": 17.4,
-        "relative_humidity_2m": 59,
-        "apparent_temperature": 15.8,
-        "weather_code": 2,
-        "wind_speed_10m": 9.5,
-        "wind_direction_10m": 335
+        "wind_speed_10m": 1.8,
+        "wind_direction_10m": 349
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Brasov",
       "latitude": 45.6427,
       "longitude": 25.5887,
-      "timestamp": "2026-05-19T17:43:07.877343",
+      "timestamp": "2026-05-20T18:05:33.639646",
       "current": {
-        "time": "2026-05-19T20:30",
+        "time": "2026-05-20T21:00",
         "interval": 900,
-        "temperature_2m": 14.6,
-        "relative_humidity_2m": 84,
-        "apparent_temperature": 15.0,
-        "weather_code": 3,
-        "wind_speed_10m": 1.5,
-        "wind_direction_10m": 284
+        "temperature_2m": 14.8,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 14.4,
+        "weather_code": 80,
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 264
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Cluj-Napoca",
+      "latitude": 46.7712,
+      "longitude": 23.6236,
+      "timestamp": "2026-05-20T18:05:33.645491",
+      "current": {
+        "time": "2026-05-20T21:00",
+        "interval": 900,
+        "temperature_2m": 19.3,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 17.3,
+        "weather_code": 2,
+        "wind_speed_10m": 11.1,
+        "wind_direction_10m": 324
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Timisoara",
       "latitude": 45.7537,
       "longitude": 21.2251,
-      "timestamp": "2026-05-19T17:43:07.894051",
+      "timestamp": "2026-05-20T18:05:33.649151",
       "current": {
-        "time": "2026-05-19T20:30",
+        "time": "2026-05-20T21:00",
         "interval": 900,
-        "temperature_2m": 20.3,
-        "relative_humidity_2m": 47,
-        "apparent_temperature": 18.8,
-        "weather_code": 3,
-        "wind_speed_10m": 7.2,
-        "wind_direction_10m": 354
+        "temperature_2m": 22.0,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 20.2,
+        "weather_code": 0,
+        "wind_speed_10m": 10.8,
+        "wind_direction_10m": 331
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Sibiu",
       "latitude": 45.7928,
       "longitude": 24.1433,
-      "timestamp": "2026-05-19T17:43:07.908596",
+      "timestamp": "2026-05-20T18:05:33.651266",
       "current": {
-        "time": "2026-05-19T20:30",
+        "time": "2026-05-20T21:00",
         "interval": 900,
-        "temperature_2m": 16.0,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 15.6,
-        "weather_code": 3,
-        "wind_speed_10m": 3.5,
-        "wind_direction_10m": 294
+        "temperature_2m": 17.3,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 16.8,
+        "weather_code": 2,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 297
       },
       "history_24h": null
     }
