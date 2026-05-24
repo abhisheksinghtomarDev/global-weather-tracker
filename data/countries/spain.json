@@ -1,20 +1,39 @@
 {
   "country": "Spain",
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "cities": [
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Barcelona",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "timestamp": "2026-05-24T12:13:19.698118",
+      "current": {
+        "time": "2026-05-24T14:00",
+        "interval": 900,
+        "temperature_2m": 27.2,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 29.3,
+        "weather_code": 0,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 145
+      },
+      "history_24h": null
+    },
     {
       "country": "Spain",
       "country_code": "ES",
       "city": "Madrid",
       "latitude": 40.4168,
       "longitude": -3.7038,
-      "timestamp": "2026-05-23T12:08:23.024179",
+      "timestamp": "2026-05-24T12:13:19.699311",
       "current": {
-        "time": "2026-05-23T14:00",
+        "time": "2026-05-24T14:00",
         "interval": 900,
         "temperature_2m": 29.1,
-        "relative_humidity_2m": 19,
-        "apparent_temperature": 29.0,
+        "relative_humidity_2m": 18,
+        "apparent_temperature": 28.7,
         "weather_code": 0,
         "wind_speed_10m": 8.2,
         "wind_direction_10m": 105
@@ -27,35 +46,16 @@
       "city": "Valencia",
       "latitude": 39.4699,
       "longitude": -0.3763,
-      "timestamp": "2026-05-23T12:08:23.026719",
+      "timestamp": "2026-05-24T12:13:19.701481",
       "current": {
-        "time": "2026-05-23T14:00",
+        "time": "2026-05-24T14:00",
         "interval": 900,
-        "temperature_2m": 28.6,
-        "relative_humidity_2m": 30,
-        "apparent_temperature": 29.1,
+        "temperature_2m": 28.2,
+        "relative_humidity_2m": 35,
+        "apparent_temperature": 29.4,
         "weather_code": 1,
-        "wind_speed_10m": 11.8,
-        "wind_direction_10m": 121
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Spain",
-      "country_code": "ES",
-      "city": "Barcelona",
-      "latitude": 41.3851,
-      "longitude": 2.1734,
-      "timestamp": "2026-05-23T12:08:23.028615",
-      "current": {
-        "time": "2026-05-23T14:00",
-        "interval": 900,
-        "temperature_2m": 25.1,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 27.7,
-        "weather_code": 0,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 150
+        "wind_speed_10m": 11.0,
+        "wind_direction_10m": 109
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Seville",
       "latitude": 37.3891,
       "longitude": -5.9845,
-      "timestamp": "2026-05-23T12:08:23.029859",
+      "timestamp": "2026-05-24T12:13:19.728117",
       "current": {
-        "time": "2026-05-23T14:00",
+        "time": "2026-05-24T14:00",
         "interval": 900,
-        "temperature_2m": 33.4,
-        "relative_humidity_2m": 17,
-        "apparent_temperature": 34.7,
-        "weather_code": 1,
-        "wind_speed_10m": 1.8,
-        "wind_direction_10m": 180
+        "temperature_2m": 31.6,
+        "relative_humidity_2m": 19,
+        "apparent_temperature": 29.9,
+        "weather_code": 3,
+        "wind_speed_10m": 6.8,
+        "wind_direction_10m": 245
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Bilbao",
       "latitude": 43.263,
       "longitude": -2.935,
-      "timestamp": "2026-05-23T12:08:23.031588",
+      "timestamp": "2026-05-24T12:13:19.749210",
       "current": {
-        "time": "2026-05-23T14:00",
+        "time": "2026-05-24T14:00",
         "interval": 900,
-        "temperature_2m": 27.3,
-        "relative_humidity_2m": 46,
-        "apparent_temperature": 28.2,
-        "weather_code": 3,
-        "wind_speed_10m": 7.5,
-        "wind_direction_10m": 343
+        "temperature_2m": 30.4,
+        "relative_humidity_2m": 45,
+        "apparent_temperature": 31.8,
+        "weather_code": 0,
+        "wind_speed_10m": 8.7,
+        "wind_direction_10m": 336
       },
       "history_24h": null
     }
