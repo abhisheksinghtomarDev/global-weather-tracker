@@ -1,6 +1,6 @@
 {
   "country": "Switzerland",
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "cities": [
     {
       "country": "Switzerland",
@@ -8,16 +8,35 @@
       "city": "Zurich",
       "latitude": 47.3769,
       "longitude": 8.5417,
-      "timestamp": "2026-05-24T12:13:20.088151",
+      "timestamp": "2026-05-25T16:54:31.208205",
       "current": {
-        "time": "2026-05-24T14:00",
+        "time": "2026-05-25T18:45",
         "interval": 900,
-        "temperature_2m": 29.7,
-        "relative_humidity_2m": 29,
-        "apparent_temperature": 29.5,
+        "temperature_2m": 30.8,
+        "relative_humidity_2m": 21,
+        "apparent_temperature": 28.9,
         "weather_code": 0,
-        "wind_speed_10m": 13.5,
-        "wind_direction_10m": 56
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 52
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Interlaken",
+      "latitude": 46.6863,
+      "longitude": 7.8632,
+      "timestamp": "2026-05-25T16:54:31.220230",
+      "current": {
+        "time": "2026-05-25T18:45",
+        "interval": 900,
+        "temperature_2m": 29.3,
+        "relative_humidity_2m": 32,
+        "apparent_temperature": 28.3,
+        "weather_code": 1,
+        "wind_speed_10m": 8.1,
+        "wind_direction_10m": 45
       },
       "history_24h": null
     },
@@ -27,15 +46,15 @@
       "city": "Bern",
       "latitude": 46.948,
       "longitude": 7.4474,
-      "timestamp": "2026-05-24T12:13:20.089481",
+      "timestamp": "2026-05-25T16:54:31.222255",
       "current": {
-        "time": "2026-05-24T14:00",
+        "time": "2026-05-25T18:45",
         "interval": 900,
-        "temperature_2m": 27.9,
-        "relative_humidity_2m": 32,
-        "apparent_temperature": 27.8,
+        "temperature_2m": 28.7,
+        "relative_humidity_2m": 28,
+        "apparent_temperature": 27.0,
         "weather_code": 0,
-        "wind_speed_10m": 13.1,
+        "wind_speed_10m": 9.0,
         "wind_direction_10m": 53
       },
       "history_24h": null
@@ -46,35 +65,16 @@
       "city": "Geneva",
       "latitude": 46.2044,
       "longitude": 6.1432,
-      "timestamp": "2026-05-24T12:13:20.090616",
+      "timestamp": "2026-05-25T16:54:31.223799",
       "current": {
-        "time": "2026-05-24T14:00",
+        "time": "2026-05-25T18:45",
         "interval": 900,
-        "temperature_2m": 27.1,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 29.2,
-        "weather_code": 0,
-        "wind_speed_10m": 7.6,
-        "wind_direction_10m": 31
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Switzerland",
-      "country_code": "CH",
-      "city": "Interlaken",
-      "latitude": 46.6863,
-      "longitude": 7.8632,
-      "timestamp": "2026-05-24T12:13:20.092757",
-      "current": {
-        "time": "2026-05-24T14:00",
-        "interval": 900,
-        "temperature_2m": 27.5,
+        "temperature_2m": 29.3,
         "relative_humidity_2m": 36,
-        "apparent_temperature": 28.7,
-        "weather_code": 0,
-        "wind_speed_10m": 8.3,
-        "wind_direction_10m": 275
+        "apparent_temperature": 29.0,
+        "weather_code": 1,
+        "wind_speed_10m": 7.4,
+        "wind_direction_10m": 346
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Lucerne",
       "latitude": 47.0502,
       "longitude": 8.3093,
-      "timestamp": "2026-05-24T12:13:20.094025",
+      "timestamp": "2026-05-25T16:54:31.225204",
       "current": {
-        "time": "2026-05-24T14:00",
+        "time": "2026-05-25T18:45",
         "interval": 900,
-        "temperature_2m": 27.6,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 30.6,
+        "temperature_2m": 30.0,
+        "relative_humidity_2m": 25,
+        "apparent_temperature": 28.2,
         "weather_code": 0,
-        "wind_speed_10m": 4.2,
-        "wind_direction_10m": 20
+        "wind_speed_10m": 8.0,
+        "wind_direction_10m": 36
       },
       "history_24h": null
     }

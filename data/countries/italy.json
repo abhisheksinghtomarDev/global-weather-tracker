@@ -1,6 +1,6 @@
 {
   "country": "Italy",
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "cities": [
     {
       "country": "Italy",
@@ -8,35 +8,16 @@
       "city": "Rome",
       "latitude": 41.9028,
       "longitude": 12.4964,
-      "timestamp": "2026-05-24T12:13:19.688351",
+      "timestamp": "2026-05-25T16:54:30.573470",
       "current": {
-        "time": "2026-05-24T14:00",
+        "time": "2026-05-25T18:45",
         "interval": 900,
-        "temperature_2m": 30.2,
-        "relative_humidity_2m": 26,
-        "apparent_temperature": 31.2,
-        "weather_code": 0,
-        "wind_speed_10m": 5.7,
-        "wind_direction_10m": 325
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Milan",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "timestamp": "2026-05-24T12:13:19.690018",
-      "current": {
-        "time": "2026-05-24T14:00",
-        "interval": 900,
-        "temperature_2m": 29.9,
-        "relative_humidity_2m": 34,
-        "apparent_temperature": 32.0,
-        "weather_code": 0,
-        "wind_speed_10m": 5.2,
-        "wind_direction_10m": 168
+        "temperature_2m": 27.1,
+        "relative_humidity_2m": 36,
+        "apparent_temperature": 25.5,
+        "weather_code": 1,
+        "wind_speed_10m": 12.6,
+        "wind_direction_10m": 257
       },
       "history_24h": null
     },
@@ -46,16 +27,16 @@
       "city": "Naples",
       "latitude": 40.8518,
       "longitude": 14.2681,
-      "timestamp": "2026-05-24T12:13:19.693303",
+      "timestamp": "2026-05-25T16:54:30.577780",
       "current": {
-        "time": "2026-05-24T14:00",
+        "time": "2026-05-25T18:45",
         "interval": 900,
-        "temperature_2m": 29.9,
-        "relative_humidity_2m": 28,
-        "apparent_temperature": 29.5,
-        "weather_code": 2,
-        "wind_speed_10m": 11.0,
-        "wind_direction_10m": 38
+        "temperature_2m": 29.0,
+        "relative_humidity_2m": 25,
+        "apparent_temperature": 26.2,
+        "weather_code": 0,
+        "wind_speed_10m": 14.3,
+        "wind_direction_10m": 49
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Florence",
       "latitude": 43.7696,
       "longitude": 11.2558,
-      "timestamp": "2026-05-24T12:13:19.696351",
+      "timestamp": "2026-05-25T16:54:30.579295",
       "current": {
-        "time": "2026-05-24T14:00",
+        "time": "2026-05-25T18:45",
         "interval": 900,
-        "temperature_2m": 29.9,
-        "relative_humidity_2m": 32,
-        "apparent_temperature": 29.3,
+        "temperature_2m": 30.8,
+        "relative_humidity_2m": 30,
+        "apparent_temperature": 29.5,
         "weather_code": 0,
-        "wind_speed_10m": 19.0,
-        "wind_direction_10m": 53
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 75
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Milan",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "timestamp": "2026-05-25T16:54:30.580702",
+      "current": {
+        "time": "2026-05-25T18:45",
+        "interval": 900,
+        "temperature_2m": 31.8,
+        "relative_humidity_2m": 30,
+        "apparent_temperature": 31.0,
+        "weather_code": 0,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 173
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Venice",
       "latitude": 45.4408,
       "longitude": 12.3155,
-      "timestamp": "2026-05-24T12:13:19.699159",
+      "timestamp": "2026-05-25T16:54:30.582218",
       "current": {
-        "time": "2026-05-24T14:00",
+        "time": "2026-05-25T18:45",
         "interval": 900,
-        "temperature_2m": 27.0,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 28.7,
+        "temperature_2m": 25.9,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 27.3,
         "weather_code": 0,
-        "wind_speed_10m": 9.7,
-        "wind_direction_10m": 178
+        "wind_speed_10m": 12.1,
+        "wind_direction_10m": 157
       },
       "history_24h": null
     }

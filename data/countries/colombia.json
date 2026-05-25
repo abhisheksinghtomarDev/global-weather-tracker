@@ -1,6 +1,6 @@
 {
   "country": "Colombia",
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "cities": [
     {
       "country": "Colombia",
@@ -8,16 +8,16 @@
       "city": "Bogota",
       "latitude": 4.711,
       "longitude": -74.0721,
-      "timestamp": "2026-05-24T12:13:20.241474",
+      "timestamp": "2026-05-25T16:54:31.488188",
       "current": {
-        "time": "2026-05-24T07:00",
+        "time": "2026-05-25T11:45",
         "interval": 900,
-        "temperature_2m": 12.4,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 12.5,
-        "weather_code": 3,
-        "wind_speed_10m": 1.1,
-        "wind_direction_10m": 72
+        "temperature_2m": 19.3,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 19.6,
+        "weather_code": 53,
+        "wind_speed_10m": 12.0,
+        "wind_direction_10m": 144
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Medellin",
       "latitude": 6.2442,
       "longitude": -75.5812,
-      "timestamp": "2026-05-24T12:13:20.247398",
+      "timestamp": "2026-05-25T16:54:31.496387",
       "current": {
-        "time": "2026-05-24T07:00",
-        "interval": 900,
-        "temperature_2m": 19.6,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 22.8,
-        "weather_code": 3,
-        "wind_speed_10m": 2.0,
-        "wind_direction_10m": 95
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Colombia",
-      "country_code": "CO",
-      "city": "Cartagena",
-      "latitude": 10.391,
-      "longitude": -75.4794,
-      "timestamp": "2026-05-24T12:13:20.262033",
-      "current": {
-        "time": "2026-05-24T07:00",
-        "interval": 900,
-        "temperature_2m": 28.3,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 33.6,
-        "weather_code": 3,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 135
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Colombia",
-      "country_code": "CO",
-      "city": "Barranquilla",
-      "latitude": 10.9685,
-      "longitude": -74.7813,
-      "timestamp": "2026-05-24T12:13:20.264548",
-      "current": {
-        "time": "2026-05-24T07:00",
+        "time": "2026-05-25T11:45",
         "interval": 900,
         "temperature_2m": 28.5,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 34.2,
-        "weather_code": 3,
-        "wind_speed_10m": 7.1,
-        "wind_direction_10m": 124
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 31.0,
+        "weather_code": 51,
+        "wind_speed_10m": 2.5,
+        "wind_direction_10m": 82
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Cali",
       "latitude": 3.4516,
       "longitude": -76.532,
-      "timestamp": "2026-05-24T12:13:20.265399",
+      "timestamp": "2026-05-25T16:54:31.500111",
       "current": {
-        "time": "2026-05-24T07:00",
+        "time": "2026-05-25T11:45",
         "interval": 900,
-        "temperature_2m": 21.2,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 23.0,
+        "temperature_2m": 26.7,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 31.3,
         "weather_code": 3,
-        "wind_speed_10m": 3.2,
-        "wind_direction_10m": 223
+        "wind_speed_10m": 0.2,
+        "wind_direction_10m": 180
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Colombia",
+      "country_code": "CO",
+      "city": "Barranquilla",
+      "latitude": 10.9685,
+      "longitude": -74.7813,
+      "timestamp": "2026-05-25T16:54:31.501450",
+      "current": {
+        "time": "2026-05-25T11:45",
+        "interval": 900,
+        "temperature_2m": 33.5,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 40.1,
+        "weather_code": 3,
+        "wind_speed_10m": 10.5,
+        "wind_direction_10m": 24
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Colombia",
+      "country_code": "CO",
+      "city": "Cartagena",
+      "latitude": 10.391,
+      "longitude": -75.4794,
+      "timestamp": "2026-05-25T16:54:31.503500",
+      "current": {
+        "time": "2026-05-25T11:45",
+        "interval": 900,
+        "temperature_2m": 35.4,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 41.7,
+        "weather_code": 3,
+        "wind_speed_10m": 11.1,
+        "wind_direction_10m": 348
       },
       "history_24h": null
     }
