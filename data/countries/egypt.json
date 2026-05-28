@@ -1,6 +1,6 @@
 {
   "country": "Egypt",
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "cities": [
     {
       "country": "Egypt",
@@ -8,16 +8,16 @@
       "city": "Cairo",
       "latitude": 30.0444,
       "longitude": 31.2357,
-      "timestamp": "2026-05-27T18:14:24.521697",
+      "timestamp": "2026-05-28T18:42:51.051229",
       "current": {
-        "time": "2026-05-27T21:00",
+        "time": "2026-05-28T21:30",
         "interval": 900,
-        "temperature_2m": 26.4,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 26.3,
+        "temperature_2m": 27.6,
+        "relative_humidity_2m": 30,
+        "apparent_temperature": 25.5,
         "weather_code": 2,
-        "wind_speed_10m": 14.6,
-        "wind_direction_10m": 344
+        "wind_speed_10m": 12.0,
+        "wind_direction_10m": 7
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Alexandria",
       "latitude": 31.2001,
       "longitude": 29.9187,
-      "timestamp": "2026-05-27T18:14:24.525696",
+      "timestamp": "2026-05-28T18:42:51.055147",
       "current": {
-        "time": "2026-05-27T21:00",
+        "time": "2026-05-28T21:30",
         "interval": 900,
-        "temperature_2m": 21.1,
+        "temperature_2m": 21.4,
         "relative_humidity_2m": 81,
-        "apparent_temperature": 22.8,
-        "weather_code": 1,
-        "wind_speed_10m": 7.5,
-        "wind_direction_10m": 325
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Egypt",
-      "country_code": "EG",
-      "city": "Luxor",
-      "latitude": 25.6872,
-      "longitude": 32.6396,
-      "timestamp": "2026-05-27T18:14:24.528483",
-      "current": {
-        "time": "2026-05-27T21:00",
-        "interval": 900,
-        "temperature_2m": 29.9,
-        "relative_humidity_2m": 22,
-        "apparent_temperature": 27.9,
+        "apparent_temperature": 23.3,
         "weather_code": 0,
-        "wind_speed_10m": 6.2,
-        "wind_direction_10m": 322
+        "wind_speed_10m": 6.7,
+        "wind_direction_10m": 324
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Sharm El Sheikh",
       "latitude": 27.9158,
       "longitude": 34.33,
-      "timestamp": "2026-05-27T18:14:24.529901",
+      "timestamp": "2026-05-28T18:42:51.057972",
       "current": {
-        "time": "2026-05-27T21:00",
+        "time": "2026-05-28T21:30",
         "interval": 900,
-        "temperature_2m": 30.3,
-        "relative_humidity_2m": 36,
-        "apparent_temperature": 30.5,
-        "weather_code": 0,
-        "wind_speed_10m": 6.3,
-        "wind_direction_10m": 24
+        "temperature_2m": 29.5,
+        "relative_humidity_2m": 28,
+        "apparent_temperature": 28.4,
+        "weather_code": 1,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 132
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Aswan",
       "latitude": 24.0889,
       "longitude": 32.8998,
-      "timestamp": "2026-05-27T18:14:24.531226",
+      "timestamp": "2026-05-28T18:42:51.059900",
       "current": {
-        "time": "2026-05-27T21:00",
+        "time": "2026-05-28T21:30",
         "interval": 900,
         "temperature_2m": 31.2,
-        "relative_humidity_2m": 19,
-        "apparent_temperature": 27.2,
+        "relative_humidity_2m": 17,
+        "apparent_temperature": 27.0,
         "weather_code": 0,
-        "wind_speed_10m": 19.2,
-        "wind_direction_10m": 341
+        "wind_speed_10m": 18.4,
+        "wind_direction_10m": 339
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Luxor",
+      "latitude": 25.6872,
+      "longitude": 32.6396,
+      "timestamp": "2026-05-28T18:42:51.061912",
+      "current": {
+        "time": "2026-05-28T21:30",
+        "interval": 900,
+        "temperature_2m": 30.0,
+        "relative_humidity_2m": 20,
+        "apparent_temperature": 27.9,
+        "weather_code": 0,
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 324
       },
       "history_24h": null
     }
