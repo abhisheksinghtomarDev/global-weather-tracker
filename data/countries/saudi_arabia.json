@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "cities": [
     {
       "country": "Saudi Arabia",
@@ -8,35 +8,16 @@
       "city": "Riyadh",
       "latitude": 24.7136,
       "longitude": 46.6753,
-      "timestamp": "2026-05-29T18:41:02.383860",
+      "timestamp": "2026-05-30T12:49:38.519351",
       "current": {
-        "time": "2026-05-29T21:30",
+        "time": "2026-05-30T15:45",
         "interval": 900,
-        "temperature_2m": 38.3,
+        "temperature_2m": 41.7,
         "relative_humidity_2m": 7,
-        "apparent_temperature": 35.0,
+        "apparent_temperature": 39.1,
         "weather_code": 0,
-        "wind_speed_10m": 5.5,
-        "wind_direction_10m": 226
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Saudi Arabia",
-      "country_code": "SA",
-      "city": "Jeddah",
-      "latitude": 21.4858,
-      "longitude": 39.1925,
-      "timestamp": "2026-05-29T18:41:02.388188",
-      "current": {
-        "time": "2026-05-29T21:30",
-        "interval": 900,
-        "temperature_2m": 29.0,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 30.0,
-        "weather_code": 0,
-        "wind_speed_10m": 16.5,
-        "wind_direction_10m": 354
+        "wind_speed_10m": 2.8,
+        "wind_direction_10m": 320
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Mecca",
       "latitude": 21.3891,
       "longitude": 39.8579,
-      "timestamp": "2026-05-29T18:41:02.389491",
+      "timestamp": "2026-05-30T12:49:38.522180",
       "current": {
-        "time": "2026-05-29T21:30",
+        "time": "2026-05-30T15:45",
         "interval": 900,
-        "temperature_2m": 30.0,
-        "relative_humidity_2m": 35,
-        "apparent_temperature": 29.0,
+        "temperature_2m": 38.1,
+        "relative_humidity_2m": 16,
+        "apparent_temperature": 35.0,
         "weather_code": 0,
-        "wind_speed_10m": 12.9,
-        "wind_direction_10m": 353
+        "wind_speed_10m": 19.2,
+        "wind_direction_10m": 312
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Jeddah",
+      "latitude": 21.4858,
+      "longitude": 39.1925,
+      "timestamp": "2026-05-30T12:49:38.523483",
+      "current": {
+        "time": "2026-05-30T15:45",
+        "interval": 900,
+        "temperature_2m": 31.8,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 33.1,
+        "weather_code": 0,
+        "wind_speed_10m": 21.2,
+        "wind_direction_10m": 325
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Dammam",
       "latitude": 26.4207,
       "longitude": 50.0888,
-      "timestamp": "2026-05-29T18:41:02.394924",
+      "timestamp": "2026-05-30T12:49:38.593575",
       "current": {
-        "time": "2026-05-29T21:30",
+        "time": "2026-05-30T15:45",
         "interval": 900,
-        "temperature_2m": 37.0,
-        "relative_humidity_2m": 24,
-        "apparent_temperature": 37.2,
+        "temperature_2m": 34.4,
+        "relative_humidity_2m": 32,
+        "apparent_temperature": 33.8,
         "weather_code": 0,
-        "wind_speed_10m": 5.1,
-        "wind_direction_10m": 113
+        "wind_speed_10m": 16.1,
+        "wind_direction_10m": 356
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Medina",
       "latitude": 24.5247,
       "longitude": 39.5692,
-      "timestamp": "2026-05-29T18:41:02.398351",
+      "timestamp": "2026-05-30T12:49:38.601898",
       "current": {
-        "time": "2026-05-29T21:30",
+        "time": "2026-05-30T15:45",
         "interval": 900,
-        "temperature_2m": 35.2,
-        "relative_humidity_2m": 14,
-        "apparent_temperature": 31.3,
+        "temperature_2m": 42.0,
+        "relative_humidity_2m": 8,
+        "apparent_temperature": 37.3,
         "weather_code": 0,
-        "wind_speed_10m": 16.5,
-        "wind_direction_10m": 299
+        "wind_speed_10m": 21.5,
+        "wind_direction_10m": 230
       },
       "history_24h": null
     }

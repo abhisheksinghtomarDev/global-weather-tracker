@@ -1,137 +1,23 @@
 {
   "country": "India",
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "cities": [
-    {
-      "country": "India",
-      "country_code": "IN",
-      "city": "Chennai",
-      "latitude": 13.0827,
-      "longitude": 80.2707,
-      "timestamp": "2026-05-29T18:41:01.534496",
-      "current": {
-        "time": "2026-05-30T00:00",
-        "interval": 900,
-        "temperature_2m": 30.5,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 36.3,
-        "weather_code": 95,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 206
-      },
-      "history_24h": null
-    },
-    {
-      "country": "India",
-      "country_code": "IN",
-      "city": "Delhi",
-      "latitude": 28.7041,
-      "longitude": 77.1025,
-      "timestamp": "2026-05-29T18:41:01.538885",
-      "current": {
-        "time": "2026-05-30T00:00",
-        "interval": 900,
-        "temperature_2m": 28.8,
-        "relative_humidity_2m": 59,
-        "apparent_temperature": 31.5,
-        "weather_code": 0,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 124
-      },
-      "history_24h": null
-    },
     {
       "country": "India",
       "country_code": "IN",
       "city": "Kolkata",
       "latitude": 22.5726,
       "longitude": 88.3639,
-      "timestamp": "2026-05-29T18:41:01.552064",
+      "timestamp": "2026-05-30T12:49:37.618892",
       "current": {
-        "time": "2026-05-30T00:00",
+        "time": "2026-05-30T18:15",
         "interval": 900,
-        "temperature_2m": 26.3,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 32.8,
+        "temperature_2m": 27.5,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 33.6,
         "weather_code": 0,
-        "wind_speed_10m": 1.2,
-        "wind_direction_10m": 297
-      },
-      "history_24h": null
-    },
-    {
-      "country": "India",
-      "country_code": "IN",
-      "city": "Hyderabad",
-      "latitude": 17.385,
-      "longitude": 78.4867,
-      "timestamp": "2026-05-29T18:41:01.608872",
-      "current": {
-        "time": "2026-05-30T00:00",
-        "interval": 900,
-        "temperature_2m": 30.0,
-        "relative_humidity_2m": 58,
-        "apparent_temperature": 33.3,
-        "weather_code": 0,
-        "wind_speed_10m": 7.6,
-        "wind_direction_10m": 243
-      },
-      "history_24h": null
-    },
-    {
-      "country": "India",
-      "country_code": "IN",
-      "city": "Jaipur",
-      "latitude": 26.9124,
-      "longitude": 75.7873,
-      "timestamp": "2026-05-29T18:41:01.642731",
-      "current": {
-        "time": "2026-05-30T00:00",
-        "interval": 900,
-        "temperature_2m": 27.0,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 29.5,
-        "weather_code": 0,
-        "wind_speed_10m": 12.5,
-        "wind_direction_10m": 106
-      },
-      "history_24h": null
-    },
-    {
-      "country": "India",
-      "country_code": "IN",
-      "city": "Ahmedabad",
-      "latitude": 23.0225,
-      "longitude": 72.5714,
-      "timestamp": "2026-05-29T18:41:01.672299",
-      "current": {
-        "time": "2026-05-30T00:00",
-        "interval": 900,
-        "temperature_2m": 32.8,
-        "relative_humidity_2m": 58,
-        "apparent_temperature": 37.1,
-        "weather_code": 0,
-        "wind_speed_10m": 9.9,
-        "wind_direction_10m": 275
-      },
-      "history_24h": null
-    },
-    {
-      "country": "India",
-      "country_code": "IN",
-      "city": "Bangalore",
-      "latitude": 12.9716,
-      "longitude": 77.5946,
-      "timestamp": "2026-05-29T18:41:02.683830",
-      "current": {
-        "time": "2026-05-30T00:00",
-        "interval": 900,
-        "temperature_2m": 21.5,
-        "relative_humidity_2m": 96,
-        "apparent_temperature": 24.5,
-        "weather_code": 1,
-        "wind_speed_10m": 9.5,
-        "wind_direction_10m": 233
+        "wind_speed_10m": 3.5,
+        "wind_direction_10m": 152
       },
       "history_24h": null
     },
@@ -141,16 +27,130 @@
       "city": "Mumbai",
       "latitude": 19.076,
       "longitude": 72.8777,
-      "timestamp": "2026-05-29T18:41:02.687857",
+      "timestamp": "2026-05-30T12:49:37.625846",
       "current": {
-        "time": "2026-05-30T00:00",
+        "time": "2026-05-30T18:15",
         "interval": 900,
-        "temperature_2m": 30.5,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 34.7,
+        "temperature_2m": 32.1,
+        "relative_humidity_2m": 66,
+        "apparent_temperature": 36.8,
         "weather_code": 95,
-        "wind_speed_10m": 13.9,
-        "wind_direction_10m": 233
+        "wind_speed_10m": 13.8,
+        "wind_direction_10m": 246
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Bangalore",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timestamp": "2026-05-30T12:49:37.677280",
+      "current": {
+        "time": "2026-05-30T18:15",
+        "interval": 900,
+        "temperature_2m": 24.6,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 26.6,
+        "weather_code": 55,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 288
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Hyderabad",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "timestamp": "2026-05-30T12:49:37.758230",
+      "current": {
+        "time": "2026-05-30T18:15",
+        "interval": 900,
+        "temperature_2m": 35.3,
+        "relative_humidity_2m": 28,
+        "apparent_temperature": 35.4,
+        "weather_code": 0,
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 312
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Jaipur",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "timestamp": "2026-05-30T12:49:37.765944",
+      "current": {
+        "time": "2026-05-30T18:15",
+        "interval": 900,
+        "temperature_2m": 34.7,
+        "relative_humidity_2m": 27,
+        "apparent_temperature": 34.1,
+        "weather_code": 0,
+        "wind_speed_10m": 10.4,
+        "wind_direction_10m": 111
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Ahmedabad",
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "timestamp": "2026-05-30T12:49:37.771124",
+      "current": {
+        "time": "2026-05-30T18:15",
+        "interval": 900,
+        "temperature_2m": 37.2,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 40.3,
+        "weather_code": 95,
+        "wind_speed_10m": 15.3,
+        "wind_direction_10m": 188
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Chennai",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "timestamp": "2026-05-30T12:49:38.813649",
+      "current": {
+        "time": "2026-05-30T18:15",
+        "interval": 900,
+        "temperature_2m": 31.5,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 36.4,
+        "weather_code": 95,
+        "wind_speed_10m": 11.8,
+        "wind_direction_10m": 149
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Delhi",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "timestamp": "2026-05-30T12:49:38.816212",
+      "current": {
+        "time": "2026-05-30T18:15",
+        "interval": 900,
+        "temperature_2m": 26.0,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 29.9,
+        "weather_code": 3,
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 76
       },
       "history_24h": null
     }
