@@ -1,6 +1,6 @@
 {
   "country": "Austria",
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "cities": [
     {
       "country": "Austria",
@@ -8,35 +8,16 @@
       "city": "Vienna",
       "latitude": 48.2082,
       "longitude": 16.3738,
-      "timestamp": "2026-06-04T17:59:18.132267",
+      "timestamp": "2026-06-05T17:23:53.340116",
       "current": {
-        "time": "2026-06-04T19:45",
+        "time": "2026-06-05T19:15",
         "interval": 900,
-        "temperature_2m": 23.7,
-        "relative_humidity_2m": 42,
-        "apparent_temperature": 21.9,
+        "temperature_2m": 17.0,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 15.7,
         "weather_code": 2,
-        "wind_speed_10m": 12.8,
-        "wind_direction_10m": 140
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Austria",
-      "country_code": "AT",
-      "city": "Salzburg",
-      "latitude": 47.8095,
-      "longitude": 13.055,
-      "timestamp": "2026-06-04T17:59:18.133315",
-      "current": {
-        "time": "2026-06-04T19:45",
-        "interval": 900,
-        "temperature_2m": 22.9,
-        "relative_humidity_2m": 50,
-        "apparent_temperature": 22.6,
-        "weather_code": 3,
-        "wind_speed_10m": 5.9,
-        "wind_direction_10m": 349
+        "wind_speed_10m": 8.7,
+        "wind_direction_10m": 277
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Innsbruck",
       "latitude": 47.2692,
       "longitude": 11.4041,
-      "timestamp": "2026-06-04T17:59:18.158683",
+      "timestamp": "2026-06-05T17:23:53.341773",
       "current": {
-        "time": "2026-06-04T19:45",
+        "time": "2026-06-05T19:15",
         "interval": 900,
-        "temperature_2m": 21.2,
+        "temperature_2m": 17.7,
         "relative_humidity_2m": 52,
-        "apparent_temperature": 20.5,
+        "apparent_temperature": 15.9,
         "weather_code": 3,
-        "wind_speed_10m": 6.3,
-        "wind_direction_10m": 103
+        "wind_speed_10m": 8.1,
+        "wind_direction_10m": 45
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Salzburg",
+      "latitude": 47.8095,
+      "longitude": 13.055,
+      "timestamp": "2026-06-05T17:23:53.342630",
+      "current": {
+        "time": "2026-06-05T19:15",
+        "interval": 900,
+        "temperature_2m": 17.8,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 16.7,
+        "weather_code": 3,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 165
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Graz",
       "latitude": 47.0707,
       "longitude": 15.4395,
-      "timestamp": "2026-06-04T17:59:18.164354",
+      "timestamp": "2026-06-05T17:23:53.351160",
       "current": {
-        "time": "2026-06-04T19:45",
+        "time": "2026-06-05T19:15",
         "interval": 900,
-        "temperature_2m": 22.1,
-        "relative_humidity_2m": 49,
-        "apparent_temperature": 21.5,
+        "temperature_2m": 14.7,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 15.2,
         "weather_code": 3,
-        "wind_speed_10m": 5.9,
-        "wind_direction_10m": 104
+        "wind_speed_10m": 2.6,
+        "wind_direction_10m": 236
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Hallstatt",
       "latitude": 47.5622,
       "longitude": 13.6493,
-      "timestamp": "2026-06-04T17:59:18.166001",
+      "timestamp": "2026-06-05T17:23:53.356649",
       "current": {
-        "time": "2026-06-04T19:45",
+        "time": "2026-06-05T19:15",
         "interval": 900,
-        "temperature_2m": 22.8,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 23.4,
+        "temperature_2m": 16.3,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 15.9,
         "weather_code": 3,
-        "wind_speed_10m": 3.6,
-        "wind_direction_10m": 315
+        "wind_speed_10m": 1.9,
+        "wind_direction_10m": 202
       },
       "history_24h": null
     }
