@@ -1,61 +1,23 @@
 {
   "country": "Russia",
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "cities": [
-    {
-      "country": "Russia",
-      "country_code": "RU",
-      "city": "Moscow",
-      "latitude": 55.7558,
-      "longitude": 37.6173,
-      "timestamp": "2026-06-08T18:14:26.643691",
-      "current": {
-        "time": "2026-06-08T21:00",
-        "interval": 900,
-        "temperature_2m": 21.1,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 22.4,
-        "weather_code": 3,
-        "wind_speed_10m": 2.3,
-        "wind_direction_10m": 39
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Russia",
-      "country_code": "RU",
-      "city": "Saint Petersburg",
-      "latitude": 59.9311,
-      "longitude": 30.3609,
-      "timestamp": "2026-06-08T18:14:26.658661",
-      "current": {
-        "time": "2026-06-08T21:00",
-        "interval": 900,
-        "temperature_2m": 21.0,
-        "relative_humidity_2m": 42,
-        "apparent_temperature": 19.3,
-        "weather_code": 3,
-        "wind_speed_10m": 7.2,
-        "wind_direction_10m": 313
-      },
-      "history_24h": null
-    },
     {
       "country": "Russia",
       "country_code": "RU",
       "city": "Novosibirsk",
       "latitude": 55.0084,
       "longitude": 82.9357,
-      "timestamp": "2026-06-08T18:14:26.670789",
+      "timestamp": "2026-06-09T17:28:51.609921",
       "current": {
-        "time": "2026-06-09T01:00",
+        "time": "2026-06-10T00:15",
         "interval": 900,
-        "temperature_2m": 21.1,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 21.8,
+        "temperature_2m": 22.3,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 22.0,
         "weather_code": 0,
-        "wind_speed_10m": 8.0,
-        "wind_direction_10m": 354
+        "wind_speed_10m": 7.4,
+        "wind_direction_10m": 67
       },
       "history_24h": null
     },
@@ -65,16 +27,16 @@
       "city": "Vladivostok",
       "latitude": 43.1332,
       "longitude": 131.9113,
-      "timestamp": "2026-06-08T18:14:26.672254",
+      "timestamp": "2026-06-09T17:28:51.619863",
       "current": {
-        "time": "2026-06-09T04:00",
+        "time": "2026-06-10T03:15",
         "interval": 900,
-        "temperature_2m": 9.9,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": 8.6,
-        "weather_code": 1,
-        "wind_speed_10m": 6.9,
-        "wind_direction_10m": 197
+        "temperature_2m": 11.3,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 10.5,
+        "weather_code": 0,
+        "wind_speed_10m": 6.0,
+        "wind_direction_10m": 100
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Yekaterinburg",
       "latitude": 56.8389,
       "longitude": 60.6057,
-      "timestamp": "2026-06-08T18:14:26.673528",
+      "timestamp": "2026-06-09T17:28:51.622558",
       "current": {
-        "time": "2026-06-08T23:00",
+        "time": "2026-06-09T22:15",
         "interval": 900,
-        "temperature_2m": 16.2,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 16.5,
-        "weather_code": 3,
-        "wind_speed_10m": 4.6,
-        "wind_direction_10m": 162
+        "temperature_2m": 15.6,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 15.4,
+        "weather_code": 80,
+        "wind_speed_10m": 10.4,
+        "wind_direction_10m": 346
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Saint Petersburg",
+      "latitude": 59.9311,
+      "longitude": 30.3609,
+      "timestamp": "2026-06-09T17:28:52.973499",
+      "current": {
+        "time": "2026-06-09T20:15",
+        "interval": 900,
+        "temperature_2m": 20.8,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 19.8,
+        "weather_code": 1,
+        "wind_speed_10m": 14.8,
+        "wind_direction_10m": 217
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Moscow",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "timestamp": "2026-06-09T17:28:52.987976",
+      "current": {
+        "time": "2026-06-09T20:15",
+        "interval": 900,
+        "temperature_2m": 24.8,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 25.7,
+        "weather_code": 0,
+        "wind_speed_10m": 2.6,
+        "wind_direction_10m": 304
       },
       "history_24h": null
     }
