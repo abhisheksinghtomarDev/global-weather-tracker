@@ -1,22 +1,41 @@
 {
   "country": "Portugal",
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "cities": [
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Algarve",
+      "latitude": 37.0194,
+      "longitude": -7.9322,
+      "timestamp": "2026-06-10T18:39:06.714141",
+      "current": {
+        "time": "2026-06-10T19:30",
+        "interval": 900,
+        "temperature_2m": 23.8,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 24.7,
+        "weather_code": 0,
+        "wind_speed_10m": 6.7,
+        "wind_direction_10m": 234
+      },
+      "history_24h": null
+    },
     {
       "country": "Portugal",
       "country_code": "PT",
       "city": "Lisbon",
       "latitude": 38.7223,
       "longitude": -9.1393,
-      "timestamp": "2026-06-09T17:28:52.645860",
+      "timestamp": "2026-06-10T18:39:06.715701",
       "current": {
-        "time": "2026-06-09T18:15",
+        "time": "2026-06-10T19:30",
         "interval": 900,
-        "temperature_2m": 20.7,
-        "relative_humidity_2m": 46,
-        "apparent_temperature": 16.9,
+        "temperature_2m": 22.4,
+        "relative_humidity_2m": 43,
+        "apparent_temperature": 19.4,
         "weather_code": 0,
-        "wind_speed_10m": 23.8,
+        "wind_speed_10m": 19.7,
         "wind_direction_10m": 345
       },
       "history_24h": null
@@ -27,15 +46,15 @@
       "city": "Porto",
       "latitude": 41.1579,
       "longitude": -8.6291,
-      "timestamp": "2026-06-09T17:28:52.662509",
+      "timestamp": "2026-06-10T18:39:06.717212",
       "current": {
-        "time": "2026-06-09T18:15",
+        "time": "2026-06-10T19:30",
         "interval": 900,
-        "temperature_2m": 18.4,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 15.8,
+        "temperature_2m": 20.7,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 19.6,
         "weather_code": 0,
-        "wind_speed_10m": 20.2,
+        "wind_speed_10m": 13.4,
         "wind_direction_10m": 329
       },
       "history_24h": null
@@ -46,35 +65,16 @@
       "city": "Coimbra",
       "latitude": 40.2033,
       "longitude": -8.4103,
-      "timestamp": "2026-06-09T17:28:52.693348",
+      "timestamp": "2026-06-10T18:39:06.718709",
       "current": {
-        "time": "2026-06-09T18:15",
+        "time": "2026-06-10T19:30",
         "interval": 900,
-        "temperature_2m": 20.7,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 18.3,
+        "temperature_2m": 23.7,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 22.9,
         "weather_code": 0,
-        "wind_speed_10m": 18.6,
-        "wind_direction_10m": 324
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Portugal",
-      "country_code": "PT",
-      "city": "Algarve",
-      "latitude": 37.0194,
-      "longitude": -7.9322,
-      "timestamp": "2026-06-09T17:28:52.697087",
-      "current": {
-        "time": "2026-06-09T18:15",
-        "interval": 900,
-        "temperature_2m": 28.7,
-        "relative_humidity_2m": 46,
-        "apparent_temperature": 30.1,
-        "weather_code": 0,
-        "wind_speed_10m": 4.3,
-        "wind_direction_10m": 246
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 327
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Sintra",
       "latitude": 38.7976,
       "longitude": -9.3908,
-      "timestamp": "2026-06-09T17:28:52.701476",
+      "timestamp": "2026-06-10T18:39:06.721199",
       "current": {
-        "time": "2026-06-09T18:15",
+        "time": "2026-06-10T19:30",
         "interval": 900,
-        "temperature_2m": 17.2,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 13.1,
+        "temperature_2m": 18.8,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 15.9,
         "weather_code": 0,
-        "wind_speed_10m": 27.7,
-        "wind_direction_10m": 347
+        "wind_speed_10m": 20.9,
+        "wind_direction_10m": 349
       },
       "history_24h": null
     }

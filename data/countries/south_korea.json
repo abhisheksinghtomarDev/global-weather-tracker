@@ -1,61 +1,42 @@
 {
   "country": "South Korea",
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "cities": [
-    {
-      "country": "South Korea",
-      "country_code": "KR",
-      "city": "Seoul",
-      "latitude": 37.5665,
-      "longitude": 126.978,
-      "timestamp": "2026-06-09T17:28:51.635995",
-      "current": {
-        "time": "2026-06-10T02:15",
-        "interval": 900,
-        "temperature_2m": 16.6,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 18.1,
-        "weather_code": 1,
-        "wind_speed_10m": 0.7,
-        "wind_direction_10m": 180
-      },
-      "history_24h": null
-    },
     {
       "country": "South Korea",
       "country_code": "KR",
       "city": "Busan",
       "latitude": 35.1796,
       "longitude": 129.0756,
-      "timestamp": "2026-06-09T17:28:51.671545",
+      "timestamp": "2026-06-10T18:39:05.931490",
       "current": {
-        "time": "2026-06-10T02:15",
+        "time": "2026-06-11T03:30",
         "interval": 900,
-        "temperature_2m": 18.0,
-        "relative_humidity_2m": 89,
-        "apparent_temperature": 19.6,
+        "temperature_2m": 18.1,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 18.3,
         "weather_code": 0,
-        "wind_speed_10m": 3.4,
-        "wind_direction_10m": 302
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 308
       },
       "history_24h": null
     },
     {
       "country": "South Korea",
       "country_code": "KR",
-      "city": "Daegu",
-      "latitude": 35.8714,
-      "longitude": 128.6014,
-      "timestamp": "2026-06-09T17:28:51.686229",
+      "city": "Seoul",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "timestamp": "2026-06-10T18:39:05.933362",
       "current": {
-        "time": "2026-06-10T02:15",
+        "time": "2026-06-11T03:30",
         "interval": 900,
-        "temperature_2m": 17.5,
-        "relative_humidity_2m": 88,
-        "apparent_temperature": 19.1,
-        "weather_code": 0,
-        "wind_speed_10m": 2.2,
-        "wind_direction_10m": 189
+        "temperature_2m": 15.4,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 16.5,
+        "weather_code": 2,
+        "wind_speed_10m": 2.9,
+        "wind_direction_10m": 240
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Incheon",
       "latitude": 37.4563,
       "longitude": 126.7052,
-      "timestamp": "2026-06-09T17:28:51.687731",
+      "timestamp": "2026-06-10T18:39:05.938756",
       "current": {
-        "time": "2026-06-10T02:15",
+        "time": "2026-06-11T03:30",
         "interval": 900,
-        "temperature_2m": 17.4,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": 18.8,
+        "temperature_2m": 15.5,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 16.2,
         "weather_code": 1,
-        "wind_speed_10m": 6.4,
-        "wind_direction_10m": 254
+        "wind_speed_10m": 6.8,
+        "wind_direction_10m": 183
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Daejeon",
       "latitude": 36.3504,
       "longitude": 127.3845,
-      "timestamp": "2026-06-09T17:28:51.689906",
+      "timestamp": "2026-06-10T18:39:05.946010",
       "current": {
-        "time": "2026-06-10T02:15",
+        "time": "2026-06-11T03:30",
         "interval": 900,
-        "temperature_2m": 16.0,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 16.7,
-        "weather_code": 1,
-        "wind_speed_10m": 3.1,
-        "wind_direction_10m": 216
+        "temperature_2m": 16.5,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 18.1,
+        "weather_code": 2,
+        "wind_speed_10m": 3.0,
+        "wind_direction_10m": 194
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KR",
+      "city": "Daegu",
+      "latitude": 35.8714,
+      "longitude": 128.6014,
+      "timestamp": "2026-06-10T18:39:05.947329",
+      "current": {
+        "time": "2026-06-11T03:30",
+        "interval": 900,
+        "temperature_2m": 17.3,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 17.9,
+        "weather_code": 0,
+        "wind_speed_10m": 4.1,
+        "wind_direction_10m": 232
       },
       "history_24h": null
     }

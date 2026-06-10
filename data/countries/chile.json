@@ -1,6 +1,6 @@
 {
   "country": "Chile",
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "cities": [
     {
       "country": "Chile",
@@ -8,16 +8,16 @@
       "city": "Santiago",
       "latitude": -33.4489,
       "longitude": -70.6693,
-      "timestamp": "2026-06-09T17:28:52.754990",
+      "timestamp": "2026-06-10T18:39:06.770042",
       "current": {
-        "time": "2026-06-09T13:15",
+        "time": "2026-06-10T14:30",
         "interval": 900,
-        "temperature_2m": 10.1,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": 8.1,
-        "weather_code": 3,
-        "wind_speed_10m": 8.7,
-        "wind_direction_10m": 202
+        "temperature_2m": 10.8,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 9.4,
+        "weather_code": 51,
+        "wind_speed_10m": 3.7,
+        "wind_direction_10m": 39
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Valparaiso",
       "latitude": -33.0472,
       "longitude": -71.6127,
-      "timestamp": "2026-06-09T17:28:52.822688",
+      "timestamp": "2026-06-10T18:39:06.782640",
       "current": {
-        "time": "2026-06-09T13:15",
+        "time": "2026-06-10T14:30",
         "interval": 900,
-        "temperature_2m": 14.5,
-        "relative_humidity_2m": 78,
-        "apparent_temperature": 12.8,
+        "temperature_2m": 13.9,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 13.3,
         "weather_code": 51,
-        "wind_speed_10m": 13.3,
-        "wind_direction_10m": 358
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Chile",
-      "country_code": "CL",
-      "city": "Punta Arenas",
-      "latitude": -53.1638,
-      "longitude": -70.9171,
-      "timestamp": "2026-06-09T17:28:52.833907",
-      "current": {
-        "time": "2026-06-09T14:15",
-        "interval": 900,
-        "temperature_2m": 7.0,
-        "relative_humidity_2m": 70,
-        "apparent_temperature": 2.4,
-        "weather_code": 1,
-        "wind_speed_10m": 19.6,
-        "wind_direction_10m": 314
+        "wind_speed_10m": 7.7,
+        "wind_direction_10m": 16
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Puerto Montt",
       "latitude": -41.4689,
       "longitude": -72.9424,
-      "timestamp": "2026-06-09T17:28:52.837966",
+      "timestamp": "2026-06-10T18:39:06.792059",
       "current": {
-        "time": "2026-06-09T13:15",
+        "time": "2026-06-10T14:30",
         "interval": 900,
-        "temperature_2m": 10.8,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": 7.0,
-        "weather_code": 51,
-        "wind_speed_10m": 25.9,
-        "wind_direction_10m": 6
+        "temperature_2m": 10.4,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 7.5,
+        "weather_code": 61,
+        "wind_speed_10m": 16.4,
+        "wind_direction_10m": 9
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Punta Arenas",
+      "latitude": -53.1638,
+      "longitude": -70.9171,
+      "timestamp": "2026-06-10T18:39:06.810222",
+      "current": {
+        "time": "2026-06-10T15:30",
+        "interval": 900,
+        "temperature_2m": 4.1,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": -2.1,
+        "weather_code": 3,
+        "wind_speed_10m": 27.4,
+        "wind_direction_10m": 243
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Easter Island",
       "latitude": -27.1127,
       "longitude": -109.3497,
-      "timestamp": "2026-06-09T17:28:53.904137",
+      "timestamp": "2026-06-10T18:39:06.825323",
       "current": {
-        "time": "2026-06-09T11:15",
+        "time": "2026-06-10T12:30",
         "interval": 900,
-        "temperature_2m": 21.6,
+        "temperature_2m": 21.3,
         "relative_humidity_2m": 78,
-        "apparent_temperature": 19.6,
-        "weather_code": 1,
-        "wind_speed_10m": 32.5,
-        "wind_direction_10m": 349
+        "apparent_temperature": 19.0,
+        "weather_code": 3,
+        "wind_speed_10m": 33.2,
+        "wind_direction_10m": 305
       },
       "history_24h": null
     }

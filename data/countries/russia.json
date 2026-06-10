@@ -1,61 +1,23 @@
 {
   "country": "Russia",
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "cities": [
     {
       "country": "Russia",
       "country_code": "RU",
-      "city": "Novosibirsk",
-      "latitude": 55.0084,
-      "longitude": 82.9357,
-      "timestamp": "2026-06-09T17:28:51.609921",
+      "city": "Moscow",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "timestamp": "2026-06-10T18:39:05.903569",
       "current": {
-        "time": "2026-06-10T00:15",
+        "time": "2026-06-10T21:30",
         "interval": 900,
-        "temperature_2m": 22.3,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 22.0,
-        "weather_code": 0,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 67
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Russia",
-      "country_code": "RU",
-      "city": "Vladivostok",
-      "latitude": 43.1332,
-      "longitude": 131.9113,
-      "timestamp": "2026-06-09T17:28:51.619863",
-      "current": {
-        "time": "2026-06-10T03:15",
-        "interval": 900,
-        "temperature_2m": 11.3,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": 10.5,
-        "weather_code": 0,
-        "wind_speed_10m": 6.0,
-        "wind_direction_10m": 100
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Russia",
-      "country_code": "RU",
-      "city": "Yekaterinburg",
-      "latitude": 56.8389,
-      "longitude": 60.6057,
-      "timestamp": "2026-06-09T17:28:51.622558",
-      "current": {
-        "time": "2026-06-09T22:15",
-        "interval": 900,
-        "temperature_2m": 15.6,
-        "relative_humidity_2m": 91,
-        "apparent_temperature": 15.4,
-        "weather_code": 80,
-        "wind_speed_10m": 10.4,
-        "wind_direction_10m": 346
+        "temperature_2m": 24.5,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 24.5,
+        "weather_code": 2,
+        "wind_speed_10m": 3.5,
+        "wind_direction_10m": 336
       },
       "history_24h": null
     },
@@ -65,35 +27,73 @@
       "city": "Saint Petersburg",
       "latitude": 59.9311,
       "longitude": 30.3609,
-      "timestamp": "2026-06-09T17:28:52.973499",
+      "timestamp": "2026-06-10T18:39:05.905696",
       "current": {
-        "time": "2026-06-09T20:15",
+        "time": "2026-06-10T21:30",
         "interval": 900,
-        "temperature_2m": 20.8,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 19.8,
-        "weather_code": 1,
-        "wind_speed_10m": 14.8,
-        "wind_direction_10m": 217
+        "temperature_2m": 16.0,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 13.1,
+        "weather_code": 2,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 271
       },
       "history_24h": null
     },
     {
       "country": "Russia",
       "country_code": "RU",
-      "city": "Moscow",
-      "latitude": 55.7558,
-      "longitude": 37.6173,
-      "timestamp": "2026-06-09T17:28:52.987976",
+      "city": "Novosibirsk",
+      "latitude": 55.0084,
+      "longitude": 82.9357,
+      "timestamp": "2026-06-10T18:39:05.909762",
       "current": {
-        "time": "2026-06-09T20:15",
+        "time": "2026-06-11T01:30",
         "interval": 900,
-        "temperature_2m": 24.8,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 25.7,
-        "weather_code": 0,
-        "wind_speed_10m": 2.6,
-        "wind_direction_10m": 304
+        "temperature_2m": 22.2,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 21.5,
+        "weather_code": 3,
+        "wind_speed_10m": 10.2,
+        "wind_direction_10m": 82
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Vladivostok",
+      "latitude": 43.1332,
+      "longitude": 131.9113,
+      "timestamp": "2026-06-10T18:39:05.916976",
+      "current": {
+        "time": "2026-06-11T04:30",
+        "interval": 900,
+        "temperature_2m": 11.7,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 11.5,
+        "weather_code": 3,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 90
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Yekaterinburg",
+      "latitude": 56.8389,
+      "longitude": 60.6057,
+      "timestamp": "2026-06-10T18:39:05.926420",
+      "current": {
+        "time": "2026-06-10T23:30",
+        "interval": 900,
+        "temperature_2m": 13.2,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 12.4,
+        "weather_code": 3,
+        "wind_speed_10m": 8.8,
+        "wind_direction_10m": 261
       },
       "history_24h": null
     }
