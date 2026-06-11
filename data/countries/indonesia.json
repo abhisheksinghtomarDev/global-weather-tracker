@@ -1,42 +1,23 @@
 {
   "country": "Indonesia",
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "cities": [
-    {
-      "country": "Indonesia",
-      "country_code": "ID",
-      "city": "Jakarta",
-      "latitude": -6.2088,
-      "longitude": 106.8456,
-      "timestamp": "2026-06-10T18:39:06.082041",
-      "current": {
-        "time": "2026-06-11T01:30",
-        "interval": 900,
-        "temperature_2m": 27.5,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 32.1,
-        "weather_code": 0,
-        "wind_speed_10m": 4.4,
-        "wind_direction_10m": 199
-      },
-      "history_24h": null
-    },
     {
       "country": "Indonesia",
       "country_code": "ID",
       "city": "Surabaya",
       "latitude": -7.2575,
       "longitude": 112.7521,
-      "timestamp": "2026-06-10T18:39:06.089182",
+      "timestamp": "2026-06-11T19:21:22.419443",
       "current": {
-        "time": "2026-06-11T01:30",
+        "time": "2026-06-12T02:15",
         "interval": 900,
-        "temperature_2m": 27.0,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 30.9,
-        "weather_code": 0,
-        "wind_speed_10m": 6.2,
-        "wind_direction_10m": 147
+        "temperature_2m": 26.8,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 32.2,
+        "weather_code": 53,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 237
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Bandung",
       "latitude": -6.9175,
       "longitude": 107.6191,
-      "timestamp": "2026-06-10T18:39:06.094773",
+      "timestamp": "2026-06-11T19:21:22.420865",
       "current": {
-        "time": "2026-06-11T01:30",
+        "time": "2026-06-12T02:15",
         "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 99,
-        "apparent_temperature": 20.6,
+        "temperature_2m": 18.9,
+        "relative_humidity_2m": 100,
+        "apparent_temperature": 22.1,
         "weather_code": 3,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 23
+        "wind_speed_10m": 0.6,
+        "wind_direction_10m": 18
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Jakarta",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "timestamp": "2026-06-11T19:21:22.422402",
+      "current": {
+        "time": "2026-06-12T02:15",
+        "interval": 900,
+        "temperature_2m": 27.4,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 32.0,
+        "weather_code": 0,
+        "wind_speed_10m": 4.3,
+        "wind_direction_10m": 105
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Bali",
       "latitude": -8.4095,
       "longitude": 115.1889,
-      "timestamp": "2026-06-10T18:39:06.096393",
+      "timestamp": "2026-06-11T19:21:22.425725",
       "current": {
-        "time": "2026-06-11T02:30",
+        "time": "2026-06-12T03:15",
         "interval": 900,
-        "temperature_2m": 18.4,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": 20.8,
+        "temperature_2m": 21.0,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 23.9,
         "weather_code": 2,
-        "wind_speed_10m": 2.0,
-        "wind_direction_10m": 355
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 346
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Medan",
       "latitude": 3.5952,
       "longitude": 98.6722,
-      "timestamp": "2026-06-10T18:39:06.098821",
+      "timestamp": "2026-06-11T19:21:22.427120",
       "current": {
-        "time": "2026-06-11T01:30",
+        "time": "2026-06-12T02:15",
         "interval": 900,
-        "temperature_2m": 25.9,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": 31.8,
+        "temperature_2m": 24.9,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 30.5,
         "weather_code": 3,
-        "wind_speed_10m": 4.3,
-        "wind_direction_10m": 156
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 140
       },
       "history_24h": null
     }
