@@ -1,42 +1,23 @@
 {
   "country": "Canada",
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "cities": [
-    {
-      "country": "Canada",
-      "country_code": "CA",
-      "city": "Vancouver",
-      "latitude": 49.2827,
-      "longitude": -123.1207,
-      "timestamp": "2026-06-11T19:21:22.099237",
-      "current": {
-        "time": "2026-06-11T12:15",
-        "interval": 900,
-        "temperature_2m": 17.5,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 17.7,
-        "weather_code": 0,
-        "wind_speed_10m": 10.4,
-        "wind_direction_10m": 304
-      },
-      "history_24h": null
-    },
     {
       "country": "Canada",
       "country_code": "CA",
       "city": "Toronto",
       "latitude": 43.6532,
       "longitude": -79.3832,
-      "timestamp": "2026-06-11T19:21:22.103112",
+      "timestamp": "2026-06-12T17:43:23.736066",
       "current": {
-        "time": "2026-06-11T15:15",
+        "time": "2026-06-12T13:30",
         "interval": 900,
-        "temperature_2m": 31.2,
+        "temperature_2m": 26.2,
         "relative_humidity_2m": 46,
-        "apparent_temperature": 32.9,
+        "apparent_temperature": 26.1,
         "weather_code": 3,
-        "wind_speed_10m": 17.9,
-        "wind_direction_10m": 199
+        "wind_speed_10m": 21.6,
+        "wind_direction_10m": 274
       },
       "history_24h": null
     },
@@ -46,16 +27,16 @@
       "city": "Montreal",
       "latitude": 45.5017,
       "longitude": -73.5673,
-      "timestamp": "2026-06-11T19:21:22.107974",
+      "timestamp": "2026-06-12T17:43:23.738875",
       "current": {
-        "time": "2026-06-11T15:15",
+        "time": "2026-06-12T13:30",
         "interval": 900,
-        "temperature_2m": 27.0,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 29.8,
-        "weather_code": 3,
-        "wind_speed_10m": 14.7,
-        "wind_direction_10m": 234
+        "temperature_2m": 30.0,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 34.6,
+        "weather_code": 0,
+        "wind_speed_10m": 11.7,
+        "wind_direction_10m": 225
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Calgary",
       "latitude": 51.0447,
       "longitude": -114.0719,
-      "timestamp": "2026-06-11T19:21:22.111164",
+      "timestamp": "2026-06-12T17:43:23.740185",
       "current": {
-        "time": "2026-06-11T13:15",
+        "time": "2026-06-12T11:30",
         "interval": 900,
-        "temperature_2m": 15.2,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 11.8,
+        "temperature_2m": 10.3,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 6.9,
         "weather_code": 3,
-        "wind_speed_10m": 17.1,
-        "wind_direction_10m": 338
+        "wind_speed_10m": 16.8,
+        "wind_direction_10m": 351
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Ottawa",
       "latitude": 45.4215,
       "longitude": -75.6972,
-      "timestamp": "2026-06-11T19:21:22.112437",
+      "timestamp": "2026-06-12T17:43:23.742022",
       "current": {
-        "time": "2026-06-11T15:15",
+        "time": "2026-06-12T13:30",
         "interval": 900,
-        "temperature_2m": 28.7,
+        "temperature_2m": 29.1,
         "relative_humidity_2m": 59,
         "apparent_temperature": 30.5,
+        "weather_code": 1,
+        "wind_speed_10m": 18.0,
+        "wind_direction_10m": 200
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Vancouver",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "timestamp": "2026-06-12T17:43:23.742968",
+      "current": {
+        "time": "2026-06-12T10:30",
+        "interval": 900,
+        "temperature_2m": 17.0,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 17.5,
         "weather_code": 3,
-        "wind_speed_10m": 14.8,
-        "wind_direction_10m": 256
+        "wind_speed_10m": 7.8,
+        "wind_direction_10m": 304
       },
       "history_24h": null
     }
