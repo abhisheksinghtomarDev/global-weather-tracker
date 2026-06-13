@@ -1,80 +1,42 @@
 {
   "country": "France",
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "cities": [
-    {
-      "country": "France",
-      "country_code": "FR",
-      "city": "Paris",
-      "latitude": 48.8566,
-      "longitude": 2.3522,
-      "timestamp": "2026-06-12T17:43:23.695773",
-      "current": {
-        "time": "2026-06-12T19:30",
-        "interval": 900,
-        "temperature_2m": 25.2,
-        "relative_humidity_2m": 48,
-        "apparent_temperature": 24.2,
-        "weather_code": 1,
-        "wind_speed_10m": 14.2,
-        "wind_direction_10m": 263
-      },
-      "history_24h": null
-    },
     {
       "country": "France",
       "country_code": "FR",
       "city": "Lyon",
       "latitude": 45.764,
       "longitude": 4.8357,
-      "timestamp": "2026-06-12T17:43:23.716362",
+      "timestamp": "2026-06-13T15:20:18.446619",
       "current": {
-        "time": "2026-06-12T19:30",
+        "time": "2026-06-13T17:15",
         "interval": 900,
-        "temperature_2m": 26.3,
-        "relative_humidity_2m": 40,
-        "apparent_temperature": 25.2,
+        "temperature_2m": 30.9,
+        "relative_humidity_2m": 28,
+        "apparent_temperature": 30.2,
         "weather_code": 0,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 358
+        "wind_speed_10m": 8.9,
+        "wind_direction_10m": 14
       },
       "history_24h": null
     },
     {
       "country": "France",
       "country_code": "FR",
-      "city": "Nice",
-      "latitude": 43.7102,
-      "longitude": 7.262,
-      "timestamp": "2026-06-12T17:43:23.725022",
+      "city": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "timestamp": "2026-06-13T15:20:18.450193",
       "current": {
-        "time": "2026-06-12T19:30",
+        "time": "2026-06-13T17:15",
         "interval": 900,
-        "temperature_2m": 24.6,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 24.4,
-        "weather_code": 0,
-        "wind_speed_10m": 3.6,
-        "wind_direction_10m": 186
-      },
-      "history_24h": null
-    },
-    {
-      "country": "France",
-      "country_code": "FR",
-      "city": "Toulouse",
-      "latitude": 43.6047,
-      "longitude": 1.4442,
-      "timestamp": "2026-06-12T17:43:23.726689",
-      "current": {
-        "time": "2026-06-12T19:30",
-        "interval": 900,
-        "temperature_2m": 26.8,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 26.0,
-        "weather_code": 0,
-        "wind_speed_10m": 8.7,
-        "wind_direction_10m": 330
+        "temperature_2m": 28.0,
+        "relative_humidity_2m": 33,
+        "apparent_temperature": 26.5,
+        "weather_code": 1,
+        "wind_speed_10m": 14.8,
+        "wind_direction_10m": 296
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Marseille",
       "latitude": 43.2965,
       "longitude": 5.3698,
-      "timestamp": "2026-06-12T17:43:23.727750",
+      "timestamp": "2026-06-13T15:20:18.451675",
       "current": {
-        "time": "2026-06-12T19:30",
+        "time": "2026-06-13T17:15",
         "interval": 900,
-        "temperature_2m": 29.3,
-        "relative_humidity_2m": 34,
-        "apparent_temperature": 25.3,
+        "temperature_2m": 30.9,
+        "relative_humidity_2m": 32,
+        "apparent_temperature": 28.3,
         "weather_code": 0,
-        "wind_speed_10m": 16.1,
-        "wind_direction_10m": 312
+        "wind_speed_10m": 15.9,
+        "wind_direction_10m": 162
+      },
+      "history_24h": null
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "city": "Nice",
+      "latitude": 43.7102,
+      "longitude": 7.262,
+      "timestamp": "2026-06-13T15:20:18.459019",
+      "current": {
+        "time": "2026-06-13T17:15",
+        "interval": 900,
+        "temperature_2m": 25.9,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 26.9,
+        "weather_code": 0,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 180
+      },
+      "history_24h": null
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "city": "Toulouse",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "timestamp": "2026-06-13T15:20:18.460573",
+      "current": {
+        "time": "2026-06-13T17:15",
+        "interval": 900,
+        "temperature_2m": 32.5,
+        "relative_humidity_2m": 31,
+        "apparent_temperature": 33.2,
+        "weather_code": 1,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 16
       },
       "history_24h": null
     }

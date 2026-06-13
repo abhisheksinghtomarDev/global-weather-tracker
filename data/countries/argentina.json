@@ -1,6 +1,6 @@
 {
   "country": "Argentina",
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "cities": [
     {
       "country": "Argentina",
@@ -8,16 +8,16 @@
       "city": "Buenos Aires",
       "latitude": -34.6037,
       "longitude": -58.3816,
-      "timestamp": "2026-06-12T17:43:24.342153",
+      "timestamp": "2026-06-13T15:20:19.440656",
       "current": {
-        "time": "2026-06-12T14:30",
+        "time": "2026-06-13T12:15",
         "interval": 900,
-        "temperature_2m": 13.7,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 13.2,
-        "weather_code": 0,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 9
+        "temperature_2m": 14.1,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 12.9,
+        "weather_code": 3,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 269
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Cordoba",
       "latitude": -31.4201,
       "longitude": -64.1888,
-      "timestamp": "2026-06-12T17:43:24.353204",
+      "timestamp": "2026-06-13T15:20:19.442177",
       "current": {
-        "time": "2026-06-12T14:30",
+        "time": "2026-06-13T12:15",
         "interval": 900,
-        "temperature_2m": 17.9,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 16.1,
+        "temperature_2m": 14.0,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 12.8,
         "weather_code": 1,
-        "wind_speed_10m": 12.9,
-        "wind_direction_10m": 40
+        "wind_speed_10m": 7.7,
+        "wind_direction_10m": 181
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Mendoza",
       "latitude": -32.8895,
       "longitude": -68.8458,
-      "timestamp": "2026-06-12T17:43:24.354909",
+      "timestamp": "2026-06-13T15:20:19.443619",
       "current": {
-        "time": "2026-06-12T14:30",
+        "time": "2026-06-13T12:15",
         "interval": 900,
-        "temperature_2m": 13.8,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 11.0,
-        "weather_code": 2,
-        "wind_speed_10m": 6.3,
-        "wind_direction_10m": 75
+        "temperature_2m": 6.9,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 3.8,
+        "weather_code": 3,
+        "wind_speed_10m": 11.7,
+        "wind_direction_10m": 153
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Rosario",
       "latitude": -32.9442,
       "longitude": -60.6505,
-      "timestamp": "2026-06-12T17:43:24.356485",
+      "timestamp": "2026-06-13T15:20:19.448164",
       "current": {
-        "time": "2026-06-12T14:30",
+        "time": "2026-06-13T12:15",
         "interval": 900,
-        "temperature_2m": 15.8,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 14.2,
-        "weather_code": 1,
-        "wind_speed_10m": 10.2,
-        "wind_direction_10m": 343
+        "temperature_2m": 15.3,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 14.3,
+        "weather_code": 3,
+        "wind_speed_10m": 10.6,
+        "wind_direction_10m": 305
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Bariloche",
       "latitude": -41.1335,
       "longitude": -71.3103,
-      "timestamp": "2026-06-12T17:43:24.360367",
+      "timestamp": "2026-06-13T15:20:19.449739",
       "current": {
-        "time": "2026-06-12T14:30",
+        "time": "2026-06-13T12:15",
         "interval": 900,
-        "temperature_2m": 4.6,
+        "temperature_2m": 1.0,
         "relative_humidity_2m": 67,
-        "apparent_temperature": 0.2,
-        "weather_code": 3,
-        "wind_speed_10m": 14.2,
-        "wind_direction_10m": 266
+        "apparent_temperature": -2.1,
+        "weather_code": 0,
+        "wind_speed_10m": 2.5,
+        "wind_direction_10m": 111
       },
       "history_24h": null
     }
