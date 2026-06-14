@@ -1,6 +1,6 @@
 {
   "country": "Turkey",
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "cities": [
     {
       "country": "Turkey",
@@ -8,35 +8,16 @@
       "city": "Istanbul",
       "latitude": 41.0082,
       "longitude": 28.9784,
-      "timestamp": "2026-06-13T15:20:18.904104",
+      "timestamp": "2026-06-14T11:25:30.844354",
       "current": {
-        "time": "2026-06-13T18:15",
+        "time": "2026-06-14T14:15",
         "interval": 900,
-        "temperature_2m": 18.4,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 16.2,
-        "weather_code": 3,
-        "wind_speed_10m": 23.6,
-        "wind_direction_10m": 12
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Turkey",
-      "country_code": "TR",
-      "city": "Izmir",
-      "latitude": 38.4237,
-      "longitude": 27.1428,
-      "timestamp": "2026-06-13T15:20:18.921212",
-      "current": {
-        "time": "2026-06-13T18:15",
-        "interval": 900,
-        "temperature_2m": 24.7,
-        "relative_humidity_2m": 53,
-        "apparent_temperature": 23.6,
-        "weather_code": 2,
-        "wind_speed_10m": 17.7,
-        "wind_direction_10m": 29
+        "temperature_2m": 23.6,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 24.7,
+        "weather_code": 0,
+        "wind_speed_10m": 11.3,
+        "wind_direction_10m": 233
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Ankara",
       "latitude": 39.9334,
       "longitude": 32.8597,
-      "timestamp": "2026-06-13T15:20:18.922658",
+      "timestamp": "2026-06-14T11:25:30.861949",
       "current": {
-        "time": "2026-06-13T18:15",
+        "time": "2026-06-14T14:15",
         "interval": 900,
-        "temperature_2m": 19.1,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 18.7,
-        "weather_code": 80,
-        "wind_speed_10m": 9.8,
-        "wind_direction_10m": 28
+        "temperature_2m": 20.8,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 20.4,
+        "weather_code": 2,
+        "wind_speed_10m": 10.6,
+        "wind_direction_10m": 298
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Izmir",
+      "latitude": 38.4237,
+      "longitude": 27.1428,
+      "timestamp": "2026-06-14T11:25:30.887070",
+      "current": {
+        "time": "2026-06-14T14:15",
+        "interval": 900,
+        "temperature_2m": 30.1,
+        "relative_humidity_2m": 26,
+        "apparent_temperature": 29.4,
+        "weather_code": 0,
+        "wind_speed_10m": 16.5,
+        "wind_direction_10m": 20
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Antalya",
       "latitude": 36.8969,
       "longitude": 30.7133,
-      "timestamp": "2026-06-13T15:20:18.931050",
+      "timestamp": "2026-06-14T11:25:30.891889",
       "current": {
-        "time": "2026-06-13T18:15",
+        "time": "2026-06-14T14:15",
         "interval": 900,
-        "temperature_2m": 25.1,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 28.2,
-        "weather_code": 3,
-        "wind_speed_10m": 5.0,
-        "wind_direction_10m": 330
+        "temperature_2m": 31.7,
+        "relative_humidity_2m": 30,
+        "apparent_temperature": 33.2,
+        "weather_code": 0,
+        "wind_speed_10m": 8.7,
+        "wind_direction_10m": 175
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Cappadocia",
       "latitude": 38.6431,
       "longitude": 34.8289,
-      "timestamp": "2026-06-13T15:20:18.935901",
+      "timestamp": "2026-06-14T11:25:30.910569",
       "current": {
-        "time": "2026-06-13T18:15",
+        "time": "2026-06-14T14:15",
         "interval": 900,
-        "temperature_2m": 16.6,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 17.2,
-        "weather_code": 80,
-        "wind_speed_10m": 5.7,
-        "wind_direction_10m": 72
+        "temperature_2m": 20.5,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 20.4,
+        "weather_code": 3,
+        "wind_speed_10m": 11.3,
+        "wind_direction_10m": 353
       },
       "history_24h": null
     }
