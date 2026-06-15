@@ -1,61 +1,42 @@
 {
   "country": "Kenya",
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "cities": [
-    {
-      "country": "Kenya",
-      "country_code": "KE",
-      "city": "Nairobi",
-      "latitude": -1.2921,
-      "longitude": 36.8219,
-      "timestamp": "2026-06-14T11:25:31.612684",
-      "current": {
-        "time": "2026-06-14T14:15",
-        "interval": 900,
-        "temperature_2m": 23.7,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 22.7,
-        "weather_code": 3,
-        "wind_speed_10m": 7.1,
-        "wind_direction_10m": 60
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Kenya",
-      "country_code": "KE",
-      "city": "Malindi",
-      "latitude": -3.2138,
-      "longitude": 40.1169,
-      "timestamp": "2026-06-14T11:25:31.623345",
-      "current": {
-        "time": "2026-06-14T14:15",
-        "interval": 900,
-        "temperature_2m": 28.5,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 29.4,
-        "weather_code": 0,
-        "wind_speed_10m": 27.4,
-        "wind_direction_10m": 183
-      },
-      "history_24h": null
-    },
     {
       "country": "Kenya",
       "country_code": "KE",
       "city": "Mombasa",
       "latitude": -4.0435,
       "longitude": 39.6682,
-      "timestamp": "2026-06-14T11:25:31.624688",
+      "timestamp": "2026-06-15T14:59:03.282081",
       "current": {
-        "time": "2026-06-14T14:15",
+        "time": "2026-06-15T17:45",
         "interval": 900,
-        "temperature_2m": 28.0,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 29.1,
-        "weather_code": 0,
-        "wind_speed_10m": 25.4,
-        "wind_direction_10m": 187
+        "temperature_2m": 26.6,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 27.4,
+        "weather_code": 3,
+        "wind_speed_10m": 21.8,
+        "wind_direction_10m": 190
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KE",
+      "city": "Nairobi",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "timestamp": "2026-06-15T14:59:03.284163",
+      "current": {
+        "time": "2026-06-15T17:45",
+        "interval": 900,
+        "temperature_2m": 22.5,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 20.1,
+        "weather_code": 3,
+        "wind_speed_10m": 12.4,
+        "wind_direction_10m": 103
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Nakuru",
       "latitude": -0.3031,
       "longitude": 36.08,
-      "timestamp": "2026-06-14T11:25:31.638576",
+      "timestamp": "2026-06-15T14:59:03.287568",
       "current": {
-        "time": "2026-06-14T14:15",
+        "time": "2026-06-15T17:45",
         "interval": 900,
-        "temperature_2m": 22.8,
-        "relative_humidity_2m": 49,
-        "apparent_temperature": 23.0,
-        "weather_code": 3,
-        "wind_speed_10m": 9.0,
-        "wind_direction_10m": 145
+        "temperature_2m": 21.3,
+        "relative_humidity_2m": 43,
+        "apparent_temperature": 17.7,
+        "weather_code": 2,
+        "wind_speed_10m": 21.0,
+        "wind_direction_10m": 144
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Kisumu",
       "latitude": -0.1022,
       "longitude": 34.7617,
-      "timestamp": "2026-06-14T11:25:31.642775",
+      "timestamp": "2026-06-15T14:59:03.290666",
       "current": {
-        "time": "2026-06-14T14:15",
+        "time": "2026-06-15T17:45",
         "interval": 900,
-        "temperature_2m": 29.6,
-        "relative_humidity_2m": 37,
-        "apparent_temperature": 29.9,
+        "temperature_2m": 29.5,
+        "relative_humidity_2m": 29,
+        "apparent_temperature": 27.1,
         "weather_code": 3,
-        "wind_speed_10m": 14.2,
-        "wind_direction_10m": 230
+        "wind_speed_10m": 15.1,
+        "wind_direction_10m": 155
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KE",
+      "city": "Malindi",
+      "latitude": -3.2138,
+      "longitude": 40.1169,
+      "timestamp": "2026-06-15T14:59:03.292049",
+      "current": {
+        "time": "2026-06-15T17:45",
+        "interval": 900,
+        "temperature_2m": 26.1,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 26.6,
+        "weather_code": 51,
+        "wind_speed_10m": 24.8,
+        "wind_direction_10m": 186
       },
       "history_24h": null
     }

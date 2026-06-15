@@ -1,80 +1,23 @@
 {
   "country": "Ukraine",
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "cities": [
-    {
-      "country": "Ukraine",
-      "country_code": "UA",
-      "city": "Odessa",
-      "latitude": 46.4825,
-      "longitude": 30.7233,
-      "timestamp": "2026-06-14T11:25:31.964083",
-      "current": {
-        "time": "2026-06-14T14:15",
-        "interval": 900,
-        "temperature_2m": 23.3,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 21.9,
-        "weather_code": 3,
-        "wind_speed_10m": 12.6,
-        "wind_direction_10m": 178
-      },
-      "history_24h": null
-    },
     {
       "country": "Ukraine",
       "country_code": "UA",
       "city": "Kyiv",
       "latitude": 50.4501,
       "longitude": 30.5234,
-      "timestamp": "2026-06-14T11:25:31.968501",
+      "timestamp": "2026-06-15T14:59:03.531552",
       "current": {
-        "time": "2026-06-14T14:15",
+        "time": "2026-06-15T17:45",
         "interval": 900,
-        "temperature_2m": 21.6,
-        "relative_humidity_2m": 59,
-        "apparent_temperature": 21.0,
-        "weather_code": 95,
-        "wind_speed_10m": 11.3,
-        "wind_direction_10m": 248
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Ukraine",
-      "country_code": "UA",
-      "city": "Kharkiv",
-      "latitude": 49.9935,
-      "longitude": 36.2304,
-      "timestamp": "2026-06-14T11:25:32.031421",
-      "current": {
-        "time": "2026-06-14T14:15",
-        "interval": 900,
-        "temperature_2m": 23.2,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 22.1,
-        "weather_code": 2,
-        "wind_speed_10m": 11.6,
-        "wind_direction_10m": 306
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Ukraine",
-      "country_code": "UA",
-      "city": "Chernivtsi",
-      "latitude": 48.2921,
-      "longitude": 25.9398,
-      "timestamp": "2026-06-14T11:25:32.033863",
-      "current": {
-        "time": "2026-06-14T14:15",
-        "interval": 900,
-        "temperature_2m": 21.9,
-        "relative_humidity_2m": 60,
-        "apparent_temperature": 23.2,
-        "weather_code": 2,
-        "wind_speed_10m": 5.2,
-        "wind_direction_10m": 326
+        "temperature_2m": 19.1,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 16.6,
+        "weather_code": 1,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 271
       },
       "history_24h": null
     },
@@ -84,16 +27,73 @@
       "city": "Lviv",
       "latitude": 49.8397,
       "longitude": 24.0297,
-      "timestamp": "2026-06-14T11:25:32.034917",
+      "timestamp": "2026-06-15T14:59:03.535347",
       "current": {
-        "time": "2026-06-14T14:15",
+        "time": "2026-06-15T17:45",
         "interval": 900,
-        "temperature_2m": 20.7,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 18.0,
-        "weather_code": 3,
-        "wind_speed_10m": 15.8,
-        "wind_direction_10m": 258
+        "temperature_2m": 20.2,
+        "relative_humidity_2m": 37,
+        "apparent_temperature": 16.3,
+        "weather_code": 1,
+        "wind_speed_10m": 18.0,
+        "wind_direction_10m": 276
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UA",
+      "city": "Odessa",
+      "latitude": 46.4825,
+      "longitude": 30.7233,
+      "timestamp": "2026-06-15T14:59:03.545683",
+      "current": {
+        "time": "2026-06-15T17:45",
+        "interval": 900,
+        "temperature_2m": 21.8,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 19.8,
+        "weather_code": 2,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 313
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UA",
+      "city": "Kharkiv",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "timestamp": "2026-06-15T14:59:03.559842",
+      "current": {
+        "time": "2026-06-15T17:45",
+        "interval": 900,
+        "temperature_2m": 20.5,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 18.8,
+        "weather_code": 2,
+        "wind_speed_10m": 11.4,
+        "wind_direction_10m": 281
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UA",
+      "city": "Chernivtsi",
+      "latitude": 48.2921,
+      "longitude": 25.9398,
+      "timestamp": "2026-06-15T14:59:03.573470",
+      "current": {
+        "time": "2026-06-15T17:45",
+        "interval": 900,
+        "temperature_2m": 19.5,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 19.0,
+        "weather_code": 2,
+        "wind_speed_10m": 2.3,
+        "wind_direction_10m": 309
       },
       "history_24h": null
     }

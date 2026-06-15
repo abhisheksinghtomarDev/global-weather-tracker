@@ -1,23 +1,42 @@
 {
   "country": "Canada",
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "cities": [
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Vancouver",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "timestamp": "2026-06-15T14:59:02.535392",
+      "current": {
+        "time": "2026-06-15T07:45",
+        "interval": 900,
+        "temperature_2m": 19.6,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 21.0,
+        "weather_code": 3,
+        "wind_speed_10m": 2.2,
+        "wind_direction_10m": 189
+      },
+      "history_24h": null
+    },
     {
       "country": "Canada",
       "country_code": "CA",
       "city": "Toronto",
       "latitude": 43.6532,
       "longitude": -79.3832,
-      "timestamp": "2026-06-14T11:25:30.468033",
+      "timestamp": "2026-06-15T14:59:02.536529",
       "current": {
-        "time": "2026-06-14T07:15",
+        "time": "2026-06-15T10:45",
         "interval": 900,
-        "temperature_2m": 17.6,
-        "relative_humidity_2m": 84,
-        "apparent_temperature": 17.8,
-        "weather_code": 3,
-        "wind_speed_10m": 9.3,
-        "wind_direction_10m": 344
+        "temperature_2m": 15.0,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 13.4,
+        "weather_code": 1,
+        "wind_speed_10m": 16.2,
+        "wind_direction_10m": 282
       },
       "history_24h": null
     },
@@ -27,54 +46,16 @@
       "city": "Montreal",
       "latitude": 45.5017,
       "longitude": -73.5673,
-      "timestamp": "2026-06-14T11:25:30.469311",
+      "timestamp": "2026-06-15T14:59:02.540328",
       "current": {
-        "time": "2026-06-14T07:15",
+        "time": "2026-06-15T10:45",
         "interval": 900,
-        "temperature_2m": 17.0,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 15.9,
-        "weather_code": 61,
-        "wind_speed_10m": 17.1,
-        "wind_direction_10m": 219
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Canada",
-      "country_code": "CA",
-      "city": "Vancouver",
-      "latitude": 49.2827,
-      "longitude": -123.1207,
-      "timestamp": "2026-06-14T11:25:30.471063",
-      "current": {
-        "time": "2026-06-14T04:15",
-        "interval": 900,
-        "temperature_2m": 15.6,
-        "relative_humidity_2m": 72,
-        "apparent_temperature": 15.2,
-        "weather_code": 0,
-        "wind_speed_10m": 3.8,
-        "wind_direction_10m": 229
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Canada",
-      "country_code": "CA",
-      "city": "Ottawa",
-      "latitude": 45.4215,
-      "longitude": -75.6972,
-      "timestamp": "2026-06-14T11:25:30.472275",
-      "current": {
-        "time": "2026-06-14T07:15",
-        "interval": 900,
-        "temperature_2m": 17.9,
-        "relative_humidity_2m": 91,
-        "apparent_temperature": 19.3,
-        "weather_code": 3,
-        "wind_speed_10m": 5.9,
-        "wind_direction_10m": 191
+        "temperature_2m": 17.7,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 16.5,
+        "weather_code": 53,
+        "wind_speed_10m": 20.9,
+        "wind_direction_10m": 251
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Calgary",
       "latitude": 51.0447,
       "longitude": -114.0719,
-      "timestamp": "2026-06-14T11:25:30.475120",
+      "timestamp": "2026-06-15T14:59:02.558272",
       "current": {
-        "time": "2026-06-14T05:15",
+        "time": "2026-06-15T08:45",
         "interval": 900,
-        "temperature_2m": 6.9,
-        "relative_humidity_2m": 59,
-        "apparent_temperature": 3.8,
-        "weather_code": 0,
-        "wind_speed_10m": 6.3,
-        "wind_direction_10m": 301
+        "temperature_2m": 17.2,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 15.3,
+        "weather_code": 1,
+        "wind_speed_10m": 7.3,
+        "wind_direction_10m": 261
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Ottawa",
+      "latitude": 45.4215,
+      "longitude": -75.6972,
+      "timestamp": "2026-06-15T14:59:02.560627",
+      "current": {
+        "time": "2026-06-15T10:45",
+        "interval": 900,
+        "temperature_2m": 16.6,
+        "relative_humidity_2m": 66,
+        "apparent_temperature": 15.2,
+        "weather_code": 1,
+        "wind_speed_10m": 13.9,
+        "wind_direction_10m": 291
       },
       "history_24h": null
     }
