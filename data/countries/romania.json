@@ -1,61 +1,42 @@
 {
   "country": "Romania",
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "cities": [
-    {
-      "country": "Romania",
-      "country_code": "RO",
-      "city": "Bucharest",
-      "latitude": 44.4268,
-      "longitude": 26.1025,
-      "timestamp": "2026-06-15T14:59:03.492655",
-      "current": {
-        "time": "2026-06-15T17:45",
-        "interval": 900,
-        "temperature_2m": 27.0,
-        "relative_humidity_2m": 40,
-        "apparent_temperature": 26.0,
-        "weather_code": 2,
-        "wind_speed_10m": 11.5,
-        "wind_direction_10m": 272
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Romania",
-      "country_code": "RO",
-      "city": "Sibiu",
-      "latitude": 45.7928,
-      "longitude": 24.1433,
-      "timestamp": "2026-06-15T14:59:03.530499",
-      "current": {
-        "time": "2026-06-15T17:45",
-        "interval": 900,
-        "temperature_2m": 17.3,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 15.5,
-        "weather_code": 2,
-        "wind_speed_10m": 14.2,
-        "wind_direction_10m": 306
-      },
-      "history_24h": null
-    },
     {
       "country": "Romania",
       "country_code": "RO",
       "city": "Timisoara",
       "latitude": 45.7537,
       "longitude": 21.2251,
-      "timestamp": "2026-06-15T14:59:03.536105",
+      "timestamp": "2026-06-16T13:24:12.299731",
       "current": {
-        "time": "2026-06-15T17:45",
+        "time": "2026-06-16T16:15",
         "interval": 900,
-        "temperature_2m": 18.1,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 18.4,
-        "weather_code": 3,
-        "wind_speed_10m": 4.3,
-        "wind_direction_10m": 243
+        "temperature_2m": 26.5,
+        "relative_humidity_2m": 40,
+        "apparent_temperature": 27.1,
+        "weather_code": 0,
+        "wind_speed_10m": 7.2,
+        "wind_direction_10m": 255
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Bucharest",
+      "latitude": 44.4268,
+      "longitude": 26.1025,
+      "timestamp": "2026-06-16T13:24:12.303041",
+      "current": {
+        "time": "2026-06-16T16:15",
+        "interval": 900,
+        "temperature_2m": 26.9,
+        "relative_humidity_2m": 31,
+        "apparent_temperature": 26.3,
+        "weather_code": 2,
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 308
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Cluj-Napoca",
       "latitude": 46.7712,
       "longitude": 23.6236,
-      "timestamp": "2026-06-15T14:59:04.588653",
+      "timestamp": "2026-06-16T13:24:12.305133",
       "current": {
-        "time": "2026-06-15T17:45",
+        "time": "2026-06-16T16:15",
         "interval": 900,
-        "temperature_2m": 19.7,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 16.2,
-        "weather_code": 2,
-        "wind_speed_10m": 18.4,
-        "wind_direction_10m": 282
+        "temperature_2m": 24.2,
+        "relative_humidity_2m": 29,
+        "apparent_temperature": 21.0,
+        "weather_code": 1,
+        "wind_speed_10m": 17.4,
+        "wind_direction_10m": 300
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Brasov",
       "latitude": 45.6427,
       "longitude": 25.5887,
-      "timestamp": "2026-06-15T14:59:04.591344",
+      "timestamp": "2026-06-16T13:24:12.310261",
       "current": {
-        "time": "2026-06-15T17:45",
+        "time": "2026-06-16T16:15",
         "interval": 900,
-        "temperature_2m": 16.1,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 14.6,
-        "weather_code": 3,
-        "wind_speed_10m": 10.5,
-        "wind_direction_10m": 297
+        "temperature_2m": 21.1,
+        "relative_humidity_2m": 37,
+        "apparent_temperature": 19.8,
+        "weather_code": 0,
+        "wind_speed_10m": 9.9,
+        "wind_direction_10m": 303
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Sibiu",
+      "latitude": 45.7928,
+      "longitude": 24.1433,
+      "timestamp": "2026-06-16T13:24:12.329671",
+      "current": {
+        "time": "2026-06-16T16:15",
+        "interval": 900,
+        "temperature_2m": 23.4,
+        "relative_humidity_2m": 34,
+        "apparent_temperature": 21.4,
+        "weather_code": 0,
+        "wind_speed_10m": 15.0,
+        "wind_direction_10m": 300
       },
       "history_24h": null
     }
