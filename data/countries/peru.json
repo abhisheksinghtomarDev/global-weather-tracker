@@ -1,42 +1,42 @@
 {
   "country": "Peru",
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "cities": [
-    {
-      "country": "Peru",
-      "country_code": "PE",
-      "city": "Lima",
-      "latitude": -12.0464,
-      "longitude": -77.0428,
-      "timestamp": "2026-06-16T13:24:11.915153",
-      "current": {
-        "time": "2026-06-16T08:15",
-        "interval": 900,
-        "temperature_2m": 20.7,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 22.1,
-        "weather_code": 1,
-        "wind_speed_10m": 6.5,
-        "wind_direction_10m": 90
-      },
-      "history_24h": null
-    },
     {
       "country": "Peru",
       "country_code": "PE",
       "city": "Cusco",
       "latitude": -13.5319,
       "longitude": -71.9675,
-      "timestamp": "2026-06-16T13:24:11.922253",
+      "timestamp": "2026-06-17T12:46:24.426576",
       "current": {
-        "time": "2026-06-16T08:15",
+        "time": "2026-06-17T07:45",
         "interval": 900,
-        "temperature_2m": 9.1,
+        "temperature_2m": 7.3,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 6.2,
+        "weather_code": 3,
+        "wind_speed_10m": 0.3,
+        "wind_direction_10m": 45
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Lima",
+      "latitude": -12.0464,
+      "longitude": -77.0428,
+      "timestamp": "2026-06-17T12:46:24.428655",
+      "current": {
+        "time": "2026-06-17T07:45",
+        "interval": 900,
+        "temperature_2m": 20.6,
         "relative_humidity_2m": 78,
-        "apparent_temperature": 7.7,
-        "weather_code": 1,
-        "wind_speed_10m": 2.3,
-        "wind_direction_10m": 86
+        "apparent_temperature": 22.1,
+        "weather_code": 3,
+        "wind_speed_10m": 5.1,
+        "wind_direction_10m": 96
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Arequipa",
       "latitude": -16.409,
       "longitude": -71.5375,
-      "timestamp": "2026-06-16T13:24:11.926000",
+      "timestamp": "2026-06-17T12:46:24.432276",
       "current": {
-        "time": "2026-06-16T08:15",
+        "time": "2026-06-17T07:45",
         "interval": 900,
-        "temperature_2m": 18.2,
-        "relative_humidity_2m": 23,
-        "apparent_temperature": 15.1,
-        "weather_code": 0,
-        "wind_speed_10m": 3.5,
-        "wind_direction_10m": 102
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Peru",
-      "country_code": "PE",
-      "city": "Machu Picchu",
-      "latitude": -13.1631,
-      "longitude": -72.545,
-      "timestamp": "2026-06-16T13:24:11.956664",
-      "current": {
-        "time": "2026-06-16T08:15",
-        "interval": 900,
-        "temperature_2m": 15.5,
-        "relative_humidity_2m": 60,
-        "apparent_temperature": 14.9,
-        "weather_code": 3,
-        "wind_speed_10m": 0.7,
-        "wind_direction_10m": 360
+        "temperature_2m": 14.8,
+        "relative_humidity_2m": 34,
+        "apparent_temperature": 11.7,
+        "weather_code": 1,
+        "wind_speed_10m": 6.0,
+        "wind_direction_10m": 93
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Trujillo",
       "latitude": -8.1116,
       "longitude": -79.0288,
-      "timestamp": "2026-06-16T13:24:11.962859",
+      "timestamp": "2026-06-17T12:46:24.437935",
       "current": {
-        "time": "2026-06-16T08:15",
+        "time": "2026-06-17T07:45",
         "interval": 900,
-        "temperature_2m": 23.0,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 24.9,
-        "weather_code": 0,
-        "wind_speed_10m": 6.2,
-        "wind_direction_10m": 98
+        "temperature_2m": 22.3,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 23.8,
+        "weather_code": 1,
+        "wind_speed_10m": 9.9,
+        "wind_direction_10m": 69
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Machu Picchu",
+      "latitude": -13.1631,
+      "longitude": -72.545,
+      "timestamp": "2026-06-17T12:46:24.444235",
+      "current": {
+        "time": "2026-06-17T07:45",
+        "interval": 900,
+        "temperature_2m": 13.3,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 12.3,
+        "weather_code": 2,
+        "wind_speed_10m": 2.0,
+        "wind_direction_10m": 90
       },
       "history_24h": null
     }
