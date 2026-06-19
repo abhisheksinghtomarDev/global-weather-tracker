@@ -1,6 +1,6 @@
 {
   "country": "Ireland",
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "cities": [
     {
       "country": "Ireland",
@@ -8,35 +8,16 @@
       "city": "Dublin",
       "latitude": 53.3498,
       "longitude": -6.2603,
-      "timestamp": "2026-06-18T12:18:20.825387",
+      "timestamp": "2026-06-19T12:41:36.058564",
       "current": {
-        "time": "2026-06-18T13:15",
+        "time": "2026-06-19T13:30",
         "interval": 900,
-        "temperature_2m": 20.1,
-        "relative_humidity_2m": 78,
-        "apparent_temperature": 20.8,
-        "weather_code": 1,
-        "wind_speed_10m": 18.0,
-        "wind_direction_10m": 215
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Ireland",
-      "country_code": "IE",
-      "city": "Galway",
-      "latitude": 53.2707,
-      "longitude": -9.0568,
-      "timestamp": "2026-06-18T12:18:20.836118",
-      "current": {
-        "time": "2026-06-18T13:15",
-        "interval": 900,
-        "temperature_2m": 15.5,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": 15.1,
-        "weather_code": 53,
+        "temperature_2m": 18.2,
+        "relative_humidity_2m": 87,
+        "apparent_temperature": 18.3,
+        "weather_code": 51,
         "wind_speed_10m": 13.7,
-        "wind_direction_10m": 225
+        "wind_direction_10m": 245
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Cork",
       "latitude": 51.8969,
       "longitude": -8.4863,
-      "timestamp": "2026-06-18T12:18:20.837579",
+      "timestamp": "2026-06-19T12:41:36.061004",
       "current": {
-        "time": "2026-06-18T13:15",
+        "time": "2026-06-19T13:30",
         "interval": 900,
-        "temperature_2m": 16.6,
-        "relative_humidity_2m": 96,
-        "apparent_temperature": 16.2,
-        "weather_code": 51,
-        "wind_speed_10m": 16.9,
-        "wind_direction_10m": 197
+        "temperature_2m": 16.8,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 16.7,
+        "weather_code": 2,
+        "wind_speed_10m": 12.6,
+        "wind_direction_10m": 228
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Galway",
+      "latitude": 53.2707,
+      "longitude": -9.0568,
+      "timestamp": "2026-06-19T12:41:36.063152",
+      "current": {
+        "time": "2026-06-19T13:30",
+        "interval": 900,
+        "temperature_2m": 17.5,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 15.7,
+        "weather_code": 1,
+        "wind_speed_10m": 19.4,
+        "wind_direction_10m": 232
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Limerick",
       "latitude": 52.668,
       "longitude": -8.6305,
-      "timestamp": "2026-06-18T12:18:20.848479",
+      "timestamp": "2026-06-19T12:41:36.068429",
       "current": {
-        "time": "2026-06-18T13:15",
+        "time": "2026-06-19T13:30",
         "interval": 900,
-        "temperature_2m": 18.6,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 18.6,
-        "weather_code": 61,
+        "temperature_2m": 17.9,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 16.7,
+        "weather_code": 3,
         "wind_speed_10m": 13.7,
-        "wind_direction_10m": 189
+        "wind_direction_10m": 260
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Belfast",
       "latitude": 54.5973,
       "longitude": -5.9301,
-      "timestamp": "2026-06-18T12:18:20.869429",
+      "timestamp": "2026-06-19T12:41:36.071285",
       "current": {
-        "time": "2026-06-18T13:15",
+        "time": "2026-06-19T13:30",
         "interval": 900,
-        "temperature_2m": 17.7,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 18.0,
-        "weather_code": 3,
-        "wind_speed_10m": 9.7,
-        "wind_direction_10m": 182
+        "temperature_2m": 16.8,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 17.0,
+        "weather_code": 53,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 246
       },
       "history_24h": null
     }
