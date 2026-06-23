@@ -1,6 +1,6 @@
 {
   "country": "Portugal",
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "cities": [
     {
       "country": "Portugal",
@@ -8,16 +8,16 @@
       "city": "Lisbon",
       "latitude": 38.7223,
       "longitude": -9.1393,
-      "timestamp": "2026-06-22T14:29:47.661954",
+      "timestamp": "2026-06-23T11:53:50.047769",
       "current": {
-        "time": "2026-06-22T15:15",
+        "time": "2026-06-23T12:45",
         "interval": 900,
-        "temperature_2m": 27.7,
-        "relative_humidity_2m": 49,
-        "apparent_temperature": 29.6,
-        "weather_code": 3,
-        "wind_speed_10m": 9.0,
-        "wind_direction_10m": 2
+        "temperature_2m": 25.3,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 29.3,
+        "weather_code": 2,
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 111
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Porto",
       "latitude": 41.1579,
       "longitude": -8.6291,
-      "timestamp": "2026-06-22T14:29:47.672618",
+      "timestamp": "2026-06-23T11:53:50.054569",
       "current": {
-        "time": "2026-06-22T15:15",
+        "time": "2026-06-23T12:45",
         "interval": 900,
-        "temperature_2m": 21.7,
-        "relative_humidity_2m": 78,
-        "apparent_temperature": 23.5,
-        "weather_code": 3,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 241
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Portugal",
-      "country_code": "PT",
-      "city": "Algarve",
-      "latitude": 37.0194,
-      "longitude": -7.9322,
-      "timestamp": "2026-06-22T14:29:47.675488",
-      "current": {
-        "time": "2026-06-22T15:15",
-        "interval": 900,
-        "temperature_2m": 24.3,
-        "relative_humidity_2m": 70,
-        "apparent_temperature": 26.8,
-        "weather_code": 3,
-        "wind_speed_10m": 9.2,
-        "wind_direction_10m": 206
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Portugal",
-      "country_code": "PT",
-      "city": "Coimbra",
-      "latitude": 40.2033,
-      "longitude": -8.4103,
-      "timestamp": "2026-06-22T14:29:47.677035",
-      "current": {
-        "time": "2026-06-22T15:15",
-        "interval": 900,
-        "temperature_2m": 25.4,
+        "temperature_2m": 23.9,
         "relative_humidity_2m": 73,
-        "apparent_temperature": 27.9,
+        "apparent_temperature": 25.9,
         "weather_code": 3,
-        "wind_speed_10m": 10.6,
-        "wind_direction_10m": 280
+        "wind_speed_10m": 11.4,
+        "wind_direction_10m": 235
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Sintra",
       "latitude": 38.7976,
       "longitude": -9.3908,
-      "timestamp": "2026-06-22T14:29:47.682015",
+      "timestamp": "2026-06-23T11:53:50.058720",
       "current": {
-        "time": "2026-06-22T15:15",
+        "time": "2026-06-23T12:45",
         "interval": 900,
-        "temperature_2m": 21.6,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 22.2,
+        "temperature_2m": 26.8,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 29.4,
         "weather_code": 3,
-        "wind_speed_10m": 13.4,
-        "wind_direction_10m": 340
+        "wind_speed_10m": 7.8,
+        "wind_direction_10m": 167
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Algarve",
+      "latitude": 37.0194,
+      "longitude": -7.9322,
+      "timestamp": "2026-06-23T11:53:50.060636",
+      "current": {
+        "time": "2026-06-23T12:45",
+        "interval": 900,
+        "temperature_2m": 25.8,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 29.0,
+        "weather_code": 3,
+        "wind_speed_10m": 13.5,
+        "wind_direction_10m": 138
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Coimbra",
+      "latitude": 40.2033,
+      "longitude": -8.4103,
+      "timestamp": "2026-06-23T11:53:50.061829",
+      "current": {
+        "time": "2026-06-23T12:45",
+        "interval": 900,
+        "temperature_2m": 27.7,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 32.5,
+        "weather_code": 3,
+        "wind_speed_10m": 5.3,
+        "wind_direction_10m": 298
       },
       "history_24h": null
     }

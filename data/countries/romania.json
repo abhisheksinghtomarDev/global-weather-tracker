@@ -1,23 +1,23 @@
 {
   "country": "Romania",
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "cities": [
     {
       "country": "Romania",
       "country_code": "RO",
-      "city": "Brasov",
-      "latitude": 45.6427,
-      "longitude": 25.5887,
-      "timestamp": "2026-06-22T14:29:48.194872",
+      "city": "Cluj-Napoca",
+      "latitude": 46.7712,
+      "longitude": 23.6236,
+      "timestamp": "2026-06-23T11:53:50.581693",
       "current": {
-        "time": "2026-06-22T17:15",
+        "time": "2026-06-23T14:45",
         "interval": 900,
-        "temperature_2m": 24.2,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 27.4,
-        "weather_code": 80,
-        "wind_speed_10m": 1.8,
-        "wind_direction_10m": 281
+        "temperature_2m": 27.8,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 30.2,
+        "weather_code": 3,
+        "wind_speed_10m": 3.7,
+        "wind_direction_10m": 61
       },
       "history_24h": null
     },
@@ -27,35 +27,35 @@
       "city": "Bucharest",
       "latitude": 44.4268,
       "longitude": 26.1025,
-      "timestamp": "2026-06-22T14:29:48.198819",
+      "timestamp": "2026-06-23T11:53:50.589746",
       "current": {
-        "time": "2026-06-22T17:15",
+        "time": "2026-06-23T14:45",
         "interval": 900,
-        "temperature_2m": 31.9,
-        "relative_humidity_2m": 33,
+        "temperature_2m": 29.7,
+        "relative_humidity_2m": 45,
         "apparent_temperature": 32.3,
-        "weather_code": 1,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 94
+        "weather_code": 3,
+        "wind_speed_10m": 2.3,
+        "wind_direction_10m": 39
       },
       "history_24h": null
     },
     {
       "country": "Romania",
       "country_code": "RO",
-      "city": "Cluj-Napoca",
-      "latitude": 46.7712,
-      "longitude": 23.6236,
-      "timestamp": "2026-06-22T14:29:48.202495",
+      "city": "Brasov",
+      "latitude": 45.6427,
+      "longitude": 25.5887,
+      "timestamp": "2026-06-23T11:53:50.594977",
       "current": {
-        "time": "2026-06-22T17:15",
+        "time": "2026-06-23T14:45",
         "interval": 900,
-        "temperature_2m": 25.2,
+        "temperature_2m": 23.7,
         "relative_humidity_2m": 72,
-        "apparent_temperature": 27.8,
+        "apparent_temperature": 26.0,
         "weather_code": 3,
-        "wind_speed_10m": 8.0,
-        "wind_direction_10m": 306
+        "wind_speed_10m": 5.2,
+        "wind_direction_10m": 16
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Timisoara",
       "latitude": 45.7537,
       "longitude": 21.2251,
-      "timestamp": "2026-06-22T14:29:48.216857",
+      "timestamp": "2026-06-23T11:53:50.617239",
       "current": {
-        "time": "2026-06-22T17:15",
+        "time": "2026-06-23T14:45",
         "interval": 900,
-        "temperature_2m": 30.0,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 32.1,
-        "weather_code": 3,
-        "wind_speed_10m": 8.3,
-        "wind_direction_10m": 85
+        "temperature_2m": 31.8,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 34.9,
+        "weather_code": 0,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 346
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Sibiu",
       "latitude": 45.7928,
       "longitude": 24.1433,
-      "timestamp": "2026-06-22T14:29:48.255026",
+      "timestamp": "2026-06-23T11:53:50.621133",
       "current": {
-        "time": "2026-06-22T17:15",
+        "time": "2026-06-23T14:45",
         "interval": 900,
-        "temperature_2m": 22.8,
-        "relative_humidity_2m": 86,
-        "apparent_temperature": 26.1,
+        "temperature_2m": 25.1,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 28.2,
         "weather_code": 3,
-        "wind_speed_10m": 5.2,
-        "wind_direction_10m": 236
+        "wind_speed_10m": 1.1,
+        "wind_direction_10m": 270
       },
       "history_24h": null
     }
