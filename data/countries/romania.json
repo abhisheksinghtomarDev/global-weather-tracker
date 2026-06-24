@@ -1,42 +1,42 @@
 {
   "country": "Romania",
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "cities": [
-    {
-      "country": "Romania",
-      "country_code": "RO",
-      "city": "Cluj-Napoca",
-      "latitude": 46.7712,
-      "longitude": 23.6236,
-      "timestamp": "2026-06-23T11:53:50.581693",
-      "current": {
-        "time": "2026-06-23T14:45",
-        "interval": 900,
-        "temperature_2m": 27.8,
-        "relative_humidity_2m": 50,
-        "apparent_temperature": 30.2,
-        "weather_code": 3,
-        "wind_speed_10m": 3.7,
-        "wind_direction_10m": 61
-      },
-      "history_24h": null
-    },
     {
       "country": "Romania",
       "country_code": "RO",
       "city": "Bucharest",
       "latitude": 44.4268,
       "longitude": 26.1025,
-      "timestamp": "2026-06-23T11:53:50.589746",
+      "timestamp": "2026-06-24T11:40:09.327569",
       "current": {
-        "time": "2026-06-23T14:45",
+        "time": "2026-06-24T14:30",
         "interval": 900,
-        "temperature_2m": 29.7,
-        "relative_humidity_2m": 45,
-        "apparent_temperature": 32.3,
+        "temperature_2m": 28.3,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 31.5,
         "weather_code": 3,
-        "wind_speed_10m": 2.3,
-        "wind_direction_10m": 39
+        "wind_speed_10m": 4.1,
+        "wind_direction_10m": 322
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Cluj-Napoca",
+      "latitude": 46.7712,
+      "longitude": 23.6236,
+      "timestamp": "2026-06-24T11:40:09.328845",
+      "current": {
+        "time": "2026-06-24T14:30",
+        "interval": 900,
+        "temperature_2m": 28.8,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 31.7,
+        "weather_code": 2,
+        "wind_speed_10m": 4.1,
+        "wind_direction_10m": 45
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Brasov",
       "latitude": 45.6427,
       "longitude": 25.5887,
-      "timestamp": "2026-06-23T11:53:50.594977",
+      "timestamp": "2026-06-24T11:40:09.336195",
       "current": {
-        "time": "2026-06-23T14:45",
+        "time": "2026-06-24T14:30",
         "interval": 900,
-        "temperature_2m": 23.7,
-        "relative_humidity_2m": 72,
-        "apparent_temperature": 26.0,
+        "temperature_2m": 24.8,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 28.0,
         "weather_code": 3,
-        "wind_speed_10m": 5.2,
-        "wind_direction_10m": 16
+        "wind_speed_10m": 0.8,
+        "wind_direction_10m": 333
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Timisoara",
       "latitude": 45.7537,
       "longitude": 21.2251,
-      "timestamp": "2026-06-23T11:53:50.617239",
+      "timestamp": "2026-06-24T11:40:09.351993",
       "current": {
-        "time": "2026-06-23T14:45",
+        "time": "2026-06-24T14:30",
         "interval": 900,
-        "temperature_2m": 31.8,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 34.9,
+        "temperature_2m": 33.1,
+        "relative_humidity_2m": 32,
+        "apparent_temperature": 35.1,
         "weather_code": 0,
         "wind_speed_10m": 9.7,
-        "wind_direction_10m": 346
+        "wind_direction_10m": 339
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Sibiu",
       "latitude": 45.7928,
       "longitude": 24.1433,
-      "timestamp": "2026-06-23T11:53:50.621133",
+      "timestamp": "2026-06-24T11:40:09.354686",
       "current": {
-        "time": "2026-06-23T14:45",
+        "time": "2026-06-24T14:30",
         "interval": 900,
-        "temperature_2m": 25.1,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 28.2,
+        "temperature_2m": 27.5,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 31.2,
         "weather_code": 3,
-        "wind_speed_10m": 1.1,
-        "wind_direction_10m": 270
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 96
       },
       "history_24h": null
     }
