@@ -1,61 +1,42 @@
 {
   "country": "United Kingdom",
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "cities": [
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "city": "Glasgow",
-      "latitude": 55.8642,
-      "longitude": -4.2518,
-      "timestamp": "2026-06-24T11:40:07.503959",
-      "current": {
-        "time": "2026-06-24T12:30",
-        "interval": 900,
-        "temperature_2m": 20.7,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 20.9,
-        "weather_code": 1,
-        "wind_speed_10m": 11.2,
-        "wind_direction_10m": 261
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "city": "Edinburgh",
-      "latitude": 55.9533,
-      "longitude": -3.1883,
-      "timestamp": "2026-06-24T11:40:08.096308",
-      "current": {
-        "time": "2026-06-24T12:30",
-        "interval": 900,
-        "temperature_2m": 22.3,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 22.8,
-        "weather_code": 0,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 268
-      },
-      "history_24h": null
-    },
     {
       "country": "United Kingdom",
       "country_code": "GB",
       "city": "Manchester",
       "latitude": 53.4808,
       "longitude": -2.2426,
-      "timestamp": "2026-06-24T11:40:08.114719",
+      "timestamp": "2026-06-25T11:33:38.056115",
       "current": {
-        "time": "2026-06-24T12:30",
+        "time": "2026-06-25T12:30",
         "interval": 900,
-        "temperature_2m": 28.0,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 31.1,
+        "temperature_2m": 30.4,
+        "relative_humidity_2m": 40,
+        "apparent_temperature": 31.2,
         "weather_code": 0,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 273
+        "wind_speed_10m": 16.2,
+        "wind_direction_10m": 135
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Glasgow",
+      "latitude": 55.8642,
+      "longitude": -4.2518,
+      "timestamp": "2026-06-25T11:33:38.058903",
+      "current": {
+        "time": "2026-06-25T12:30",
+        "interval": 900,
+        "temperature_2m": 25.4,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 26.5,
+        "weather_code": 0,
+        "wind_speed_10m": 13.3,
+        "wind_direction_10m": 62
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "London",
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "timestamp": "2026-06-24T11:40:08.125307",
+      "timestamp": "2026-06-25T11:33:38.070274",
       "current": {
-        "time": "2026-06-24T12:30",
+        "time": "2026-06-25T12:30",
         "interval": 900,
-        "temperature_2m": 33.0,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 36.7,
+        "temperature_2m": 29.7,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 31.2,
         "weather_code": 0,
-        "wind_speed_10m": 9.0,
-        "wind_direction_10m": 24
+        "wind_speed_10m": 20.9,
+        "wind_direction_10m": 95
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Birmingham",
       "latitude": 52.4862,
       "longitude": -1.8904,
-      "timestamp": "2026-06-24T11:40:08.549479",
+      "timestamp": "2026-06-25T11:33:38.084784",
       "current": {
-        "time": "2026-06-24T12:30",
+        "time": "2026-06-25T12:30",
         "interval": 900,
-        "temperature_2m": 29.1,
+        "temperature_2m": 30.1,
         "relative_humidity_2m": 45,
-        "apparent_temperature": 32.3,
+        "apparent_temperature": 31.4,
         "weather_code": 0,
-        "wind_speed_10m": 4.3,
-        "wind_direction_10m": 10
+        "wind_speed_10m": 17.6,
+        "wind_direction_10m": 107
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Edinburgh",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "timestamp": "2026-06-25T11:33:38.089986",
+      "current": {
+        "time": "2026-06-25T12:30",
+        "interval": 900,
+        "temperature_2m": 19.0,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 19.2,
+        "weather_code": 0,
+        "wind_speed_10m": 16.2,
+        "wind_direction_10m": 56
       },
       "history_24h": null
     }
