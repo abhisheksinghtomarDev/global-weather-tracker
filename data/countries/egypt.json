@@ -1,6 +1,6 @@
 {
   "country": "Egypt",
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "cities": [
     {
       "country": "Egypt",
@@ -8,16 +8,16 @@
       "city": "Cairo",
       "latitude": 30.0444,
       "longitude": 31.2357,
-      "timestamp": "2026-06-25T11:33:39.044095",
+      "timestamp": "2026-06-26T11:40:12.691095",
       "current": {
-        "time": "2026-06-25T14:30",
+        "time": "2026-06-26T14:30",
         "interval": 900,
-        "temperature_2m": 34.8,
-        "relative_humidity_2m": 28,
-        "apparent_temperature": 36.9,
-        "weather_code": 0,
-        "wind_speed_10m": 9.5,
-        "wind_direction_10m": 295
+        "temperature_2m": 35.2,
+        "relative_humidity_2m": 32,
+        "apparent_temperature": 37.9,
+        "weather_code": 1,
+        "wind_speed_10m": 10.4,
+        "wind_direction_10m": 304
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Alexandria",
       "latitude": 31.2001,
       "longitude": 29.9187,
-      "timestamp": "2026-06-25T11:33:39.058388",
+      "timestamp": "2026-06-26T11:40:12.692531",
       "current": {
-        "time": "2026-06-25T14:30",
+        "time": "2026-06-26T14:30",
         "interval": 900,
-        "temperature_2m": 29.1,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 33.6,
-        "weather_code": 0,
-        "wind_speed_10m": 15.3,
-        "wind_direction_10m": 297
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Egypt",
-      "country_code": "EG",
-      "city": "Luxor",
-      "latitude": 25.6872,
-      "longitude": 32.6396,
-      "timestamp": "2026-06-25T11:33:39.064516",
-      "current": {
-        "time": "2026-06-25T14:30",
-        "interval": 900,
-        "temperature_2m": 39.9,
-        "relative_humidity_2m": 12,
-        "apparent_temperature": 38.2,
-        "weather_code": 0,
-        "wind_speed_10m": 16.8,
-        "wind_direction_10m": 318
+        "temperature_2m": 28.4,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 33.1,
+        "weather_code": 1,
+        "wind_speed_10m": 14.6,
+        "wind_direction_10m": 303
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Sharm El Sheikh",
       "latitude": 27.9158,
       "longitude": 34.33,
-      "timestamp": "2026-06-25T11:33:39.069550",
+      "timestamp": "2026-06-26T11:40:12.696884",
       "current": {
-        "time": "2026-06-25T14:30",
+        "time": "2026-06-26T14:30",
         "interval": 900,
-        "temperature_2m": 36.2,
-        "relative_humidity_2m": 27,
-        "apparent_temperature": 37.5,
+        "temperature_2m": 36.9,
+        "relative_humidity_2m": 21,
+        "apparent_temperature": 37.1,
         "weather_code": 0,
-        "wind_speed_10m": 13.6,
-        "wind_direction_10m": 98
+        "wind_speed_10m": 14.6,
+        "wind_direction_10m": 106
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Luxor",
+      "latitude": 25.6872,
+      "longitude": 32.6396,
+      "timestamp": "2026-06-26T11:40:12.703634",
+      "current": {
+        "time": "2026-06-26T14:30",
+        "interval": 900,
+        "temperature_2m": 39.6,
+        "relative_humidity_2m": 9,
+        "apparent_temperature": 36.9,
+        "weather_code": 0,
+        "wind_speed_10m": 17.4,
+        "wind_direction_10m": 323
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Aswan",
       "latitude": 24.0889,
       "longitude": 32.8998,
-      "timestamp": "2026-06-25T11:33:39.114325",
+      "timestamp": "2026-06-26T11:40:12.704909",
       "current": {
-        "time": "2026-06-25T14:30",
+        "time": "2026-06-26T14:30",
         "interval": 900,
-        "temperature_2m": 39.3,
-        "relative_humidity_2m": 11,
-        "apparent_temperature": 36.9,
+        "temperature_2m": 38.7,
+        "relative_humidity_2m": 13,
+        "apparent_temperature": 36.7,
         "weather_code": 0,
-        "wind_speed_10m": 18.4,
-        "wind_direction_10m": 328
+        "wind_speed_10m": 18.2,
+        "wind_direction_10m": 332
       },
       "history_24h": null
     }
