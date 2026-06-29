@@ -1,42 +1,42 @@
 {
   "country": "UAE",
-  "date": "2026-06-27",
+  "date": "2026-06-29",
   "cities": [
-    {
-      "country": "UAE",
-      "country_code": "AE",
-      "city": "Abu Dhabi",
-      "latitude": 24.4539,
-      "longitude": 54.3773,
-      "timestamp": "2026-06-27T10:53:30.289870",
-      "current": {
-        "time": "2026-06-27T14:45",
-        "interval": 900,
-        "temperature_2m": 35.9,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 39.3,
-        "weather_code": 0,
-        "wind_speed_10m": 16.9,
-        "wind_direction_10m": 326
-      },
-      "history_24h": null
-    },
     {
       "country": "UAE",
       "country_code": "AE",
       "city": "Dubai",
       "latitude": 25.2048,
       "longitude": 55.2708,
-      "timestamp": "2026-06-27T10:53:30.292413",
+      "timestamp": "2026-06-29T12:59:32.920080",
       "current": {
-        "time": "2026-06-27T14:45",
+        "time": "2026-06-29T16:45",
         "interval": 900,
-        "temperature_2m": 35.1,
-        "relative_humidity_2m": 56,
+        "temperature_2m": 34.9,
+        "relative_humidity_2m": 60,
         "apparent_temperature": 40.2,
         "weather_code": 0,
-        "wind_speed_10m": 18.0,
-        "wind_direction_10m": 328
+        "wind_speed_10m": 13.8,
+        "wind_direction_10m": 290
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Abu Dhabi",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "timestamp": "2026-06-29T12:59:32.932988",
+      "current": {
+        "time": "2026-06-29T16:45",
+        "interval": 900,
+        "temperature_2m": 35.4,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 39.6,
+        "weather_code": 0,
+        "wind_speed_10m": 13.6,
+        "wind_direction_10m": 305
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Sharjah",
       "latitude": 25.3463,
       "longitude": 55.4209,
-      "timestamp": "2026-06-27T10:53:30.293868",
+      "timestamp": "2026-06-29T12:59:32.935070",
       "current": {
-        "time": "2026-06-27T14:45",
+        "time": "2026-06-29T16:45",
         "interval": 900,
         "temperature_2m": 35.1,
-        "relative_humidity_2m": 60,
-        "apparent_temperature": 41.3,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 39.1,
         "weather_code": 0,
-        "wind_speed_10m": 16.7,
-        "wind_direction_10m": 327
+        "wind_speed_10m": 11.5,
+        "wind_direction_10m": 280
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Al Ain",
       "latitude": 24.2075,
       "longitude": 55.7447,
-      "timestamp": "2026-06-27T10:53:30.466836",
+      "timestamp": "2026-06-29T12:59:32.940632",
       "current": {
-        "time": "2026-06-27T14:45",
+        "time": "2026-06-29T16:45",
         "interval": 900,
-        "temperature_2m": 42.2,
-        "relative_humidity_2m": 14,
-        "apparent_temperature": 41.3,
+        "temperature_2m": 43.2,
+        "relative_humidity_2m": 15,
+        "apparent_temperature": 41.7,
         "weather_code": 0,
-        "wind_speed_10m": 11.9,
-        "wind_direction_10m": 280
+        "wind_speed_10m": 12.6,
+        "wind_direction_10m": 299
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Ras Al Khaimah",
       "latitude": 25.7895,
       "longitude": 55.9432,
-      "timestamp": "2026-06-27T10:53:30.471295",
+      "timestamp": "2026-06-29T12:59:32.942070",
       "current": {
-        "time": "2026-06-27T14:45",
+        "time": "2026-06-29T16:45",
         "interval": 900,
-        "temperature_2m": 34.7,
-        "relative_humidity_2m": 67,
+        "temperature_2m": 35.8,
+        "relative_humidity_2m": 49,
         "apparent_temperature": 40.8,
         "weather_code": 0,
-        "wind_speed_10m": 23.5,
-        "wind_direction_10m": 342
+        "wind_speed_10m": 4.9,
+        "wind_direction_10m": 327
       },
       "history_24h": null
     }
