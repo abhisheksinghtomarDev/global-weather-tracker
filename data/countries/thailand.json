@@ -1,6 +1,6 @@
 {
   "country": "Thailand",
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "cities": [
     {
       "country": "Thailand",
@@ -8,35 +8,16 @@
       "city": "Chiang Mai",
       "latitude": 18.7883,
       "longitude": 98.9853,
-      "timestamp": "2026-07-02T11:27:32.429283",
+      "timestamp": "2026-07-03T11:27:10.585403",
       "current": {
-        "time": "2026-07-02T18:15",
+        "time": "2026-07-03T18:15",
         "interval": 900,
-        "temperature_2m": 26.6,
-        "relative_humidity_2m": 88,
+        "temperature_2m": 26.3,
+        "relative_humidity_2m": 89,
         "apparent_temperature": 32.2,
-        "weather_code": 95,
-        "wind_speed_10m": 5.2,
-        "wind_direction_10m": 166
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Thailand",
-      "country_code": "TH",
-      "city": "Bangkok",
-      "latitude": 13.7563,
-      "longitude": 100.5018,
-      "timestamp": "2026-07-02T11:27:32.430669",
-      "current": {
-        "time": "2026-07-02T18:15",
-        "interval": 900,
-        "temperature_2m": 29.7,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 34.8,
-        "weather_code": 3,
-        "wind_speed_10m": 7.7,
-        "wind_direction_10m": 219
+        "weather_code": 55,
+        "wind_speed_10m": 2.7,
+        "wind_direction_10m": 203
       },
       "history_24h": null
     },
@@ -46,16 +27,16 @@
       "city": "Phuket",
       "latitude": 7.8804,
       "longitude": 98.3923,
-      "timestamp": "2026-07-02T11:27:32.436470",
+      "timestamp": "2026-07-03T11:27:10.587055",
       "current": {
-        "time": "2026-07-02T18:15",
+        "time": "2026-07-03T18:15",
         "interval": 900,
-        "temperature_2m": 28.2,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 31.5,
+        "temperature_2m": 28.1,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 32.4,
         "weather_code": 3,
-        "wind_speed_10m": 16.8,
-        "wind_direction_10m": 266
+        "wind_speed_10m": 11.6,
+        "wind_direction_10m": 251
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Pattaya",
       "latitude": 12.9279,
       "longitude": 100.8844,
-      "timestamp": "2026-07-02T11:27:32.441127",
+      "timestamp": "2026-07-03T11:27:10.588370",
       "current": {
-        "time": "2026-07-02T18:15",
+        "time": "2026-07-03T18:15",
         "interval": 900,
-        "temperature_2m": 28.9,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 32.7,
-        "weather_code": 51,
+        "temperature_2m": 26.9,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 31.4,
+        "weather_code": 80,
         "wind_speed_10m": 16.6,
-        "wind_direction_10m": 221
+        "wind_direction_10m": 222
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Thailand",
+      "country_code": "TH",
+      "city": "Bangkok",
+      "latitude": 13.7563,
+      "longitude": 100.5018,
+      "timestamp": "2026-07-03T11:27:10.592127",
+      "current": {
+        "time": "2026-07-03T18:15",
+        "interval": 900,
+        "temperature_2m": 27.1,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 34.1,
+        "weather_code": 51,
+        "wind_speed_10m": 3.8,
+        "wind_direction_10m": 121
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Krabi",
       "latitude": 8.0863,
       "longitude": 98.9083,
-      "timestamp": "2026-07-02T11:27:32.446568",
+      "timestamp": "2026-07-03T11:27:10.594116",
       "current": {
-        "time": "2026-07-02T18:15",
+        "time": "2026-07-03T18:15",
         "interval": 900,
-        "temperature_2m": 28.0,
-        "relative_humidity_2m": 80,
-        "apparent_temperature": 31.9,
+        "temperature_2m": 29.0,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 32.9,
         "weather_code": 3,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 271
+        "wind_speed_10m": 13.8,
+        "wind_direction_10m": 253
       },
       "history_24h": null
     }

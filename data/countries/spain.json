@@ -1,42 +1,42 @@
 {
   "country": "Spain",
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "cities": [
-    {
-      "country": "Spain",
-      "country_code": "ES",
-      "city": "Barcelona",
-      "latitude": 41.3851,
-      "longitude": 2.1734,
-      "timestamp": "2026-07-02T11:27:32.295245",
-      "current": {
-        "time": "2026-07-02T13:15",
-        "interval": 900,
-        "temperature_2m": 30.6,
-        "relative_humidity_2m": 32,
-        "apparent_temperature": 31.6,
-        "weather_code": 0,
-        "wind_speed_10m": 12.4,
-        "wind_direction_10m": 163
-      },
-      "history_24h": null
-    },
     {
       "country": "Spain",
       "country_code": "ES",
       "city": "Madrid",
       "latitude": 40.4168,
       "longitude": -3.7038,
-      "timestamp": "2026-07-02T11:27:32.296578",
+      "timestamp": "2026-07-03T11:27:10.378547",
       "current": {
-        "time": "2026-07-02T13:15",
+        "time": "2026-07-03T13:15",
         "interval": 900,
-        "temperature_2m": 29.3,
-        "relative_humidity_2m": 14,
-        "apparent_temperature": 26.9,
+        "temperature_2m": 31.0,
+        "relative_humidity_2m": 23,
+        "apparent_temperature": 32.2,
         "weather_code": 0,
-        "wind_speed_10m": 16.1,
-        "wind_direction_10m": 56
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 58
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Barcelona",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "timestamp": "2026-07-03T11:27:10.393497",
+      "current": {
+        "time": "2026-07-03T13:15",
+        "interval": 900,
+        "temperature_2m": 30.1,
+        "relative_humidity_2m": 47,
+        "apparent_temperature": 32.7,
+        "weather_code": 0,
+        "wind_speed_10m": 14.7,
+        "wind_direction_10m": 169
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Valencia",
       "latitude": 39.4699,
       "longitude": -0.3763,
-      "timestamp": "2026-07-02T11:27:32.331962",
+      "timestamp": "2026-07-03T11:27:10.395041",
       "current": {
-        "time": "2026-07-02T13:15",
+        "time": "2026-07-03T13:15",
         "interval": 900,
-        "temperature_2m": 30.7,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 32.4,
-        "weather_code": 1,
-        "wind_speed_10m": 12.8,
-        "wind_direction_10m": 128
+        "temperature_2m": 33.7,
+        "relative_humidity_2m": 27,
+        "apparent_temperature": 34.8,
+        "weather_code": 0,
+        "wind_speed_10m": 12.0,
+        "wind_direction_10m": 129
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Seville",
       "latitude": 37.3891,
       "longitude": -5.9845,
-      "timestamp": "2026-07-02T11:27:32.382417",
+      "timestamp": "2026-07-03T11:27:10.425739",
       "current": {
-        "time": "2026-07-02T13:15",
+        "time": "2026-07-03T13:15",
         "interval": 900,
-        "temperature_2m": 36.3,
-        "relative_humidity_2m": 27,
-        "apparent_temperature": 39.7,
-        "weather_code": 1,
-        "wind_speed_10m": 2.9,
-        "wind_direction_10m": 210
+        "temperature_2m": 35.9,
+        "relative_humidity_2m": 32,
+        "apparent_temperature": 40.4,
+        "weather_code": 0,
+        "wind_speed_10m": 1.3,
+        "wind_direction_10m": 56
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Bilbao",
       "latitude": 43.263,
       "longitude": -2.935,
-      "timestamp": "2026-07-02T11:27:32.383710",
+      "timestamp": "2026-07-03T11:27:10.427152",
       "current": {
-        "time": "2026-07-02T13:15",
+        "time": "2026-07-03T13:15",
         "interval": 900,
-        "temperature_2m": 23.6,
-        "relative_humidity_2m": 58,
-        "apparent_temperature": 23.6,
+        "temperature_2m": 24.0,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 25.7,
         "weather_code": 3,
-        "wind_speed_10m": 13.7,
-        "wind_direction_10m": 337
+        "wind_speed_10m": 10.0,
+        "wind_direction_10m": 334
       },
       "history_24h": null
     }

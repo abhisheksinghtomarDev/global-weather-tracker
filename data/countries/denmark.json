@@ -1,6 +1,6 @@
 {
   "country": "Denmark",
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "cities": [
     {
       "country": "Denmark",
@@ -8,16 +8,16 @@
       "city": "Copenhagen",
       "latitude": 55.6761,
       "longitude": 12.5683,
-      "timestamp": "2026-07-02T11:27:33.383614",
+      "timestamp": "2026-07-03T11:27:13.688726",
       "current": {
-        "time": "2026-07-02T13:15",
+        "time": "2026-07-03T13:15",
         "interval": 900,
-        "temperature_2m": 19.3,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 18.0,
-        "weather_code": 51,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 199
+        "temperature_2m": 15.4,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 11.0,
+        "weather_code": 3,
+        "wind_speed_10m": 33.1,
+        "wind_direction_10m": 281
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Aarhus",
       "latitude": 56.1629,
       "longitude": 10.2039,
-      "timestamp": "2026-07-02T11:27:33.385793",
+      "timestamp": "2026-07-03T11:27:13.705903",
       "current": {
-        "time": "2026-07-02T13:15",
+        "time": "2026-07-03T13:15",
         "interval": 900,
-        "temperature_2m": 16.7,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 14.3,
-        "weather_code": 51,
-        "wind_speed_10m": 29.2,
-        "wind_direction_10m": 185
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Denmark",
-      "country_code": "DK",
-      "city": "Aalborg",
-      "latitude": 57.0488,
-      "longitude": 9.9217,
-      "timestamp": "2026-07-02T11:27:33.391101",
-      "current": {
-        "time": "2026-07-02T13:15",
-        "interval": 900,
-        "temperature_2m": 16.2,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 13.9,
-        "weather_code": 51,
-        "wind_speed_10m": 26.3,
-        "wind_direction_10m": 174
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Denmark",
-      "country_code": "DK",
-      "city": "Odense",
-      "latitude": 55.4038,
-      "longitude": 10.4027,
-      "timestamp": "2026-07-02T11:27:33.392517",
-      "current": {
-        "time": "2026-07-02T13:15",
-        "interval": 900,
-        "temperature_2m": 17.7,
-        "relative_humidity_2m": 91,
-        "apparent_temperature": 16.1,
-        "weather_code": 63,
-        "wind_speed_10m": 25.6,
-        "wind_direction_10m": 184
+        "temperature_2m": 15.9,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 11.0,
+        "weather_code": 3,
+        "wind_speed_10m": 36.0,
+        "wind_direction_10m": 288
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Billund",
       "latitude": 55.7304,
       "longitude": 9.1103,
-      "timestamp": "2026-07-02T11:27:33.402596",
+      "timestamp": "2026-07-03T11:27:13.771369",
       "current": {
-        "time": "2026-07-02T13:15",
+        "time": "2026-07-03T13:15",
         "interval": 900,
-        "temperature_2m": 17.0,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 16.8,
-        "weather_code": 53,
-        "wind_speed_10m": 16.9,
-        "wind_direction_10m": 211
+        "temperature_2m": 16.5,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 11.9,
+        "weather_code": 3,
+        "wind_speed_10m": 31.7,
+        "wind_direction_10m": 294
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "city": "Aalborg",
+      "latitude": 57.0488,
+      "longitude": 9.9217,
+      "timestamp": "2026-07-03T11:27:14.759119",
+      "current": {
+        "time": "2026-07-03T13:15",
+        "interval": 900,
+        "temperature_2m": 17.8,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 13.5,
+        "weather_code": 2,
+        "wind_speed_10m": 38.9,
+        "wind_direction_10m": 291
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "city": "Odense",
+      "latitude": 55.4038,
+      "longitude": 10.4027,
+      "timestamp": "2026-07-03T11:27:14.774034",
+      "current": {
+        "time": "2026-07-03T13:15",
+        "interval": 900,
+        "temperature_2m": 17.8,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 13.5,
+        "weather_code": 3,
+        "wind_speed_10m": 30.6,
+        "wind_direction_10m": 286
       },
       "history_24h": null
     }
