@@ -1,61 +1,42 @@
 {
   "country": "Malaysia",
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "cities": [
-    {
-      "country": "Malaysia",
-      "country_code": "MY",
-      "city": "Penang",
-      "latitude": 5.4141,
-      "longitude": 100.3288,
-      "timestamp": "2026-07-03T11:27:10.949176",
-      "current": {
-        "time": "2026-07-03T19:15",
-        "interval": 900,
-        "temperature_2m": 29.5,
-        "relative_humidity_2m": 80,
-        "apparent_temperature": 35.7,
-        "weather_code": 3,
-        "wind_speed_10m": 6.7,
-        "wind_direction_10m": 185
-      },
-      "history_24h": null
-    },
     {
       "country": "Malaysia",
       "country_code": "MY",
       "city": "Kuala Lumpur",
       "latitude": 3.139,
       "longitude": 101.6869,
-      "timestamp": "2026-07-03T11:27:10.950610",
+      "timestamp": "2026-07-04T10:49:48.642784",
       "current": {
-        "time": "2026-07-03T19:15",
+        "time": "2026-07-04T18:45",
         "interval": 900,
         "temperature_2m": 29.2,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 35.4,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 34.9,
         "weather_code": 3,
-        "wind_speed_10m": 1.7,
-        "wind_direction_10m": 72
+        "wind_speed_10m": 4.8,
+        "wind_direction_10m": 146
       },
       "history_24h": null
     },
     {
       "country": "Malaysia",
       "country_code": "MY",
-      "city": "Johor Bahru",
-      "latitude": 1.4927,
-      "longitude": 103.7414,
-      "timestamp": "2026-07-03T11:27:10.956503",
+      "city": "Penang",
+      "latitude": 5.4141,
+      "longitude": 100.3288,
+      "timestamp": "2026-07-04T10:49:48.669256",
       "current": {
-        "time": "2026-07-03T19:15",
+        "time": "2026-07-04T18:45",
         "interval": 900,
-        "temperature_2m": 27.7,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 33.1,
+        "temperature_2m": 29.5,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 36.3,
         "weather_code": 3,
-        "wind_speed_10m": 7.1,
-        "wind_direction_10m": 114
+        "wind_speed_10m": 3.9,
+        "wind_direction_10m": 208
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Kuching",
       "latitude": 1.5575,
       "longitude": 110.3595,
-      "timestamp": "2026-07-03T11:27:11.037373",
+      "timestamp": "2026-07-04T10:49:49.672381",
       "current": {
-        "time": "2026-07-03T19:15",
+        "time": "2026-07-04T18:45",
         "interval": 900,
-        "temperature_2m": 26.9,
-        "relative_humidity_2m": 91,
-        "apparent_temperature": 33.2,
-        "weather_code": 3,
-        "wind_speed_10m": 4.0,
-        "wind_direction_10m": 100
+        "temperature_2m": 27.0,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 34.1,
+        "weather_code": 2,
+        "wind_speed_10m": 2.8,
+        "wind_direction_10m": 135
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Johor Bahru",
+      "latitude": 1.4927,
+      "longitude": 103.7414,
+      "timestamp": "2026-07-04T10:49:49.675741",
+      "current": {
+        "time": "2026-07-04T18:45",
+        "interval": 900,
+        "temperature_2m": 28.9,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 34.7,
+        "weather_code": 51,
+        "wind_speed_10m": 4.9,
+        "wind_direction_10m": 90
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Langkawi",
       "latitude": 6.3371,
       "longitude": 99.8521,
-      "timestamp": "2026-07-03T11:27:11.042698",
+      "timestamp": "2026-07-04T10:49:49.753350",
       "current": {
-        "time": "2026-07-03T19:15",
+        "time": "2026-07-04T18:45",
         "interval": 900,
         "temperature_2m": 28.4,
-        "relative_humidity_2m": 84,
-        "apparent_temperature": 34.2,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 35.6,
         "weather_code": 3,
-        "wind_speed_10m": 7.5,
-        "wind_direction_10m": 191
+        "wind_speed_10m": 0.6,
+        "wind_direction_10m": 108
       },
       "history_24h": null
     }

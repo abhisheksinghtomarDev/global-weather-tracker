@@ -1,80 +1,23 @@
 {
   "country": "Poland",
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "cities": [
-    {
-      "country": "Poland",
-      "country_code": "PL",
-      "city": "Krakow",
-      "latitude": 50.0647,
-      "longitude": 19.945,
-      "timestamp": "2026-07-03T11:27:11.846054",
-      "current": {
-        "time": "2026-07-03T13:15",
-        "interval": 900,
-        "temperature_2m": 18.7,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 19.1,
-        "weather_code": 0,
-        "wind_speed_10m": 11.5,
-        "wind_direction_10m": 237
-      },
-      "history_24h": null
-    },
     {
       "country": "Poland",
       "country_code": "PL",
       "city": "Warsaw",
       "latitude": 52.2297,
       "longitude": 21.0122,
-      "timestamp": "2026-07-03T11:27:11.851722",
+      "timestamp": "2026-07-04T10:49:49.149199",
       "current": {
-        "time": "2026-07-03T13:15",
+        "time": "2026-07-04T12:45",
         "interval": 900,
-        "temperature_2m": 21.7,
-        "relative_humidity_2m": 50,
-        "apparent_temperature": 19.8,
-        "weather_code": 0,
-        "wind_speed_10m": 18.4,
-        "wind_direction_10m": 275
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Poland",
-      "country_code": "PL",
-      "city": "Gdansk",
-      "latitude": 54.352,
-      "longitude": 18.6466,
-      "timestamp": "2026-07-03T11:27:14.942742",
-      "current": {
-        "time": "2026-07-03T13:15",
-        "interval": 900,
-        "temperature_2m": 17.5,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 14.3,
-        "weather_code": 61,
-        "wind_speed_10m": 23.9,
-        "wind_direction_10m": 254
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Poland",
-      "country_code": "PL",
-      "city": "Poznan",
-      "latitude": 52.4064,
-      "longitude": 16.9252,
-      "timestamp": "2026-07-03T11:27:14.980150",
-      "current": {
-        "time": "2026-07-03T13:15",
-        "interval": 900,
-        "temperature_2m": 21.0,
-        "relative_humidity_2m": 39,
-        "apparent_temperature": 17.2,
+        "temperature_2m": 18.7,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 16.0,
         "weather_code": 3,
-        "wind_speed_10m": 23.0,
-        "wind_direction_10m": 287
+        "wind_speed_10m": 18.4,
+        "wind_direction_10m": 284
       },
       "history_24h": null
     },
@@ -84,16 +27,73 @@
       "city": "Wroclaw",
       "latitude": 51.1079,
       "longitude": 17.0385,
-      "timestamp": "2026-07-03T11:27:14.981928",
+      "timestamp": "2026-07-04T10:49:49.170213",
       "current": {
-        "time": "2026-07-03T13:15",
+        "time": "2026-07-04T12:45",
         "interval": 900,
-        "temperature_2m": 21.2,
-        "relative_humidity_2m": 39,
-        "apparent_temperature": 17.4,
+        "temperature_2m": 20.7,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 17.8,
+        "weather_code": 3,
+        "wind_speed_10m": 22.4,
+        "wind_direction_10m": 300
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "city": "Poznan",
+      "latitude": 52.4064,
+      "longitude": 16.9252,
+      "timestamp": "2026-07-04T10:49:49.171677",
+      "current": {
+        "time": "2026-07-04T12:45",
+        "interval": 900,
+        "temperature_2m": 19.3,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 16.1,
         "weather_code": 2,
-        "wind_speed_10m": 22.6,
-        "wind_direction_10m": 299
+        "wind_speed_10m": 21.1,
+        "wind_direction_10m": 290
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "city": "Krakow",
+      "latitude": 50.0647,
+      "longitude": 19.945,
+      "timestamp": "2026-07-04T10:49:49.172898",
+      "current": {
+        "time": "2026-07-04T12:45",
+        "interval": 900,
+        "temperature_2m": 22.1,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 20.4,
+        "weather_code": 1,
+        "wind_speed_10m": 16.9,
+        "wind_direction_10m": 294
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "city": "Gdansk",
+      "latitude": 54.352,
+      "longitude": 18.6466,
+      "timestamp": "2026-07-04T10:49:49.175723",
+      "current": {
+        "time": "2026-07-04T12:45",
+        "interval": 900,
+        "temperature_2m": 20.4,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 18.0,
+        "weather_code": 2,
+        "wind_speed_10m": 25.2,
+        "wind_direction_10m": 289
       },
       "history_24h": null
     }
