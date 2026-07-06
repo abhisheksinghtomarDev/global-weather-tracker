@@ -1,80 +1,42 @@
 {
   "country": "Italy",
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "cities": [
-    {
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Milan",
-      "latitude": 45.4642,
-      "longitude": 9.19,
-      "timestamp": "2026-07-05T10:59:34.696972",
-      "current": {
-        "time": "2026-07-05T12:45",
-        "interval": 900,
-        "temperature_2m": 30.8,
-        "relative_humidity_2m": 47,
-        "apparent_temperature": 34.8,
-        "weather_code": 0,
-        "wind_speed_10m": 6.9,
-        "wind_direction_10m": 186
-      },
-      "history_24h": null
-    },
     {
       "country": "Italy",
       "country_code": "IT",
       "city": "Rome",
       "latitude": 41.9028,
       "longitude": 12.4964,
-      "timestamp": "2026-07-05T10:59:34.698204",
+      "timestamp": "2026-07-06T12:38:42.349404",
       "current": {
-        "time": "2026-07-05T12:45",
+        "time": "2026-07-06T14:30",
         "interval": 900,
-        "temperature_2m": 32.8,
-        "relative_humidity_2m": 20,
-        "apparent_temperature": 32.4,
+        "temperature_2m": 33.4,
+        "relative_humidity_2m": 36,
+        "apparent_temperature": 35.1,
         "weather_code": 0,
-        "wind_speed_10m": 11.7,
-        "wind_direction_10m": 252
+        "wind_speed_10m": 15.4,
+        "wind_direction_10m": 249
       },
       "history_24h": null
     },
     {
       "country": "Italy",
       "country_code": "IT",
-      "city": "Florence",
-      "latitude": 43.7696,
-      "longitude": 11.2558,
-      "timestamp": "2026-07-05T10:59:34.699562",
+      "city": "Milan",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "timestamp": "2026-07-06T12:38:42.350829",
       "current": {
-        "time": "2026-07-05T12:45",
+        "time": "2026-07-06T14:30",
         "interval": 900,
-        "temperature_2m": 33.3,
-        "relative_humidity_2m": 33,
-        "apparent_temperature": 36.5,
-        "weather_code": 0,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 261
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Venice",
-      "latitude": 45.4408,
-      "longitude": 12.3155,
-      "timestamp": "2026-07-05T10:59:34.700534",
-      "current": {
-        "time": "2026-07-05T12:45",
-        "interval": 900,
-        "temperature_2m": 29.4,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 32.5,
-        "weather_code": 0,
-        "wind_speed_10m": 12.6,
-        "wind_direction_10m": 156
+        "temperature_2m": 31.2,
+        "relative_humidity_2m": 47,
+        "apparent_temperature": 35.3,
+        "weather_code": 2,
+        "wind_speed_10m": 6.1,
+        "wind_direction_10m": 180
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Naples",
       "latitude": 40.8518,
       "longitude": 14.2681,
-      "timestamp": "2026-07-05T10:59:34.701415",
+      "timestamp": "2026-07-06T12:38:42.352273",
       "current": {
-        "time": "2026-07-05T12:45",
+        "time": "2026-07-06T14:30",
         "interval": 900,
-        "temperature_2m": 32.9,
-        "relative_humidity_2m": 23,
-        "apparent_temperature": 31.8,
+        "temperature_2m": 31.1,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 35.0,
+        "weather_code": 3,
+        "wind_speed_10m": 13.3,
+        "wind_direction_10m": 213
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Florence",
+      "latitude": 43.7696,
+      "longitude": 11.2558,
+      "timestamp": "2026-07-06T12:38:42.353686",
+      "current": {
+        "time": "2026-07-06T14:30",
+        "interval": 900,
+        "temperature_2m": 34.6,
+        "relative_humidity_2m": 28,
+        "apparent_temperature": 35.4,
+        "weather_code": 1,
+        "wind_speed_10m": 10.6,
+        "wind_direction_10m": 298
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Venice",
+      "latitude": 45.4408,
+      "longitude": 12.3155,
+      "timestamp": "2026-07-06T12:38:42.355045",
+      "current": {
+        "time": "2026-07-06T14:30",
+        "interval": 900,
+        "temperature_2m": 29.5,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 32.4,
         "weather_code": 0,
-        "wind_speed_10m": 19.4,
-        "wind_direction_10m": 35
+        "wind_speed_10m": 12.4,
+        "wind_direction_10m": 158
       },
       "history_24h": null
     }

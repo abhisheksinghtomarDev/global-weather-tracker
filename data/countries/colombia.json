@@ -1,6 +1,6 @@
 {
   "country": "Colombia",
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "cities": [
     {
       "country": "Colombia",
@@ -8,16 +8,16 @@
       "city": "Bogota",
       "latitude": 4.711,
       "longitude": -74.0721,
-      "timestamp": "2026-07-05T10:59:35.722393",
+      "timestamp": "2026-07-06T12:38:42.943515",
       "current": {
-        "time": "2026-07-05T05:45",
+        "time": "2026-07-06T07:30",
         "interval": 900,
-        "temperature_2m": 10.3,
-        "relative_humidity_2m": 100,
-        "apparent_temperature": 9.9,
+        "temperature_2m": 13.4,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 12.9,
         "weather_code": 3,
-        "wind_speed_10m": 2.9,
-        "wind_direction_10m": 43
+        "wind_speed_10m": 3.4,
+        "wind_direction_10m": 96
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Medellin",
       "latitude": 6.2442,
       "longitude": -75.5812,
-      "timestamp": "2026-07-05T10:59:35.723349",
+      "timestamp": "2026-07-06T12:38:42.945129",
       "current": {
-        "time": "2026-07-05T05:45",
+        "time": "2026-07-06T07:30",
         "interval": 900,
-        "temperature_2m": 17.6,
-        "relative_humidity_2m": 100,
-        "apparent_temperature": 19.8,
-        "weather_code": 3,
-        "wind_speed_10m": 3.7,
-        "wind_direction_10m": 76
+        "temperature_2m": 19.7,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 22.0,
+        "weather_code": 2,
+        "wind_speed_10m": 3.4,
+        "wind_direction_10m": 72
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Cali",
       "latitude": 3.4516,
       "longitude": -76.532,
-      "timestamp": "2026-07-05T10:59:35.828917",
+      "timestamp": "2026-07-06T12:38:42.947354",
       "current": {
-        "time": "2026-07-05T05:45",
+        "time": "2026-07-06T07:30",
         "interval": 900,
-        "temperature_2m": 20.3,
-        "relative_humidity_2m": 80,
-        "apparent_temperature": 22.5,
-        "weather_code": 2,
-        "wind_speed_10m": 1.9,
-        "wind_direction_10m": 236
+        "temperature_2m": 22.5,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 26.0,
+        "weather_code": 1,
+        "wind_speed_10m": 0.9,
+        "wind_direction_10m": 217
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Cartagena",
       "latitude": 10.391,
       "longitude": -75.4794,
-      "timestamp": "2026-07-05T10:59:35.838087",
+      "timestamp": "2026-07-06T12:38:42.959155",
       "current": {
-        "time": "2026-07-05T05:45",
+        "time": "2026-07-06T07:30",
         "interval": 900,
-        "temperature_2m": 27.1,
-        "relative_humidity_2m": 88,
-        "apparent_temperature": 32.8,
-        "weather_code": 3,
-        "wind_speed_10m": 6.0,
-        "wind_direction_10m": 170
+        "temperature_2m": 30.2,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 34.4,
+        "weather_code": 0,
+        "wind_speed_10m": 6.3,
+        "wind_direction_10m": 55
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Barranquilla",
       "latitude": 10.9685,
       "longitude": -74.7813,
-      "timestamp": "2026-07-05T10:59:35.839118",
+      "timestamp": "2026-07-06T12:38:42.961957",
       "current": {
-        "time": "2026-07-05T05:45",
+        "time": "2026-07-06T07:30",
         "interval": 900,
-        "temperature_2m": 26.3,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 31.9,
-        "weather_code": 3,
-        "wind_speed_10m": 7.2,
-        "wind_direction_10m": 127
+        "temperature_2m": 29.7,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 34.4,
+        "weather_code": 0,
+        "wind_speed_10m": 8.0,
+        "wind_direction_10m": 50
       },
       "history_24h": null
     }

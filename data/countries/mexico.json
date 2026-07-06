@@ -1,42 +1,42 @@
 {
   "country": "Mexico",
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "cities": [
-    {
-      "country": "Mexico",
-      "country_code": "MX",
-      "city": "Guadalajara",
-      "latitude": 20.6597,
-      "longitude": -103.3496,
-      "timestamp": "2026-07-05T10:59:34.711659",
-      "current": {
-        "time": "2026-07-05T04:45",
-        "interval": 900,
-        "temperature_2m": 17.8,
-        "relative_humidity_2m": 99,
-        "apparent_temperature": 20.3,
-        "weather_code": 3,
-        "wind_speed_10m": 1.5,
-        "wind_direction_10m": 144
-      },
-      "history_24h": null
-    },
     {
       "country": "Mexico",
       "country_code": "MX",
       "city": "Mexico City",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "timestamp": "2026-07-05T10:59:34.713022",
+      "timestamp": "2026-07-06T12:38:42.417580",
       "current": {
-        "time": "2026-07-05T04:45",
+        "time": "2026-07-06T06:30",
         "interval": 900,
         "temperature_2m": 13.9,
-        "relative_humidity_2m": 99,
-        "apparent_temperature": 14.8,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 14.7,
         "weather_code": 3,
-        "wind_speed_10m": 1.7,
-        "wind_direction_10m": 347
+        "wind_speed_10m": 1.9,
+        "wind_direction_10m": 241
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Guadalajara",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "timestamp": "2026-07-06T12:38:42.424338",
+      "current": {
+        "time": "2026-07-06T06:30",
+        "interval": 900,
+        "temperature_2m": 18.2,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 20.5,
+        "weather_code": 3,
+        "wind_speed_10m": 2.0,
+        "wind_direction_10m": 117
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Monterrey",
       "latitude": 25.6866,
       "longitude": -100.3161,
-      "timestamp": "2026-07-05T10:59:34.713926",
+      "timestamp": "2026-07-06T12:38:42.430585",
       "current": {
-        "time": "2026-07-05T04:45",
+        "time": "2026-07-06T06:30",
         "interval": 900,
-        "temperature_2m": 25.3,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 28.9,
-        "weather_code": 0,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 61
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Mexico",
-      "country_code": "MX",
-      "city": "Tijuana",
-      "latitude": 32.5149,
-      "longitude": -117.0382,
-      "timestamp": "2026-07-05T10:59:34.715983",
-      "current": {
-        "time": "2026-07-05T03:45",
-        "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 91,
-        "apparent_temperature": 19.9,
-        "weather_code": 3,
-        "wind_speed_10m": 5.4,
-        "wind_direction_10m": 323
+        "temperature_2m": 23.9,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 27.0,
+        "weather_code": 2,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 83
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Cancun",
       "latitude": 21.1619,
       "longitude": -86.8515,
-      "timestamp": "2026-07-05T10:59:34.716907",
+      "timestamp": "2026-07-06T12:38:42.432327",
       "current": {
-        "time": "2026-07-05T05:45",
+        "time": "2026-07-06T07:30",
         "interval": 900,
-        "temperature_2m": 25.2,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": 31.3,
-        "weather_code": 2,
-        "wind_speed_10m": 1.1,
-        "wind_direction_10m": 360
+        "temperature_2m": 27.3,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 33.2,
+        "weather_code": 3,
+        "wind_speed_10m": 3.4,
+        "wind_direction_10m": 186
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Tijuana",
+      "latitude": 32.5149,
+      "longitude": -117.0382,
+      "timestamp": "2026-07-06T12:38:42.436318",
+      "current": {
+        "time": "2026-07-06T05:30",
+        "interval": 900,
+        "temperature_2m": 16.2,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 17.4,
+        "weather_code": 1,
+        "wind_speed_10m": 2.1,
+        "wind_direction_10m": 31
       },
       "history_24h": null
     }
