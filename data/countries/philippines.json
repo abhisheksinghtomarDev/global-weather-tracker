@@ -1,42 +1,42 @@
 {
   "country": "Philippines",
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "cities": [
-    {
-      "country": "Philippines",
-      "country_code": "PH",
-      "city": "Cebu",
-      "latitude": 10.3157,
-      "longitude": 123.8854,
-      "timestamp": "2026-07-08T10:56:05.401305",
-      "current": {
-        "time": "2026-07-08T18:45",
-        "interval": 900,
-        "temperature_2m": 28.2,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 32.0,
-        "weather_code": 3,
-        "wind_speed_10m": 16.5,
-        "wind_direction_10m": 256
-      },
-      "history_24h": null
-    },
     {
       "country": "Philippines",
       "country_code": "PH",
       "city": "Manila",
       "latitude": 14.5995,
       "longitude": 120.9842,
-      "timestamp": "2026-07-08T10:56:05.402129",
+      "timestamp": "2026-07-09T11:53:06.598360",
       "current": {
-        "time": "2026-07-08T18:45",
+        "time": "2026-07-09T19:45",
         "interval": 900,
-        "temperature_2m": 29.4,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 34.1,
+        "temperature_2m": 28.6,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 31.7,
         "weather_code": 51,
-        "wind_speed_10m": 11.5,
-        "wind_direction_10m": 312
+        "wind_speed_10m": 19.6,
+        "wind_direction_10m": 268
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Cebu",
+      "latitude": 10.3157,
+      "longitude": 123.8854,
+      "timestamp": "2026-07-09T11:53:06.602251",
+      "current": {
+        "time": "2026-07-09T19:45",
+        "interval": 900,
+        "temperature_2m": 27.2,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 30.7,
+        "weather_code": 3,
+        "wind_speed_10m": 18.0,
+        "wind_direction_10m": 244
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Davao",
       "latitude": 7.0731,
       "longitude": 125.6128,
-      "timestamp": "2026-07-08T10:56:05.404395",
+      "timestamp": "2026-07-09T11:53:06.603743",
       "current": {
-        "time": "2026-07-08T18:45",
+        "time": "2026-07-09T19:45",
         "interval": 900,
-        "temperature_2m": 25.1,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": 30.9,
-        "weather_code": 3,
-        "wind_speed_10m": 3.6,
-        "wind_direction_10m": 357
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Philippines",
-      "country_code": "PH",
-      "city": "Palawan",
-      "latitude": 9.8348,
-      "longitude": 118.7383,
-      "timestamp": "2026-07-08T10:56:05.422027",
-      "current": {
-        "time": "2026-07-08T18:45",
-        "interval": 900,
-        "temperature_2m": 27.2,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 31.9,
-        "weather_code": 2,
-        "wind_speed_10m": 9.3,
-        "wind_direction_10m": 297
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 30.8,
+        "weather_code": 53,
+        "wind_speed_10m": 5.8,
+        "wind_direction_10m": 210
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Boracay",
       "latitude": 11.9674,
       "longitude": 121.924,
-      "timestamp": "2026-07-08T10:56:05.428757",
+      "timestamp": "2026-07-09T11:53:06.605143",
       "current": {
-        "time": "2026-07-08T18:45",
+        "time": "2026-07-09T19:45",
         "interval": 900,
-        "temperature_2m": 28.8,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 32.0,
+        "temperature_2m": 25.7,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 28.5,
+        "weather_code": 51,
+        "wind_speed_10m": 26.5,
+        "wind_direction_10m": 247
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Palawan",
+      "latitude": 9.8348,
+      "longitude": 118.7383,
+      "timestamp": "2026-07-09T11:53:06.609712",
+      "current": {
+        "time": "2026-07-09T19:45",
+        "interval": 900,
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 31.5,
         "weather_code": 3,
-        "wind_speed_10m": 20.7,
-        "wind_direction_10m": 259
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 264
       },
       "history_24h": null
     }
