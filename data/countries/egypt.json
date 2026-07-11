@@ -1,6 +1,6 @@
 {
   "country": "Egypt",
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "cities": [
     {
       "country": "Egypt",
@@ -8,16 +8,16 @@
       "city": "Cairo",
       "latitude": 30.0444,
       "longitude": 31.2357,
-      "timestamp": "2026-07-10T11:43:47.001198",
+      "timestamp": "2026-07-11T10:09:30.112685",
       "current": {
-        "time": "2026-07-10T14:30",
+        "time": "2026-07-11T13:00",
         "interval": 900,
-        "temperature_2m": 35.7,
-        "relative_humidity_2m": 28,
-        "apparent_temperature": 38.2,
-        "weather_code": 1,
-        "wind_speed_10m": 8.4,
-        "wind_direction_10m": 329
+        "temperature_2m": 33.9,
+        "relative_humidity_2m": 37,
+        "apparent_temperature": 37.5,
+        "weather_code": 0,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 360
       },
       "history_24h": null
     },
@@ -27,14 +27,14 @@
       "city": "Alexandria",
       "latitude": 31.2001,
       "longitude": 29.9187,
-      "timestamp": "2026-07-10T11:43:47.004599",
+      "timestamp": "2026-07-11T10:09:30.122051",
       "current": {
-        "time": "2026-07-10T14:30",
+        "time": "2026-07-11T13:00",
         "interval": 900,
-        "temperature_2m": 29.6,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 34.5,
-        "weather_code": 0,
+        "temperature_2m": 29.1,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 34.2,
+        "weather_code": 2,
         "wind_speed_10m": 13.7,
         "wind_direction_10m": 315
       },
@@ -46,35 +46,16 @@
       "city": "Luxor",
       "latitude": 25.6872,
       "longitude": 32.6396,
-      "timestamp": "2026-07-10T11:43:47.006669",
+      "timestamp": "2026-07-11T10:09:30.133236",
       "current": {
-        "time": "2026-07-10T14:30",
+        "time": "2026-07-11T13:00",
         "interval": 900,
-        "temperature_2m": 39.3,
-        "relative_humidity_2m": 15,
-        "apparent_temperature": 38.0,
-        "weather_code": 0,
-        "wind_speed_10m": 16.9,
-        "wind_direction_10m": 329
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Egypt",
-      "country_code": "EG",
-      "city": "Aswan",
-      "latitude": 24.0889,
-      "longitude": 32.8998,
-      "timestamp": "2026-07-10T11:43:47.013588",
-      "current": {
-        "time": "2026-07-10T14:30",
-        "interval": 900,
-        "temperature_2m": 38.2,
+        "temperature_2m": 38.8,
         "relative_humidity_2m": 14,
-        "apparent_temperature": 36.3,
+        "apparent_temperature": 38.2,
         "weather_code": 0,
-        "wind_speed_10m": 18.5,
-        "wind_direction_10m": 339
+        "wind_speed_10m": 13.6,
+        "wind_direction_10m": 321
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Sharm El Sheikh",
       "latitude": 27.9158,
       "longitude": 34.33,
-      "timestamp": "2026-07-10T11:43:47.018140",
+      "timestamp": "2026-07-11T10:09:30.136508",
       "current": {
-        "time": "2026-07-10T14:30",
+        "time": "2026-07-11T13:00",
         "interval": 900,
-        "temperature_2m": 36.2,
-        "relative_humidity_2m": 33,
-        "apparent_temperature": 38.6,
+        "temperature_2m": 37.6,
+        "relative_humidity_2m": 21,
+        "apparent_temperature": 39.2,
         "weather_code": 0,
-        "wind_speed_10m": 14.4,
-        "wind_direction_10m": 144
+        "wind_speed_10m": 10.5,
+        "wind_direction_10m": 96
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Aswan",
+      "latitude": 24.0889,
+      "longitude": 32.8998,
+      "timestamp": "2026-07-11T10:09:30.141150",
+      "current": {
+        "time": "2026-07-11T13:00",
+        "interval": 900,
+        "temperature_2m": 38.7,
+        "relative_humidity_2m": 12,
+        "apparent_temperature": 36.5,
+        "weather_code": 1,
+        "wind_speed_10m": 20.4,
+        "wind_direction_10m": 340
       },
       "history_24h": null
     }

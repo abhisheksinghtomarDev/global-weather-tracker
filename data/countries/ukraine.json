@@ -1,42 +1,23 @@
 {
   "country": "Ukraine",
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "cities": [
-    {
-      "country": "Ukraine",
-      "country_code": "UA",
-      "city": "Kyiv",
-      "latitude": 50.4501,
-      "longitude": 30.5234,
-      "timestamp": "2026-07-10T11:43:47.582023",
-      "current": {
-        "time": "2026-07-10T14:30",
-        "interval": 900,
-        "temperature_2m": 21.4,
-        "relative_humidity_2m": 47,
-        "apparent_temperature": 20.5,
-        "weather_code": 3,
-        "wind_speed_10m": 5.1,
-        "wind_direction_10m": 225
-      },
-      "history_24h": null
-    },
     {
       "country": "Ukraine",
       "country_code": "UA",
       "city": "Lviv",
       "latitude": 49.8397,
       "longitude": 24.0297,
-      "timestamp": "2026-07-10T11:43:47.583037",
+      "timestamp": "2026-07-11T10:09:30.743383",
       "current": {
-        "time": "2026-07-10T14:30",
+        "time": "2026-07-11T13:00",
         "interval": 900,
-        "temperature_2m": 16.2,
-        "relative_humidity_2m": 74,
+        "temperature_2m": 14.4,
+        "relative_humidity_2m": 92,
         "apparent_temperature": 13.9,
-        "weather_code": 55,
-        "wind_speed_10m": 19.1,
-        "wind_direction_10m": 284
+        "weather_code": 63,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 331
       },
       "history_24h": null
     },
@@ -46,35 +27,35 @@
       "city": "Odessa",
       "latitude": 46.4825,
       "longitude": 30.7233,
-      "timestamp": "2026-07-10T11:43:47.588156",
+      "timestamp": "2026-07-11T10:09:30.748898",
       "current": {
-        "time": "2026-07-10T14:30",
+        "time": "2026-07-11T13:00",
         "interval": 900,
-        "temperature_2m": 21.1,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 22.0,
+        "temperature_2m": 23.4,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 24.2,
         "weather_code": 2,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 315
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 196
       },
       "history_24h": null
     },
     {
       "country": "Ukraine",
       "country_code": "UA",
-      "city": "Kharkiv",
-      "latitude": 49.9935,
-      "longitude": 36.2304,
-      "timestamp": "2026-07-10T11:43:47.589330",
+      "city": "Kyiv",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "timestamp": "2026-07-11T10:09:30.749917",
       "current": {
-        "time": "2026-07-10T14:30",
+        "time": "2026-07-11T13:00",
         "interval": 900,
-        "temperature_2m": 19.7,
-        "relative_humidity_2m": 88,
-        "apparent_temperature": 21.6,
-        "weather_code": 95,
-        "wind_speed_10m": 6.0,
-        "wind_direction_10m": 163
+        "temperature_2m": 19.6,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 19.4,
+        "weather_code": 2,
+        "wind_speed_10m": 6.9,
+        "wind_direction_10m": 227
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Chernivtsi",
       "latitude": 48.2921,
       "longitude": 25.9398,
-      "timestamp": "2026-07-10T11:43:47.593187",
+      "timestamp": "2026-07-11T10:09:30.751469",
       "current": {
-        "time": "2026-07-10T14:30",
+        "time": "2026-07-11T13:00",
         "interval": 900,
-        "temperature_2m": 17.4,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 15.6,
+        "temperature_2m": 17.0,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 16.5,
         "weather_code": 61,
-        "wind_speed_10m": 14.7,
-        "wind_direction_10m": 306
+        "wind_speed_10m": 8.5,
+        "wind_direction_10m": 298
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UA",
+      "city": "Kharkiv",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "timestamp": "2026-07-11T10:09:30.754919",
+      "current": {
+        "time": "2026-07-11T13:00",
+        "interval": 900,
+        "temperature_2m": 21.6,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 21.7,
+        "weather_code": 2,
+        "wind_speed_10m": 10.7,
+        "wind_direction_10m": 225
       },
       "history_24h": null
     }

@@ -1,6 +1,6 @@
 {
   "country": "Portugal",
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "cities": [
     {
       "country": "Portugal",
@@ -8,35 +8,16 @@
       "city": "Lisbon",
       "latitude": 38.7223,
       "longitude": -9.1393,
-      "timestamp": "2026-07-10T11:43:47.191695",
+      "timestamp": "2026-07-11T10:09:30.308642",
       "current": {
-        "time": "2026-07-10T12:30",
+        "time": "2026-07-11T11:00",
         "interval": 900,
-        "temperature_2m": 25.0,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 27.6,
-        "weather_code": 1,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 346
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Portugal",
-      "country_code": "PT",
-      "city": "Porto",
-      "latitude": 41.1579,
-      "longitude": -8.6291,
-      "timestamp": "2026-07-10T11:43:47.193125",
-      "current": {
-        "time": "2026-07-10T12:30",
-        "interval": 900,
-        "temperature_2m": 21.3,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 23.3,
+        "temperature_2m": 21.1,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 22.6,
         "weather_code": 2,
-        "wind_speed_10m": 9.2,
-        "wind_direction_10m": 301
+        "wind_speed_10m": 5.2,
+        "wind_direction_10m": 168
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Algarve",
       "latitude": 37.0194,
       "longitude": -7.9322,
-      "timestamp": "2026-07-10T11:43:47.194526",
+      "timestamp": "2026-07-11T10:09:30.313519",
       "current": {
-        "time": "2026-07-10T12:30",
+        "time": "2026-07-11T11:00",
         "interval": 900,
-        "temperature_2m": 24.4,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 27.7,
+        "temperature_2m": 22.5,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 23.5,
         "weather_code": 2,
-        "wind_speed_10m": 8.6,
-        "wind_direction_10m": 158
+        "wind_speed_10m": 11.5,
+        "wind_direction_10m": 250
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Porto",
+      "latitude": 41.1579,
+      "longitude": -8.6291,
+      "timestamp": "2026-07-11T10:09:30.315086",
+      "current": {
+        "time": "2026-07-11T11:00",
+        "interval": 900,
+        "temperature_2m": 20.2,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 21.9,
+        "weather_code": 1,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 219
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Coimbra",
       "latitude": 40.2033,
       "longitude": -8.4103,
-      "timestamp": "2026-07-10T11:43:47.197964",
+      "timestamp": "2026-07-11T10:09:30.319734",
       "current": {
-        "time": "2026-07-10T12:30",
+        "time": "2026-07-11T11:00",
         "interval": 900,
-        "temperature_2m": 23.3,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 25.5,
-        "weather_code": 2,
-        "wind_speed_10m": 10.0,
-        "wind_direction_10m": 319
+        "temperature_2m": 21.9,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 24.2,
+        "weather_code": 1,
+        "wind_speed_10m": 6.3,
+        "wind_direction_10m": 246
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Sintra",
       "latitude": 38.7976,
       "longitude": -9.3908,
-      "timestamp": "2026-07-10T11:43:47.200468",
+      "timestamp": "2026-07-11T10:09:30.342125",
       "current": {
-        "time": "2026-07-10T12:30",
+        "time": "2026-07-11T11:00",
         "interval": 900,
-        "temperature_2m": 22.0,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 23.1,
-        "weather_code": 1,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 338
+        "temperature_2m": 20.2,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 21.5,
+        "weather_code": 3,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 307
       },
       "history_24h": null
     }
