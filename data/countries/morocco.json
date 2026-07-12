@@ -1,6 +1,6 @@
 {
   "country": "Morocco",
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "cities": [
     {
       "country": "Morocco",
@@ -8,16 +8,16 @@
       "city": "Casablanca",
       "latitude": 33.5731,
       "longitude": -7.5898,
-      "timestamp": "2026-07-11T10:09:30.506971",
+      "timestamp": "2026-07-12T10:19:22.638708",
       "current": {
-        "time": "2026-07-11T11:00",
+        "time": "2026-07-12T11:15",
         "interval": 900,
-        "temperature_2m": 25.5,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 26.8,
-        "weather_code": 3,
-        "wind_speed_10m": 5.9,
-        "wind_direction_10m": 284
+        "temperature_2m": 26.4,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 27.9,
+        "weather_code": 2,
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 322
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Marrakech",
       "latitude": 31.6295,
       "longitude": -7.9811,
-      "timestamp": "2026-07-11T10:09:30.518932",
+      "timestamp": "2026-07-12T10:19:22.646519",
       "current": {
-        "time": "2026-07-11T11:00",
+        "time": "2026-07-12T11:15",
         "interval": 900,
-        "temperature_2m": 24.6,
+        "temperature_2m": 25.3,
         "relative_humidity_2m": 50,
-        "apparent_temperature": 26.7,
+        "apparent_temperature": 27.8,
         "weather_code": 0,
-        "wind_speed_10m": 2.9,
-        "wind_direction_10m": 330
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Morocco",
-      "country_code": "MA",
-      "city": "Tangier",
-      "latitude": 35.7595,
-      "longitude": -5.834,
-      "timestamp": "2026-07-11T10:09:30.520197",
-      "current": {
-        "time": "2026-07-11T11:00",
-        "interval": 900,
-        "temperature_2m": 25.6,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 26.9,
-        "weather_code": 2,
-        "wind_speed_10m": 11.9,
-        "wind_direction_10m": 245
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 323
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Fes",
       "latitude": 34.0181,
       "longitude": -5.0078,
-      "timestamp": "2026-07-11T10:09:30.521631",
+      "timestamp": "2026-07-12T10:19:22.663087",
       "current": {
-        "time": "2026-07-11T11:00",
+        "time": "2026-07-12T11:15",
         "interval": 900,
-        "temperature_2m": 24.7,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 26.9,
+        "temperature_2m": 25.8,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 28.0,
         "weather_code": 1,
-        "wind_speed_10m": 6.7,
-        "wind_direction_10m": 306
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 341
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Tangier",
+      "latitude": 35.7595,
+      "longitude": -5.834,
+      "timestamp": "2026-07-12T10:19:22.684361",
+      "current": {
+        "time": "2026-07-12T11:15",
+        "interval": 900,
+        "temperature_2m": 25.4,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 27.9,
+        "weather_code": 1,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 268
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Agadir",
       "latitude": 30.4278,
       "longitude": -9.5983,
-      "timestamp": "2026-07-11T10:09:30.529985",
+      "timestamp": "2026-07-12T10:19:22.696766",
       "current": {
-        "time": "2026-07-11T11:00",
+        "time": "2026-07-12T11:15",
         "interval": 900,
-        "temperature_2m": 23.2,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 26.3,
+        "temperature_2m": 23.0,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 25.5,
         "weather_code": 1,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 219
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 245
       },
       "history_24h": null
     }

@@ -1,23 +1,42 @@
 {
   "country": "Australia",
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "cities": [
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "city": "Brisbane",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "timestamp": "2026-07-12T10:19:21.496090",
+      "current": {
+        "time": "2026-07-12T20:15",
+        "interval": 900,
+        "temperature_2m": 15.0,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 13.5,
+        "weather_code": 0,
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 260
+      },
+      "history_24h": null
+    },
     {
       "country": "Australia",
       "country_code": "AU",
       "city": "Sydney",
       "latitude": -33.8688,
       "longitude": 151.2093,
-      "timestamp": "2026-07-11T10:09:29.659028",
+      "timestamp": "2026-07-12T10:19:21.499724",
       "current": {
-        "time": "2026-07-11T20:00",
+        "time": "2026-07-12T20:15",
         "interval": 900,
-        "temperature_2m": 12.6,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 10.2,
-        "weather_code": 1,
-        "wind_speed_10m": 13.1,
-        "wind_direction_10m": 353
+        "temperature_2m": 10.5,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 6.5,
+        "weather_code": 0,
+        "wind_speed_10m": 16.1,
+        "wind_direction_10m": 307
       },
       "history_24h": null
     },
@@ -27,35 +46,16 @@
       "city": "Melbourne",
       "latitude": -37.8136,
       "longitude": 144.9631,
-      "timestamp": "2026-07-11T10:09:29.665233",
+      "timestamp": "2026-07-12T10:19:21.500935",
       "current": {
-        "time": "2026-07-11T20:00",
+        "time": "2026-07-12T20:15",
         "interval": 900,
-        "temperature_2m": 11.1,
-        "relative_humidity_2m": 89,
-        "apparent_temperature": 8.0,
-        "weather_code": 95,
-        "wind_speed_10m": 19.9,
-        "wind_direction_10m": 307
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Australia",
-      "country_code": "AU",
-      "city": "Brisbane",
-      "latitude": -27.4698,
-      "longitude": 153.0251,
-      "timestamp": "2026-07-11T10:09:29.670432",
-      "current": {
-        "time": "2026-07-11T20:00",
-        "interval": 900,
-        "temperature_2m": 14.1,
-        "relative_humidity_2m": 84,
-        "apparent_temperature": 13.6,
-        "weather_code": 0,
-        "wind_speed_10m": 6.4,
-        "wind_direction_10m": 350
+        "temperature_2m": 10.4,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 8.6,
+        "weather_code": 51,
+        "wind_speed_10m": 10.4,
+        "wind_direction_10m": 309
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Perth",
       "latitude": -31.9505,
       "longitude": 115.8605,
-      "timestamp": "2026-07-11T10:09:29.677021",
+      "timestamp": "2026-07-12T10:19:21.503631",
       "current": {
-        "time": "2026-07-11T18:00",
+        "time": "2026-07-12T18:15",
         "interval": 900,
-        "temperature_2m": 14.3,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 13.0,
+        "temperature_2m": 13.6,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 12.6,
         "weather_code": 0,
-        "wind_speed_10m": 8.1,
-        "wind_direction_10m": 201
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 192
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Adelaide",
       "latitude": -34.9285,
       "longitude": 138.6007,
-      "timestamp": "2026-07-11T10:09:29.680187",
+      "timestamp": "2026-07-12T10:19:21.509146",
       "current": {
-        "time": "2026-07-11T19:30",
+        "time": "2026-07-12T19:45",
         "interval": 900,
-        "temperature_2m": 12.0,
-        "relative_humidity_2m": 58,
-        "apparent_temperature": 6.6,
-        "weather_code": 0,
-        "wind_speed_10m": 27.3,
-        "wind_direction_10m": 252
+        "temperature_2m": 13.5,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 10.8,
+        "weather_code": 51,
+        "wind_speed_10m": 19.9,
+        "wind_direction_10m": 291
       },
       "history_24h": null
     }
