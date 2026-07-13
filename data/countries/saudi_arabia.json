@@ -1,23 +1,23 @@
 {
   "country": "Saudi Arabia",
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "cities": [
     {
       "country": "Saudi Arabia",
       "country_code": "SA",
-      "city": "Mecca",
-      "latitude": 21.3891,
-      "longitude": 39.8579,
-      "timestamp": "2026-07-12T10:19:21.933180",
+      "city": "Riyadh",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "timestamp": "2026-07-13T11:54:26.183340",
       "current": {
-        "time": "2026-07-12T13:15",
+        "time": "2026-07-13T14:45",
         "interval": 900,
-        "temperature_2m": 40.0,
-        "relative_humidity_2m": 21,
-        "apparent_temperature": 41.1,
+        "temperature_2m": 42.7,
+        "relative_humidity_2m": 5,
+        "apparent_temperature": 39.9,
         "weather_code": 0,
-        "wind_speed_10m": 14.0,
-        "wind_direction_10m": 218
+        "wind_speed_10m": 8.0,
+        "wind_direction_10m": 308
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Jeddah",
       "latitude": 21.4858,
       "longitude": 39.1925,
-      "timestamp": "2026-07-12T10:19:21.934473",
+      "timestamp": "2026-07-13T11:54:26.185120",
       "current": {
-        "time": "2026-07-12T13:15",
+        "time": "2026-07-13T14:45",
         "interval": 900,
-        "temperature_2m": 34.7,
-        "relative_humidity_2m": 45,
-        "apparent_temperature": 38.8,
-        "weather_code": 0,
-        "wind_speed_10m": 15.7,
-        "wind_direction_10m": 279
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Saudi Arabia",
-      "country_code": "SA",
-      "city": "Riyadh",
-      "latitude": 24.7136,
-      "longitude": 46.6753,
-      "timestamp": "2026-07-12T10:19:21.935727",
-      "current": {
-        "time": "2026-07-12T13:15",
-        "interval": 900,
-        "temperature_2m": 40.4,
-        "relative_humidity_2m": 8,
-        "apparent_temperature": 38.6,
-        "weather_code": 3,
-        "wind_speed_10m": 12.6,
-        "wind_direction_10m": 331
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Saudi Arabia",
-      "country_code": "SA",
-      "city": "Medina",
-      "latitude": 24.5247,
-      "longitude": 39.5692,
-      "timestamp": "2026-07-12T10:19:21.940002",
-      "current": {
-        "time": "2026-07-12T13:15",
-        "interval": 900,
-        "temperature_2m": 45.0,
-        "relative_humidity_2m": 6,
-        "apparent_temperature": 45.2,
-        "weather_code": 0,
-        "wind_speed_10m": 2.6,
-        "wind_direction_10m": 129
+        "temperature_2m": 35.0,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 38.3,
+        "weather_code": 2,
+        "wind_speed_10m": 16.1,
+        "wind_direction_10m": 301
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Dammam",
       "latitude": 26.4207,
       "longitude": 50.0888,
-      "timestamp": "2026-07-12T10:19:21.945458",
+      "timestamp": "2026-07-13T11:54:26.189999",
       "current": {
-        "time": "2026-07-12T13:15",
+        "time": "2026-07-13T14:45",
         "interval": 900,
-        "temperature_2m": 43.1,
-        "relative_humidity_2m": 14,
-        "apparent_temperature": 42.6,
-        "weather_code": 3,
-        "wind_speed_10m": 15.2,
-        "wind_direction_10m": 350
+        "temperature_2m": 43.3,
+        "relative_humidity_2m": 17,
+        "apparent_temperature": 42.8,
+        "weather_code": 0,
+        "wind_speed_10m": 14.3,
+        "wind_direction_10m": 12
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Mecca",
+      "latitude": 21.3891,
+      "longitude": 39.8579,
+      "timestamp": "2026-07-13T11:54:26.191187",
+      "current": {
+        "time": "2026-07-13T14:45",
+        "interval": 900,
+        "temperature_2m": 41.3,
+        "relative_humidity_2m": 16,
+        "apparent_temperature": 40.4,
+        "weather_code": 2,
+        "wind_speed_10m": 13.8,
+        "wind_direction_10m": 291
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Medina",
+      "latitude": 24.5247,
+      "longitude": 39.5692,
+      "timestamp": "2026-07-13T11:54:26.192572",
+      "current": {
+        "time": "2026-07-13T14:45",
+        "interval": 900,
+        "temperature_2m": 45.6,
+        "relative_humidity_2m": 6,
+        "apparent_temperature": 43.7,
+        "weather_code": 0,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 327
       },
       "history_24h": null
     }

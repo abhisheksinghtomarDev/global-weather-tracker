@@ -1,61 +1,42 @@
 {
   "country": "Indonesia",
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "cities": [
-    {
-      "country": "Indonesia",
-      "country_code": "ID",
-      "city": "Surabaya",
-      "latitude": -7.2575,
-      "longitude": 112.7521,
-      "timestamp": "2026-07-12T10:19:21.778125",
-      "current": {
-        "time": "2026-07-12T17:15",
-        "interval": 900,
-        "temperature_2m": 28.4,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 31.5,
-        "weather_code": 0,
-        "wind_speed_10m": 12.4,
-        "wind_direction_10m": 123
-      },
-      "history_24h": null
-    },
     {
       "country": "Indonesia",
       "country_code": "ID",
       "city": "Jakarta",
       "latitude": -6.2088,
       "longitude": 106.8456,
-      "timestamp": "2026-07-12T10:19:21.779463",
+      "timestamp": "2026-07-13T11:54:26.023243",
       "current": {
-        "time": "2026-07-12T17:15",
+        "time": "2026-07-13T18:45",
         "interval": 900,
-        "temperature_2m": 30.2,
-        "relative_humidity_2m": 51,
+        "temperature_2m": 29.4,
+        "relative_humidity_2m": 60,
         "apparent_temperature": 31.9,
-        "weather_code": 2,
-        "wind_speed_10m": 10.3,
-        "wind_direction_10m": 4
+        "weather_code": 0,
+        "wind_speed_10m": 12.3,
+        "wind_direction_10m": 59
       },
       "history_24h": null
     },
     {
       "country": "Indonesia",
       "country_code": "ID",
-      "city": "Bandung",
-      "latitude": -6.9175,
-      "longitude": 107.6191,
-      "timestamp": "2026-07-12T10:19:21.783441",
+      "city": "Surabaya",
+      "latitude": -7.2575,
+      "longitude": 112.7521,
+      "timestamp": "2026-07-13T11:54:26.025309",
       "current": {
-        "time": "2026-07-12T17:15",
+        "time": "2026-07-13T18:45",
         "interval": 900,
-        "temperature_2m": 25.9,
-        "relative_humidity_2m": 49,
-        "apparent_temperature": 25.9,
-        "weather_code": 3,
-        "wind_speed_10m": 9.5,
-        "wind_direction_10m": 261
+        "temperature_2m": 28.3,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 31.2,
+        "weather_code": 0,
+        "wind_speed_10m": 14.6,
+        "wind_direction_10m": 106
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Bali",
       "latitude": -8.4095,
       "longitude": 115.1889,
-      "timestamp": "2026-07-12T10:19:21.791464",
+      "timestamp": "2026-07-13T11:54:26.029166",
       "current": {
-        "time": "2026-07-12T18:15",
+        "time": "2026-07-13T19:45",
         "interval": 900,
-        "temperature_2m": 21.6,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 23.3,
-        "weather_code": 1,
-        "wind_speed_10m": 3.2,
-        "wind_direction_10m": 47
+        "temperature_2m": 20.7,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 22.9,
+        "weather_code": 0,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 36
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Medan",
       "latitude": 3.5952,
       "longitude": 98.6722,
-      "timestamp": "2026-07-12T10:19:21.792655",
+      "timestamp": "2026-07-13T11:54:26.030347",
       "current": {
-        "time": "2026-07-12T17:15",
+        "time": "2026-07-13T18:45",
         "interval": 900,
-        "temperature_2m": 30.0,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 35.5,
-        "weather_code": 2,
-        "wind_speed_10m": 9.9,
-        "wind_direction_10m": 81
+        "temperature_2m": 25.9,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 32.2,
+        "weather_code": 95,
+        "wind_speed_10m": 1.9,
+        "wind_direction_10m": 29
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Bandung",
+      "latitude": -6.9175,
+      "longitude": 107.6191,
+      "timestamp": "2026-07-13T11:54:26.033397",
+      "current": {
+        "time": "2026-07-13T18:45",
+        "interval": 900,
+        "temperature_2m": 25.2,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 26.5,
+        "weather_code": 0,
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 184
       },
       "history_24h": null
     }

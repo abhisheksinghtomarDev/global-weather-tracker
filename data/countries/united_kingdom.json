@@ -1,80 +1,23 @@
 {
   "country": "United Kingdom",
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "cities": [
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "city": "London",
-      "latitude": 51.5074,
-      "longitude": -0.1278,
-      "timestamp": "2026-07-12T10:19:21.164701",
-      "current": {
-        "time": "2026-07-12T11:15",
-        "interval": 900,
-        "temperature_2m": 25.5,
-        "relative_humidity_2m": 50,
-        "apparent_temperature": 25.5,
-        "weather_code": 0,
-        "wind_speed_10m": 16.2,
-        "wind_direction_10m": 75
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "city": "Glasgow",
-      "latitude": 55.8642,
-      "longitude": -4.2518,
-      "timestamp": "2026-07-12T10:19:21.167742",
-      "current": {
-        "time": "2026-07-12T11:15",
-        "interval": 900,
-        "temperature_2m": 18.2,
-        "relative_humidity_2m": 72,
-        "apparent_temperature": 17.1,
-        "weather_code": 2,
-        "wind_speed_10m": 17.3,
-        "wind_direction_10m": 66
-      },
-      "history_24h": null
-    },
     {
       "country": "United Kingdom",
       "country_code": "GB",
       "city": "Birmingham",
       "latitude": 52.4862,
       "longitude": -1.8904,
-      "timestamp": "2026-07-12T10:19:21.191838",
+      "timestamp": "2026-07-13T11:54:25.341326",
       "current": {
-        "time": "2026-07-12T11:15",
+        "time": "2026-07-13T12:45",
         "interval": 900,
-        "temperature_2m": 23.7,
-        "relative_humidity_2m": 48,
-        "apparent_temperature": 22.5,
-        "weather_code": 0,
-        "wind_speed_10m": 20.2,
-        "wind_direction_10m": 69
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "city": "Manchester",
-      "latitude": 53.4808,
-      "longitude": -2.2426,
-      "timestamp": "2026-07-12T10:19:21.192998",
-      "current": {
-        "time": "2026-07-12T11:15",
-        "interval": 900,
-        "temperature_2m": 23.1,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 22.0,
-        "weather_code": 0,
-        "wind_speed_10m": 19.4,
-        "wind_direction_10m": 69
+        "temperature_2m": 21.5,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 20.1,
+        "weather_code": 2,
+        "wind_speed_10m": 19.1,
+        "wind_direction_10m": 66
       },
       "history_24h": null
     },
@@ -84,16 +27,73 @@
       "city": "Edinburgh",
       "latitude": 55.9533,
       "longitude": -3.1883,
-      "timestamp": "2026-07-12T10:19:21.201210",
+      "timestamp": "2026-07-13T11:54:25.345424",
       "current": {
-        "time": "2026-07-12T11:15",
+        "time": "2026-07-13T12:45",
         "interval": 900,
-        "temperature_2m": 14.9,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 13.3,
-        "weather_code": 3,
-        "wind_speed_10m": 15.1,
-        "wind_direction_10m": 61
+        "temperature_2m": 15.6,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 13.7,
+        "weather_code": 2,
+        "wind_speed_10m": 19.1,
+        "wind_direction_10m": 51
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Glasgow",
+      "latitude": 55.8642,
+      "longitude": -4.2518,
+      "timestamp": "2026-07-13T11:54:25.351173",
+      "current": {
+        "time": "2026-07-13T12:45",
+        "interval": 900,
+        "temperature_2m": 19.0,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 17.6,
+        "weather_code": 0,
+        "wind_speed_10m": 15.8,
+        "wind_direction_10m": 73
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Manchester",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "timestamp": "2026-07-13T11:54:25.370911",
+      "current": {
+        "time": "2026-07-13T12:45",
+        "interval": 900,
+        "temperature_2m": 22.8,
+        "relative_humidity_2m": 47,
+        "apparent_temperature": 22.0,
+        "weather_code": 0,
+        "wind_speed_10m": 17.6,
+        "wind_direction_10m": 71
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "London",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "timestamp": "2026-07-13T11:54:25.383551",
+      "current": {
+        "time": "2026-07-13T12:45",
+        "interval": 900,
+        "temperature_2m": 24.4,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 23.7,
+        "weather_code": 0,
+        "wind_speed_10m": 20.2,
+        "wind_direction_10m": 58
       },
       "history_24h": null
     }
