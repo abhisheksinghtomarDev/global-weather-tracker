@@ -1,6 +1,6 @@
 {
   "country": "UAE",
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "cities": [
     {
       "country": "UAE",
@@ -8,16 +8,16 @@
       "city": "Dubai",
       "latitude": 25.2048,
       "longitude": 55.2708,
-      "timestamp": "2026-07-13T11:54:26.197241",
+      "timestamp": "2026-07-14T10:38:45.999604",
       "current": {
-        "time": "2026-07-13T15:45",
+        "time": "2026-07-14T14:30",
         "interval": 900,
-        "temperature_2m": 36.2,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 42.5,
+        "temperature_2m": 39.0,
+        "relative_humidity_2m": 45,
+        "apparent_temperature": 44.8,
         "weather_code": 0,
-        "wind_speed_10m": 11.0,
-        "wind_direction_10m": 311
+        "wind_speed_10m": 14.6,
+        "wind_direction_10m": 321
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Abu Dhabi",
       "latitude": 24.4539,
       "longitude": 54.3773,
-      "timestamp": "2026-07-13T11:54:26.201663",
+      "timestamp": "2026-07-14T10:38:46.003462",
       "current": {
-        "time": "2026-07-13T15:45",
+        "time": "2026-07-14T14:30",
         "interval": 900,
-        "temperature_2m": 37.0,
-        "relative_humidity_2m": 47,
-        "apparent_temperature": 40.9,
-        "weather_code": 0,
-        "wind_speed_10m": 16.5,
-        "wind_direction_10m": 322
+        "temperature_2m": 39.9,
+        "relative_humidity_2m": 31,
+        "apparent_temperature": 43.3,
+        "weather_code": 3,
+        "wind_speed_10m": 12.5,
+        "wind_direction_10m": 330
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Sharjah",
       "latitude": 25.3463,
       "longitude": 55.4209,
-      "timestamp": "2026-07-13T11:54:26.203662",
+      "timestamp": "2026-07-14T10:38:46.014660",
       "current": {
-        "time": "2026-07-13T15:45",
+        "time": "2026-07-14T14:30",
         "interval": 900,
-        "temperature_2m": 36.6,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 42.8,
+        "temperature_2m": 38.9,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 44.6,
         "weather_code": 0,
-        "wind_speed_10m": 8.9,
-        "wind_direction_10m": 297
-      },
-      "history_24h": null
-    },
-    {
-      "country": "UAE",
-      "country_code": "AE",
-      "city": "Ras Al Khaimah",
-      "latitude": 25.7895,
-      "longitude": 55.9432,
-      "timestamp": "2026-07-13T11:54:26.206330",
-      "current": {
-        "time": "2026-07-13T15:45",
-        "interval": 900,
-        "temperature_2m": 37.0,
-        "relative_humidity_2m": 48,
-        "apparent_temperature": 42.4,
-        "weather_code": 0,
-        "wind_speed_10m": 6.3,
-        "wind_direction_10m": 342
+        "wind_speed_10m": 13.4,
+        "wind_direction_10m": 348
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Al Ain",
       "latitude": 24.2075,
       "longitude": 55.7447,
-      "timestamp": "2026-07-13T11:54:26.211201",
+      "timestamp": "2026-07-14T10:38:46.022537",
       "current": {
-        "time": "2026-07-13T15:45",
+        "time": "2026-07-14T14:30",
         "interval": 900,
-        "temperature_2m": 44.6,
-        "relative_humidity_2m": 14,
-        "apparent_temperature": 43.7,
+        "temperature_2m": 44.2,
+        "relative_humidity_2m": 12,
+        "apparent_temperature": 43.6,
+        "weather_code": 2,
+        "wind_speed_10m": 9.9,
+        "wind_direction_10m": 228
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Ras Al Khaimah",
+      "latitude": 25.7895,
+      "longitude": 55.9432,
+      "timestamp": "2026-07-14T10:38:46.032131",
+      "current": {
+        "time": "2026-07-14T14:30",
+        "interval": 900,
+        "temperature_2m": 37.9,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 42.5,
         "weather_code": 0,
-        "wind_speed_10m": 10.6,
-        "wind_direction_10m": 270
+        "wind_speed_10m": 14.3,
+        "wind_direction_10m": 332
       },
       "history_24h": null
     }
