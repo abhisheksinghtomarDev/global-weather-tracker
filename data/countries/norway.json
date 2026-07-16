@@ -1,6 +1,6 @@
 {
   "country": "Norway",
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "cities": [
     {
       "country": "Norway",
@@ -8,16 +8,16 @@
       "city": "Oslo",
       "latitude": 59.9139,
       "longitude": 10.7522,
-      "timestamp": "2026-07-15T10:42:57.158655",
+      "timestamp": "2026-07-16T10:50:52.700685",
       "current": {
-        "time": "2026-07-15T12:30",
+        "time": "2026-07-16T12:45",
         "interval": 900,
-        "temperature_2m": 28.4,
-        "relative_humidity_2m": 32,
-        "apparent_temperature": 28.7,
+        "temperature_2m": 28.8,
+        "relative_humidity_2m": 33,
+        "apparent_temperature": 28.0,
         "weather_code": 1,
-        "wind_speed_10m": 6.1,
-        "wind_direction_10m": 214
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 223
       },
       "history_24h": null
     },
@@ -27,15 +27,15 @@
       "city": "Bergen",
       "latitude": 60.3913,
       "longitude": 5.3221,
-      "timestamp": "2026-07-15T10:42:57.168906",
+      "timestamp": "2026-07-16T10:50:52.731663",
       "current": {
-        "time": "2026-07-15T12:30",
+        "time": "2026-07-16T12:45",
         "interval": 900,
-        "temperature_2m": 20.9,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 21.5,
-        "weather_code": 0,
-        "wind_speed_10m": 10.8,
+        "temperature_2m": 22.7,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 23.3,
+        "weather_code": 3,
+        "wind_speed_10m": 11.2,
         "wind_direction_10m": 299
       },
       "history_24h": null
@@ -46,16 +46,16 @@
       "city": "Trondheim",
       "latitude": 63.4305,
       "longitude": 10.3951,
-      "timestamp": "2026-07-15T10:42:58.313287",
+      "timestamp": "2026-07-16T10:50:52.735299",
       "current": {
-        "time": "2026-07-15T12:30",
+        "time": "2026-07-16T12:45",
         "interval": 900,
-        "temperature_2m": 17.1,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 16.3,
-        "weather_code": 1,
-        "wind_speed_10m": 11.2,
-        "wind_direction_10m": 332
+        "temperature_2m": 20.3,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 20.3,
+        "weather_code": 0,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 350
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Tromso",
       "latitude": 69.6492,
       "longitude": 18.9553,
-      "timestamp": "2026-07-15T10:42:58.320315",
+      "timestamp": "2026-07-16T10:50:52.736707",
       "current": {
-        "time": "2026-07-15T12:30",
+        "time": "2026-07-16T12:45",
         "interval": 900,
-        "temperature_2m": 12.2,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": 10.2,
+        "temperature_2m": 15.1,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 10.9,
         "weather_code": 3,
-        "wind_speed_10m": 16.6,
-        "wind_direction_10m": 204
+        "wind_speed_10m": 33.1,
+        "wind_direction_10m": 216
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Stavanger",
       "latitude": 58.969,
       "longitude": 5.7331,
-      "timestamp": "2026-07-15T10:42:58.320657",
+      "timestamp": "2026-07-16T10:50:52.738510",
       "current": {
-        "time": "2026-07-15T12:30",
+        "time": "2026-07-16T12:45",
         "interval": 900,
-        "temperature_2m": 24.1,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 26.0,
-        "weather_code": 0,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 341
+        "temperature_2m": 23.6,
+        "relative_humidity_2m": 66,
+        "apparent_temperature": 25.2,
+        "weather_code": 3,
+        "wind_speed_10m": 6.1,
+        "wind_direction_10m": 317
       },
       "history_24h": null
     }
