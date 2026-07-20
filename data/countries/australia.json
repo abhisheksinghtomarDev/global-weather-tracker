@@ -1,61 +1,23 @@
 {
   "country": "Australia",
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "cities": [
-    {
-      "country": "Australia",
-      "country_code": "AU",
-      "city": "Sydney",
-      "latitude": -33.8688,
-      "longitude": 151.2093,
-      "timestamp": "2026-07-19T10:19:52.352554",
-      "current": {
-        "time": "2026-07-19T20:15",
-        "interval": 900,
-        "temperature_2m": 13.2,
-        "relative_humidity_2m": 80,
-        "apparent_temperature": 12.8,
-        "weather_code": 2,
-        "wind_speed_10m": 2.2,
-        "wind_direction_10m": 55
-      },
-      "history_24h": null
-    },
     {
       "country": "Australia",
       "country_code": "AU",
       "city": "Melbourne",
       "latitude": -37.8136,
       "longitude": 144.9631,
-      "timestamp": "2026-07-19T10:19:52.357723",
+      "timestamp": "2026-07-20T11:37:34.785270",
       "current": {
-        "time": "2026-07-19T20:15",
+        "time": "2026-07-20T21:30",
         "interval": 900,
-        "temperature_2m": 10.0,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 7.1,
+        "temperature_2m": 10.1,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 7.9,
         "weather_code": 3,
-        "wind_speed_10m": 11.9,
-        "wind_direction_10m": 357
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Australia",
-      "country_code": "AU",
-      "city": "Perth",
-      "latitude": -31.9505,
-      "longitude": 115.8605,
-      "timestamp": "2026-07-19T10:19:52.365966",
-      "current": {
-        "time": "2026-07-19T18:15",
-        "interval": 900,
-        "temperature_2m": 14.3,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 14.1,
-        "weather_code": 0,
-        "wind_speed_10m": 0.9,
-        "wind_direction_10m": 169
+        "wind_speed_10m": 10.4,
+        "wind_direction_10m": 349
       },
       "history_24h": null
     },
@@ -65,16 +27,54 @@
       "city": "Brisbane",
       "latitude": -27.4698,
       "longitude": 153.0251,
-      "timestamp": "2026-07-19T10:19:52.367687",
+      "timestamp": "2026-07-20T11:37:34.786828",
       "current": {
-        "time": "2026-07-19T20:15",
+        "time": "2026-07-20T21:30",
         "interval": 900,
-        "temperature_2m": 17.3,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 16.1,
-        "weather_code": 51,
-        "wind_speed_10m": 15.1,
-        "wind_direction_10m": 188
+        "temperature_2m": 15.2,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 14.1,
+        "weather_code": 1,
+        "wind_speed_10m": 9.2,
+        "wind_direction_10m": 179
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "city": "Sydney",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "timestamp": "2026-07-20T11:37:34.787566",
+      "current": {
+        "time": "2026-07-20T21:30",
+        "interval": 900,
+        "temperature_2m": 13.1,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 11.3,
+        "weather_code": 0,
+        "wind_speed_10m": 11.3,
+        "wind_direction_10m": 10
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "city": "Perth",
+      "latitude": -31.9505,
+      "longitude": 115.8605,
+      "timestamp": "2026-07-20T11:37:34.791685",
+      "current": {
+        "time": "2026-07-20T19:30",
+        "interval": 900,
+        "temperature_2m": 13.1,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 12.5,
+        "weather_code": 2,
+        "wind_speed_10m": 4.2,
+        "wind_direction_10m": 130
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Adelaide",
       "latitude": -34.9285,
       "longitude": 138.6007,
-      "timestamp": "2026-07-19T10:19:52.372278",
+      "timestamp": "2026-07-20T11:37:34.795799",
       "current": {
-        "time": "2026-07-19T19:45",
+        "time": "2026-07-20T21:00",
         "interval": 900,
-        "temperature_2m": 11.9,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 9.8,
+        "temperature_2m": 12.3,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 10.8,
         "weather_code": 3,
-        "wind_speed_10m": 9.5,
-        "wind_direction_10m": 63
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 56
       },
       "history_24h": null
     }

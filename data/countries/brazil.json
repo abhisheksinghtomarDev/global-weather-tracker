@@ -1,6 +1,6 @@
 {
   "country": "Brazil",
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "cities": [
     {
       "country": "Brazil",
@@ -8,73 +8,16 @@
       "city": "Sao Paulo",
       "latitude": -23.5505,
       "longitude": -46.6333,
-      "timestamp": "2026-07-19T10:19:52.374045",
+      "timestamp": "2026-07-20T11:37:34.797055",
       "current": {
-        "time": "2026-07-19T07:15",
+        "time": "2026-07-20T08:30",
         "interval": 900,
-        "temperature_2m": 14.3,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 12.1,
+        "temperature_2m": 18.0,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 16.7,
         "weather_code": 0,
-        "wind_speed_10m": 10.3,
-        "wind_direction_10m": 348
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Brazil",
-      "country_code": "BR",
-      "city": "Rio de Janeiro",
-      "latitude": -22.9068,
-      "longitude": -43.1729,
-      "timestamp": "2026-07-19T10:19:52.376146",
-      "current": {
-        "time": "2026-07-19T07:15",
-        "interval": 900,
-        "temperature_2m": 19.0,
-        "relative_humidity_2m": 78,
-        "apparent_temperature": 19.3,
-        "weather_code": 0,
-        "wind_speed_10m": 9.5,
-        "wind_direction_10m": 14
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Brazil",
-      "country_code": "BR",
-      "city": "Brasilia",
-      "latitude": -15.7975,
-      "longitude": -47.8919,
-      "timestamp": "2026-07-19T10:19:52.388183",
-      "current": {
-        "time": "2026-07-19T07:15",
-        "interval": 900,
-        "temperature_2m": 14.2,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 13.2,
-        "weather_code": 0,
-        "wind_speed_10m": 7.7,
-        "wind_direction_10m": 111
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Brazil",
-      "country_code": "BR",
-      "city": "Fortaleza",
-      "latitude": -3.7172,
-      "longitude": -38.5433,
-      "timestamp": "2026-07-19T10:19:52.389809",
-      "current": {
-        "time": "2026-07-19T07:15",
-        "interval": 900,
-        "temperature_2m": 24.2,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 25.4,
-        "weather_code": 1,
-        "wind_speed_10m": 15.9,
-        "wind_direction_10m": 158
+        "wind_speed_10m": 8.0,
+        "wind_direction_10m": 352
       },
       "history_24h": null
     },
@@ -84,16 +27,73 @@
       "city": "Salvador",
       "latitude": -12.9714,
       "longitude": -38.5014,
-      "timestamp": "2026-07-19T10:19:52.390181",
+      "timestamp": "2026-07-20T11:37:34.799101",
       "current": {
-        "time": "2026-07-19T07:15",
+        "time": "2026-07-20T08:30",
         "interval": 900,
-        "temperature_2m": 24.1,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 23.9,
+        "temperature_2m": 24.9,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 26.2,
+        "weather_code": 0,
+        "wind_speed_10m": 13.9,
+        "wind_direction_10m": 114
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Rio de Janeiro",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "timestamp": "2026-07-20T11:37:34.800298",
+      "current": {
+        "time": "2026-07-20T08:30",
+        "interval": 900,
+        "temperature_2m": 22.4,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 23.2,
+        "weather_code": 0,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 1
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Brasilia",
+      "latitude": -15.7975,
+      "longitude": -47.8919,
+      "timestamp": "2026-07-20T11:37:34.801692",
+      "current": {
+        "time": "2026-07-20T08:30",
+        "interval": 900,
+        "temperature_2m": 17.4,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 16.1,
+        "weather_code": 0,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 101
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Fortaleza",
+      "latitude": -3.7172,
+      "longitude": -38.5433,
+      "timestamp": "2026-07-20T11:37:34.803861",
+      "current": {
+        "time": "2026-07-20T08:30",
+        "interval": 900,
+        "temperature_2m": 27.6,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 28.4,
         "weather_code": 3,
-        "wind_speed_10m": 20.9,
-        "wind_direction_10m": 136
+        "wind_speed_10m": 15.2,
+        "wind_direction_10m": 137
       },
       "history_24h": null
     }
