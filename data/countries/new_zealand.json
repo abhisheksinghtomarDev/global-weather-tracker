@@ -1,6 +1,6 @@
 {
   "country": "New Zealand",
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "cities": [
     {
       "country": "New Zealand",
@@ -8,16 +8,16 @@
       "city": "Auckland",
       "latitude": -36.8509,
       "longitude": 174.7645,
-      "timestamp": "2026-07-20T11:37:36.036395",
+      "timestamp": "2026-07-21T10:58:52.329209",
       "current": {
-        "time": "2026-07-20T23:30",
+        "time": "2026-07-21T22:45",
         "interval": 900,
-        "temperature_2m": 11.1,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 9.6,
-        "weather_code": 3,
-        "wind_speed_10m": 9.9,
-        "wind_direction_10m": 102
+        "temperature_2m": 8.6,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 7.0,
+        "weather_code": 0,
+        "wind_speed_10m": 4.2,
+        "wind_direction_10m": 198
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Wellington",
       "latitude": -41.2865,
       "longitude": 174.7762,
-      "timestamp": "2026-07-20T11:37:36.050449",
+      "timestamp": "2026-07-21T10:58:52.331594",
       "current": {
-        "time": "2026-07-20T23:30",
+        "time": "2026-07-21T22:45",
         "interval": 900,
-        "temperature_2m": 6.8,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 5.3,
-        "weather_code": 2,
-        "wind_speed_10m": 2.5,
-        "wind_direction_10m": 98
-      },
-      "history_24h": null
-    },
-    {
-      "country": "New Zealand",
-      "country_code": "NZ",
-      "city": "Queenstown",
-      "latitude": -45.0312,
-      "longitude": 168.6626,
-      "timestamp": "2026-07-20T11:37:36.051730",
-      "current": {
-        "time": "2026-07-20T23:30",
-        "interval": 900,
-        "temperature_2m": 1.9,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": -0.3,
-        "weather_code": 2,
-        "wind_speed_10m": 1.1,
-        "wind_direction_10m": 342
+        "temperature_2m": 10.1,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 6.4,
+        "weather_code": 1,
+        "wind_speed_10m": 21.8,
+        "wind_direction_10m": 13
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Christchurch",
       "latitude": -43.5321,
       "longitude": 172.6362,
-      "timestamp": "2026-07-20T11:37:36.053101",
+      "timestamp": "2026-07-21T10:58:52.333095",
       "current": {
-        "time": "2026-07-20T23:30",
+        "time": "2026-07-21T22:45",
         "interval": 900,
-        "temperature_2m": 7.2,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 4.3,
+        "temperature_2m": 5.0,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 2.3,
         "weather_code": 0,
-        "wind_speed_10m": 12.2,
-        "wind_direction_10m": 56
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 236
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Rotorua",
       "latitude": -38.1378,
       "longitude": 176.2514,
-      "timestamp": "2026-07-20T11:37:36.060686",
+      "timestamp": "2026-07-21T10:58:52.345388",
       "current": {
-        "time": "2026-07-20T23:30",
+        "time": "2026-07-21T22:45",
         "interval": 900,
-        "temperature_2m": 6.6,
-        "relative_humidity_2m": 86,
+        "temperature_2m": 3.1,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 1.0,
+        "weather_code": 0,
+        "wind_speed_10m": 3.1,
+        "wind_direction_10m": 234
+      },
+      "history_24h": null
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "city": "Queenstown",
+      "latitude": -45.0312,
+      "longitude": 168.6626,
+      "timestamp": "2026-07-21T10:58:52.347143",
+      "current": {
+        "time": "2026-07-21T22:45",
+        "interval": 900,
+        "temperature_2m": 5.6,
+        "relative_humidity_2m": 99,
         "apparent_temperature": 4.4,
         "weather_code": 3,
-        "wind_speed_10m": 6.7,
-        "wind_direction_10m": 180
+        "wind_speed_10m": 0.2,
+        "wind_direction_10m": 360
       },
       "history_24h": null
     }

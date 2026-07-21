@@ -1,42 +1,42 @@
 {
   "country": "Greece",
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "cities": [
-    {
-      "country": "Greece",
-      "country_code": "GR",
-      "city": "Athens",
-      "latitude": 37.9838,
-      "longitude": 23.7275,
-      "timestamp": "2026-07-20T11:37:35.663220",
-      "current": {
-        "time": "2026-07-20T14:30",
-        "interval": 900,
-        "temperature_2m": 37.4,
-        "relative_humidity_2m": 30,
-        "apparent_temperature": 40.7,
-        "weather_code": 0,
-        "wind_speed_10m": 8.3,
-        "wind_direction_10m": 185
-      },
-      "history_24h": null
-    },
     {
       "country": "Greece",
       "country_code": "GR",
       "city": "Thessaloniki",
       "latitude": 40.6401,
       "longitude": 22.9444,
-      "timestamp": "2026-07-20T11:37:35.679406",
+      "timestamp": "2026-07-21T10:58:52.135517",
       "current": {
-        "time": "2026-07-20T14:30",
+        "time": "2026-07-21T13:45",
         "interval": 900,
-        "temperature_2m": 36.8,
+        "temperature_2m": 36.0,
         "relative_humidity_2m": 31,
-        "apparent_temperature": 40.3,
+        "apparent_temperature": 39.0,
         "weather_code": 0,
-        "wind_speed_10m": 7.1,
-        "wind_direction_10m": 255
+        "wind_speed_10m": 9.2,
+        "wind_direction_10m": 315
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Athens",
+      "latitude": 37.9838,
+      "longitude": 23.7275,
+      "timestamp": "2026-07-21T10:58:52.136743",
+      "current": {
+        "time": "2026-07-21T13:45",
+        "interval": 900,
+        "temperature_2m": 37.2,
+        "relative_humidity_2m": 33,
+        "apparent_temperature": 41.0,
+        "weather_code": 0,
+        "wind_speed_10m": 9.8,
+        "wind_direction_10m": 197
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Santorini",
       "latitude": 36.3932,
       "longitude": 25.4615,
-      "timestamp": "2026-07-20T11:37:35.684158",
+      "timestamp": "2026-07-21T10:58:52.163841",
       "current": {
-        "time": "2026-07-20T14:30",
+        "time": "2026-07-21T13:45",
         "interval": 900,
-        "temperature_2m": 31.7,
+        "temperature_2m": 32.7,
         "relative_humidity_2m": 41,
-        "apparent_temperature": 33.1,
+        "apparent_temperature": 35.3,
         "weather_code": 0,
-        "wind_speed_10m": 18.6,
-        "wind_direction_10m": 313
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Greece",
-      "country_code": "GR",
-      "city": "Crete",
-      "latitude": 35.2401,
-      "longitude": 24.8317,
-      "timestamp": "2026-07-20T11:37:35.686649",
-      "current": {
-        "time": "2026-07-20T14:30",
-        "interval": 900,
-        "temperature_2m": 28.9,
-        "relative_humidity_2m": 40,
-        "apparent_temperature": 29.2,
-        "weather_code": 0,
-        "wind_speed_10m": 21.2,
-        "wind_direction_10m": 359
+        "wind_speed_10m": 14.5,
+        "wind_direction_10m": 330
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Mykonos",
       "latitude": 37.4467,
       "longitude": 25.3289,
-      "timestamp": "2026-07-20T11:37:35.688206",
+      "timestamp": "2026-07-21T10:58:52.168144",
       "current": {
-        "time": "2026-07-20T14:30",
+        "time": "2026-07-21T13:45",
         "interval": 900,
-        "temperature_2m": 30.6,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 31.2,
+        "temperature_2m": 30.4,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 32.1,
         "weather_code": 0,
-        "wind_speed_10m": 24.1,
-        "wind_direction_10m": 360
+        "wind_speed_10m": 23.8,
+        "wind_direction_10m": 1
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Crete",
+      "latitude": 35.2401,
+      "longitude": 24.8317,
+      "timestamp": "2026-07-21T10:58:52.175753",
+      "current": {
+        "time": "2026-07-21T13:45",
+        "interval": 900,
+        "temperature_2m": 29.9,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 30.9,
+        "weather_code": 0,
+        "wind_speed_10m": 18.4,
+        "wind_direction_10m": 6
       },
       "history_24h": null
     }
