@@ -1,23 +1,42 @@
 {
   "country": "Morocco",
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "cities": [
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Fes",
+      "latitude": 34.0181,
+      "longitude": -5.0078,
+      "timestamp": "2026-07-23T11:02:13.612922",
+      "current": {
+        "time": "2026-07-23T12:00",
+        "interval": 900,
+        "temperature_2m": 34.5,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 39.2,
+        "weather_code": 1,
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 326
+      },
+      "history_24h": null
+    },
     {
       "country": "Morocco",
       "country_code": "MA",
       "city": "Casablanca",
       "latitude": 33.5731,
       "longitude": -7.5898,
-      "timestamp": "2026-07-22T10:59:53.571267",
+      "timestamp": "2026-07-23T11:02:13.614218",
       "current": {
-        "time": "2026-07-22T11:45",
+        "time": "2026-07-23T12:00",
         "interval": 900,
-        "temperature_2m": 25.7,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 29.0,
+        "temperature_2m": 26.3,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 29.6,
         "weather_code": 2,
-        "wind_speed_10m": 10.1,
-        "wind_direction_10m": 6
+        "wind_speed_10m": 11.0,
+        "wind_direction_10m": 349
       },
       "history_24h": null
     },
@@ -27,35 +46,16 @@
       "city": "Marrakech",
       "latitude": 31.6295,
       "longitude": -7.9811,
-      "timestamp": "2026-07-22T10:59:53.574036",
+      "timestamp": "2026-07-23T11:02:13.615440",
       "current": {
-        "time": "2026-07-22T11:45",
+        "time": "2026-07-23T12:00",
         "interval": 900,
-        "temperature_2m": 35.1,
-        "relative_humidity_2m": 36,
-        "apparent_temperature": 39.5,
-        "weather_code": 0,
-        "wind_speed_10m": 3.9,
-        "wind_direction_10m": 22
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Morocco",
-      "country_code": "MA",
-      "city": "Fes",
-      "latitude": 34.0181,
-      "longitude": -5.0078,
-      "timestamp": "2026-07-22T10:59:53.576652",
-      "current": {
-        "time": "2026-07-22T11:45",
-        "interval": 900,
-        "temperature_2m": 34.5,
+        "temperature_2m": 36.7,
         "relative_humidity_2m": 34,
-        "apparent_temperature": 38.0,
-        "weather_code": 0,
-        "wind_speed_10m": 5.5,
-        "wind_direction_10m": 11
+        "apparent_temperature": 41.3,
+        "weather_code": 1,
+        "wind_speed_10m": 4.1,
+        "wind_direction_10m": 15
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Tangier",
       "latitude": 35.7595,
       "longitude": -5.834,
-      "timestamp": "2026-07-22T10:59:53.578092",
+      "timestamp": "2026-07-23T11:02:13.621614",
       "current": {
-        "time": "2026-07-22T11:45",
+        "time": "2026-07-23T12:00",
         "interval": 900,
-        "temperature_2m": 28.4,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 32.9,
+        "temperature_2m": 28.5,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 32.6,
         "weather_code": 0,
-        "wind_speed_10m": 4.9,
-        "wind_direction_10m": 287
+        "wind_speed_10m": 6.6,
+        "wind_direction_10m": 257
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Agadir",
       "latitude": 30.4278,
       "longitude": -9.5983,
-      "timestamp": "2026-07-22T10:59:53.589410",
+      "timestamp": "2026-07-23T11:02:13.624637",
       "current": {
-        "time": "2026-07-22T11:45",
+        "time": "2026-07-23T12:00",
         "interval": 900,
         "temperature_2m": 23.2,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 27.7,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 27.3,
         "weather_code": 2,
-        "wind_speed_10m": 7.2,
-        "wind_direction_10m": 264
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 265
       },
       "history_24h": null
     }

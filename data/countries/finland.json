@@ -1,6 +1,6 @@
 {
   "country": "Finland",
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "cities": [
     {
       "country": "Finland",
@@ -8,35 +8,16 @@
       "city": "Helsinki",
       "latitude": 60.1699,
       "longitude": 24.9384,
-      "timestamp": "2026-07-22T10:59:53.747788",
+      "timestamp": "2026-07-23T11:02:13.761739",
       "current": {
-        "time": "2026-07-22T13:45",
+        "time": "2026-07-23T14:00",
         "interval": 900,
-        "temperature_2m": 18.0,
-        "relative_humidity_2m": 48,
-        "apparent_temperature": 15.2,
+        "temperature_2m": 19.3,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 19.4,
         "weather_code": 3,
-        "wind_speed_10m": 13.7,
-        "wind_direction_10m": 337
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Finland",
-      "country_code": "FI",
-      "city": "Tampere",
-      "latitude": 61.4978,
-      "longitude": 23.7608,
-      "timestamp": "2026-07-22T10:59:53.771596",
-      "current": {
-        "time": "2026-07-22T13:45",
-        "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 47,
-        "apparent_temperature": 15.9,
-        "weather_code": 3,
-        "wind_speed_10m": 11.5,
-        "wind_direction_10m": 18
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 219
       },
       "history_24h": null
     },
@@ -46,35 +27,35 @@
       "city": "Turku",
       "latitude": 60.4518,
       "longitude": 22.2666,
-      "timestamp": "2026-07-22T10:59:53.782855",
+      "timestamp": "2026-07-23T11:02:13.787780",
       "current": {
-        "time": "2026-07-22T13:45",
+        "time": "2026-07-23T14:00",
         "interval": 900,
-        "temperature_2m": 19.4,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 15.8,
+        "temperature_2m": 20.2,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 18.4,
         "weather_code": 3,
-        "wind_speed_10m": 17.6,
-        "wind_direction_10m": 319
+        "wind_speed_10m": 16.2,
+        "wind_direction_10m": 321
       },
       "history_24h": null
     },
     {
       "country": "Finland",
       "country_code": "FI",
-      "city": "Rovaniemi",
-      "latitude": 66.5039,
-      "longitude": 25.7294,
-      "timestamp": "2026-07-22T10:59:53.799503",
+      "city": "Tampere",
+      "latitude": 61.4978,
+      "longitude": 23.7608,
+      "timestamp": "2026-07-23T11:02:13.790945",
       "current": {
-        "time": "2026-07-22T13:45",
+        "time": "2026-07-23T14:00",
         "interval": 900,
-        "temperature_2m": 19.1,
-        "relative_humidity_2m": 45,
-        "apparent_temperature": 17.4,
+        "temperature_2m": 18.5,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 18.2,
         "weather_code": 3,
-        "wind_speed_10m": 6.5,
-        "wind_direction_10m": 209
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 337
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Oulu",
       "latitude": 65.0121,
       "longitude": 25.4651,
-      "timestamp": "2026-07-22T10:59:53.811740",
+      "timestamp": "2026-07-23T11:02:13.811395",
       "current": {
-        "time": "2026-07-22T13:45",
+        "time": "2026-07-23T14:00",
         "interval": 900,
-        "temperature_2m": 19.7,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 17.7,
+        "temperature_2m": 16.7,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 15.8,
         "weather_code": 3,
-        "wind_speed_10m": 6.8,
-        "wind_direction_10m": 154
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 349
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Rovaniemi",
+      "latitude": 66.5039,
+      "longitude": 25.7294,
+      "timestamp": "2026-07-23T11:02:14.922083",
+      "current": {
+        "time": "2026-07-23T14:00",
+        "interval": 900,
+        "temperature_2m": 12.7,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 10.2,
+        "weather_code": 3,
+        "wind_speed_10m": 15.5,
+        "wind_direction_10m": 346
       },
       "history_24h": null
     }
