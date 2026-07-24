@@ -1,6 +1,6 @@
 {
   "country": "Peru",
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "cities": [
     {
       "country": "Peru",
@@ -8,16 +8,16 @@
       "city": "Lima",
       "latitude": -12.0464,
       "longitude": -77.0428,
-      "timestamp": "2026-07-23T11:02:13.483981",
+      "timestamp": "2026-07-24T10:55:24.361554",
       "current": {
-        "time": "2026-07-23T06:00",
+        "time": "2026-07-24T05:45",
         "interval": 900,
-        "temperature_2m": 19.8,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": 21.8,
+        "temperature_2m": 18.8,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 19.5,
         "weather_code": 3,
-        "wind_speed_10m": 1.6,
-        "wind_direction_10m": 174
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 59
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Cusco",
       "latitude": -13.5319,
       "longitude": -71.9675,
-      "timestamp": "2026-07-23T11:02:13.496661",
+      "timestamp": "2026-07-24T10:55:24.364473",
       "current": {
-        "time": "2026-07-23T06:00",
+        "time": "2026-07-24T05:45",
         "interval": 900,
-        "temperature_2m": 7.4,
+        "temperature_2m": 8.1,
         "relative_humidity_2m": 88,
-        "apparent_temperature": 6.2,
+        "apparent_temperature": 7.0,
         "weather_code": 3,
         "wind_speed_10m": 1.1,
-        "wind_direction_10m": 108
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Peru",
-      "country_code": "PE",
-      "city": "Arequipa",
-      "latitude": -16.409,
-      "longitude": -71.5375,
-      "timestamp": "2026-07-23T11:02:13.504216",
-      "current": {
-        "time": "2026-07-23T06:00",
-        "interval": 900,
-        "temperature_2m": 8.5,
-        "relative_humidity_2m": 19,
-        "apparent_temperature": 4.1,
-        "weather_code": 0,
-        "wind_speed_10m": 5.9,
-        "wind_direction_10m": 63
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Peru",
-      "country_code": "PE",
-      "city": "Trujillo",
-      "latitude": -8.1116,
-      "longitude": -79.0288,
-      "timestamp": "2026-07-23T11:02:13.505534",
-      "current": {
-        "time": "2026-07-23T06:00",
-        "interval": 900,
-        "temperature_2m": 21.7,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 23.6,
-        "weather_code": 3,
-        "wind_speed_10m": 8.9,
-        "wind_direction_10m": 128
+        "wind_direction_10m": 90
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Machu Picchu",
       "latitude": -13.1631,
       "longitude": -72.545,
-      "timestamp": "2026-07-23T11:02:13.512403",
+      "timestamp": "2026-07-24T10:55:24.366449",
       "current": {
-        "time": "2026-07-23T06:00",
+        "time": "2026-07-24T05:45",
         "interval": 900,
-        "temperature_2m": 7.1,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 5.0,
-        "weather_code": 1,
-        "wind_speed_10m": 4.2,
-        "wind_direction_10m": 110
+        "temperature_2m": 8.4,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 6.3,
+        "weather_code": 3,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 123
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Trujillo",
+      "latitude": -8.1116,
+      "longitude": -79.0288,
+      "timestamp": "2026-07-24T10:55:24.369281",
+      "current": {
+        "time": "2026-07-24T05:45",
+        "interval": 900,
+        "temperature_2m": 20.3,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 21.7,
+        "weather_code": 2,
+        "wind_speed_10m": 6.7,
+        "wind_direction_10m": 76
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Arequipa",
+      "latitude": -16.409,
+      "longitude": -71.5375,
+      "timestamp": "2026-07-24T10:55:24.370750",
+      "current": {
+        "time": "2026-07-24T05:45",
+        "interval": 900,
+        "temperature_2m": 7.6,
+        "relative_humidity_2m": 19,
+        "apparent_temperature": 3.5,
+        "weather_code": 0,
+        "wind_speed_10m": 3.9,
+        "wind_direction_10m": 66
       },
       "history_24h": null
     }
