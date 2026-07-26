@@ -1,6 +1,6 @@
 {
   "country": "Ireland",
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "cities": [
     {
       "country": "Ireland",
@@ -8,16 +8,16 @@
       "city": "Dublin",
       "latitude": 53.3498,
       "longitude": -6.2603,
-      "timestamp": "2026-07-25T10:21:21.051453",
+      "timestamp": "2026-07-26T10:37:37.789229",
       "current": {
-        "time": "2026-07-25T11:15",
+        "time": "2026-07-26T11:30",
         "interval": 900,
-        "temperature_2m": 19.1,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 16.6,
+        "temperature_2m": 16.9,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 14.3,
         "weather_code": 3,
-        "wind_speed_10m": 23.0,
-        "wind_direction_10m": 267
+        "wind_speed_10m": 22.7,
+        "wind_direction_10m": 286
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Cork",
       "latitude": 51.8969,
       "longitude": -8.4863,
-      "timestamp": "2026-07-25T10:21:21.058554",
+      "timestamp": "2026-07-26T10:37:37.800392",
       "current": {
-        "time": "2026-07-25T11:15",
+        "time": "2026-07-26T11:30",
         "interval": 900,
-        "temperature_2m": 20.0,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 18.4,
+        "temperature_2m": 18.6,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 15.7,
         "weather_code": 2,
-        "wind_speed_10m": 13.0,
-        "wind_direction_10m": 268
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Ireland",
-      "country_code": "IE",
-      "city": "Galway",
-      "latitude": 53.2707,
-      "longitude": -9.0568,
-      "timestamp": "2026-07-25T10:21:21.075448",
-      "current": {
-        "time": "2026-07-25T11:15",
-        "interval": 900,
-        "temperature_2m": 17.7,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 16.5,
-        "weather_code": 3,
-        "wind_speed_10m": 18.7,
-        "wind_direction_10m": 278
+        "wind_speed_10m": 20.9,
+        "wind_direction_10m": 304
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Limerick",
       "latitude": 52.668,
       "longitude": -8.6305,
-      "timestamp": "2026-07-25T10:21:21.101841",
+      "timestamp": "2026-07-26T10:37:37.809260",
       "current": {
-        "time": "2026-07-25T11:15",
+        "time": "2026-07-26T11:30",
         "interval": 900,
-        "temperature_2m": 17.0,
-        "relative_humidity_2m": 86,
-        "apparent_temperature": 15.5,
+        "temperature_2m": 16.5,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 14.9,
+        "weather_code": 3,
+        "wind_speed_10m": 16.9,
+        "wind_direction_10m": 293
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Galway",
+      "latitude": 53.2707,
+      "longitude": -9.0568,
+      "timestamp": "2026-07-26T10:37:37.819134",
+      "current": {
+        "time": "2026-07-26T11:30",
+        "interval": 900,
+        "temperature_2m": 16.9,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 14.3,
         "weather_code": 3,
         "wind_speed_10m": 20.2,
-        "wind_direction_10m": 266
+        "wind_direction_10m": 296
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Belfast",
       "latitude": 54.5973,
       "longitude": -5.9301,
-      "timestamp": "2026-07-25T10:21:21.116416",
+      "timestamp": "2026-07-26T10:37:37.830204",
       "current": {
-        "time": "2026-07-25T11:15",
+        "time": "2026-07-26T11:30",
         "interval": 900,
-        "temperature_2m": 18.2,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 17.1,
+        "temperature_2m": 16.0,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 14.2,
         "weather_code": 3,
         "wind_speed_10m": 15.5,
-        "wind_direction_10m": 261
+        "wind_direction_10m": 287
       },
       "history_24h": null
     }

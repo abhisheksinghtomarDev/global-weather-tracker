@@ -1,61 +1,23 @@
 {
   "country": "Canada",
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "cities": [
-    {
-      "country": "Canada",
-      "country_code": "CA",
-      "city": "Vancouver",
-      "latitude": 49.2827,
-      "longitude": -123.1207,
-      "timestamp": "2026-07-25T10:21:19.662108",
-      "current": {
-        "time": "2026-07-25T03:15",
-        "interval": 900,
-        "temperature_2m": 15.6,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": 14.6,
-        "weather_code": 0,
-        "wind_speed_10m": 12.0,
-        "wind_direction_10m": 111
-      },
-      "history_24h": null
-    },
     {
       "country": "Canada",
       "country_code": "CA",
       "city": "Toronto",
       "latitude": 43.6532,
       "longitude": -79.3832,
-      "timestamp": "2026-07-25T10:21:19.663797",
+      "timestamp": "2026-07-26T10:37:36.466311",
       "current": {
-        "time": "2026-07-25T06:15",
+        "time": "2026-07-26T06:30",
         "interval": 900,
-        "temperature_2m": 14.7,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 14.1,
+        "temperature_2m": 15.9,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 16.7,
         "weather_code": 0,
-        "wind_speed_10m": 9.2,
-        "wind_direction_10m": 26
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Canada",
-      "country_code": "CA",
-      "city": "Montreal",
-      "latitude": 45.5017,
-      "longitude": -73.5673,
-      "timestamp": "2026-07-25T10:21:19.667066",
-      "current": {
-        "time": "2026-07-25T06:15",
-        "interval": 900,
-        "temperature_2m": 15.2,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": 16.1,
-        "weather_code": 0,
-        "wind_speed_10m": 3.1,
-        "wind_direction_10m": 135
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 250
       },
       "history_24h": null
     },
@@ -65,16 +27,54 @@
       "city": "Calgary",
       "latitude": 51.0447,
       "longitude": -114.0719,
-      "timestamp": "2026-07-25T10:21:19.669587",
+      "timestamp": "2026-07-26T10:37:36.470088",
       "current": {
-        "time": "2026-07-25T04:15",
+        "time": "2026-07-26T04:30",
         "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 16.0,
+        "temperature_2m": 17.0,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 15.1,
         "weather_code": 0,
-        "wind_speed_10m": 8.6,
-        "wind_direction_10m": 272
+        "wind_speed_10m": 9.8,
+        "wind_direction_10m": 336
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Montreal",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "timestamp": "2026-07-26T10:37:36.477109",
+      "current": {
+        "time": "2026-07-26T06:30",
+        "interval": 900,
+        "temperature_2m": 17.6,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 17.6,
+        "weather_code": 1,
+        "wind_speed_10m": 7.3,
+        "wind_direction_10m": 200
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Vancouver",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "timestamp": "2026-07-26T10:37:36.479114",
+      "current": {
+        "time": "2026-07-26T03:30",
+        "interval": 900,
+        "temperature_2m": 15.8,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 15.6,
+        "weather_code": 3,
+        "wind_speed_10m": 7.7,
+        "wind_direction_10m": 127
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Ottawa",
       "latitude": 45.4215,
       "longitude": -75.6972,
-      "timestamp": "2026-07-25T10:21:19.674484",
+      "timestamp": "2026-07-26T10:37:36.485663",
       "current": {
-        "time": "2026-07-25T06:15",
+        "time": "2026-07-26T06:30",
         "interval": 900,
-        "temperature_2m": 13.1,
-        "relative_humidity_2m": 96,
-        "apparent_temperature": 13.5,
-        "weather_code": 45,
-        "wind_speed_10m": 2.3,
-        "wind_direction_10m": 72
+        "temperature_2m": 17.1,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 18.5,
+        "weather_code": 0,
+        "wind_speed_10m": 1.8,
+        "wind_direction_10m": 53
       },
       "history_24h": null
     }
