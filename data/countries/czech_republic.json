@@ -1,80 +1,42 @@
 {
   "country": "Czech Republic",
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "cities": [
-    {
-      "country": "Czech Republic",
-      "country_code": "CZ",
-      "city": "Prague",
-      "latitude": 50.0755,
-      "longitude": 14.4378,
-      "timestamp": "2026-07-27T12:13:22.301172",
-      "current": {
-        "time": "2026-07-27T14:00",
-        "interval": 900,
-        "temperature_2m": 19.0,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 17.9,
-        "weather_code": 61,
-        "wind_speed_10m": 12.0,
-        "wind_direction_10m": 311
-      },
-      "history_24h": null
-    },
     {
       "country": "Czech Republic",
       "country_code": "CZ",
       "city": "Brno",
       "latitude": 49.1951,
       "longitude": 16.6068,
-      "timestamp": "2026-07-27T12:13:22.302818",
+      "timestamp": "2026-07-28T11:10:06.390454",
       "current": {
-        "time": "2026-07-27T14:00",
+        "time": "2026-07-28T13:00",
         "interval": 900,
-        "temperature_2m": 25.2,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 22.4,
-        "weather_code": 3,
-        "wind_speed_10m": 19.6,
-        "wind_direction_10m": 314
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 33,
+        "apparent_temperature": 24.4,
+        "weather_code": 1,
+        "wind_speed_10m": 13.5,
+        "wind_direction_10m": 299
       },
       "history_24h": null
     },
     {
       "country": "Czech Republic",
       "country_code": "CZ",
-      "city": "Karlovy Vary",
-      "latitude": 50.2319,
-      "longitude": 12.8716,
-      "timestamp": "2026-07-27T12:13:22.359227",
+      "city": "Prague",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "timestamp": "2026-07-28T11:10:06.398798",
       "current": {
-        "time": "2026-07-27T14:00",
+        "time": "2026-07-28T13:00",
         "interval": 900,
-        "temperature_2m": 19.9,
-        "relative_humidity_2m": 58,
-        "apparent_temperature": 18.1,
-        "weather_code": 3,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 282
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Czech Republic",
-      "country_code": "CZ",
-      "city": "Pilsen",
-      "latitude": 49.7384,
-      "longitude": 13.3736,
-      "timestamp": "2026-07-27T12:13:22.365673",
-      "current": {
-        "time": "2026-07-27T14:00",
-        "interval": 900,
-        "temperature_2m": 21.4,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 19.3,
-        "weather_code": 3,
-        "wind_speed_10m": 18.5,
-        "wind_direction_10m": 333
+        "temperature_2m": 23.7,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 22.9,
+        "weather_code": 2,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 268
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Cesky Krumlov",
       "latitude": 48.8127,
       "longitude": 14.3175,
-      "timestamp": "2026-07-27T12:13:23.456330",
+      "timestamp": "2026-07-28T11:10:06.404060",
       "current": {
-        "time": "2026-07-27T14:00",
+        "time": "2026-07-28T13:00",
         "interval": 900,
-        "temperature_2m": 21.5,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 19.6,
-        "weather_code": 3,
-        "wind_speed_10m": 15.6,
-        "wind_direction_10m": 289
+        "temperature_2m": 25.3,
+        "relative_humidity_2m": 38,
+        "apparent_temperature": 25.8,
+        "weather_code": 1,
+        "wind_speed_10m": 8.5,
+        "wind_direction_10m": 282
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Karlovy Vary",
+      "latitude": 50.2319,
+      "longitude": 12.8716,
+      "timestamp": "2026-07-28T11:10:06.405370",
+      "current": {
+        "time": "2026-07-28T13:00",
+        "interval": 900,
+        "temperature_2m": 23.4,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 23.2,
+        "weather_code": 1,
+        "wind_speed_10m": 11.7,
+        "wind_direction_10m": 252
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Pilsen",
+      "latitude": 49.7384,
+      "longitude": 13.3736,
+      "timestamp": "2026-07-28T11:10:06.408863",
+      "current": {
+        "time": "2026-07-28T13:00",
+        "interval": 900,
+        "temperature_2m": 24.8,
+        "relative_humidity_2m": 38,
+        "apparent_temperature": 25.5,
+        "weather_code": 1,
+        "wind_speed_10m": 5.5,
+        "wind_direction_10m": 247
       },
       "history_24h": null
     }

@@ -1,42 +1,42 @@
 {
   "country": "Egypt",
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "cities": [
-    {
-      "country": "Egypt",
-      "country_code": "EG",
-      "city": "Cairo",
-      "latitude": 30.0444,
-      "longitude": 31.2357,
-      "timestamp": "2026-07-27T12:13:21.606391",
-      "current": {
-        "time": "2026-07-27T15:00",
-        "interval": 900,
-        "temperature_2m": 34.5,
-        "relative_humidity_2m": 40,
-        "apparent_temperature": 37.0,
-        "weather_code": 2,
-        "wind_speed_10m": 13.9,
-        "wind_direction_10m": 21
-      },
-      "history_24h": null
-    },
     {
       "country": "Egypt",
       "country_code": "EG",
       "city": "Alexandria",
       "latitude": 31.2001,
       "longitude": 29.9187,
-      "timestamp": "2026-07-27T12:13:21.612272",
+      "timestamp": "2026-07-28T11:10:05.864274",
       "current": {
-        "time": "2026-07-27T15:00",
+        "time": "2026-07-28T14:00",
         "interval": 900,
-        "temperature_2m": 29.4,
+        "temperature_2m": 30.4,
         "relative_humidity_2m": 61,
-        "apparent_temperature": 33.4,
+        "apparent_temperature": 35.1,
+        "weather_code": 1,
+        "wind_speed_10m": 16.1,
+        "wind_direction_10m": 304
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Cairo",
+      "latitude": 30.0444,
+      "longitude": 31.2357,
+      "timestamp": "2026-07-28T11:10:05.866038",
+      "current": {
+        "time": "2026-07-28T14:00",
+        "interval": 900,
+        "temperature_2m": 35.2,
+        "relative_humidity_2m": 31,
+        "apparent_temperature": 38.1,
         "weather_code": 0,
-        "wind_speed_10m": 14.8,
-        "wind_direction_10m": 334
+        "wind_speed_10m": 9.3,
+        "wind_direction_10m": 332
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Luxor",
       "latitude": 25.6872,
       "longitude": 32.6396,
-      "timestamp": "2026-07-27T12:13:21.623405",
+      "timestamp": "2026-07-28T11:10:05.872038",
       "current": {
-        "time": "2026-07-27T15:00",
+        "time": "2026-07-28T14:00",
         "interval": 900,
-        "temperature_2m": 43.2,
-        "relative_humidity_2m": 12,
-        "apparent_temperature": 42.3,
+        "temperature_2m": 41.0,
+        "relative_humidity_2m": 14,
+        "apparent_temperature": 40.3,
         "weather_code": 0,
-        "wind_speed_10m": 12.5,
-        "wind_direction_10m": 311
+        "wind_speed_10m": 15.5,
+        "wind_direction_10m": 313
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Sharm El Sheikh",
       "latitude": 27.9158,
       "longitude": 34.33,
-      "timestamp": "2026-07-27T12:13:21.634698",
+      "timestamp": "2026-07-28T11:10:05.881777",
       "current": {
-        "time": "2026-07-27T15:00",
+        "time": "2026-07-28T14:00",
         "interval": 900,
-        "temperature_2m": 40.5,
-        "relative_humidity_2m": 24,
-        "apparent_temperature": 42.7,
+        "temperature_2m": 38.1,
+        "relative_humidity_2m": 32,
+        "apparent_temperature": 42.1,
         "weather_code": 0,
-        "wind_speed_10m": 11.0,
-        "wind_direction_10m": 174
+        "wind_speed_10m": 10.7,
+        "wind_direction_10m": 117
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Aswan",
       "latitude": 24.0889,
       "longitude": 32.8998,
-      "timestamp": "2026-07-27T12:13:21.656053",
+      "timestamp": "2026-07-28T11:10:05.894499",
       "current": {
-        "time": "2026-07-27T15:00",
+        "time": "2026-07-28T14:00",
         "interval": 900,
-        "temperature_2m": 44.0,
+        "temperature_2m": 42.0,
         "relative_humidity_2m": 12,
-        "apparent_temperature": 43.9,
+        "apparent_temperature": 40.2,
         "weather_code": 0,
-        "wind_speed_10m": 8.2,
-        "wind_direction_10m": 10
+        "wind_speed_10m": 19.0,
+        "wind_direction_10m": 334
       },
       "history_24h": null
     }

@@ -1,6 +1,6 @@
 {
   "country": "Italy",
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "cities": [
     {
       "country": "Italy",
@@ -8,16 +8,16 @@
       "city": "Rome",
       "latitude": 41.9028,
       "longitude": 12.4964,
-      "timestamp": "2026-07-27T12:13:20.976712",
+      "timestamp": "2026-07-28T11:10:05.466387",
       "current": {
-        "time": "2026-07-27T14:00",
+        "time": "2026-07-28T13:00",
         "interval": 900,
-        "temperature_2m": 31.6,
-        "relative_humidity_2m": 48,
-        "apparent_temperature": 34.8,
-        "weather_code": 3,
-        "wind_speed_10m": 10.3,
-        "wind_direction_10m": 192
+        "temperature_2m": 34.7,
+        "relative_humidity_2m": 38,
+        "apparent_temperature": 38.8,
+        "weather_code": 0,
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 256
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Milan",
       "latitude": 45.4642,
       "longitude": 9.19,
-      "timestamp": "2026-07-27T12:13:20.978255",
+      "timestamp": "2026-07-28T11:10:05.478126",
       "current": {
-        "time": "2026-07-27T14:00",
+        "time": "2026-07-28T13:00",
         "interval": 900,
-        "temperature_2m": 32.7,
-        "relative_humidity_2m": 31,
-        "apparent_temperature": 35.0,
-        "weather_code": 0,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 240
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Naples",
-      "latitude": 40.8518,
-      "longitude": 14.2681,
-      "timestamp": "2026-07-27T12:13:20.981726",
-      "current": {
-        "time": "2026-07-27T14:00",
-        "interval": 900,
-        "temperature_2m": 30.4,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 36.0,
-        "weather_code": 1,
-        "wind_speed_10m": 13.7,
-        "wind_direction_10m": 198
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Venice",
-      "latitude": 45.4408,
-      "longitude": 12.3155,
-      "timestamp": "2026-07-27T12:13:20.993067",
-      "current": {
-        "time": "2026-07-27T14:00",
-        "interval": 900,
-        "temperature_2m": 27.7,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 31.5,
-        "weather_code": 0,
-        "wind_speed_10m": 12.2,
-        "wind_direction_10m": 146
+        "temperature_2m": 30.8,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 33.7,
+        "weather_code": 2,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 108
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Florence",
       "latitude": 43.7696,
       "longitude": 11.2558,
-      "timestamp": "2026-07-27T12:13:20.996990",
+      "timestamp": "2026-07-28T11:10:05.479339",
       "current": {
-        "time": "2026-07-27T14:00",
+        "time": "2026-07-28T13:00",
         "interval": 900,
-        "temperature_2m": 32.6,
-        "relative_humidity_2m": 36,
-        "apparent_temperature": 35.8,
+        "temperature_2m": 34.9,
+        "relative_humidity_2m": 31,
+        "apparent_temperature": 37.4,
         "weather_code": 0,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 274
+        "wind_speed_10m": 8.5,
+        "wind_direction_10m": 28
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Naples",
+      "latitude": 40.8518,
+      "longitude": 14.2681,
+      "timestamp": "2026-07-28T11:10:05.482131",
+      "current": {
+        "time": "2026-07-28T13:00",
+        "interval": 900,
+        "temperature_2m": 34.4,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 38.3,
+        "weather_code": 1,
+        "wind_speed_10m": 10.8,
+        "wind_direction_10m": 60
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Venice",
+      "latitude": 45.4408,
+      "longitude": 12.3155,
+      "timestamp": "2026-07-28T11:10:05.483255",
+      "current": {
+        "time": "2026-07-28T13:00",
+        "interval": 900,
+        "temperature_2m": 29.3,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 33.9,
+        "weather_code": 0,
+        "wind_speed_10m": 7.1,
+        "wind_direction_10m": 131
       },
       "history_24h": null
     }
