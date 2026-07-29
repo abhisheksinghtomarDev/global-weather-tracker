@@ -1,6 +1,6 @@
 {
   "country": "Switzerland",
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "cities": [
     {
       "country": "Switzerland",
@@ -8,16 +8,16 @@
       "city": "Zurich",
       "latitude": 47.3769,
       "longitude": 8.5417,
-      "timestamp": "2026-07-28T11:10:05.996053",
+      "timestamp": "2026-07-29T11:15:31.976912",
       "current": {
-        "time": "2026-07-28T13:00",
+        "time": "2026-07-29T13:15",
         "interval": 900,
-        "temperature_2m": 27.6,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 29.0,
+        "temperature_2m": 32.9,
+        "relative_humidity_2m": 32,
+        "apparent_temperature": 34.8,
         "weather_code": 0,
-        "wind_speed_10m": 7.2,
-        "wind_direction_10m": 53
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 255
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Geneva",
       "latitude": 46.2044,
       "longitude": 6.1432,
-      "timestamp": "2026-07-28T11:10:06.002533",
+      "timestamp": "2026-07-29T11:15:31.986854",
       "current": {
-        "time": "2026-07-28T13:00",
+        "time": "2026-07-29T13:15",
         "interval": 900,
-        "temperature_2m": 26.7,
-        "relative_humidity_2m": 40,
-        "apparent_temperature": 28.2,
+        "temperature_2m": 33.3,
+        "relative_humidity_2m": 26,
+        "apparent_temperature": 33.2,
         "weather_code": 0,
-        "wind_speed_10m": 7.3,
-        "wind_direction_10m": 20
+        "wind_speed_10m": 15.8,
+        "wind_direction_10m": 215
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Bern",
       "latitude": 46.948,
       "longitude": 7.4474,
-      "timestamp": "2026-07-28T11:10:06.008629",
+      "timestamp": "2026-07-29T11:15:32.006352",
       "current": {
-        "time": "2026-07-28T13:00",
+        "time": "2026-07-29T13:15",
         "interval": 900,
-        "temperature_2m": 27.4,
-        "relative_humidity_2m": 39,
-        "apparent_temperature": 29.1,
+        "temperature_2m": 33.1,
+        "relative_humidity_2m": 26,
+        "apparent_temperature": 33.4,
         "weather_code": 0,
-        "wind_speed_10m": 6.5,
-        "wind_direction_10m": 6
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Switzerland",
-      "country_code": "CH",
-      "city": "Lucerne",
-      "latitude": 47.0502,
-      "longitude": 8.3093,
-      "timestamp": "2026-07-28T11:10:06.019324",
-      "current": {
-        "time": "2026-07-28T13:00",
-        "interval": 900,
-        "temperature_2m": 27.2,
-        "relative_humidity_2m": 39,
-        "apparent_temperature": 29.1,
-        "weather_code": 0,
-        "wind_speed_10m": 5.1,
-        "wind_direction_10m": 51
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 265
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Interlaken",
       "latitude": 46.6863,
       "longitude": 7.8632,
-      "timestamp": "2026-07-28T11:10:06.022379",
+      "timestamp": "2026-07-29T11:15:32.015900",
       "current": {
-        "time": "2026-07-28T13:00",
+        "time": "2026-07-29T13:15",
         "interval": 900,
-        "temperature_2m": 27.7,
+        "temperature_2m": 32.7,
+        "relative_humidity_2m": 33,
+        "apparent_temperature": 35.3,
+        "weather_code": 1,
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 284
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Lucerne",
+      "latitude": 47.0502,
+      "longitude": 8.3093,
+      "timestamp": "2026-07-29T11:15:32.049468",
+      "current": {
+        "time": "2026-07-29T13:15",
+        "interval": 900,
+        "temperature_2m": 33.2,
         "relative_humidity_2m": 34,
-        "apparent_temperature": 29.2,
-        "weather_code": 0,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 302
+        "apparent_temperature": 36.5,
+        "weather_code": 1,
+        "wind_speed_10m": 4.0,
+        "wind_direction_10m": 90
       },
       "history_24h": null
     }
