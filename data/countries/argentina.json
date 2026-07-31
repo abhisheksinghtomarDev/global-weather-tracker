@@ -1,23 +1,42 @@
 {
   "country": "Argentina",
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "cities": [
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Rosario",
+      "latitude": -32.9442,
+      "longitude": -60.6505,
+      "timestamp": "2026-07-31T11:22:37.085371",
+      "current": {
+        "time": "2026-07-31T08:15",
+        "interval": 900,
+        "temperature_2m": 17.2,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 17.1,
+        "weather_code": 0,
+        "wind_speed_10m": 14.5,
+        "wind_direction_10m": 46
+      },
+      "history_24h": null
+    },
     {
       "country": "Argentina",
       "country_code": "AR",
       "city": "Buenos Aires",
       "latitude": -34.6037,
       "longitude": -58.3816,
-      "timestamp": "2026-07-30T10:59:22.434275",
+      "timestamp": "2026-07-31T11:22:37.088237",
       "current": {
-        "time": "2026-07-30T07:45",
+        "time": "2026-07-31T08:15",
         "interval": 900,
-        "temperature_2m": 10.1,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": 8.2,
-        "weather_code": 0,
-        "wind_speed_10m": 11.0,
-        "wind_direction_10m": 72
+        "temperature_2m": 14.5,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 13.1,
+        "weather_code": 3,
+        "wind_speed_10m": 14.8,
+        "wind_direction_10m": 53
       },
       "history_24h": null
     },
@@ -27,16 +46,16 @@
       "city": "Cordoba",
       "latitude": -31.4201,
       "longitude": -64.1888,
-      "timestamp": "2026-07-30T10:59:22.441681",
+      "timestamp": "2026-07-31T11:22:37.089237",
       "current": {
-        "time": "2026-07-30T07:45",
+        "time": "2026-07-31T08:15",
         "interval": 900,
-        "temperature_2m": 12.0,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 10.9,
+        "temperature_2m": 16.8,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 17.2,
         "weather_code": 3,
-        "wind_speed_10m": 9.0,
-        "wind_direction_10m": 46
+        "wind_speed_10m": 12.3,
+        "wind_direction_10m": 27
       },
       "history_24h": null
     },
@@ -46,35 +65,16 @@
       "city": "Mendoza",
       "latitude": -32.8895,
       "longitude": -68.8458,
-      "timestamp": "2026-07-30T10:59:22.442891",
+      "timestamp": "2026-07-31T11:22:37.093412",
       "current": {
-        "time": "2026-07-30T07:45",
+        "time": "2026-07-31T08:15",
         "interval": 900,
-        "temperature_2m": 8.5,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": 7.8,
-        "weather_code": 3,
-        "wind_speed_10m": 0.7,
-        "wind_direction_10m": 90
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Argentina",
-      "country_code": "AR",
-      "city": "Rosario",
-      "latitude": -32.9442,
-      "longitude": -60.6505,
-      "timestamp": "2026-07-30T10:59:22.454396",
-      "current": {
-        "time": "2026-07-30T07:45",
-        "interval": 900,
-        "temperature_2m": 11.1,
-        "relative_humidity_2m": 98,
-        "apparent_temperature": 9.9,
-        "weather_code": 3,
-        "wind_speed_10m": 9.6,
-        "wind_direction_10m": 78
+        "temperature_2m": 11.9,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 11.0,
+        "weather_code": 2,
+        "wind_speed_10m": 0.6,
+        "wind_direction_10m": 34
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Bariloche",
       "latitude": -41.1335,
       "longitude": -71.3103,
-      "timestamp": "2026-07-30T10:59:22.456536",
+      "timestamp": "2026-07-31T11:22:37.094726",
       "current": {
-        "time": "2026-07-30T07:45",
+        "time": "2026-07-31T08:15",
         "interval": 900,
-        "temperature_2m": 2.4,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": -1.5,
-        "weather_code": 75,
-        "wind_speed_10m": 13.8,
-        "wind_direction_10m": 151
+        "temperature_2m": 2.5,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 0.4,
+        "weather_code": 73,
+        "wind_speed_10m": 2.6,
+        "wind_direction_10m": 164
       },
       "history_24h": null
     }
