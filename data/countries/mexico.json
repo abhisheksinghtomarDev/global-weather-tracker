@@ -1,6 +1,6 @@
 {
   "country": "Mexico",
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "cities": [
     {
       "country": "Mexico",
@@ -8,16 +8,16 @@
       "city": "Mexico City",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "timestamp": "2026-08-02T10:26:55.592497",
+      "timestamp": "2026-08-03T12:13:51.669074",
       "current": {
-        "time": "2026-08-02T04:15",
+        "time": "2026-08-03T06:00",
         "interval": 900,
         "temperature_2m": 14.6,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 14.4,
-        "weather_code": 0,
-        "wind_speed_10m": 1.5,
-        "wind_direction_10m": 346
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 14.6,
+        "weather_code": 2,
+        "wind_speed_10m": 1.8,
+        "wind_direction_10m": 281
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Guadalajara",
       "latitude": 20.6597,
       "longitude": -103.3496,
-      "timestamp": "2026-08-02T10:26:55.610277",
+      "timestamp": "2026-08-03T12:13:51.699068",
       "current": {
-        "time": "2026-08-02T04:15",
+        "time": "2026-08-03T06:00",
         "interval": 900,
-        "temperature_2m": 20.1,
-        "relative_humidity_2m": 86,
-        "apparent_temperature": 22.3,
+        "temperature_2m": 17.3,
+        "relative_humidity_2m": 99,
+        "apparent_temperature": 19.6,
         "weather_code": 3,
-        "wind_speed_10m": 3.5,
-        "wind_direction_10m": 258
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 83
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Monterrey",
       "latitude": 25.6866,
       "longitude": -100.3161,
-      "timestamp": "2026-08-02T10:26:55.613115",
+      "timestamp": "2026-08-03T12:13:51.717108",
       "current": {
-        "time": "2026-08-02T04:15",
+        "time": "2026-08-03T06:00",
         "interval": 900,
-        "temperature_2m": 26.4,
-        "relative_humidity_2m": 78,
-        "apparent_temperature": 30.7,
+        "temperature_2m": 22.8,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 27.1,
         "weather_code": 0,
-        "wind_speed_10m": 5.6,
-        "wind_direction_10m": 15
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 174
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Cancun",
       "latitude": 21.1619,
       "longitude": -86.8515,
-      "timestamp": "2026-08-02T10:26:55.616695",
+      "timestamp": "2026-08-03T12:13:51.718468",
       "current": {
-        "time": "2026-08-02T05:15",
+        "time": "2026-08-03T07:00",
         "interval": 900,
-        "temperature_2m": 26.2,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": 32.4,
+        "temperature_2m": 27.6,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 33.0,
         "weather_code": 0,
-        "wind_speed_10m": 3.6,
-        "wind_direction_10m": 70
+        "wind_speed_10m": 8.1,
+        "wind_direction_10m": 129
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Tijuana",
       "latitude": 32.5149,
       "longitude": -117.0382,
-      "timestamp": "2026-08-02T10:26:55.621588",
+      "timestamp": "2026-08-03T12:13:51.722305",
       "current": {
-        "time": "2026-08-02T03:15",
+        "time": "2026-08-03T05:00",
         "interval": 900,
-        "temperature_2m": 19.4,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 22.5,
-        "weather_code": 45,
-        "wind_speed_10m": 1.0,
-        "wind_direction_10m": 315
+        "temperature_2m": 18.9,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 21.3,
+        "weather_code": 3,
+        "wind_speed_10m": 3.9,
+        "wind_direction_10m": 292
       },
       "history_24h": null
     }

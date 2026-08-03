@@ -1,42 +1,42 @@
 {
   "country": "Brazil",
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "cities": [
-    {
-      "country": "Brazil",
-      "country_code": "BR",
-      "city": "Sao Paulo",
-      "latitude": -23.5505,
-      "longitude": -46.6333,
-      "timestamp": "2026-08-02T10:26:55.327545",
-      "current": {
-        "time": "2026-08-02T07:15",
-        "interval": 900,
-        "temperature_2m": 15.1,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 14.4,
-        "weather_code": 0,
-        "wind_speed_10m": 5.9,
-        "wind_direction_10m": 358
-      },
-      "history_24h": null
-    },
     {
       "country": "Brazil",
       "country_code": "BR",
       "city": "Rio de Janeiro",
       "latitude": -22.9068,
       "longitude": -43.1729,
-      "timestamp": "2026-08-02T10:26:55.372818",
+      "timestamp": "2026-08-03T12:13:51.546267",
       "current": {
-        "time": "2026-08-02T07:15",
+        "time": "2026-08-03T09:00",
+        "interval": 900,
+        "temperature_2m": 23.0,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 25.3,
+        "weather_code": 1,
+        "wind_speed_10m": 4.8,
+        "wind_direction_10m": 29
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Sao Paulo",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "timestamp": "2026-08-03T12:13:51.548793",
+      "current": {
+        "time": "2026-08-03T09:00",
         "interval": 900,
         "temperature_2m": 18.9,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 19.8,
-        "weather_code": 0,
-        "wind_speed_10m": 7.6,
-        "wind_direction_10m": 5
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 18.5,
+        "weather_code": 3,
+        "wind_speed_10m": 3.8,
+        "wind_direction_10m": 79
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Brasilia",
       "latitude": -15.7975,
       "longitude": -47.8919,
-      "timestamp": "2026-08-02T10:26:55.410393",
+      "timestamp": "2026-08-03T12:13:51.549969",
       "current": {
-        "time": "2026-08-02T07:15",
+        "time": "2026-08-03T09:00",
         "interval": 900,
-        "temperature_2m": 15.4,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 14.4,
-        "weather_code": 2,
-        "wind_speed_10m": 8.8,
-        "wind_direction_10m": 90
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Brazil",
-      "country_code": "BR",
-      "city": "Salvador",
-      "latitude": -12.9714,
-      "longitude": -38.5014,
-      "timestamp": "2026-08-02T10:26:55.411824",
-      "current": {
-        "time": "2026-08-02T07:15",
-        "interval": 900,
-        "temperature_2m": 23.7,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 25.9,
-        "weather_code": 51,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 53
+        "temperature_2m": 19.5,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 18.7,
+        "weather_code": 3,
+        "wind_speed_10m": 10.7,
+        "wind_direction_10m": 73
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Fortaleza",
       "latitude": -3.7172,
       "longitude": -38.5433,
-      "timestamp": "2026-08-02T10:26:55.413045",
+      "timestamp": "2026-08-03T12:13:51.553815",
       "current": {
-        "time": "2026-08-02T07:15",
+        "time": "2026-08-03T09:00",
         "interval": 900,
-        "temperature_2m": 24.8,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 25.9,
+        "temperature_2m": 27.9,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 29.7,
         "weather_code": 0,
-        "wind_speed_10m": 14.5,
-        "wind_direction_10m": 155
+        "wind_speed_10m": 15.4,
+        "wind_direction_10m": 144
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Salvador",
+      "latitude": -12.9714,
+      "longitude": -38.5014,
+      "timestamp": "2026-08-03T12:13:51.554848",
+      "current": {
+        "time": "2026-08-03T09:00",
+        "interval": 900,
+        "temperature_2m": 25.5,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 25.7,
+        "weather_code": 51,
+        "wind_speed_10m": 16.1,
+        "wind_direction_10m": 121
       },
       "history_24h": null
     }
