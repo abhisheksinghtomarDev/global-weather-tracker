@@ -1,61 +1,23 @@
 {
   "country": "Malaysia",
-  "date": "2026-08-03",
+  "date": "2026-08-05",
   "cities": [
     {
       "country": "Malaysia",
       "country_code": "MY",
-      "city": "Johor Bahru",
-      "latitude": 1.4927,
-      "longitude": 103.7414,
-      "timestamp": "2026-08-03T12:13:51.865172",
+      "city": "Kuala Lumpur",
+      "latitude": 3.139,
+      "longitude": 101.6869,
+      "timestamp": "2026-08-05T11:12:32.914089",
       "current": {
-        "time": "2026-08-03T20:00",
+        "time": "2026-08-05T19:00",
         "interval": 900,
-        "temperature_2m": 27.9,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": 33.1,
-        "weather_code": 1,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 162
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Malaysia",
-      "country_code": "MY",
-      "city": "Kuching",
-      "latitude": 1.5575,
-      "longitude": 110.3595,
-      "timestamp": "2026-08-03T12:13:51.866419",
-      "current": {
-        "time": "2026-08-03T20:00",
-        "interval": 900,
-        "temperature_2m": 26.0,
-        "relative_humidity_2m": 99,
-        "apparent_temperature": 32.3,
-        "weather_code": 2,
-        "wind_speed_10m": 6.5,
-        "wind_direction_10m": 257
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Malaysia",
-      "country_code": "MY",
-      "city": "Langkawi",
-      "latitude": 6.3371,
-      "longitude": 99.8521,
-      "timestamp": "2026-08-03T12:13:51.874788",
-      "current": {
-        "time": "2026-08-03T20:00",
-        "interval": 900,
-        "temperature_2m": 27.7,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 32.3,
-        "weather_code": 51,
-        "wind_speed_10m": 12.1,
-        "wind_direction_10m": 192
+        "temperature_2m": 31.8,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 35.6,
+        "weather_code": 3,
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 167
       },
       "history_24h": null
     },
@@ -65,35 +27,73 @@
       "city": "Penang",
       "latitude": 5.4141,
       "longitude": 100.3288,
-      "timestamp": "2026-08-03T12:13:52.160508",
+      "timestamp": "2026-08-05T11:12:32.923302",
       "current": {
-        "time": "2026-08-03T20:00",
+        "time": "2026-08-05T19:00",
         "interval": 900,
-        "temperature_2m": 26.6,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 33.4,
-        "weather_code": 53,
-        "wind_speed_10m": 4.1,
-        "wind_direction_10m": 167
+        "temperature_2m": 29.4,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 35.1,
+        "weather_code": 51,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 206
       },
       "history_24h": null
     },
     {
       "country": "Malaysia",
       "country_code": "MY",
-      "city": "Kuala Lumpur",
-      "latitude": 3.139,
-      "longitude": 101.6869,
-      "timestamp": "2026-08-03T12:13:52.941325",
+      "city": "Johor Bahru",
+      "latitude": 1.4927,
+      "longitude": 103.7414,
+      "timestamp": "2026-08-05T11:12:32.956695",
       "current": {
-        "time": "2026-08-03T20:00",
+        "time": "2026-08-05T19:00",
         "interval": 900,
-        "temperature_2m": 29.4,
-        "relative_humidity_2m": 72,
-        "apparent_temperature": 34.8,
-        "weather_code": 1,
-        "wind_speed_10m": 4.2,
-        "wind_direction_10m": 173
+        "temperature_2m": 29.2,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 34.7,
+        "weather_code": 3,
+        "wind_speed_10m": 5.5,
+        "wind_direction_10m": 161
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Kuching",
+      "latitude": 1.5575,
+      "longitude": 110.3595,
+      "timestamp": "2026-08-05T11:12:32.961305",
+      "current": {
+        "time": "2026-08-05T19:00",
+        "interval": 900,
+        "temperature_2m": 26.9,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 33.6,
+        "weather_code": 3,
+        "wind_speed_10m": 3.7,
+        "wind_direction_10m": 51
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Langkawi",
+      "latitude": 6.3371,
+      "longitude": 99.8521,
+      "timestamp": "2026-08-05T11:12:32.985056",
+      "current": {
+        "time": "2026-08-05T19:00",
+        "interval": 900,
+        "temperature_2m": 28.6,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 34.5,
+        "weather_code": 3,
+        "wind_speed_10m": 6.2,
+        "wind_direction_10m": 262
       },
       "history_24h": null
     }
