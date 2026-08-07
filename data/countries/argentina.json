@@ -1,42 +1,42 @@
 {
   "country": "Argentina",
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "cities": [
-    {
-      "country": "Argentina",
-      "country_code": "AR",
-      "city": "Cordoba",
-      "latitude": -31.4201,
-      "longitude": -64.1888,
-      "timestamp": "2026-08-06T11:12:47.036342",
-      "current": {
-        "time": "2026-08-06T08:00",
-        "interval": 900,
-        "temperature_2m": 15.6,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": 14.2,
-        "weather_code": 3,
-        "wind_speed_10m": 19.8,
-        "wind_direction_10m": 219
-      },
-      "history_24h": null
-    },
     {
       "country": "Argentina",
       "country_code": "AR",
       "city": "Buenos Aires",
       "latitude": -34.6037,
       "longitude": -58.3816,
-      "timestamp": "2026-08-06T11:12:47.037696",
+      "timestamp": "2026-08-07T09:52:48.119478",
       "current": {
-        "time": "2026-08-06T08:00",
+        "time": "2026-08-07T06:45",
         "interval": 900,
-        "temperature_2m": 12.1,
-        "relative_humidity_2m": 100,
-        "apparent_temperature": 11.4,
-        "weather_code": 80,
-        "wind_speed_10m": 8.8,
-        "wind_direction_10m": 110
+        "temperature_2m": 5.3,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 2.2,
+        "weather_code": 0,
+        "wind_speed_10m": 9.8,
+        "wind_direction_10m": 240
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Cordoba",
+      "latitude": -31.4201,
+      "longitude": -64.1888,
+      "timestamp": "2026-08-07T09:52:48.124045",
+      "current": {
+        "time": "2026-08-07T06:45",
+        "interval": 900,
+        "temperature_2m": 3.3,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 1.0,
+        "weather_code": 0,
+        "wind_speed_10m": 2.8,
+        "wind_direction_10m": 315
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Mendoza",
       "latitude": -32.8895,
       "longitude": -68.8458,
-      "timestamp": "2026-08-06T11:12:47.039170",
+      "timestamp": "2026-08-07T09:52:48.125614",
       "current": {
-        "time": "2026-08-06T08:00",
+        "time": "2026-08-07T06:45",
         "interval": 900,
-        "temperature_2m": 9.7,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 6.7,
-        "weather_code": 1,
-        "wind_speed_10m": 10.1,
-        "wind_direction_10m": 224
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Argentina",
-      "country_code": "AR",
-      "city": "Rosario",
-      "latitude": -32.9442,
-      "longitude": -60.6505,
-      "timestamp": "2026-08-06T11:12:47.043562",
-      "current": {
-        "time": "2026-08-06T08:00",
-        "interval": 900,
-        "temperature_2m": 16.1,
-        "relative_humidity_2m": 96,
-        "apparent_temperature": 16.9,
-        "weather_code": 53,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 35
+        "temperature_2m": 4.8,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 1.8,
+        "weather_code": 0,
+        "wind_speed_10m": 4.8,
+        "wind_direction_10m": 29
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Bariloche",
       "latitude": -41.1335,
       "longitude": -71.3103,
-      "timestamp": "2026-08-06T11:12:47.045562",
+      "timestamp": "2026-08-07T09:52:48.128709",
       "current": {
-        "time": "2026-08-06T08:00",
+        "time": "2026-08-07T06:45",
         "interval": 900,
-        "temperature_2m": 0.8,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": -3.5,
-        "weather_code": 2,
-        "wind_speed_10m": 11.8,
-        "wind_direction_10m": 283
+        "temperature_2m": 2.3,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": -2.1,
+        "weather_code": 95,
+        "wind_speed_10m": 18.0,
+        "wind_direction_10m": 305
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Rosario",
+      "latitude": -32.9442,
+      "longitude": -60.6505,
+      "timestamp": "2026-08-07T09:52:48.134119",
+      "current": {
+        "time": "2026-08-07T06:45",
+        "interval": 900,
+        "temperature_2m": 5.8,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 3.3,
+        "weather_code": 0,
+        "wind_speed_10m": 8.5,
+        "wind_direction_10m": 253
       },
       "history_24h": null
     }

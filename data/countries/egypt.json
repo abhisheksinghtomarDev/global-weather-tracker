@@ -1,6 +1,6 @@
 {
   "country": "Egypt",
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "cities": [
     {
       "country": "Egypt",
@@ -8,16 +8,16 @@
       "city": "Cairo",
       "latitude": 30.0444,
       "longitude": 31.2357,
-      "timestamp": "2026-08-06T11:12:46.827915",
+      "timestamp": "2026-08-07T09:52:47.797546",
       "current": {
-        "time": "2026-08-06T14:00",
+        "time": "2026-08-07T12:45",
         "interval": 900,
-        "temperature_2m": 36.3,
-        "relative_humidity_2m": 24,
-        "apparent_temperature": 38.5,
+        "temperature_2m": 35.2,
+        "relative_humidity_2m": 26,
+        "apparent_temperature": 37.4,
         "weather_code": 0,
-        "wind_speed_10m": 7.7,
-        "wind_direction_10m": 307
+        "wind_speed_10m": 8.9,
+        "wind_direction_10m": 297
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Alexandria",
       "latitude": 31.2001,
       "longitude": 29.9187,
-      "timestamp": "2026-08-06T11:12:46.829403",
+      "timestamp": "2026-08-07T09:52:47.825637",
       "current": {
-        "time": "2026-08-06T14:00",
+        "time": "2026-08-07T12:45",
         "interval": 900,
-        "temperature_2m": 30.5,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 35.9,
-        "weather_code": 0,
-        "wind_speed_10m": 14.3,
-        "wind_direction_10m": 304
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Egypt",
-      "country_code": "EG",
-      "city": "Luxor",
-      "latitude": 25.6872,
-      "longitude": 32.6396,
-      "timestamp": "2026-08-06T11:12:46.837552",
-      "current": {
-        "time": "2026-08-06T14:00",
-        "interval": 900,
-        "temperature_2m": 40.5,
-        "relative_humidity_2m": 13,
-        "apparent_temperature": 38.3,
-        "weather_code": 0,
-        "wind_speed_10m": 22.0,
-        "wind_direction_10m": 329
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Egypt",
-      "country_code": "EG",
-      "city": "Sharm El Sheikh",
-      "latitude": 27.9158,
-      "longitude": 34.33,
-      "timestamp": "2026-08-06T11:12:46.841977",
-      "current": {
-        "time": "2026-08-06T14:00",
-        "interval": 900,
-        "temperature_2m": 39.1,
-        "relative_humidity_2m": 23,
-        "apparent_temperature": 40.1,
-        "weather_code": 0,
-        "wind_speed_10m": 16.4,
-        "wind_direction_10m": 81
+        "temperature_2m": 29.6,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 34.1,
+        "weather_code": 1,
+        "wind_speed_10m": 13.7,
+        "wind_direction_10m": 297
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Aswan",
       "latitude": 24.0889,
       "longitude": 32.8998,
-      "timestamp": "2026-08-06T11:12:46.846022",
+      "timestamp": "2026-08-07T09:52:47.830843",
       "current": {
-        "time": "2026-08-06T14:00",
+        "time": "2026-08-07T12:45",
         "interval": 900,
-        "temperature_2m": 41.0,
-        "relative_humidity_2m": 13,
-        "apparent_temperature": 37.2,
+        "temperature_2m": 39.8,
+        "relative_humidity_2m": 12,
+        "apparent_temperature": 37.1,
+        "weather_code": 1,
+        "wind_speed_10m": 23.5,
+        "wind_direction_10m": 329
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Luxor",
+      "latitude": 25.6872,
+      "longitude": 32.6396,
+      "timestamp": "2026-08-07T09:52:47.836564",
+      "current": {
+        "time": "2026-08-07T12:45",
+        "interval": 900,
+        "temperature_2m": 39.0,
+        "relative_humidity_2m": 12,
+        "apparent_temperature": 37.5,
+        "weather_code": 1,
+        "wind_speed_10m": 16.5,
+        "wind_direction_10m": 303
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Sharm El Sheikh",
+      "latitude": 27.9158,
+      "longitude": 34.33,
+      "timestamp": "2026-08-07T09:52:47.838679",
+      "current": {
+        "time": "2026-08-07T12:45",
+        "interval": 900,
+        "temperature_2m": 36.0,
+        "relative_humidity_2m": 34,
+        "apparent_temperature": 38.8,
         "weather_code": 0,
-        "wind_speed_10m": 31.1,
-        "wind_direction_10m": 343
+        "wind_speed_10m": 14.5,
+        "wind_direction_10m": 112
       },
       "history_24h": null
     }
