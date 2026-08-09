@@ -1,42 +1,42 @@
 {
   "country": "Canada",
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "cities": [
-    {
-      "country": "Canada",
-      "country_code": "CA",
-      "city": "Vancouver",
-      "latitude": 49.2827,
-      "longitude": -123.1207,
-      "timestamp": "2026-08-08T09:29:19.530780",
-      "current": {
-        "time": "2026-08-08T02:15",
-        "interval": 900,
-        "temperature_2m": 16.3,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 16.1,
-        "weather_code": 1,
-        "wind_speed_10m": 7.1,
-        "wind_direction_10m": 195
-      },
-      "history_24h": null
-    },
     {
       "country": "Canada",
       "country_code": "CA",
       "city": "Toronto",
       "latitude": 43.6532,
       "longitude": -79.3832,
-      "timestamp": "2026-08-08T09:29:19.536523",
+      "timestamp": "2026-08-09T09:30:32.945833",
       "current": {
-        "time": "2026-08-08T05:15",
+        "time": "2026-08-09T05:30",
         "interval": 900,
-        "temperature_2m": 20.1,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 22.8,
-        "weather_code": 45,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 189
+        "temperature_2m": 16.2,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 16.1,
+        "weather_code": 0,
+        "wind_speed_10m": 8.5,
+        "wind_direction_10m": 282
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Vancouver",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "timestamp": "2026-08-09T09:30:32.947312",
+      "current": {
+        "time": "2026-08-09T02:30",
+        "interval": 900,
+        "temperature_2m": 15.5,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 15.3,
+        "weather_code": 0,
+        "wind_speed_10m": 5.8,
+        "wind_direction_10m": 187
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Montreal",
       "latitude": 45.5017,
       "longitude": -73.5673,
-      "timestamp": "2026-08-08T09:29:19.539472",
+      "timestamp": "2026-08-09T09:30:32.952270",
       "current": {
-        "time": "2026-08-08T05:15",
+        "time": "2026-08-09T05:30",
         "interval": 900,
-        "temperature_2m": 21.1,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 24.2,
-        "weather_code": 2,
-        "wind_speed_10m": 4.5,
-        "wind_direction_10m": 194
+        "temperature_2m": 20.3,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 22.7,
+        "weather_code": 3,
+        "wind_speed_10m": 8.3,
+        "wind_direction_10m": 268
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Calgary",
       "latitude": 51.0447,
       "longitude": -114.0719,
-      "timestamp": "2026-08-08T09:29:19.540872",
+      "timestamp": "2026-08-09T09:30:32.953821",
       "current": {
-        "time": "2026-08-08T03:15",
+        "time": "2026-08-09T03:30",
         "interval": 900,
         "temperature_2m": 12.0,
-        "relative_humidity_2m": 72,
-        "apparent_temperature": 10.2,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 11.4,
         "weather_code": 0,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 331
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 291
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Ottawa",
       "latitude": 45.4215,
       "longitude": -75.6972,
-      "timestamp": "2026-08-08T09:29:19.589566",
+      "timestamp": "2026-08-09T09:30:32.959446",
       "current": {
-        "time": "2026-08-08T05:15",
+        "time": "2026-08-09T05:30",
         "interval": 900,
-        "temperature_2m": 21.7,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": 25.0,
-        "weather_code": 1,
-        "wind_speed_10m": 5.9,
-        "wind_direction_10m": 223
+        "temperature_2m": 19.4,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 21.9,
+        "weather_code": 0,
+        "wind_speed_10m": 3.2,
+        "wind_direction_10m": 207
       },
       "history_24h": null
     }

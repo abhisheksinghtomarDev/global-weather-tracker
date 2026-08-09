@@ -1,80 +1,23 @@
 {
   "country": "Vietnam",
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "cities": [
-    {
-      "country": "Vietnam",
-      "country_code": "VN",
-      "city": "Hanoi",
-      "latitude": 21.0285,
-      "longitude": 105.8542,
-      "timestamp": "2026-08-08T09:29:20.207136",
-      "current": {
-        "time": "2026-08-08T16:15",
-        "interval": 900,
-        "temperature_2m": 31.7,
-        "relative_humidity_2m": 72,
-        "apparent_temperature": 38.3,
-        "weather_code": 2,
-        "wind_speed_10m": 5.1,
-        "wind_direction_10m": 337
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Vietnam",
-      "country_code": "VN",
-      "city": "Da Nang",
-      "latitude": 16.0544,
-      "longitude": 108.2022,
-      "timestamp": "2026-08-08T09:29:20.211022",
-      "current": {
-        "time": "2026-08-08T16:15",
-        "interval": 900,
-        "temperature_2m": 31.7,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 37.4,
-        "weather_code": 51,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 20
-      },
-      "history_24h": null
-    },
     {
       "country": "Vietnam",
       "country_code": "VN",
       "city": "Ho Chi Minh City",
       "latitude": 10.8231,
       "longitude": 106.6297,
-      "timestamp": "2026-08-08T09:29:20.212113",
+      "timestamp": "2026-08-09T09:30:33.264175",
       "current": {
-        "time": "2026-08-08T16:15",
+        "time": "2026-08-09T16:30",
         "interval": 900,
-        "temperature_2m": 31.3,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 34.6,
-        "weather_code": 3,
-        "wind_speed_10m": 16.8,
-        "wind_direction_10m": 241
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Vietnam",
-      "country_code": "VN",
-      "city": "Hue",
-      "latitude": 16.4637,
-      "longitude": 107.5869,
-      "timestamp": "2026-08-08T09:29:20.219402",
-      "current": {
-        "time": "2026-08-08T16:15",
-        "interval": 900,
-        "temperature_2m": 32.6,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 35.5,
-        "weather_code": 3,
-        "wind_speed_10m": 16.9,
-        "wind_direction_10m": 281
+        "temperature_2m": 26.9,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 32.6,
+        "weather_code": 51,
+        "wind_speed_10m": 8.9,
+        "wind_direction_10m": 257
       },
       "history_24h": null
     },
@@ -84,16 +27,73 @@
       "city": "Nha Trang",
       "latitude": 12.2451,
       "longitude": 109.1945,
-      "timestamp": "2026-08-08T09:29:21.174624",
+      "timestamp": "2026-08-09T09:30:33.266206",
       "current": {
-        "time": "2026-08-08T16:15",
+        "time": "2026-08-09T16:30",
         "interval": 900,
-        "temperature_2m": 34.1,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 38.3,
+        "temperature_2m": 33.4,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 38.0,
         "weather_code": 3,
-        "wind_speed_10m": 8.4,
-        "wind_direction_10m": 133
+        "wind_speed_10m": 4.2,
+        "wind_direction_10m": 43
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "city": "Hanoi",
+      "latitude": 21.0285,
+      "longitude": 105.8542,
+      "timestamp": "2026-08-09T09:30:33.267115",
+      "current": {
+        "time": "2026-08-09T16:30",
+        "interval": 900,
+        "temperature_2m": 34.0,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 40.6,
+        "weather_code": 51,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 274
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "city": "Da Nang",
+      "latitude": 16.0544,
+      "longitude": 108.2022,
+      "timestamp": "2026-08-09T09:30:33.268958",
+      "current": {
+        "time": "2026-08-09T16:30",
+        "interval": 900,
+        "temperature_2m": 36.6,
+        "relative_humidity_2m": 36,
+        "apparent_temperature": 37.7,
+        "weather_code": 2,
+        "wind_speed_10m": 15.4,
+        "wind_direction_10m": 265
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "city": "Hue",
+      "latitude": 16.4637,
+      "longitude": 107.5869,
+      "timestamp": "2026-08-09T09:30:33.270006",
+      "current": {
+        "time": "2026-08-09T16:30",
+        "interval": 900,
+        "temperature_2m": 31.8,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 35.0,
+        "weather_code": 2,
+        "wind_speed_10m": 16.0,
+        "wind_direction_10m": 251
       },
       "history_24h": null
     }
