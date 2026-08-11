@@ -1,42 +1,42 @@
 {
   "country": "Austria",
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "cities": [
-    {
-      "country": "Austria",
-      "country_code": "AT",
-      "city": "Vienna",
-      "latitude": 48.2082,
-      "longitude": 16.3738,
-      "timestamp": "2026-08-10T10:09:26.579752",
-      "current": {
-        "time": "2026-08-10T12:00",
-        "interval": 900,
-        "temperature_2m": 31.0,
-        "relative_humidity_2m": 34,
-        "apparent_temperature": 31.1,
-        "weather_code": 3,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 293
-      },
-      "history_24h": null
-    },
     {
       "country": "Austria",
       "country_code": "AT",
       "city": "Salzburg",
       "latitude": 47.8095,
       "longitude": 13.055,
-      "timestamp": "2026-08-10T10:09:26.581910",
+      "timestamp": "2026-08-11T09:52:28.901264",
       "current": {
-        "time": "2026-08-10T12:00",
+        "time": "2026-08-11T11:45",
         "interval": 900,
-        "temperature_2m": 29.7,
+        "temperature_2m": 26.0,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 28.0,
+        "weather_code": 2,
+        "wind_speed_10m": 5.2,
+        "wind_direction_10m": 326
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Vienna",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "timestamp": "2026-08-11T09:52:28.902716",
+      "current": {
+        "time": "2026-08-11T11:45",
+        "interval": 900,
+        "temperature_2m": 28.1,
         "relative_humidity_2m": 38,
-        "apparent_temperature": 31.1,
-        "weather_code": 3,
-        "wind_speed_10m": 2.9,
-        "wind_direction_10m": 300
+        "apparent_temperature": 28.3,
+        "weather_code": 2,
+        "wind_speed_10m": 12.0,
+        "wind_direction_10m": 344
       },
       "history_24h": null
     },
@@ -46,14 +46,14 @@
       "city": "Innsbruck",
       "latitude": 47.2692,
       "longitude": 11.4041,
-      "timestamp": "2026-08-10T10:09:26.590758",
+      "timestamp": "2026-08-11T09:52:28.909440",
       "current": {
-        "time": "2026-08-10T12:00",
+        "time": "2026-08-11T11:45",
         "interval": 900,
-        "temperature_2m": 26.7,
+        "temperature_2m": 25.6,
         "relative_humidity_2m": 54,
-        "apparent_temperature": 30.2,
-        "weather_code": 3,
+        "apparent_temperature": 28.6,
+        "weather_code": 0,
         "wind_speed_10m": 1.4,
         "wind_direction_10m": 360
       },
@@ -65,16 +65,16 @@
       "city": "Graz",
       "latitude": 47.0707,
       "longitude": 15.4395,
-      "timestamp": "2026-08-10T10:09:26.592125",
+      "timestamp": "2026-08-11T09:52:28.912934",
       "current": {
-        "time": "2026-08-10T12:00",
+        "time": "2026-08-11T11:45",
         "interval": 900,
-        "temperature_2m": 27.4,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 30.1,
-        "weather_code": 2,
-        "wind_speed_10m": 2.2,
-        "wind_direction_10m": 189
+        "temperature_2m": 27.9,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 30.2,
+        "weather_code": 3,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 166
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Hallstatt",
       "latitude": 47.5622,
       "longitude": 13.6493,
-      "timestamp": "2026-08-10T10:09:26.595265",
+      "timestamp": "2026-08-11T09:52:28.916217",
       "current": {
-        "time": "2026-08-10T12:00",
+        "time": "2026-08-11T11:45",
         "interval": 900,
-        "temperature_2m": 28.4,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 30.9,
+        "temperature_2m": 27.0,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 29.2,
         "weather_code": 2,
-        "wind_speed_10m": 1.8,
-        "wind_direction_10m": 37
+        "wind_speed_10m": 4.0,
+        "wind_direction_10m": 5
       },
       "history_24h": null
     }
