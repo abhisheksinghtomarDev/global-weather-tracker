@@ -1,42 +1,42 @@
 {
   "country": "Ireland",
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "cities": [
-    {
-      "country": "Ireland",
-      "country_code": "IE",
-      "city": "Dublin",
-      "latitude": 53.3498,
-      "longitude": -6.2603,
-      "timestamp": "2026-08-11T09:52:28.927724",
-      "current": {
-        "time": "2026-08-11T10:45",
-        "interval": 900,
-        "temperature_2m": 18.0,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 17.4,
-        "weather_code": 0,
-        "wind_speed_10m": 10.1,
-        "wind_direction_10m": 101
-      },
-      "history_24h": null
-    },
     {
       "country": "Ireland",
       "country_code": "IE",
       "city": "Cork",
       "latitude": 51.8969,
       "longitude": -8.4863,
-      "timestamp": "2026-08-11T09:52:28.930066",
+      "timestamp": "2026-08-12T09:54:00.322954",
       "current": {
-        "time": "2026-08-11T10:45",
+        "time": "2026-08-12T10:45",
         "interval": 900,
-        "temperature_2m": 18.4,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 17.7,
+        "temperature_2m": 22.1,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 23.3,
+        "weather_code": 2,
+        "wind_speed_10m": 8.3,
+        "wind_direction_10m": 171
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Dublin",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "timestamp": "2026-08-12T09:54:00.325204",
+      "current": {
+        "time": "2026-08-12T10:45",
+        "interval": 900,
+        "temperature_2m": 22.1,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 23.1,
         "weather_code": 3,
-        "wind_speed_10m": 12.6,
-        "wind_direction_10m": 133
+        "wind_speed_10m": 4.3,
+        "wind_direction_10m": 59
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Galway",
       "latitude": 53.2707,
       "longitude": -9.0568,
-      "timestamp": "2026-08-11T09:52:28.967814",
+      "timestamp": "2026-08-12T09:54:00.350500",
       "current": {
-        "time": "2026-08-11T10:45",
+        "time": "2026-08-12T10:45",
         "interval": 900,
-        "temperature_2m": 17.5,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 16.2,
-        "weather_code": 2,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 159
+        "temperature_2m": 19.5,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 20.1,
+        "weather_code": 3,
+        "wind_speed_10m": 12.6,
+        "wind_direction_10m": 172
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Limerick",
       "latitude": 52.668,
       "longitude": -8.6305,
-      "timestamp": "2026-08-11T09:52:29.002015",
+      "timestamp": "2026-08-12T09:54:00.365286",
       "current": {
-        "time": "2026-08-11T10:45",
+        "time": "2026-08-12T10:45",
         "interval": 900,
-        "temperature_2m": 18.8,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 18.4,
+        "temperature_2m": 20.5,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 22.1,
         "weather_code": 3,
-        "wind_speed_10m": 9.0,
-        "wind_direction_10m": 144
+        "wind_speed_10m": 5.8,
+        "wind_direction_10m": 161
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Belfast",
       "latitude": 54.5973,
       "longitude": -5.9301,
-      "timestamp": "2026-08-11T09:52:29.005589",
+      "timestamp": "2026-08-12T09:54:00.375117",
       "current": {
-        "time": "2026-08-11T10:45",
+        "time": "2026-08-12T10:45",
         "interval": 900,
-        "temperature_2m": 17.2,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 16.0,
-        "weather_code": 3,
-        "wind_speed_10m": 8.3,
-        "wind_direction_10m": 133
+        "temperature_2m": 20.4,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 22.1,
+        "weather_code": 53,
+        "wind_speed_10m": 2.9,
+        "wind_direction_10m": 184
       },
       "history_24h": null
     }

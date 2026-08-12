@@ -1,6 +1,6 @@
 {
   "country": "Turkey",
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "cities": [
     {
       "country": "Turkey",
@@ -8,16 +8,16 @@
       "city": "Istanbul",
       "latitude": 41.0082,
       "longitude": 28.9784,
-      "timestamp": "2026-08-11T09:52:27.983131",
+      "timestamp": "2026-08-12T09:53:59.432541",
       "current": {
-        "time": "2026-08-11T12:45",
+        "time": "2026-08-12T12:45",
         "interval": 900,
-        "temperature_2m": 27.8,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 30.1,
-        "weather_code": 2,
-        "wind_speed_10m": 22.3,
-        "wind_direction_10m": 23
+        "temperature_2m": 29.6,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 31.2,
+        "weather_code": 0,
+        "wind_speed_10m": 19.3,
+        "wind_direction_10m": 33
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Ankara",
       "latitude": 39.9334,
       "longitude": 32.8597,
-      "timestamp": "2026-08-11T09:52:27.995130",
+      "timestamp": "2026-08-12T09:53:59.445458",
       "current": {
-        "time": "2026-08-11T12:45",
+        "time": "2026-08-12T12:45",
         "interval": 900,
-        "temperature_2m": 29.6,
-        "relative_humidity_2m": 31,
-        "apparent_temperature": 30.0,
-        "weather_code": 1,
-        "wind_speed_10m": 12.0,
-        "wind_direction_10m": 51
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Turkey",
-      "country_code": "TR",
-      "city": "Izmir",
-      "latitude": 38.4237,
-      "longitude": 27.1428,
-      "timestamp": "2026-08-11T09:52:28.005998",
-      "current": {
-        "time": "2026-08-11T12:45",
-        "interval": 900,
-        "temperature_2m": 37.7,
-        "relative_humidity_2m": 33,
-        "apparent_temperature": 41.9,
+        "temperature_2m": 30.4,
+        "relative_humidity_2m": 28,
+        "apparent_temperature": 31.1,
         "weather_code": 0,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 317
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Turkey",
-      "country_code": "TR",
-      "city": "Cappadocia",
-      "latitude": 38.6431,
-      "longitude": 34.8289,
-      "timestamp": "2026-08-11T09:52:28.030897",
-      "current": {
-        "time": "2026-08-11T12:45",
-        "interval": 900,
-        "temperature_2m": 26.7,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 26.8,
-        "weather_code": 1,
-        "wind_speed_10m": 18.7,
-        "wind_direction_10m": 28
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 47
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Antalya",
       "latitude": 36.8969,
       "longitude": 30.7133,
-      "timestamp": "2026-08-11T09:52:28.032228",
+      "timestamp": "2026-08-12T09:53:59.457794",
       "current": {
-        "time": "2026-08-11T12:45",
+        "time": "2026-08-12T12:45",
         "interval": 900,
-        "temperature_2m": 37.6,
-        "relative_humidity_2m": 25,
+        "temperature_2m": 38.6,
+        "relative_humidity_2m": 21,
         "apparent_temperature": 41.2,
         "weather_code": 0,
-        "wind_speed_10m": 1.4,
-        "wind_direction_10m": 360
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 131
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Izmir",
+      "latitude": 38.4237,
+      "longitude": 27.1428,
+      "timestamp": "2026-08-12T09:53:59.459181",
+      "current": {
+        "time": "2026-08-12T12:45",
+        "interval": 900,
+        "temperature_2m": 36.0,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 40.8,
+        "weather_code": 0,
+        "wind_speed_10m": 12.4,
+        "wind_direction_10m": 280
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Cappadocia",
+      "latitude": 38.6431,
+      "longitude": 34.8289,
+      "timestamp": "2026-08-12T09:53:59.472545",
+      "current": {
+        "time": "2026-08-12T12:45",
+        "interval": 900,
+        "temperature_2m": 27.5,
+        "relative_humidity_2m": 38,
+        "apparent_temperature": 28.3,
+        "weather_code": 0,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 18
       },
       "history_24h": null
     }

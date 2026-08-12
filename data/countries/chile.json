@@ -1,6 +1,6 @@
 {
   "country": "Chile",
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "cities": [
     {
       "country": "Chile",
@@ -8,16 +8,16 @@
       "city": "Santiago",
       "latitude": -33.4489,
       "longitude": -70.6693,
-      "timestamp": "2026-08-11T09:52:28.572699",
+      "timestamp": "2026-08-12T09:54:00.002159",
       "current": {
-        "time": "2026-08-11T05:45",
+        "time": "2026-08-12T05:45",
         "interval": 900,
         "temperature_2m": 4.8,
-        "relative_humidity_2m": 88,
+        "relative_humidity_2m": 86,
         "apparent_temperature": 3.0,
         "weather_code": 3,
-        "wind_speed_10m": 1.1,
-        "wind_direction_10m": 360
+        "wind_speed_10m": 0.8,
+        "wind_direction_10m": 297
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Puerto Montt",
       "latitude": -41.4689,
       "longitude": -72.9424,
-      "timestamp": "2026-08-11T09:52:28.580778",
+      "timestamp": "2026-08-12T09:54:00.014924",
       "current": {
-        "time": "2026-08-11T05:45",
+        "time": "2026-08-12T05:45",
         "interval": 900,
-        "temperature_2m": 5.6,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 1.1,
-        "weather_code": 1,
-        "wind_speed_10m": 13.4,
-        "wind_direction_10m": 64
+        "temperature_2m": 3.0,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 0.5,
+        "weather_code": 2,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 7
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Valparaiso",
       "latitude": -33.0472,
       "longitude": -71.6127,
-      "timestamp": "2026-08-11T09:52:28.582146",
+      "timestamp": "2026-08-12T09:54:00.022824",
       "current": {
-        "time": "2026-08-11T05:45",
+        "time": "2026-08-12T05:45",
         "interval": 900,
-        "temperature_2m": 8.1,
+        "temperature_2m": 9.1,
         "relative_humidity_2m": 67,
-        "apparent_temperature": 4.8,
-        "weather_code": 3,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 162
+        "apparent_temperature": 5.2,
+        "weather_code": 1,
+        "wind_speed_10m": 16.2,
+        "wind_direction_10m": 177
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Punta Arenas",
       "latitude": -53.1638,
       "longitude": -70.9171,
-      "timestamp": "2026-08-11T09:52:28.586441",
+      "timestamp": "2026-08-12T09:54:00.053043",
       "current": {
-        "time": "2026-08-11T06:45",
+        "time": "2026-08-12T06:45",
         "interval": 900,
-        "temperature_2m": 1.6,
-        "relative_humidity_2m": 89,
-        "apparent_temperature": -1.9,
+        "temperature_2m": 0.4,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": -2.5,
         "weather_code": 2,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 263
+        "wind_speed_10m": 4.8,
+        "wind_direction_10m": 243
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Easter Island",
       "latitude": -27.1127,
       "longitude": -109.3497,
-      "timestamp": "2026-08-11T09:52:28.590866",
+      "timestamp": "2026-08-12T09:54:00.060311",
       "current": {
-        "time": "2026-08-11T03:45",
+        "time": "2026-08-12T03:45",
         "interval": 900,
-        "temperature_2m": 15.2,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 14.5,
-        "weather_code": 3,
-        "wind_speed_10m": 5.1,
-        "wind_direction_10m": 153
+        "temperature_2m": 15.8,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 14.2,
+        "weather_code": 53,
+        "wind_speed_10m": 17.6,
+        "wind_direction_10m": 227
       },
       "history_24h": null
     }

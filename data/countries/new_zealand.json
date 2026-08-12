@@ -1,23 +1,42 @@
 {
   "country": "New Zealand",
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "cities": [
+    {
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "city": "Auckland",
+      "latitude": -36.8509,
+      "longitude": 174.7645,
+      "timestamp": "2026-08-12T09:54:00.144521",
+      "current": {
+        "time": "2026-08-12T21:45",
+        "interval": 900,
+        "temperature_2m": 13.5,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 10.9,
+        "weather_code": 51,
+        "wind_speed_10m": 22.2,
+        "wind_direction_10m": 72
+      },
+      "history_24h": null
+    },
     {
       "country": "New Zealand",
       "country_code": "NZ",
       "city": "Wellington",
       "latitude": -41.2865,
       "longitude": 174.7762,
-      "timestamp": "2026-08-11T09:52:28.744133",
+      "timestamp": "2026-08-12T09:54:00.146029",
       "current": {
-        "time": "2026-08-11T21:45",
+        "time": "2026-08-12T21:45",
         "interval": 900,
-        "temperature_2m": 9.5,
-        "relative_humidity_2m": 86,
-        "apparent_temperature": 7.0,
-        "weather_code": 3,
-        "wind_speed_10m": 12.3,
-        "wind_direction_10m": 108
+        "temperature_2m": 9.6,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 7.4,
+        "weather_code": 1,
+        "wind_speed_10m": 9.8,
+        "wind_direction_10m": 47
       },
       "history_24h": null
     },
@@ -27,54 +46,16 @@
       "city": "Christchurch",
       "latitude": -43.5321,
       "longitude": 172.6362,
-      "timestamp": "2026-08-11T09:52:28.746935",
+      "timestamp": "2026-08-12T09:54:00.148258",
       "current": {
-        "time": "2026-08-11T21:45",
+        "time": "2026-08-12T21:45",
         "interval": 900,
-        "temperature_2m": 9.3,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 5.7,
-        "weather_code": 3,
-        "wind_speed_10m": 20.7,
+        "temperature_2m": 9.8,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 6.8,
+        "weather_code": 1,
+        "wind_speed_10m": 18.2,
         "wind_direction_10m": 56
-      },
-      "history_24h": null
-    },
-    {
-      "country": "New Zealand",
-      "country_code": "NZ",
-      "city": "Auckland",
-      "latitude": -36.8509,
-      "longitude": 174.7645,
-      "timestamp": "2026-08-11T09:52:28.748013",
-      "current": {
-        "time": "2026-08-11T21:45",
-        "interval": 900,
-        "temperature_2m": 12.0,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 10.2,
-        "weather_code": 3,
-        "wind_speed_10m": 10.9,
-        "wind_direction_10m": 71
-      },
-      "history_24h": null
-    },
-    {
-      "country": "New Zealand",
-      "country_code": "NZ",
-      "city": "Queenstown",
-      "latitude": -45.0312,
-      "longitude": 168.6626,
-      "timestamp": "2026-08-11T09:52:29.871951",
-      "current": {
-        "time": "2026-08-11T21:45",
-        "interval": 900,
-        "temperature_2m": 3.0,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 0.7,
-        "weather_code": 3,
-        "wind_speed_10m": 4.3,
-        "wind_direction_10m": 28
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Rotorua",
       "latitude": -38.1378,
       "longitude": 176.2514,
-      "timestamp": "2026-08-11T09:52:29.906526",
+      "timestamp": "2026-08-12T09:54:00.153541",
       "current": {
-        "time": "2026-08-11T21:45",
+        "time": "2026-08-12T21:45",
         "interval": 900,
-        "temperature_2m": 8.3,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 6.6,
+        "temperature_2m": 8.5,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 5.6,
+        "weather_code": 53,
+        "wind_speed_10m": 16.3,
+        "wind_direction_10m": 49
+      },
+      "history_24h": null
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "city": "Queenstown",
+      "latitude": -45.0312,
+      "longitude": 168.6626,
+      "timestamp": "2026-08-12T09:54:00.155051",
+      "current": {
+        "time": "2026-08-12T21:45",
+        "interval": 900,
+        "temperature_2m": 6.7,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 5.0,
         "weather_code": 3,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 77
+        "wind_speed_10m": 3.0,
+        "wind_direction_10m": 57
       },
       "history_24h": null
     }
