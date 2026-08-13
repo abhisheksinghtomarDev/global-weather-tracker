@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "cities": [
     {
       "country": "Saudi Arabia",
@@ -8,16 +8,16 @@
       "city": "Riyadh",
       "latitude": 24.7136,
       "longitude": 46.6753,
-      "timestamp": "2026-08-12T09:53:59.477932",
+      "timestamp": "2026-08-13T09:55:01.125239",
       "current": {
-        "time": "2026-08-12T12:45",
+        "time": "2026-08-13T12:45",
         "interval": 900,
-        "temperature_2m": 45.2,
+        "temperature_2m": 44.7,
         "relative_humidity_2m": 8,
-        "apparent_temperature": 44.0,
-        "weather_code": 2,
-        "wind_speed_10m": 8.1,
-        "wind_direction_10m": 45
+        "apparent_temperature": 44.3,
+        "weather_code": 0,
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 357
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Jeddah",
       "latitude": 21.4858,
       "longitude": 39.1925,
-      "timestamp": "2026-08-12T09:53:59.480567",
+      "timestamp": "2026-08-13T09:55:01.128983",
       "current": {
-        "time": "2026-08-12T12:45",
+        "time": "2026-08-13T12:45",
         "interval": 900,
-        "temperature_2m": 35.0,
-        "relative_humidity_2m": 50,
-        "apparent_temperature": 37.6,
-        "weather_code": 2,
-        "wind_speed_10m": 22.6,
-        "wind_direction_10m": 305
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Saudi Arabia",
-      "country_code": "SA",
-      "city": "Dammam",
-      "latitude": 26.4207,
-      "longitude": 50.0888,
-      "timestamp": "2026-08-12T09:53:59.497091",
-      "current": {
-        "time": "2026-08-12T12:45",
-        "interval": 900,
-        "temperature_2m": 46.6,
-        "relative_humidity_2m": 13,
-        "apparent_temperature": 47.4,
+        "temperature_2m": 36.4,
+        "relative_humidity_2m": 45,
+        "apparent_temperature": 40.9,
         "weather_code": 0,
-        "wind_speed_10m": 11.7,
-        "wind_direction_10m": 37
+        "wind_speed_10m": 18.1,
+        "wind_direction_10m": 304
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Mecca",
       "latitude": 21.3891,
       "longitude": 39.8579,
-      "timestamp": "2026-08-12T09:53:59.498558",
+      "timestamp": "2026-08-13T09:55:01.132329",
       "current": {
-        "time": "2026-08-12T12:45",
+        "time": "2026-08-13T12:45",
         "interval": 900,
-        "temperature_2m": 41.6,
+        "temperature_2m": 41.7,
         "relative_humidity_2m": 20,
-        "apparent_temperature": 41.8,
-        "weather_code": 1,
-        "wind_speed_10m": 18.0,
-        "wind_direction_10m": 297
+        "apparent_temperature": 44.1,
+        "weather_code": 0,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 265
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Dammam",
+      "latitude": 26.4207,
+      "longitude": 50.0888,
+      "timestamp": "2026-08-13T09:55:01.202167",
+      "current": {
+        "time": "2026-08-13T12:45",
+        "interval": 900,
+        "temperature_2m": 44.3,
+        "relative_humidity_2m": 22,
+        "apparent_temperature": 47.5,
+        "weather_code": 0,
+        "wind_speed_10m": 11.5,
+        "wind_direction_10m": 55
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Medina",
       "latitude": 24.5247,
       "longitude": 39.5692,
-      "timestamp": "2026-08-12T09:53:59.500040",
+      "timestamp": "2026-08-13T09:55:01.267311",
       "current": {
-        "time": "2026-08-12T12:45",
+        "time": "2026-08-13T12:45",
         "interval": 900,
-        "temperature_2m": 44.0,
+        "temperature_2m": 43.2,
         "relative_humidity_2m": 9,
-        "apparent_temperature": 42.9,
+        "apparent_temperature": 42.0,
         "weather_code": 0,
-        "wind_speed_10m": 11.7,
-        "wind_direction_10m": 307
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 290
       },
       "history_24h": null
     }
