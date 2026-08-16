@@ -1,6 +1,6 @@
 {
   "country": "Saudi Arabia",
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "cities": [
     {
       "country": "Saudi Arabia",
@@ -8,16 +8,16 @@
       "city": "Riyadh",
       "latitude": 24.7136,
       "longitude": 46.6753,
-      "timestamp": "2026-08-15T09:17:49.625093",
+      "timestamp": "2026-08-16T09:18:51.871964",
       "current": {
-        "time": "2026-08-15T12:15",
+        "time": "2026-08-16T12:15",
         "interval": 900,
-        "temperature_2m": 44.4,
-        "relative_humidity_2m": 7,
-        "apparent_temperature": 44.0,
-        "weather_code": 0,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 150
+        "temperature_2m": 45.5,
+        "relative_humidity_2m": 6,
+        "apparent_temperature": 45.6,
+        "weather_code": 1,
+        "wind_speed_10m": 3.8,
+        "wind_direction_10m": 5
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Jeddah",
       "latitude": 21.4858,
       "longitude": 39.1925,
-      "timestamp": "2026-08-15T09:17:49.625938",
+      "timestamp": "2026-08-16T09:18:51.874906",
       "current": {
-        "time": "2026-08-15T12:15",
+        "time": "2026-08-16T12:15",
         "interval": 900,
-        "temperature_2m": 36.5,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 39.7,
+        "temperature_2m": 35.5,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 39.9,
         "weather_code": 0,
-        "wind_speed_10m": 20.5,
-        "wind_direction_10m": 309
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Saudi Arabia",
-      "country_code": "SA",
-      "city": "Dammam",
-      "latitude": 26.4207,
-      "longitude": 50.0888,
-      "timestamp": "2026-08-15T09:17:49.628299",
-      "current": {
-        "time": "2026-08-15T12:15",
-        "interval": 900,
-        "temperature_2m": 46.9,
-        "relative_humidity_2m": 9,
-        "apparent_temperature": 46.7,
-        "weather_code": 0,
-        "wind_speed_10m": 10.1,
-        "wind_direction_10m": 349
+        "wind_speed_10m": 19.1,
+        "wind_direction_10m": 302
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Mecca",
       "latitude": 21.3891,
       "longitude": 39.8579,
-      "timestamp": "2026-08-15T09:17:49.636172",
+      "timestamp": "2026-08-16T09:18:51.885362",
       "current": {
-        "time": "2026-08-15T12:15",
+        "time": "2026-08-16T12:15",
         "interval": 900,
-        "temperature_2m": 38.5,
-        "relative_humidity_2m": 18,
-        "apparent_temperature": 37.1,
-        "weather_code": 3,
-        "wind_speed_10m": 15.0,
-        "wind_direction_10m": 317
+        "temperature_2m": 42.3,
+        "relative_humidity_2m": 8,
+        "apparent_temperature": 39.0,
+        "weather_code": 2,
+        "wind_speed_10m": 21.7,
+        "wind_direction_10m": 319
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Medina",
       "latitude": 24.5247,
       "longitude": 39.5692,
-      "timestamp": "2026-08-15T09:17:49.647043",
+      "timestamp": "2026-08-16T09:18:51.889861",
       "current": {
-        "time": "2026-08-15T12:15",
+        "time": "2026-08-16T12:15",
         "interval": 900,
-        "temperature_2m": 40.5,
-        "relative_humidity_2m": 12,
-        "apparent_temperature": 40.8,
+        "temperature_2m": 40.0,
+        "relative_humidity_2m": 11,
+        "apparent_temperature": 38.4,
         "weather_code": 0,
-        "wind_speed_10m": 6.7,
-        "wind_direction_10m": 297
+        "wind_speed_10m": 15.0,
+        "wind_direction_10m": 289
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Dammam",
+      "latitude": 26.4207,
+      "longitude": 50.0888,
+      "timestamp": "2026-08-16T09:18:51.891157",
+      "current": {
+        "time": "2026-08-16T12:15",
+        "interval": 900,
+        "temperature_2m": 45.0,
+        "relative_humidity_2m": 21,
+        "apparent_temperature": 47.5,
+        "weather_code": 0,
+        "wind_speed_10m": 15.1,
+        "wind_direction_10m": 9
       },
       "history_24h": null
     }
