@@ -1,61 +1,23 @@
 {
   "country": "Malaysia",
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "cities": [
-    {
-      "country": "Malaysia",
-      "country_code": "MY",
-      "city": "Kuala Lumpur",
-      "latitude": 3.139,
-      "longitude": 101.6869,
-      "timestamp": "2026-08-22T09:18:38.304081",
-      "current": {
-        "time": "2026-08-22T17:15",
-        "interval": 900,
-        "temperature_2m": 35.1,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 36.7,
-        "weather_code": 2,
-        "wind_speed_10m": 11.5,
-        "wind_direction_10m": 158
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Malaysia",
-      "country_code": "MY",
-      "city": "Penang",
-      "latitude": 5.4141,
-      "longitude": 100.3288,
-      "timestamp": "2026-08-22T09:18:38.305582",
-      "current": {
-        "time": "2026-08-22T17:15",
-        "interval": 900,
-        "temperature_2m": 31.3,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 35.5,
-        "weather_code": 3,
-        "wind_speed_10m": 14.2,
-        "wind_direction_10m": 201
-      },
-      "history_24h": null
-    },
     {
       "country": "Malaysia",
       "country_code": "MY",
       "city": "Johor Bahru",
       "latitude": 1.4927,
       "longitude": 103.7414,
-      "timestamp": "2026-08-22T09:18:38.389306",
+      "timestamp": "2026-08-23T09:19:40.840626",
       "current": {
-        "time": "2026-08-22T17:15",
+        "time": "2026-08-23T17:15",
         "interval": 900,
         "temperature_2m": 31.7,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 33.9,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 33.4,
         "weather_code": 2,
-        "wind_speed_10m": 11.9,
-        "wind_direction_10m": 180
+        "wind_speed_10m": 13.5,
+        "wind_direction_10m": 183
       },
       "history_24h": null
     },
@@ -65,16 +27,16 @@
       "city": "Kuching",
       "latitude": 1.5575,
       "longitude": 110.3595,
-      "timestamp": "2026-08-22T09:18:38.391000",
+      "timestamp": "2026-08-23T09:19:40.877369",
       "current": {
-        "time": "2026-08-22T17:15",
+        "time": "2026-08-23T17:15",
         "interval": 900,
-        "temperature_2m": 30.3,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 35.8,
-        "weather_code": 2,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 11
+        "temperature_2m": 28.9,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 35.9,
+        "weather_code": 3,
+        "wind_speed_10m": 2.3,
+        "wind_direction_10m": 157
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Langkawi",
       "latitude": 6.3371,
       "longitude": 99.8521,
-      "timestamp": "2026-08-22T09:18:38.393951",
+      "timestamp": "2026-08-23T09:19:40.951557",
       "current": {
-        "time": "2026-08-22T17:15",
+        "time": "2026-08-23T17:15",
         "interval": 900,
-        "temperature_2m": 30.5,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 35.1,
-        "weather_code": 3,
-        "wind_speed_10m": 13.0,
-        "wind_direction_10m": 206
+        "temperature_2m": 30.6,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 34.7,
+        "weather_code": 2,
+        "wind_speed_10m": 12.1,
+        "wind_direction_10m": 223
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Kuala Lumpur",
+      "latitude": 3.139,
+      "longitude": 101.6869,
+      "timestamp": "2026-08-23T09:19:41.837243",
+      "current": {
+        "time": "2026-08-23T17:15",
+        "interval": 900,
+        "temperature_2m": 35.2,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 36.8,
+        "weather_code": 0,
+        "wind_speed_10m": 11.5,
+        "wind_direction_10m": 189
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Penang",
+      "latitude": 5.4141,
+      "longitude": 100.3288,
+      "timestamp": "2026-08-23T09:19:41.922044",
+      "current": {
+        "time": "2026-08-23T17:15",
+        "interval": 900,
+        "temperature_2m": 31.6,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 35.9,
+        "weather_code": 2,
+        "wind_speed_10m": 11.5,
+        "wind_direction_10m": 203
       },
       "history_24h": null
     }
