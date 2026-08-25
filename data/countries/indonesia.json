@@ -1,42 +1,42 @@
 {
   "country": "Indonesia",
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "cities": [
-    {
-      "country": "Indonesia",
-      "country_code": "ID",
-      "city": "Surabaya",
-      "latitude": -7.2575,
-      "longitude": 112.7521,
-      "timestamp": "2026-08-24T09:37:49.568645",
-      "current": {
-        "time": "2026-08-24T16:30",
-        "interval": 900,
-        "temperature_2m": 29.7,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 31.4,
-        "weather_code": 0,
-        "wind_speed_10m": 13.8,
-        "wind_direction_10m": 112
-      },
-      "history_24h": null
-    },
     {
       "country": "Indonesia",
       "country_code": "ID",
       "city": "Jakarta",
       "latitude": -6.2088,
       "longitude": 106.8456,
-      "timestamp": "2026-08-24T09:37:49.569725",
+      "timestamp": "2026-08-25T09:26:37.033767",
       "current": {
-        "time": "2026-08-24T16:30",
+        "time": "2026-08-25T16:15",
         "interval": 900,
-        "temperature_2m": 31.5,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 34.4,
+        "temperature_2m": 31.0,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 33.6,
         "weather_code": 0,
-        "wind_speed_10m": 10.8,
+        "wind_speed_10m": 12.5,
         "wind_direction_10m": 11
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Surabaya",
+      "latitude": -7.2575,
+      "longitude": 112.7521,
+      "timestamp": "2026-08-25T09:26:37.036736",
+      "current": {
+        "time": "2026-08-25T16:15",
+        "interval": 900,
+        "temperature_2m": 29.8,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 31.0,
+        "weather_code": 1,
+        "wind_speed_10m": 14.8,
+        "wind_direction_10m": 108
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Bandung",
       "latitude": -6.9175,
       "longitude": 107.6191,
-      "timestamp": "2026-08-24T09:37:49.581119",
+      "timestamp": "2026-08-25T09:26:37.046696",
       "current": {
-        "time": "2026-08-24T16:30",
+        "time": "2026-08-25T16:15",
         "interval": 900,
-        "temperature_2m": 30.2,
-        "relative_humidity_2m": 37,
-        "apparent_temperature": 30.8,
-        "weather_code": 2,
-        "wind_speed_10m": 4.0,
-        "wind_direction_10m": 240
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Indonesia",
-      "country_code": "ID",
-      "city": "Medan",
-      "latitude": 3.5952,
-      "longitude": 98.6722,
-      "timestamp": "2026-08-24T09:37:49.585745",
-      "current": {
-        "time": "2026-08-24T16:30",
-        "interval": 900,
-        "temperature_2m": 29.2,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 34.0,
-        "weather_code": 80,
-        "wind_speed_10m": 5.6,
-        "wind_direction_10m": 274
+        "temperature_2m": 29.8,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 31.0,
+        "weather_code": 1,
+        "wind_speed_10m": 3.0,
+        "wind_direction_10m": 232
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Bali",
       "latitude": -8.4095,
       "longitude": 115.1889,
-      "timestamp": "2026-08-24T09:37:49.588265",
+      "timestamp": "2026-08-25T09:26:37.048302",
       "current": {
-        "time": "2026-08-24T17:30",
+        "time": "2026-08-25T17:15",
         "interval": 900,
-        "temperature_2m": 21.8,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": 23.4,
-        "weather_code": 0,
-        "wind_speed_10m": 10.4,
-        "wind_direction_10m": 113
+        "temperature_2m": 22.1,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 23.3,
+        "weather_code": 2,
+        "wind_speed_10m": 9.8,
+        "wind_direction_10m": 98
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Medan",
+      "latitude": 3.5952,
+      "longitude": 98.6722,
+      "timestamp": "2026-08-25T09:26:37.049772",
+      "current": {
+        "time": "2026-08-25T16:15",
+        "interval": 900,
+        "temperature_2m": 29.0,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 34.6,
+        "weather_code": 51,
+        "wind_speed_10m": 2.5,
+        "wind_direction_10m": 225
       },
       "history_24h": null
     }
