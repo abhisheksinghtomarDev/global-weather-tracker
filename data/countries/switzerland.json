@@ -1,6 +1,6 @@
 {
   "country": "Switzerland",
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "cities": [
     {
       "country": "Switzerland",
@@ -8,54 +8,16 @@
       "city": "Zurich",
       "latitude": 47.3769,
       "longitude": 8.5417,
-      "timestamp": "2026-08-25T09:26:37.535835",
+      "timestamp": "2026-08-26T09:32:37.223757",
       "current": {
-        "time": "2026-08-25T11:15",
+        "time": "2026-08-26T11:30",
         "interval": 900,
-        "temperature_2m": 18.9,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 20.1,
-        "weather_code": 80,
-        "wind_speed_10m": 3.7,
-        "wind_direction_10m": 191
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Switzerland",
-      "country_code": "CH",
-      "city": "Geneva",
-      "latitude": 46.2044,
-      "longitude": 6.1432,
-      "timestamp": "2026-08-25T09:26:37.551736",
-      "current": {
-        "time": "2026-08-25T11:15",
-        "interval": 900,
-        "temperature_2m": 23.6,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 23.9,
-        "weather_code": 1,
-        "wind_speed_10m": 15.0,
-        "wind_direction_10m": 235
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Switzerland",
-      "country_code": "CH",
-      "city": "Bern",
-      "latitude": 46.948,
-      "longitude": 7.4474,
-      "timestamp": "2026-08-25T09:26:37.558523",
-      "current": {
-        "time": "2026-08-25T11:15",
-        "interval": 900,
-        "temperature_2m": 19.2,
-        "relative_humidity_2m": 80,
-        "apparent_temperature": 20.5,
-        "weather_code": 3,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 293
+        "temperature_2m": 24.1,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 27.6,
+        "weather_code": 2,
+        "wind_speed_10m": 1.1,
+        "wind_direction_10m": 288
       },
       "history_24h": null
     },
@@ -65,16 +27,35 @@
       "city": "Interlaken",
       "latitude": 46.6863,
       "longitude": 7.8632,
-      "timestamp": "2026-08-25T09:26:37.561891",
+      "timestamp": "2026-08-26T09:32:37.226623",
       "current": {
-        "time": "2026-08-25T11:15",
+        "time": "2026-08-26T11:30",
         "interval": 900,
-        "temperature_2m": 20.7,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 23.2,
-        "weather_code": 1,
-        "wind_speed_10m": 1.4,
-        "wind_direction_10m": 360
+        "temperature_2m": 23.3,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 26.0,
+        "weather_code": 3,
+        "wind_speed_10m": 2.3,
+        "wind_direction_10m": 321
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Geneva",
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "timestamp": "2026-08-26T09:32:37.228249",
+      "current": {
+        "time": "2026-08-26T11:30",
+        "interval": 900,
+        "temperature_2m": 24.2,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 27.1,
+        "weather_code": 2,
+        "wind_speed_10m": 2.4,
+        "wind_direction_10m": 27
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Lucerne",
       "latitude": 47.0502,
       "longitude": 8.3093,
-      "timestamp": "2026-08-25T09:26:37.569718",
+      "timestamp": "2026-08-26T09:32:37.229940",
       "current": {
-        "time": "2026-08-25T11:15",
+        "time": "2026-08-26T11:30",
         "interval": 900,
-        "temperature_2m": 17.9,
-        "relative_humidity_2m": 87,
-        "apparent_temperature": 19.3,
+        "temperature_2m": 24.0,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 26.4,
+        "weather_code": 2,
+        "wind_speed_10m": 2.4,
+        "wind_direction_10m": 27
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Bern",
+      "latitude": 46.948,
+      "longitude": 7.4474,
+      "timestamp": "2026-08-26T09:32:37.231076",
+      "current": {
+        "time": "2026-08-26T11:30",
+        "interval": 900,
+        "temperature_2m": 22.9,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 25.9,
         "weather_code": 3,
-        "wind_speed_10m": 3.5,
-        "wind_direction_10m": 336
+        "wind_speed_10m": 2.4,
+        "wind_direction_10m": 63
       },
       "history_24h": null
     }

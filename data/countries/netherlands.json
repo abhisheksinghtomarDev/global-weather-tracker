@@ -1,61 +1,23 @@
 {
   "country": "Netherlands",
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "cities": [
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "city": "Amsterdam",
-      "latitude": 52.3676,
-      "longitude": 4.9041,
-      "timestamp": "2026-08-25T09:26:37.410990",
-      "current": {
-        "time": "2026-08-25T11:15",
-        "interval": 900,
-        "temperature_2m": 18.6,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 16.2,
-        "weather_code": 1,
-        "wind_speed_10m": 18.4,
-        "wind_direction_10m": 72
-      },
-      "history_24h": null
-    },
     {
       "country": "Netherlands",
       "country_code": "NL",
       "city": "Rotterdam",
       "latitude": 51.9244,
       "longitude": 4.4777,
-      "timestamp": "2026-08-25T09:26:37.412083",
+      "timestamp": "2026-08-26T09:32:37.123328",
       "current": {
-        "time": "2026-08-25T11:15",
+        "time": "2026-08-26T11:30",
         "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 15.9,
+        "temperature_2m": 20.2,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 19.4,
         "weather_code": 3,
-        "wind_speed_10m": 15.1,
-        "wind_direction_10m": 77
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "city": "The Hague",
-      "latitude": 52.0705,
-      "longitude": 4.3007,
-      "timestamp": "2026-08-25T09:26:37.430952",
-      "current": {
-        "time": "2026-08-25T11:15",
-        "interval": 900,
-        "temperature_2m": 18.6,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 16.5,
-        "weather_code": 3,
-        "wind_speed_10m": 15.1,
-        "wind_direction_10m": 80
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 101
       },
       "history_24h": null
     },
@@ -65,16 +27,35 @@
       "city": "Utrecht",
       "latitude": 52.0907,
       "longitude": 5.1214,
-      "timestamp": "2026-08-25T09:26:37.447854",
+      "timestamp": "2026-08-26T09:32:37.125007",
       "current": {
-        "time": "2026-08-25T11:15",
+        "time": "2026-08-26T11:30",
         "interval": 900,
-        "temperature_2m": 19.0,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 16.8,
+        "temperature_2m": 21.3,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 20.5,
         "weather_code": 3,
-        "wind_speed_10m": 14.0,
-        "wind_direction_10m": 77
+        "wind_speed_10m": 12.6,
+        "wind_direction_10m": 102
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "The Hague",
+      "latitude": 52.0705,
+      "longitude": 4.3007,
+      "timestamp": "2026-08-26T09:32:37.127382",
+      "current": {
+        "time": "2026-08-26T11:30",
+        "interval": 900,
+        "temperature_2m": 20.4,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 19.3,
+        "weather_code": 3,
+        "wind_speed_10m": 15.1,
+        "wind_direction_10m": 106
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Eindhoven",
       "latitude": 51.4416,
       "longitude": 5.4697,
-      "timestamp": "2026-08-25T09:26:37.472825",
+      "timestamp": "2026-08-26T09:32:37.157686",
       "current": {
-        "time": "2026-08-25T11:15",
+        "time": "2026-08-26T11:30",
         "interval": 900,
-        "temperature_2m": 18.6,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 16.6,
-        "weather_code": 3,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 68
+        "temperature_2m": 21.8,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 21.3,
+        "weather_code": 2,
+        "wind_speed_10m": 11.5,
+        "wind_direction_10m": 113
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "Amsterdam",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "timestamp": "2026-08-26T09:32:38.220736",
+      "current": {
+        "time": "2026-08-26T11:30",
+        "interval": 900,
+        "temperature_2m": 21.3,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 20.1,
+        "weather_code": 1,
+        "wind_speed_10m": 14.8,
+        "wind_direction_10m": 95
       },
       "history_24h": null
     }
