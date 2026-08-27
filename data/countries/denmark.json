@@ -1,6 +1,6 @@
 {
   "country": "Denmark",
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "cities": [
     {
       "country": "Denmark",
@@ -8,35 +8,16 @@
       "city": "Copenhagen",
       "latitude": 55.6761,
       "longitude": 12.5683,
-      "timestamp": "2026-08-26T09:32:37.679029",
+      "timestamp": "2026-08-27T19:21:05.365290",
       "current": {
-        "time": "2026-08-26T11:30",
+        "time": "2026-08-27T21:15",
         "interval": 900,
-        "temperature_2m": 20.6,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 20.5,
-        "weather_code": 0,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 91
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Denmark",
-      "country_code": "DK",
-      "city": "Odense",
-      "latitude": 55.4038,
-      "longitude": 10.4027,
-      "timestamp": "2026-08-26T09:32:37.694648",
-      "current": {
-        "time": "2026-08-26T11:30",
-        "interval": 900,
-        "temperature_2m": 22.1,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 21.7,
-        "weather_code": 0,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 104
+        "temperature_2m": 18.9,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 17.0,
+        "weather_code": 3,
+        "wind_speed_10m": 19.8,
+        "wind_direction_10m": 101
       },
       "history_24h": null
     },
@@ -46,16 +27,16 @@
       "city": "Aarhus",
       "latitude": 56.1629,
       "longitude": 10.2039,
-      "timestamp": "2026-08-26T09:32:37.696117",
+      "timestamp": "2026-08-27T19:21:05.425642",
       "current": {
-        "time": "2026-08-26T11:30",
+        "time": "2026-08-27T21:15",
         "interval": 900,
-        "temperature_2m": 17.7,
-        "relative_humidity_2m": 87,
-        "apparent_temperature": 17.4,
-        "weather_code": 1,
-        "wind_speed_10m": 15.1,
-        "wind_direction_10m": 125
+        "temperature_2m": 19.0,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 15.8,
+        "weather_code": 3,
+        "wind_speed_10m": 29.2,
+        "wind_direction_10m": 116
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Aalborg",
       "latitude": 57.0488,
       "longitude": 9.9217,
-      "timestamp": "2026-08-26T09:32:37.697509",
+      "timestamp": "2026-08-27T19:21:05.459274",
       "current": {
-        "time": "2026-08-26T11:30",
+        "time": "2026-08-27T21:15",
         "interval": 900,
-        "temperature_2m": 20.4,
-        "relative_humidity_2m": 53,
-        "apparent_temperature": 19.0,
-        "weather_code": 0,
-        "wind_speed_10m": 12.2,
-        "wind_direction_10m": 113
+        "temperature_2m": 19.1,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 16.6,
+        "weather_code": 3,
+        "wind_speed_10m": 24.1,
+        "wind_direction_10m": 109
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "city": "Odense",
+      "latitude": 55.4038,
+      "longitude": 10.4027,
+      "timestamp": "2026-08-27T19:21:06.462197",
+      "current": {
+        "time": "2026-08-27T21:15",
+        "interval": 900,
+        "temperature_2m": 19.5,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 16.0,
+        "weather_code": 3,
+        "wind_speed_10m": 28.4,
+        "wind_direction_10m": 108
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Billund",
       "latitude": 55.7304,
       "longitude": 9.1103,
-      "timestamp": "2026-08-26T09:32:37.698887",
+      "timestamp": "2026-08-27T19:21:06.538690",
       "current": {
-        "time": "2026-08-26T11:30",
+        "time": "2026-08-27T21:15",
         "interval": 900,
-        "temperature_2m": 20.0,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 19.4,
-        "weather_code": 1,
-        "wind_speed_10m": 16.9,
-        "wind_direction_10m": 103
+        "temperature_2m": 19.2,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 15.7,
+        "weather_code": 3,
+        "wind_speed_10m": 26.6,
+        "wind_direction_10m": 107
       },
       "history_24h": null
     }
