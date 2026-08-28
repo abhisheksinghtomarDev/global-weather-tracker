@@ -1,6 +1,6 @@
 {
   "country": "Greece",
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "cities": [
     {
       "country": "Greece",
@@ -8,73 +8,16 @@
       "city": "Athens",
       "latitude": 37.9838,
       "longitude": 23.7275,
-      "timestamp": "2026-08-27T19:21:04.315096",
+      "timestamp": "2026-08-28T20:32:05.346713",
       "current": {
-        "time": "2026-08-27T22:15",
+        "time": "2026-08-28T23:30",
         "interval": 900,
-        "temperature_2m": 28.6,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 29.6,
-        "weather_code": 0,
-        "wind_speed_10m": 5.2,
-        "wind_direction_10m": 65
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Greece",
-      "country_code": "GR",
-      "city": "Crete",
-      "latitude": 35.2401,
-      "longitude": 24.8317,
-      "timestamp": "2026-08-27T19:21:04.442755",
-      "current": {
-        "time": "2026-08-27T22:15",
-        "interval": 900,
-        "temperature_2m": 21.7,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 20.0,
-        "weather_code": 0,
-        "wind_speed_10m": 13.6,
-        "wind_direction_10m": 11
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Greece",
-      "country_code": "GR",
-      "city": "Mykonos",
-      "latitude": 37.4467,
-      "longitude": 25.3289,
-      "timestamp": "2026-08-27T19:21:05.402313",
-      "current": {
-        "time": "2026-08-27T22:15",
-        "interval": 900,
-        "temperature_2m": 27.5,
-        "relative_humidity_2m": 60,
-        "apparent_temperature": 27.8,
-        "weather_code": 0,
-        "wind_speed_10m": 21.3,
-        "wind_direction_10m": 355
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Greece",
-      "country_code": "GR",
-      "city": "Santorini",
-      "latitude": 36.3932,
-      "longitude": 25.4615,
-      "timestamp": "2026-08-27T19:21:07.486979",
-      "current": {
-        "time": "2026-08-27T22:15",
-        "interval": 900,
-        "temperature_2m": 28.9,
+        "temperature_2m": 27.6,
         "relative_humidity_2m": 47,
-        "apparent_temperature": 28.9,
+        "apparent_temperature": 27.5,
         "weather_code": 0,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 342
+        "wind_speed_10m": 12.8,
+        "wind_direction_10m": 58
       },
       "history_24h": null
     },
@@ -84,16 +27,73 @@
       "city": "Thessaloniki",
       "latitude": 40.6401,
       "longitude": 22.9444,
-      "timestamp": "2026-08-27T19:21:07.513526",
+      "timestamp": "2026-08-28T20:32:05.348437",
       "current": {
-        "time": "2026-08-27T22:15",
+        "time": "2026-08-28T23:30",
         "interval": 900,
-        "temperature_2m": 27.2,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 30.5,
+        "temperature_2m": 26.3,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 29.5,
+        "weather_code": 80,
+        "wind_speed_10m": 4.2,
+        "wind_direction_10m": 70
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Santorini",
+      "latitude": 36.3932,
+      "longitude": 25.4615,
+      "timestamp": "2026-08-28T20:32:05.353122",
+      "current": {
+        "time": "2026-08-28T23:30",
+        "interval": 900,
+        "temperature_2m": 26.9,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 28.2,
         "weather_code": 0,
-        "wind_speed_10m": 3.7,
-        "wind_direction_10m": 151
+        "wind_speed_10m": 10.0,
+        "wind_direction_10m": 339
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Mykonos",
+      "latitude": 37.4467,
+      "longitude": 25.3289,
+      "timestamp": "2026-08-28T20:32:05.355629",
+      "current": {
+        "time": "2026-08-28T23:30",
+        "interval": 900,
+        "temperature_2m": 25.9,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 28.1,
+        "weather_code": 0,
+        "wind_speed_10m": 12.8,
+        "wind_direction_10m": 16
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Crete",
+      "latitude": 35.2401,
+      "longitude": 24.8317,
+      "timestamp": "2026-08-28T20:32:05.366421",
+      "current": {
+        "time": "2026-08-28T23:30",
+        "interval": 900,
+        "temperature_2m": 20.1,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 18.9,
+        "weather_code": 0,
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 6
       },
       "history_24h": null
     }
