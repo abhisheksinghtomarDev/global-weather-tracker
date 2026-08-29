@@ -1,6 +1,6 @@
 {
   "country": "France",
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "cities": [
     {
       "country": "France",
@@ -8,16 +8,16 @@
       "city": "Paris",
       "latitude": 48.8566,
       "longitude": 2.3522,
-      "timestamp": "2026-08-28T20:32:04.461732",
+      "timestamp": "2026-08-29T14:05:29.451497",
       "current": {
-        "time": "2026-08-28T22:30",
+        "time": "2026-08-29T16:00",
         "interval": 900,
-        "temperature_2m": 21.1,
-        "relative_humidity_2m": 58,
-        "apparent_temperature": 20.7,
-        "weather_code": 2,
-        "wind_speed_10m": 8.0,
-        "wind_direction_10m": 198
+        "temperature_2m": 21.8,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 20.9,
+        "weather_code": 95,
+        "wind_speed_10m": 18.3,
+        "wind_direction_10m": 212
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Lyon",
       "latitude": 45.764,
       "longitude": 4.8357,
-      "timestamp": "2026-08-28T20:32:04.470053",
+      "timestamp": "2026-08-29T14:05:29.455668",
       "current": {
-        "time": "2026-08-28T22:30",
+        "time": "2026-08-29T16:00",
         "interval": 900,
-        "temperature_2m": 23.0,
-        "relative_humidity_2m": 46,
-        "apparent_temperature": 21.9,
-        "weather_code": 0,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 317
+        "temperature_2m": 28.8,
+        "relative_humidity_2m": 30,
+        "apparent_temperature": 29.0,
+        "weather_code": 2,
+        "wind_speed_10m": 0.4,
+        "wind_direction_10m": 360
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Marseille",
       "latitude": 43.2965,
       "longitude": 5.3698,
-      "timestamp": "2026-08-28T20:32:04.476038",
+      "timestamp": "2026-08-29T14:05:29.457663",
       "current": {
-        "time": "2026-08-28T22:30",
+        "time": "2026-08-29T16:00",
         "interval": 900,
-        "temperature_2m": 24.5,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 27.1,
-        "weather_code": 3,
-        "wind_speed_10m": 7.3,
-        "wind_direction_10m": 281
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 23.4,
+        "weather_code": 2,
+        "wind_speed_10m": 25.6,
+        "wind_direction_10m": 259
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Nice",
       "latitude": 43.7102,
       "longitude": 7.262,
-      "timestamp": "2026-08-28T20:32:04.479542",
+      "timestamp": "2026-08-29T14:05:29.458638",
       "current": {
-        "time": "2026-08-28T22:30",
+        "time": "2026-08-29T16:00",
         "interval": 900,
-        "temperature_2m": 24.6,
-        "relative_humidity_2m": 70,
-        "apparent_temperature": 26.9,
-        "weather_code": 1,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 331
+        "temperature_2m": 33.0,
+        "relative_humidity_2m": 27,
+        "apparent_temperature": 32.1,
+        "weather_code": 0,
+        "wind_speed_10m": 13.9,
+        "wind_direction_10m": 159
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Toulouse",
       "latitude": 43.6047,
       "longitude": 1.4442,
-      "timestamp": "2026-08-28T20:32:04.483266",
+      "timestamp": "2026-08-29T14:05:29.459585",
       "current": {
-        "time": "2026-08-28T22:30",
+        "time": "2026-08-29T16:00",
         "interval": 900,
-        "temperature_2m": 22.5,
-        "relative_humidity_2m": 47,
-        "apparent_temperature": 21.7,
-        "weather_code": 1,
-        "wind_speed_10m": 7.0,
-        "wind_direction_10m": 249
+        "temperature_2m": 28.0,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 29.1,
+        "weather_code": 0,
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 341
       },
       "history_24h": null
     }

@@ -1,6 +1,6 @@
 {
   "country": "UAE",
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "cities": [
     {
       "country": "UAE",
@@ -8,35 +8,16 @@
       "city": "Abu Dhabi",
       "latitude": 24.4539,
       "longitude": 54.3773,
-      "timestamp": "2026-08-28T20:32:04.944819",
+      "timestamp": "2026-08-29T14:05:29.928899",
       "current": {
-        "time": "2026-08-29T00:30",
+        "time": "2026-08-29T18:00",
         "interval": 900,
-        "temperature_2m": 32.2,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 41.7,
+        "temperature_2m": 36.2,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 42.3,
         "weather_code": 0,
-        "wind_speed_10m": 0.4,
-        "wind_direction_10m": 117
-      },
-      "history_24h": null
-    },
-    {
-      "country": "UAE",
-      "country_code": "AE",
-      "city": "Dubai",
-      "latitude": 25.2048,
-      "longitude": 55.2708,
-      "timestamp": "2026-08-28T20:32:04.946245",
-      "current": {
-        "time": "2026-08-29T00:30",
-        "interval": 900,
-        "temperature_2m": 32.4,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 39.0,
-        "weather_code": 0,
-        "wind_speed_10m": 0.0,
-        "wind_direction_10m": 270
+        "wind_speed_10m": 13.9,
+        "wind_direction_10m": 1
       },
       "history_24h": null
     },
@@ -46,16 +27,16 @@
       "city": "Sharjah",
       "latitude": 25.3463,
       "longitude": 55.4209,
-      "timestamp": "2026-08-28T20:32:04.954994",
+      "timestamp": "2026-08-29T14:05:29.930660",
       "current": {
-        "time": "2026-08-29T00:30",
+        "time": "2026-08-29T18:00",
         "interval": 900,
-        "temperature_2m": 32.7,
+        "temperature_2m": 34.8,
         "relative_humidity_2m": 63,
-        "apparent_temperature": 38.9,
+        "apparent_temperature": 41.2,
         "weather_code": 0,
-        "wind_speed_10m": 2.5,
-        "wind_direction_10m": 278
+        "wind_speed_10m": 9.5,
+        "wind_direction_10m": 333
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Ras Al Khaimah",
       "latitude": 25.7895,
       "longitude": 55.9432,
-      "timestamp": "2026-08-28T20:32:04.967867",
+      "timestamp": "2026-08-29T14:05:29.938685",
       "current": {
-        "time": "2026-08-29T00:30",
+        "time": "2026-08-29T18:00",
         "interval": 900,
-        "temperature_2m": 33.2,
-        "relative_humidity_2m": 22,
-        "apparent_temperature": 32.5,
+        "temperature_2m": 37.3,
+        "relative_humidity_2m": 27,
+        "apparent_temperature": 38.6,
         "weather_code": 0,
-        "wind_speed_10m": 2.2,
-        "wind_direction_10m": 81
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 61
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Al Ain",
       "latitude": 24.2075,
       "longitude": 55.7447,
-      "timestamp": "2026-08-28T20:32:04.969414",
+      "timestamp": "2026-08-29T14:05:29.944802",
       "current": {
-        "time": "2026-08-29T00:30",
+        "time": "2026-08-29T18:00",
         "interval": 900,
-        "temperature_2m": 34.5,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 37.0,
+        "temperature_2m": 42.9,
+        "relative_humidity_2m": 12,
+        "apparent_temperature": 41.2,
         "weather_code": 0,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 74
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 236
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Dubai",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "timestamp": "2026-08-29T14:05:29.946077",
+      "current": {
+        "time": "2026-08-29T18:00",
+        "interval": 900,
+        "temperature_2m": 35.0,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 41.6,
+        "weather_code": 0,
+        "wind_speed_10m": 11.1,
+        "wind_direction_10m": 347
       },
       "history_24h": null
     }
