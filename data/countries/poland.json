@@ -1,6 +1,6 @@
 {
   "country": "Poland",
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "cities": [
     {
       "country": "Poland",
@@ -8,16 +8,16 @@
       "city": "Warsaw",
       "latitude": 52.2297,
       "longitude": 21.0122,
-      "timestamp": "2026-08-29T14:05:30.256962",
+      "timestamp": "2026-08-30T14:09:39.160896",
       "current": {
-        "time": "2026-08-29T16:00",
+        "time": "2026-08-30T16:00",
         "interval": 900,
-        "temperature_2m": 21.0,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 22.0,
+        "temperature_2m": 25.7,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 24.3,
         "weather_code": 0,
-        "wind_speed_10m": 8.6,
-        "wind_direction_10m": 245
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 200
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Krakow",
       "latitude": 50.0647,
       "longitude": 19.945,
-      "timestamp": "2026-08-29T14:05:30.258937",
+      "timestamp": "2026-08-30T14:09:39.162300",
       "current": {
-        "time": "2026-08-29T16:00",
+        "time": "2026-08-30T16:00",
         "interval": 900,
-        "temperature_2m": 24.3,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 24.9,
+        "temperature_2m": 29.2,
+        "relative_humidity_2m": 33,
+        "apparent_temperature": 28.3,
         "weather_code": 0,
-        "wind_speed_10m": 8.3,
-        "wind_direction_10m": 269
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Poland",
-      "country_code": "PL",
-      "city": "Gdansk",
-      "latitude": 54.352,
-      "longitude": 18.6466,
-      "timestamp": "2026-08-29T14:05:30.365688",
-      "current": {
-        "time": "2026-08-29T16:00",
-        "interval": 900,
-        "temperature_2m": 22.9,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 22.6,
-        "weather_code": 2,
-        "wind_speed_10m": 10.7,
-        "wind_direction_10m": 282
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 274
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Wroclaw",
       "latitude": 51.1079,
       "longitude": 17.0385,
-      "timestamp": "2026-08-29T14:05:30.367253",
+      "timestamp": "2026-08-30T14:09:39.181420",
       "current": {
-        "time": "2026-08-29T16:00",
+        "time": "2026-08-30T16:00",
         "interval": 900,
-        "temperature_2m": 25.0,
-        "relative_humidity_2m": 36,
-        "apparent_temperature": 23.0,
-        "weather_code": 1,
-        "wind_speed_10m": 11.9,
-        "wind_direction_10m": 273
+        "temperature_2m": 27.6,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 26.1,
+        "weather_code": 3,
+        "wind_speed_10m": 17.1,
+        "wind_direction_10m": 231
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "city": "Gdansk",
+      "latitude": 54.352,
+      "longitude": 18.6466,
+      "timestamp": "2026-08-30T14:09:39.186194",
+      "current": {
+        "time": "2026-08-30T16:00",
+        "interval": 900,
+        "temperature_2m": 25.5,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 24.3,
+        "weather_code": 2,
+        "wind_speed_10m": 17.7,
+        "wind_direction_10m": 204
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Poznan",
       "latitude": 52.4064,
       "longitude": 16.9252,
-      "timestamp": "2026-08-29T14:05:30.374450",
+      "timestamp": "2026-08-30T14:09:39.207853",
       "current": {
-        "time": "2026-08-29T16:00",
+        "time": "2026-08-30T16:00",
         "interval": 900,
-        "temperature_2m": 23.6,
+        "temperature_2m": 26.4,
         "relative_humidity_2m": 43,
-        "apparent_temperature": 21.4,
+        "apparent_temperature": 24.9,
         "weather_code": 3,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 252
+        "wind_speed_10m": 16.2,
+        "wind_direction_10m": 233
       },
       "history_24h": null
     }

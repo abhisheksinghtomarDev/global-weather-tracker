@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "cities": [
     {
       "country": "Germany",
@@ -8,35 +8,16 @@
       "city": "Berlin",
       "latitude": 52.52,
       "longitude": 13.405,
-      "timestamp": "2026-08-29T14:05:29.329706",
+      "timestamp": "2026-08-30T14:09:38.431849",
       "current": {
-        "time": "2026-08-29T16:00",
+        "time": "2026-08-30T16:00",
         "interval": 900,
-        "temperature_2m": 26.2,
-        "relative_humidity_2m": 32,
-        "apparent_temperature": 23.4,
-        "weather_code": 2,
-        "wind_speed_10m": 15.3,
-        "wind_direction_10m": 246
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "city": "Munich",
-      "latitude": 48.1351,
-      "longitude": 11.582,
-      "timestamp": "2026-08-29T14:05:29.330781",
-      "current": {
-        "time": "2026-08-29T16:00",
-        "interval": 900,
-        "temperature_2m": 24.6,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 23.0,
+        "temperature_2m": 26.0,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 23.7,
         "weather_code": 3,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 293
+        "wind_speed_10m": 19.0,
+        "wind_direction_10m": 251
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Hamburg",
       "latitude": 53.5511,
       "longitude": 9.9937,
-      "timestamp": "2026-08-29T14:05:29.331876",
+      "timestamp": "2026-08-30T14:09:38.434773",
       "current": {
-        "time": "2026-08-29T16:00",
+        "time": "2026-08-30T16:00",
         "interval": 900,
-        "temperature_2m": 21.6,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 20.6,
+        "temperature_2m": 19.7,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 19.0,
+        "weather_code": 80,
+        "wind_speed_10m": 19.3,
+        "wind_direction_10m": 243
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Munich",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "timestamp": "2026-08-30T14:09:38.436287",
+      "current": {
+        "time": "2026-08-30T16:00",
+        "interval": 900,
+        "temperature_2m": 27.2,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 27.0,
         "weather_code": 3,
-        "wind_speed_10m": 17.2,
-        "wind_direction_10m": 241
+        "wind_speed_10m": 7.8,
+        "wind_direction_10m": 292
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Frankfurt",
       "latitude": 50.1109,
       "longitude": 8.6821,
-      "timestamp": "2026-08-29T14:05:29.445563",
+      "timestamp": "2026-08-30T14:09:38.445371",
       "current": {
-        "time": "2026-08-29T16:00",
+        "time": "2026-08-30T16:00",
         "interval": 900,
-        "temperature_2m": 25.1,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 23.8,
+        "temperature_2m": 27.0,
+        "relative_humidity_2m": 34,
+        "apparent_temperature": 24.8,
         "weather_code": 3,
-        "wind_speed_10m": 13.4,
-        "wind_direction_10m": 216
+        "wind_speed_10m": 15.0,
+        "wind_direction_10m": 228
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Cologne",
       "latitude": 50.9375,
       "longitude": 6.9603,
-      "timestamp": "2026-08-29T14:05:29.450013",
+      "timestamp": "2026-08-30T14:09:38.470702",
       "current": {
-        "time": "2026-08-29T16:00",
+        "time": "2026-08-30T16:00",
         "interval": 900,
-        "temperature_2m": 23.5,
+        "temperature_2m": 23.8,
         "relative_humidity_2m": 52,
-        "apparent_temperature": 21.6,
+        "apparent_temperature": 23.0,
         "weather_code": 3,
-        "wind_speed_10m": 19.1,
-        "wind_direction_10m": 207
+        "wind_speed_10m": 13.3,
+        "wind_direction_10m": 252
       },
       "history_24h": null
     }

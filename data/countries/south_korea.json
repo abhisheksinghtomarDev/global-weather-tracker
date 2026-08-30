@@ -1,6 +1,6 @@
 {
   "country": "South Korea",
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "cities": [
     {
       "country": "South Korea",
@@ -8,35 +8,16 @@
       "city": "Seoul",
       "latitude": 37.5665,
       "longitude": 126.978,
-      "timestamp": "2026-08-29T14:05:29.614680",
+      "timestamp": "2026-08-30T14:09:38.638044",
       "current": {
-        "time": "2026-08-29T23:00",
+        "time": "2026-08-30T23:00",
         "interval": 900,
-        "temperature_2m": 24.1,
-        "relative_humidity_2m": 89,
-        "apparent_temperature": 28.7,
+        "temperature_2m": 23.4,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 28.5,
         "weather_code": 51,
-        "wind_speed_10m": 3.1,
-        "wind_direction_10m": 315
-      },
-      "history_24h": null
-    },
-    {
-      "country": "South Korea",
-      "country_code": "KR",
-      "city": "Busan",
-      "latitude": 35.1796,
-      "longitude": 129.0756,
-      "timestamp": "2026-08-29T14:05:29.615471",
-      "current": {
-        "time": "2026-08-29T23:00",
-        "interval": 900,
-        "temperature_2m": 26.6,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": 32.7,
-        "weather_code": 1,
-        "wind_speed_10m": 6.2,
-        "wind_direction_10m": 260
+        "wind_speed_10m": 3.0,
+        "wind_direction_10m": 14
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Incheon",
       "latitude": 37.4563,
       "longitude": 126.7052,
-      "timestamp": "2026-08-29T14:05:29.616823",
+      "timestamp": "2026-08-30T14:09:38.641087",
       "current": {
-        "time": "2026-08-29T23:00",
+        "time": "2026-08-30T23:00",
         "interval": 900,
-        "temperature_2m": 23.6,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 27.2,
-        "weather_code": 3,
-        "wind_speed_10m": 8.8,
-        "wind_direction_10m": 351
+        "temperature_2m": 23.3,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 27.7,
+        "weather_code": 2,
+        "wind_speed_10m": 6.2,
+        "wind_direction_10m": 7
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KR",
+      "city": "Busan",
+      "latitude": 35.1796,
+      "longitude": 129.0756,
+      "timestamp": "2026-08-30T14:09:38.642593",
+      "current": {
+        "time": "2026-08-30T23:00",
+        "interval": 900,
+        "temperature_2m": 26.1,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 33.0,
+        "weather_code": 53,
+        "wind_speed_10m": 1.8,
+        "wind_direction_10m": 37
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Daegu",
       "latitude": 35.8714,
       "longitude": 128.6014,
-      "timestamp": "2026-08-29T14:05:29.618528",
+      "timestamp": "2026-08-30T14:09:38.643996",
       "current": {
-        "time": "2026-08-29T23:00",
+        "time": "2026-08-30T23:00",
         "interval": 900,
-        "temperature_2m": 25.3,
-        "relative_humidity_2m": 98,
-        "apparent_temperature": 31.6,
+        "temperature_2m": 24.3,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 29.4,
         "weather_code": 1,
-        "wind_speed_10m": 2.7,
-        "wind_direction_10m": 293
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 105
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Daejeon",
       "latitude": 36.3504,
       "longitude": 127.3845,
-      "timestamp": "2026-08-29T14:05:29.620529",
+      "timestamp": "2026-08-30T14:09:38.649053",
       "current": {
-        "time": "2026-08-29T23:00",
+        "time": "2026-08-30T23:00",
         "interval": 900,
-        "temperature_2m": 24.7,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 30.4,
-        "weather_code": 1,
-        "wind_speed_10m": 3.7,
-        "wind_direction_10m": 241
+        "temperature_2m": 24.5,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 29.8,
+        "weather_code": 63,
+        "wind_speed_10m": 6.2,
+        "wind_direction_10m": 10
       },
       "history_24h": null
     }
