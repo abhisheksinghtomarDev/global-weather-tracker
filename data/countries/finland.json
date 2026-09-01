@@ -1,42 +1,42 @@
 {
   "country": "Finland",
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "cities": [
-    {
-      "country": "Finland",
-      "country_code": "FI",
-      "city": "Tampere",
-      "latitude": 61.4978,
-      "longitude": 23.7608,
-      "timestamp": "2026-08-31T16:33:46.329264",
-      "current": {
-        "time": "2026-08-31T19:30",
-        "interval": 900,
-        "temperature_2m": 18.9,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": 20.5,
-        "weather_code": 3,
-        "wind_speed_10m": 9.0,
-        "wind_direction_10m": 225
-      },
-      "history_24h": null
-    },
     {
       "country": "Finland",
       "country_code": "FI",
       "city": "Helsinki",
       "latitude": 60.1699,
       "longitude": 24.9384,
-      "timestamp": "2026-08-31T16:33:46.330380",
+      "timestamp": "2026-09-01T13:49:43.383419",
       "current": {
-        "time": "2026-08-31T19:30",
+        "time": "2026-09-01T16:45",
         "interval": 900,
-        "temperature_2m": 17.4,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": 15.9,
+        "temperature_2m": 19.9,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 19.8,
+        "weather_code": 2,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 219
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Tampere",
+      "latitude": 61.4978,
+      "longitude": 23.7608,
+      "timestamp": "2026-09-01T13:49:43.398621",
+      "current": {
+        "time": "2026-09-01T16:45",
+        "interval": 900,
+        "temperature_2m": 19.9,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 19.7,
         "weather_code": 3,
-        "wind_speed_10m": 25.2,
-        "wind_direction_10m": 233
+        "wind_speed_10m": 15.5,
+        "wind_direction_10m": 236
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Turku",
       "latitude": 60.4518,
       "longitude": 22.2666,
-      "timestamp": "2026-08-31T16:33:46.358922",
+      "timestamp": "2026-09-01T13:49:43.474244",
       "current": {
-        "time": "2026-08-31T19:30",
+        "time": "2026-09-01T16:45",
         "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 84,
-        "apparent_temperature": 18.0,
+        "temperature_2m": 21.6,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 21.3,
         "weather_code": 3,
-        "wind_speed_10m": 14.4,
-        "wind_direction_10m": 227
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Finland",
-      "country_code": "FI",
-      "city": "Oulu",
-      "latitude": 65.0121,
-      "longitude": 25.4651,
-      "timestamp": "2026-08-31T16:33:46.392910",
-      "current": {
-        "time": "2026-08-31T19:30",
-        "interval": 900,
-        "temperature_2m": 18.0,
-        "relative_humidity_2m": 88,
-        "apparent_temperature": 18.5,
-        "weather_code": 3,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 133
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 240
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Rovaniemi",
       "latitude": 66.5039,
       "longitude": 25.7294,
-      "timestamp": "2026-08-31T16:33:46.396721",
+      "timestamp": "2026-09-01T13:49:43.489680",
       "current": {
-        "time": "2026-08-31T19:30",
+        "time": "2026-09-01T16:45",
         "interval": 900,
-        "temperature_2m": 17.5,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": 19.1,
+        "temperature_2m": 17.6,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 17.9,
         "weather_code": 3,
-        "wind_speed_10m": 5.0,
-        "wind_direction_10m": 150
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 206
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Oulu",
+      "latitude": 65.0121,
+      "longitude": 25.4651,
+      "timestamp": "2026-09-01T13:49:43.606025",
+      "current": {
+        "time": "2026-09-01T16:45",
+        "interval": 900,
+        "temperature_2m": 18.0,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 18.6,
+        "weather_code": 3,
+        "wind_speed_10m": 7.2,
+        "wind_direction_10m": 288
       },
       "history_24h": null
     }

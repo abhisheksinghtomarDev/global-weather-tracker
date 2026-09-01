@@ -1,6 +1,6 @@
 {
   "country": "Indonesia",
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "cities": [
     {
       "country": "Indonesia",
@@ -8,54 +8,16 @@
       "city": "Surabaya",
       "latitude": -7.2575,
       "longitude": 112.7521,
-      "timestamp": "2026-08-31T16:33:45.336972",
+      "timestamp": "2026-09-01T13:49:41.733591",
       "current": {
-        "time": "2026-08-31T23:30",
+        "time": "2026-09-01T20:45",
         "interval": 900,
-        "temperature_2m": 27.2,
-        "relative_humidity_2m": 72,
-        "apparent_temperature": 30.2,
+        "temperature_2m": 27.8,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 30.4,
         "weather_code": 0,
-        "wind_speed_10m": 12.4,
-        "wind_direction_10m": 99
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Indonesia",
-      "country_code": "ID",
-      "city": "Jakarta",
-      "latitude": -6.2088,
-      "longitude": 106.8456,
-      "timestamp": "2026-08-31T16:33:45.341689",
-      "current": {
-        "time": "2026-08-31T23:30",
-        "interval": 900,
-        "temperature_2m": 27.7,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 32.7,
-        "weather_code": 0,
-        "wind_speed_10m": 3.3,
-        "wind_direction_10m": 96
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Indonesia",
-      "country_code": "ID",
-      "city": "Medan",
-      "latitude": 3.5952,
-      "longitude": 98.6722,
-      "timestamp": "2026-08-31T16:33:45.342872",
-      "current": {
-        "time": "2026-08-31T23:30",
-        "interval": 900,
-        "temperature_2m": 25.6,
-        "relative_humidity_2m": 99,
-        "apparent_temperature": 32.0,
-        "weather_code": 3,
-        "wind_speed_10m": 3.8,
-        "wind_direction_10m": 229
+        "wind_speed_10m": 16.3,
+        "wind_direction_10m": 107
       },
       "history_24h": null
     },
@@ -65,16 +27,54 @@
       "city": "Bandung",
       "latitude": -6.9175,
       "longitude": 107.6191,
-      "timestamp": "2026-08-31T16:33:45.344152",
+      "timestamp": "2026-09-01T13:49:41.735007",
       "current": {
-        "time": "2026-08-31T23:30",
+        "time": "2026-09-01T20:45",
         "interval": 900,
-        "temperature_2m": 23.4,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 26.7,
+        "temperature_2m": 25.1,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 28.6,
         "weather_code": 0,
-        "wind_speed_10m": 2.1,
-        "wind_direction_10m": 121
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 239
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Jakarta",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "timestamp": "2026-09-01T13:49:41.736774",
+      "current": {
+        "time": "2026-09-01T20:45",
+        "interval": 900,
+        "temperature_2m": 28.4,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 32.8,
+        "weather_code": 1,
+        "wind_speed_10m": 6.1,
+        "wind_direction_10m": 56
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Medan",
+      "latitude": 3.5952,
+      "longitude": 98.6722,
+      "timestamp": "2026-09-01T13:49:41.738987",
+      "current": {
+        "time": "2026-09-01T20:45",
+        "interval": 900,
+        "temperature_2m": 27.0,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 33.0,
+        "weather_code": 3,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 274
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Bali",
       "latitude": -8.4095,
       "longitude": 115.1889,
-      "timestamp": "2026-08-31T16:33:45.350726",
+      "timestamp": "2026-09-01T13:49:41.740446",
       "current": {
-        "time": "2026-09-01T00:30",
+        "time": "2026-09-01T21:45",
         "interval": 900,
-        "temperature_2m": 19.9,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 20.8,
-        "weather_code": 0,
-        "wind_speed_10m": 8.5,
-        "wind_direction_10m": 38
+        "temperature_2m": 20.3,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 23.4,
+        "weather_code": 3,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 41
       },
       "history_24h": null
     }

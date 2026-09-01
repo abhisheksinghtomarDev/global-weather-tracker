@@ -1,118 +1,23 @@
 {
   "country": "United States",
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "cities": [
     {
       "country": "United States",
       "country_code": "US",
-      "city": "Los Angeles",
-      "latitude": 34.0522,
-      "longitude": -118.2437,
-      "timestamp": "2026-08-31T16:33:44.724234",
+      "city": "Miami",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "timestamp": "2026-09-01T13:49:41.026456",
       "current": {
-        "time": "2026-08-31T09:30",
+        "time": "2026-09-01T09:45",
         "interval": 900,
-        "temperature_2m": 23.2,
-        "relative_humidity_2m": 70,
-        "apparent_temperature": 25.2,
-        "weather_code": 1,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 176
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United States",
-      "country_code": "US",
-      "city": "Chicago",
-      "latitude": 41.8781,
-      "longitude": -87.6298,
-      "timestamp": "2026-08-31T16:33:44.732526",
-      "current": {
-        "time": "2026-08-31T11:30",
-        "interval": 900,
-        "temperature_2m": 26.4,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 28.9,
-        "weather_code": 1,
-        "wind_speed_10m": 16.6,
-        "wind_direction_10m": 182
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United States",
-      "country_code": "US",
-      "city": "Phoenix",
-      "latitude": 33.4484,
-      "longitude": -112.074,
-      "timestamp": "2026-08-31T16:33:44.750559",
-      "current": {
-        "time": "2026-08-31T09:30",
-        "interval": 900,
-        "temperature_2m": 25.0,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 25.7,
+        "temperature_2m": 27.9,
+        "relative_humidity_2m": 87,
+        "apparent_temperature": 34.2,
         "weather_code": 3,
-        "wind_speed_10m": 14.0,
-        "wind_direction_10m": 90
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United States",
-      "country_code": "US",
-      "city": "Seattle",
-      "latitude": 47.6062,
-      "longitude": -122.3321,
-      "timestamp": "2026-08-31T16:33:44.804961",
-      "current": {
-        "time": "2026-08-31T09:30",
-        "interval": 900,
-        "temperature_2m": 15.8,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 15.6,
-        "weather_code": 2,
-        "wind_speed_10m": 8.0,
-        "wind_direction_10m": 36
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United States",
-      "country_code": "US",
-      "city": "Houston",
-      "latitude": 29.7604,
-      "longitude": -95.3698,
-      "timestamp": "2026-08-31T16:33:44.806802",
-      "current": {
-        "time": "2026-08-31T11:30",
-        "interval": 900,
-        "temperature_2m": 31.2,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 38.1,
-        "weather_code": 0,
-        "wind_speed_10m": 3.3,
-        "wind_direction_10m": 77
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United States",
-      "country_code": "US",
-      "city": "San Francisco",
-      "latitude": 37.7749,
-      "longitude": -122.4194,
-      "timestamp": "2026-08-31T16:33:44.812189",
-      "current": {
-        "time": "2026-08-31T09:30",
-        "interval": 900,
-        "temperature_2m": 14.9,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 13.9,
-        "weather_code": 3,
-        "wind_speed_10m": 13.3,
-        "wind_direction_10m": 251
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 4
       },
       "history_24h": null
     },
@@ -122,35 +27,54 @@
       "city": "New York",
       "latitude": 40.7128,
       "longitude": -74.006,
-      "timestamp": "2026-08-31T16:33:44.826547",
+      "timestamp": "2026-09-01T13:49:41.028251",
       "current": {
-        "time": "2026-08-31T12:30",
+        "time": "2026-09-01T09:45",
         "interval": 900,
-        "temperature_2m": 24.5,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 29.8,
-        "weather_code": 1,
-        "wind_speed_10m": 1.3,
-        "wind_direction_10m": 146
+        "temperature_2m": 24.3,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 28.9,
+        "weather_code": 2,
+        "wind_speed_10m": 4.0,
+        "wind_direction_10m": 170
       },
       "history_24h": null
     },
     {
       "country": "United States",
       "country_code": "US",
-      "city": "Denver",
-      "latitude": 39.7392,
-      "longitude": -104.9903,
-      "timestamp": "2026-08-31T16:33:44.829706",
+      "city": "Houston",
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "timestamp": "2026-09-01T13:49:41.029778",
       "current": {
-        "time": "2026-08-31T10:30",
+        "time": "2026-09-01T08:45",
         "interval": 900,
-        "temperature_2m": 27.5,
-        "relative_humidity_2m": 24,
-        "apparent_temperature": 25.9,
+        "temperature_2m": 27.4,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 32.3,
+        "weather_code": 0,
+        "wind_speed_10m": 9.1,
+        "wind_direction_10m": 351
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "San Francisco",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "timestamp": "2026-09-01T13:49:41.080202",
+      "current": {
+        "time": "2026-09-01T06:45",
+        "interval": 900,
+        "temperature_2m": 15.2,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 15.1,
         "weather_code": 3,
-        "wind_speed_10m": 5.9,
-        "wind_direction_10m": 79
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 268
       },
       "history_24h": null
     },
@@ -160,35 +84,111 @@
       "city": "Boston",
       "latitude": 42.3601,
       "longitude": -71.0589,
-      "timestamp": "2026-08-31T16:33:44.832733",
+      "timestamp": "2026-09-01T13:49:41.091665",
       "current": {
-        "time": "2026-08-31T12:30",
+        "time": "2026-09-01T09:45",
         "interval": 900,
-        "temperature_2m": 23.2,
-        "relative_humidity_2m": 47,
-        "apparent_temperature": 23.3,
-        "weather_code": 3,
-        "wind_speed_10m": 12.1,
-        "wind_direction_10m": 107
+        "temperature_2m": 19.8,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 22.0,
+        "weather_code": 51,
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 38
       },
       "history_24h": null
     },
     {
       "country": "United States",
       "country_code": "US",
-      "city": "Miami",
-      "latitude": 25.7617,
-      "longitude": -80.1918,
-      "timestamp": "2026-08-31T16:33:44.840699",
+      "city": "Phoenix",
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "timestamp": "2026-09-01T13:49:41.094992",
       "current": {
-        "time": "2026-08-31T12:30",
+        "time": "2026-09-01T06:45",
         "interval": 900,
-        "temperature_2m": 30.4,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 37.0,
-        "weather_code": 2,
-        "wind_speed_10m": 9.3,
-        "wind_direction_10m": 103
+        "temperature_2m": 26.7,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 28.6,
+        "weather_code": 0,
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 117
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Denver",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "timestamp": "2026-09-01T13:49:41.098604",
+      "current": {
+        "time": "2026-09-01T07:45",
+        "interval": 900,
+        "temperature_2m": 16.7,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 17.8,
+        "weather_code": 3,
+        "wind_speed_10m": 2.3,
+        "wind_direction_10m": 219
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Seattle",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "timestamp": "2026-09-01T13:49:41.107829",
+      "current": {
+        "time": "2026-09-01T06:45",
+        "interval": 900,
+        "temperature_2m": 12.1,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 11.1,
+        "weather_code": 1,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 172
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Chicago",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "timestamp": "2026-09-01T13:49:41.111236",
+      "current": {
+        "time": "2026-09-01T08:45",
+        "interval": 900,
+        "temperature_2m": 25.5,
+        "relative_humidity_2m": 87,
+        "apparent_temperature": 29.6,
+        "weather_code": 3,
+        "wind_speed_10m": 10.5,
+        "wind_direction_10m": 218
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Los Angeles",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "timestamp": "2026-09-01T13:49:41.114581",
+      "current": {
+        "time": "2026-09-01T06:45",
+        "interval": 900,
+        "temperature_2m": 16.1,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 16.7,
+        "weather_code": 0,
+        "wind_speed_10m": 4.4,
+        "wind_direction_10m": 81
       },
       "history_24h": null
     }
