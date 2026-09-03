@@ -1,42 +1,42 @@
 {
   "country": "Sweden",
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "cities": [
-    {
-      "country": "Sweden",
-      "country_code": "SE",
-      "city": "Stockholm",
-      "latitude": 59.3293,
-      "longitude": 18.0686,
-      "timestamp": "2026-09-02T13:06:52.335037",
-      "current": {
-        "time": "2026-09-02T15:00",
-        "interval": 900,
-        "temperature_2m": 20.5,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 18.6,
-        "weather_code": 3,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 238
-      },
-      "history_24h": null
-    },
     {
       "country": "Sweden",
       "country_code": "SE",
       "city": "Gothenburg",
       "latitude": 57.7089,
       "longitude": 11.9746,
-      "timestamp": "2026-09-02T13:06:52.361036",
+      "timestamp": "2026-09-03T13:08:24.742737",
       "current": {
-        "time": "2026-09-02T15:00",
+        "time": "2026-09-03T15:00",
         "interval": 900,
-        "temperature_2m": 21.6,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 21.0,
+        "temperature_2m": 18.1,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 18.2,
         "weather_code": 3,
-        "wind_speed_10m": 14.0,
-        "wind_direction_10m": 277
+        "wind_speed_10m": 8.3,
+        "wind_direction_10m": 156
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Stockholm",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "timestamp": "2026-09-03T13:08:24.744108",
+      "current": {
+        "time": "2026-09-03T15:00",
+        "interval": 900,
+        "temperature_2m": 19.2,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 15.8,
+        "weather_code": 0,
+        "wind_speed_10m": 15.1,
+        "wind_direction_10m": 267
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Malmo",
       "latitude": 55.6045,
       "longitude": 13.0038,
-      "timestamp": "2026-09-02T13:06:52.365786",
+      "timestamp": "2026-09-03T13:08:24.842337",
       "current": {
-        "time": "2026-09-02T15:00",
+        "time": "2026-09-03T15:00",
         "interval": 900,
-        "temperature_2m": 20.9,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 19.8,
-        "weather_code": 2,
-        "wind_speed_10m": 23.4,
-        "wind_direction_10m": 237
+        "temperature_2m": 17.0,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 15.6,
+        "weather_code": 51,
+        "wind_speed_10m": 22.7,
+        "wind_direction_10m": 208
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Uppsala",
       "latitude": 59.8588,
       "longitude": 17.6389,
-      "timestamp": "2026-09-02T13:06:52.376586",
+      "timestamp": "2026-09-03T13:08:24.895278",
       "current": {
-        "time": "2026-09-02T15:00",
+        "time": "2026-09-03T15:00",
         "interval": 900,
-        "temperature_2m": 21.2,
-        "relative_humidity_2m": 53,
-        "apparent_temperature": 19.0,
-        "weather_code": 1,
-        "wind_speed_10m": 18.0,
-        "wind_direction_10m": 223
+        "temperature_2m": 19.7,
+        "relative_humidity_2m": 33,
+        "apparent_temperature": 15.7,
+        "weather_code": 0,
+        "wind_speed_10m": 16.2,
+        "wind_direction_10m": 250
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Kiruna",
       "latitude": 67.8557,
       "longitude": 20.2253,
-      "timestamp": "2026-09-02T13:06:52.383363",
+      "timestamp": "2026-09-03T13:08:25.113254",
       "current": {
-        "time": "2026-09-02T15:00",
+        "time": "2026-09-03T15:00",
         "interval": 900,
-        "temperature_2m": 12.5,
-        "relative_humidity_2m": 84,
-        "apparent_temperature": 11.0,
+        "temperature_2m": 13.3,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 12.5,
         "weather_code": 3,
-        "wind_speed_10m": 10.4,
-        "wind_direction_10m": 349
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 14
       },
       "history_24h": null
     }

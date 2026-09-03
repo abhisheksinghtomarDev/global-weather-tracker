@@ -1,6 +1,6 @@
 {
   "country": "Brazil",
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "cities": [
     {
       "country": "Brazil",
@@ -8,35 +8,16 @@
       "city": "Sao Paulo",
       "latitude": -23.5505,
       "longitude": -46.6333,
-      "timestamp": "2026-09-02T13:06:51.814047",
+      "timestamp": "2026-09-03T13:08:23.033240",
       "current": {
-        "time": "2026-09-02T10:00",
+        "time": "2026-09-03T10:00",
         "interval": 900,
-        "temperature_2m": 17.5,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 17.1,
-        "weather_code": 2,
-        "wind_speed_10m": 7.2,
-        "wind_direction_10m": 129
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Brazil",
-      "country_code": "BR",
-      "city": "Brasilia",
-      "latitude": -15.7975,
-      "longitude": -47.8919,
-      "timestamp": "2026-09-02T13:06:51.826877",
-      "current": {
-        "time": "2026-09-02T10:00",
-        "interval": 900,
-        "temperature_2m": 21.9,
+        "temperature_2m": 18.8,
         "relative_humidity_2m": 70,
-        "apparent_temperature": 23.1,
-        "weather_code": 3,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 141
+        "apparent_temperature": 20.0,
+        "weather_code": 0,
+        "wind_speed_10m": 5.2,
+        "wind_direction_10m": 59
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Rio de Janeiro",
       "latitude": -22.9068,
       "longitude": -43.1729,
-      "timestamp": "2026-09-02T13:06:51.828450",
+      "timestamp": "2026-09-03T13:08:23.034640",
       "current": {
-        "time": "2026-09-02T10:00",
+        "time": "2026-09-03T10:00",
         "interval": 900,
-        "temperature_2m": 22.1,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 23.0,
-        "weather_code": 51,
-        "wind_speed_10m": 12.0,
-        "wind_direction_10m": 224
+        "temperature_2m": 22.6,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 24.9,
+        "weather_code": 0,
+        "wind_speed_10m": 5.3,
+        "wind_direction_10m": 52
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Brasilia",
+      "latitude": -15.7975,
+      "longitude": -47.8919,
+      "timestamp": "2026-09-03T13:08:23.090679",
+      "current": {
+        "time": "2026-09-03T10:00",
+        "interval": 900,
+        "temperature_2m": 25.9,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 26.8,
+        "weather_code": 0,
+        "wind_speed_10m": 12.6,
+        "wind_direction_10m": 93
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Salvador",
       "latitude": -12.9714,
       "longitude": -38.5014,
-      "timestamp": "2026-09-02T13:06:51.835158",
+      "timestamp": "2026-09-03T13:08:23.092140",
       "current": {
-        "time": "2026-09-02T10:00",
+        "time": "2026-09-03T10:00",
         "interval": 900,
-        "temperature_2m": 28.8,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 32.2,
-        "weather_code": 3,
-        "wind_speed_10m": 7.9,
-        "wind_direction_10m": 348
+        "temperature_2m": 25.5,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 28.2,
+        "weather_code": 51,
+        "wind_speed_10m": 17.4,
+        "wind_direction_10m": 152
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Fortaleza",
       "latitude": -3.7172,
       "longitude": -38.5433,
-      "timestamp": "2026-09-02T13:06:51.836858",
+      "timestamp": "2026-09-03T13:08:23.094471",
       "current": {
-        "time": "2026-09-02T10:00",
+        "time": "2026-09-03T10:00",
         "interval": 900,
-        "temperature_2m": 29.9,
-        "relative_humidity_2m": 60,
-        "apparent_temperature": 33.0,
-        "weather_code": 51,
-        "wind_speed_10m": 18.4,
-        "wind_direction_10m": 113
+        "temperature_2m": 29.5,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 31.7,
+        "weather_code": 2,
+        "wind_speed_10m": 18.7,
+        "wind_direction_10m": 103
       },
       "history_24h": null
     }

@@ -1,42 +1,42 @@
 {
   "country": "Czech Republic",
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "cities": [
-    {
-      "country": "Czech Republic",
-      "country_code": "CZ",
-      "city": "Brno",
-      "latitude": 49.1951,
-      "longitude": 16.6068,
-      "timestamp": "2026-09-02T13:06:52.741523",
-      "current": {
-        "time": "2026-09-02T15:00",
-        "interval": 900,
-        "temperature_2m": 26.1,
-        "relative_humidity_2m": 31,
-        "apparent_temperature": 24.4,
-        "weather_code": 3,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 309
-      },
-      "history_24h": null
-    },
     {
       "country": "Czech Republic",
       "country_code": "CZ",
       "city": "Prague",
       "latitude": 50.0755,
       "longitude": 14.4378,
-      "timestamp": "2026-09-02T13:06:52.742985",
+      "timestamp": "2026-09-03T13:08:25.670272",
       "current": {
-        "time": "2026-09-02T15:00",
+        "time": "2026-09-03T15:00",
         "interval": 900,
-        "temperature_2m": 24.2,
+        "temperature_2m": 23.9,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 22.0,
+        "weather_code": 3,
+        "wind_speed_10m": 12.7,
+        "wind_direction_10m": 263
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Brno",
+      "latitude": 49.1951,
+      "longitude": 16.6068,
+      "timestamp": "2026-09-03T13:08:25.673854",
+      "current": {
+        "time": "2026-09-03T15:00",
+        "interval": 900,
+        "temperature_2m": 25.0,
         "relative_humidity_2m": 37,
-        "apparent_temperature": 23.0,
-        "weather_code": 2,
-        "wind_speed_10m": 7.6,
-        "wind_direction_10m": 251
+        "apparent_temperature": 23.1,
+        "weather_code": 3,
+        "wind_speed_10m": 12.3,
+        "wind_direction_10m": 322
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Cesky Krumlov",
       "latitude": 48.8127,
       "longitude": 14.3175,
-      "timestamp": "2026-09-02T13:06:52.744528",
+      "timestamp": "2026-09-03T13:08:25.678492",
       "current": {
-        "time": "2026-09-02T15:00",
+        "time": "2026-09-03T15:00",
         "interval": 900,
-        "temperature_2m": 23.9,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 22.0,
+        "temperature_2m": 23.7,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 20.8,
         "weather_code": 3,
-        "wind_speed_10m": 10.2,
-        "wind_direction_10m": 262
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Czech Republic",
-      "country_code": "CZ",
-      "city": "Karlovy Vary",
-      "latitude": 50.2319,
-      "longitude": 12.8716,
-      "timestamp": "2026-09-02T13:06:52.754500",
-      "current": {
-        "time": "2026-09-02T15:00",
-        "interval": 900,
-        "temperature_2m": 23.4,
-        "relative_humidity_2m": 32,
-        "apparent_temperature": 20.7,
-        "weather_code": 2,
-        "wind_speed_10m": 11.6,
-        "wind_direction_10m": 234
+        "wind_speed_10m": 17.3,
+        "wind_direction_10m": 268
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Pilsen",
       "latitude": 49.7384,
       "longitude": 13.3736,
-      "timestamp": "2026-09-02T13:06:52.760825",
+      "timestamp": "2026-09-03T13:08:25.701846",
       "current": {
-        "time": "2026-09-02T15:00",
+        "time": "2026-09-03T15:00",
         "interval": 900,
-        "temperature_2m": 24.4,
-        "relative_humidity_2m": 35,
-        "apparent_temperature": 21.9,
+        "temperature_2m": 23.4,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 21.0,
         "weather_code": 3,
-        "wind_speed_10m": 13.0,
+        "wind_speed_10m": 16.3,
         "wind_direction_10m": 275
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Karlovy Vary",
+      "latitude": 50.2319,
+      "longitude": 12.8716,
+      "timestamp": "2026-09-03T13:08:25.703363",
+      "current": {
+        "time": "2026-09-03T15:00",
+        "interval": 900,
+        "temperature_2m": 21.6,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 19.0,
+        "weather_code": 3,
+        "wind_speed_10m": 19.1,
+        "wind_direction_10m": 259
       },
       "history_24h": null
     }
