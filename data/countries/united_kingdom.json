@@ -1,42 +1,23 @@
 {
   "country": "United Kingdom",
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "cities": [
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "city": "Manchester",
-      "latitude": 53.4808,
-      "longitude": -2.2426,
-      "timestamp": "2026-09-06T12:29:13.530354",
-      "current": {
-        "time": "2026-09-06T13:15",
-        "interval": 900,
-        "temperature_2m": 20.8,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 19.7,
-        "weather_code": 1,
-        "wind_speed_10m": 15.8,
-        "wind_direction_10m": 183
-      },
-      "history_24h": null
-    },
     {
       "country": "United Kingdom",
       "country_code": "GB",
       "city": "Glasgow",
       "latitude": 55.8642,
       "longitude": -4.2518,
-      "timestamp": "2026-09-06T12:29:13.558963",
+      "timestamp": "2026-09-07T14:38:11.848104",
       "current": {
-        "time": "2026-09-06T13:15",
+        "time": "2026-09-07T15:30",
         "interval": 900,
-        "temperature_2m": 18.4,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 16.2,
+        "temperature_2m": 16.8,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 13.9,
         "weather_code": 3,
-        "wind_speed_10m": 24.8,
-        "wind_direction_10m": 195
+        "wind_speed_10m": 22.3,
+        "wind_direction_10m": 225
       },
       "history_24h": null
     },
@@ -46,35 +27,16 @@
       "city": "Edinburgh",
       "latitude": 55.9533,
       "longitude": -3.1883,
-      "timestamp": "2026-09-06T12:29:13.575121",
+      "timestamp": "2026-09-07T14:38:11.903496",
       "current": {
-        "time": "2026-09-06T13:15",
+        "time": "2026-09-07T15:30",
         "interval": 900,
-        "temperature_2m": 18.6,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 18.4,
+        "temperature_2m": 16.4,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 14.3,
         "weather_code": 3,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 183
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United Kingdom",
-      "country_code": "GB",
-      "city": "Birmingham",
-      "latitude": 52.4862,
-      "longitude": -1.8904,
-      "timestamp": "2026-09-06T12:29:13.591278",
-      "current": {
-        "time": "2026-09-06T13:15",
-        "interval": 900,
-        "temperature_2m": 22.4,
-        "relative_humidity_2m": 49,
-        "apparent_temperature": 20.9,
-        "weather_code": 2,
-        "wind_speed_10m": 16.2,
-        "wind_direction_10m": 186
+        "wind_speed_10m": 18.7,
+        "wind_direction_10m": 228
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "London",
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "timestamp": "2026-09-06T12:29:29.404679",
+      "timestamp": "2026-09-07T14:38:11.905413",
       "current": {
-        "time": "2026-09-06T13:15",
+        "time": "2026-09-07T15:30",
         "interval": 900,
-        "temperature_2m": 24.5,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 23.1,
+        "temperature_2m": 24.1,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 22.8,
         "weather_code": 3,
-        "wind_speed_10m": 14.8,
-        "wind_direction_10m": 202
+        "wind_speed_10m": 16.6,
+        "wind_direction_10m": 248
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Manchester",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "timestamp": "2026-09-07T14:38:11.926294",
+      "current": {
+        "time": "2026-09-07T15:30",
+        "interval": 900,
+        "temperature_2m": 21.0,
+        "relative_humidity_2m": 46,
+        "apparent_temperature": 18.2,
+        "weather_code": 2,
+        "wind_speed_10m": 17.6,
+        "wind_direction_10m": 241
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Birmingham",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "timestamp": "2026-09-07T14:38:11.961636",
+      "current": {
+        "time": "2026-09-07T15:30",
+        "interval": 900,
+        "temperature_2m": 20.7,
+        "relative_humidity_2m": 46,
+        "apparent_temperature": 18.2,
+        "weather_code": 3,
+        "wind_speed_10m": 15.1,
+        "wind_direction_10m": 252
       },
       "history_24h": null
     }

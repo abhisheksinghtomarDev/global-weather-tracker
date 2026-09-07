@@ -1,6 +1,6 @@
 {
   "country": "Germany",
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "cities": [
     {
       "country": "Germany",
@@ -8,16 +8,16 @@
       "city": "Berlin",
       "latitude": 52.52,
       "longitude": 13.405,
-      "timestamp": "2026-09-06T12:29:13.859077",
+      "timestamp": "2026-09-07T14:38:12.077424",
       "current": {
-        "time": "2026-09-06T14:15",
+        "time": "2026-09-07T16:30",
         "interval": 900,
-        "temperature_2m": 19.2,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 16.2,
-        "weather_code": 2,
-        "wind_speed_10m": 14.2,
-        "wind_direction_10m": 294
+        "temperature_2m": 19.0,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 18.1,
+        "weather_code": 3,
+        "wind_speed_10m": 12.0,
+        "wind_direction_10m": 147
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Munich",
       "latitude": 48.1351,
       "longitude": 11.582,
-      "timestamp": "2026-09-06T12:29:13.861192",
+      "timestamp": "2026-09-07T14:38:12.082910",
       "current": {
-        "time": "2026-09-06T14:15",
+        "time": "2026-09-07T16:30",
         "interval": 900,
-        "temperature_2m": 22.8,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 22.9,
-        "weather_code": 1,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 67
+        "temperature_2m": 28.1,
+        "relative_humidity_2m": 43,
+        "apparent_temperature": 28.6,
+        "weather_code": 3,
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 63
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Hamburg",
       "latitude": 53.5511,
       "longitude": 9.9937,
-      "timestamp": "2026-09-06T12:29:13.870290",
+      "timestamp": "2026-09-07T14:38:12.093188",
       "current": {
-        "time": "2026-09-06T14:15",
+        "time": "2026-09-07T16:30",
         "interval": 900,
-        "temperature_2m": 19.1,
-        "relative_humidity_2m": 53,
-        "apparent_temperature": 17.6,
+        "temperature_2m": 25.8,
+        "relative_humidity_2m": 43,
+        "apparent_temperature": 24.9,
         "weather_code": 2,
-        "wind_speed_10m": 8.7,
-        "wind_direction_10m": 294
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "city": "Cologne",
-      "latitude": 50.9375,
-      "longitude": 6.9603,
-      "timestamp": "2026-09-06T12:29:13.881940",
-      "current": {
-        "time": "2026-09-06T14:15",
-        "interval": 900,
-        "temperature_2m": 22.6,
-        "relative_humidity_2m": 34,
-        "apparent_temperature": 20.9,
-        "weather_code": 0,
-        "wind_speed_10m": 9.0,
-        "wind_direction_10m": 136
+        "wind_speed_10m": 11.0,
+        "wind_direction_10m": 169
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Frankfurt",
       "latitude": 50.1109,
       "longitude": 8.6821,
-      "timestamp": "2026-09-06T12:29:13.883106",
+      "timestamp": "2026-09-07T14:38:12.095726",
       "current": {
-        "time": "2026-09-06T14:15",
+        "time": "2026-09-07T16:30",
         "interval": 900,
-        "temperature_2m": 22.7,
+        "temperature_2m": 28.7,
         "relative_humidity_2m": 39,
-        "apparent_temperature": 22.3,
+        "apparent_temperature": 28.6,
         "weather_code": 1,
-        "wind_speed_10m": 4.0,
-        "wind_direction_10m": 80
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 205
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Cologne",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "timestamp": "2026-09-07T14:38:12.097028",
+      "current": {
+        "time": "2026-09-07T16:30",
+        "interval": 900,
+        "temperature_2m": 31.3,
+        "relative_humidity_2m": 36,
+        "apparent_temperature": 30.5,
+        "weather_code": 0,
+        "wind_speed_10m": 15.5,
+        "wind_direction_10m": 253
       },
       "history_24h": null
     }

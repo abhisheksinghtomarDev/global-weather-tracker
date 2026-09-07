@@ -1,6 +1,6 @@
 {
   "country": "Austria",
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "cities": [
     {
       "country": "Austria",
@@ -8,54 +8,16 @@
       "city": "Vienna",
       "latitude": 48.2082,
       "longitude": 16.3738,
-      "timestamp": "2026-09-06T12:29:15.524655",
+      "timestamp": "2026-09-07T14:38:13.330673",
       "current": {
-        "time": "2026-09-06T14:15",
+        "time": "2026-09-07T16:30",
         "interval": 900,
-        "temperature_2m": 24.3,
-        "relative_humidity_2m": 35,
-        "apparent_temperature": 23.0,
-        "weather_code": 1,
-        "wind_speed_10m": 9.6,
-        "wind_direction_10m": 326
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Austria",
-      "country_code": "AT",
-      "city": "Salzburg",
-      "latitude": 47.8095,
-      "longitude": 13.055,
-      "timestamp": "2026-09-06T12:29:15.526495",
-      "current": {
-        "time": "2026-09-06T14:15",
-        "interval": 900,
-        "temperature_2m": 23.7,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 23.8,
-        "weather_code": 0,
+        "temperature_2m": 27.2,
+        "relative_humidity_2m": 31,
+        "apparent_temperature": 25.8,
+        "weather_code": 3,
         "wind_speed_10m": 6.6,
-        "wind_direction_10m": 331
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Austria",
-      "country_code": "AT",
-      "city": "Graz",
-      "latitude": 47.0707,
-      "longitude": 15.4395,
-      "timestamp": "2026-09-06T12:29:15.531118",
-      "current": {
-        "time": "2026-09-06T14:15",
-        "interval": 900,
-        "temperature_2m": 24.3,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 24.9,
-        "weather_code": 0,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 178
+        "wind_direction_10m": 119
       },
       "history_24h": null
     },
@@ -65,16 +27,16 @@
       "city": "Innsbruck",
       "latitude": 47.2692,
       "longitude": 11.4041,
-      "timestamp": "2026-09-06T12:29:15.533747",
+      "timestamp": "2026-09-07T14:38:13.332225",
       "current": {
-        "time": "2026-09-06T14:15",
+        "time": "2026-09-07T16:30",
         "interval": 900,
-        "temperature_2m": 25.2,
-        "relative_humidity_2m": 45,
-        "apparent_temperature": 26.2,
-        "weather_code": 2,
-        "wind_speed_10m": 5.4,
-        "wind_direction_10m": 48
+        "temperature_2m": 28.6,
+        "relative_humidity_2m": 40,
+        "apparent_temperature": 29.5,
+        "weather_code": 3,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 346
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Hallstatt",
       "latitude": 47.5622,
       "longitude": 13.6493,
-      "timestamp": "2026-09-06T12:29:15.539948",
+      "timestamp": "2026-09-07T14:38:13.333855",
       "current": {
-        "time": "2026-09-06T14:15",
+        "time": "2026-09-07T16:30",
         "interval": 900,
-        "temperature_2m": 23.2,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 23.9,
-        "weather_code": 1,
-        "wind_speed_10m": 7.3,
-        "wind_direction_10m": 11
+        "temperature_2m": 27.7,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 28.9,
+        "weather_code": 3,
+        "wind_speed_10m": 4.6,
+        "wind_direction_10m": 108
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Salzburg",
+      "latitude": 47.8095,
+      "longitude": 13.055,
+      "timestamp": "2026-09-07T14:38:13.335401",
+      "current": {
+        "time": "2026-09-07T16:30",
+        "interval": 900,
+        "temperature_2m": 28.3,
+        "relative_humidity_2m": 45,
+        "apparent_temperature": 29.0,
+        "weather_code": 3,
+        "wind_speed_10m": 6.8,
+        "wind_direction_10m": 3
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Graz",
+      "latitude": 47.0707,
+      "longitude": 15.4395,
+      "timestamp": "2026-09-07T14:38:14.467402",
+      "current": {
+        "time": "2026-09-07T16:30",
+        "interval": 900,
+        "temperature_2m": 27.3,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 27.2,
+        "weather_code": 3,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 183
       },
       "history_24h": null
     }
