@@ -1,6 +1,6 @@
 {
   "country": "Norway",
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "cities": [
     {
       "country": "Norway",
@@ -8,35 +8,16 @@
       "city": "Oslo",
       "latitude": 59.9139,
       "longitude": 10.7522,
-      "timestamp": "2026-09-08T13:11:27.451576",
+      "timestamp": "2026-09-09T13:16:45.788702",
       "current": {
-        "time": "2026-09-08T15:00",
+        "time": "2026-09-09T15:15",
         "interval": 900,
-        "temperature_2m": 19.3,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 17.3,
-        "weather_code": 3,
-        "wind_speed_10m": 20.5,
-        "wind_direction_10m": 191
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Norway",
-      "country_code": "NO",
-      "city": "Bergen",
-      "latitude": 60.3913,
-      "longitude": 5.3221,
-      "timestamp": "2026-09-08T13:11:27.456204",
-      "current": {
-        "time": "2026-09-08T15:00",
-        "interval": 900,
-        "temperature_2m": 16.4,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 15.9,
-        "weather_code": 63,
-        "wind_speed_10m": 14.0,
-        "wind_direction_10m": 159
+        "temperature_2m": 17.7,
+        "relative_humidity_2m": 46,
+        "apparent_temperature": 14.8,
+        "weather_code": 1,
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 14
       },
       "history_24h": null
     },
@@ -46,16 +27,16 @@
       "city": "Trondheim",
       "latitude": 63.4305,
       "longitude": 10.3951,
-      "timestamp": "2026-09-08T13:11:27.470491",
+      "timestamp": "2026-09-09T13:16:45.823746",
       "current": {
-        "time": "2026-09-08T15:00",
+        "time": "2026-09-09T15:15",
         "interval": 900,
-        "temperature_2m": 13.1,
-        "relative_humidity_2m": 91,
-        "apparent_temperature": 13.2,
-        "weather_code": 51,
-        "wind_speed_10m": 3.2,
-        "wind_direction_10m": 299
+        "temperature_2m": 10.8,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 8.0,
+        "weather_code": 63,
+        "wind_speed_10m": 17.3,
+        "wind_direction_10m": 279
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Stavanger",
       "latitude": 58.969,
       "longitude": 5.7331,
-      "timestamp": "2026-09-08T13:11:27.476404",
+      "timestamp": "2026-09-09T13:16:45.828711",
       "current": {
-        "time": "2026-09-08T15:00",
+        "time": "2026-09-09T15:15",
         "interval": 900,
-        "temperature_2m": 16.8,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 15.2,
+        "temperature_2m": 14.9,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 9.8,
+        "weather_code": 3,
+        "wind_speed_10m": 30.6,
+        "wind_direction_10m": 334
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Norway",
+      "country_code": "NO",
+      "city": "Bergen",
+      "latitude": 60.3913,
+      "longitude": 5.3221,
+      "timestamp": "2026-09-09T13:16:45.849077",
+      "current": {
+        "time": "2026-09-09T15:15",
+        "interval": 900,
+        "temperature_2m": 13.6,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 9.7,
         "weather_code": 2,
-        "wind_speed_10m": 16.2,
-        "wind_direction_10m": 200
+        "wind_speed_10m": 22.3,
+        "wind_direction_10m": 337
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Tromso",
       "latitude": 69.6492,
       "longitude": 18.9553,
-      "timestamp": "2026-09-08T13:11:27.481723",
+      "timestamp": "2026-09-09T13:16:45.853888",
       "current": {
-        "time": "2026-09-08T15:00",
+        "time": "2026-09-09T15:15",
         "interval": 900,
-        "temperature_2m": 11.6,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 9.1,
-        "weather_code": 3,
-        "wind_speed_10m": 12.6,
-        "wind_direction_10m": 185
+        "temperature_2m": 10.4,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 7.5,
+        "weather_code": 51,
+        "wind_speed_10m": 17.3,
+        "wind_direction_10m": 210
       },
       "history_24h": null
     }

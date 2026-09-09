@@ -1,42 +1,42 @@
 {
   "country": "Morocco",
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "cities": [
-    {
-      "country": "Morocco",
-      "country_code": "MA",
-      "city": "Casablanca",
-      "latitude": 33.5731,
-      "longitude": -7.5898,
-      "timestamp": "2026-09-08T13:11:27.774867",
-      "current": {
-        "time": "2026-09-08T14:00",
-        "interval": 900,
-        "temperature_2m": 29.3,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 33.1,
-        "weather_code": 2,
-        "wind_speed_10m": 9.6,
-        "wind_direction_10m": 347
-      },
-      "history_24h": null
-    },
     {
       "country": "Morocco",
       "country_code": "MA",
       "city": "Marrakech",
       "latitude": 31.6295,
       "longitude": -7.9811,
-      "timestamp": "2026-09-08T13:11:27.779722",
+      "timestamp": "2026-09-09T13:16:46.064165",
       "current": {
-        "time": "2026-09-08T14:00",
+        "time": "2026-09-09T14:15",
         "interval": 900,
-        "temperature_2m": 38.1,
-        "relative_humidity_2m": 21,
-        "apparent_temperature": 40.1,
-        "weather_code": 1,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 4
+        "temperature_2m": 35.7,
+        "relative_humidity_2m": 24,
+        "apparent_temperature": 36.4,
+        "weather_code": 0,
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 326
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Casablanca",
+      "latitude": 33.5731,
+      "longitude": -7.5898,
+      "timestamp": "2026-09-09T13:16:46.066585",
+      "current": {
+        "time": "2026-09-09T14:15",
+        "interval": 900,
+        "temperature_2m": 27.0,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 30.8,
+        "weather_code": 2,
+        "wind_speed_10m": 13.2,
+        "wind_direction_10m": 343
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Fes",
       "latitude": 34.0181,
       "longitude": -5.0078,
-      "timestamp": "2026-09-08T13:11:27.806443",
+      "timestamp": "2026-09-09T13:16:46.125751",
       "current": {
-        "time": "2026-09-08T14:00",
+        "time": "2026-09-09T14:15",
         "interval": 900,
-        "temperature_2m": 36.6,
+        "temperature_2m": 33.1,
         "relative_humidity_2m": 30,
-        "apparent_temperature": 38.8,
-        "weather_code": 0,
-        "wind_speed_10m": 12.0,
-        "wind_direction_10m": 327
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Morocco",
-      "country_code": "MA",
-      "city": "Agadir",
-      "latitude": 30.4278,
-      "longitude": -9.5983,
-      "timestamp": "2026-09-08T13:11:27.811135",
-      "current": {
-        "time": "2026-09-08T14:00",
-        "interval": 900,
-        "temperature_2m": 34.8,
-        "relative_humidity_2m": 27,
-        "apparent_temperature": 36.4,
-        "weather_code": 0,
-        "wind_speed_10m": 10.4,
-        "wind_direction_10m": 290
+        "apparent_temperature": 33.6,
+        "weather_code": 3,
+        "wind_speed_10m": 16.1,
+        "wind_direction_10m": 312
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Tangier",
       "latitude": 35.7595,
       "longitude": -5.834,
-      "timestamp": "2026-09-08T13:11:27.812714",
+      "timestamp": "2026-09-09T13:16:46.128342",
       "current": {
-        "time": "2026-09-08T14:00",
+        "time": "2026-09-09T14:15",
         "interval": 900,
-        "temperature_2m": 29.9,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 33.1,
+        "temperature_2m": 26.0,
+        "relative_humidity_2m": 66,
+        "apparent_temperature": 28.5,
         "weather_code": 1,
-        "wind_speed_10m": 13.0,
-        "wind_direction_10m": 265
+        "wind_speed_10m": 16.6,
+        "wind_direction_10m": 283
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Agadir",
+      "latitude": 30.4278,
+      "longitude": -9.5983,
+      "timestamp": "2026-09-09T13:16:47.104160",
+      "current": {
+        "time": "2026-09-09T14:15",
+        "interval": 900,
+        "temperature_2m": 30.2,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 34.6,
+        "weather_code": 1,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 270
       },
       "history_24h": null
     }

@@ -1,23 +1,42 @@
 {
   "country": "Netherlands",
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "cities": [
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "The Hague",
+      "latitude": 52.0705,
+      "longitude": 4.3007,
+      "timestamp": "2026-09-09T13:16:45.722879",
+      "current": {
+        "time": "2026-09-09T15:15",
+        "interval": 900,
+        "temperature_2m": 18.0,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 14.8,
+        "weather_code": 3,
+        "wind_speed_10m": 24.5,
+        "wind_direction_10m": 314
+      },
+      "history_24h": null
+    },
     {
       "country": "Netherlands",
       "country_code": "NL",
       "city": "Amsterdam",
       "latitude": 52.3676,
       "longitude": 4.9041,
-      "timestamp": "2026-09-08T13:11:27.388232",
+      "timestamp": "2026-09-09T13:16:45.724117",
       "current": {
-        "time": "2026-09-08T15:00",
+        "time": "2026-09-09T15:15",
         "interval": 900,
-        "temperature_2m": 16.4,
-        "relative_humidity_2m": 89,
-        "apparent_temperature": 15.7,
-        "weather_code": 53,
-        "wind_speed_10m": 15.1,
-        "wind_direction_10m": 179
+        "temperature_2m": 18.0,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 15.2,
+        "weather_code": 2,
+        "wind_speed_10m": 23.4,
+        "wind_direction_10m": 311
       },
       "history_24h": null
     },
@@ -27,16 +46,16 @@
       "city": "Rotterdam",
       "latitude": 51.9244,
       "longitude": 4.4777,
-      "timestamp": "2026-09-08T13:11:27.390395",
+      "timestamp": "2026-09-09T13:16:45.727698",
       "current": {
-        "time": "2026-09-08T15:00",
+        "time": "2026-09-09T15:15",
         "interval": 900,
-        "temperature_2m": 17.3,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 16.1,
-        "weather_code": 51,
-        "wind_speed_10m": 16.9,
-        "wind_direction_10m": 228
+        "temperature_2m": 18.1,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 15.5,
+        "weather_code": 3,
+        "wind_speed_10m": 21.6,
+        "wind_direction_10m": 304
       },
       "history_24h": null
     },
@@ -46,35 +65,16 @@
       "city": "Utrecht",
       "latitude": 52.0907,
       "longitude": 5.1214,
-      "timestamp": "2026-09-08T13:11:27.398547",
+      "timestamp": "2026-09-09T13:16:45.743123",
       "current": {
-        "time": "2026-09-08T15:00",
+        "time": "2026-09-09T15:15",
         "interval": 900,
-        "temperature_2m": 18.0,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": 17.7,
-        "weather_code": 51,
-        "wind_speed_10m": 13.0,
-        "wind_direction_10m": 216
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "city": "The Hague",
-      "latitude": 52.0705,
-      "longitude": 4.3007,
-      "timestamp": "2026-09-08T13:11:27.400922",
-      "current": {
-        "time": "2026-09-08T15:00",
-        "interval": 900,
-        "temperature_2m": 16.7,
-        "relative_humidity_2m": 89,
-        "apparent_temperature": 15.5,
-        "weather_code": 53,
-        "wind_speed_10m": 19.1,
-        "wind_direction_10m": 206
+        "temperature_2m": 16.0,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 14.3,
+        "weather_code": 3,
+        "wind_speed_10m": 18.7,
+        "wind_direction_10m": 305
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Eindhoven",
       "latitude": 51.4416,
       "longitude": 5.4697,
-      "timestamp": "2026-09-08T13:11:27.404101",
+      "timestamp": "2026-09-09T13:16:45.747315",
       "current": {
-        "time": "2026-09-08T15:00",
+        "time": "2026-09-09T15:15",
         "interval": 900,
-        "temperature_2m": 22.9,
-        "relative_humidity_2m": 59,
-        "apparent_temperature": 22.7,
+        "temperature_2m": 16.7,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 14.4,
         "weather_code": 3,
-        "wind_speed_10m": 11.2,
-        "wind_direction_10m": 208
+        "wind_speed_10m": 21.6,
+        "wind_direction_10m": 273
       },
       "history_24h": null
     }
