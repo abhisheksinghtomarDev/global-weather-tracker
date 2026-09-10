@@ -1,6 +1,6 @@
 {
   "country": "Thailand",
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "cities": [
     {
       "country": "Thailand",
@@ -8,16 +8,54 @@
       "city": "Bangkok",
       "latitude": 13.7563,
       "longitude": 100.5018,
-      "timestamp": "2026-09-09T13:16:45.343381",
+      "timestamp": "2026-09-10T13:14:19.571703",
       "current": {
-        "time": "2026-09-09T20:15",
+        "time": "2026-09-10T20:00",
         "interval": 900,
-        "temperature_2m": 26.4,
-        "relative_humidity_2m": 96,
-        "apparent_temperature": 33.1,
+        "temperature_2m": 25.4,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 31.7,
+        "weather_code": 53,
+        "wind_speed_10m": 3.1,
+        "wind_direction_10m": 270
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Thailand",
+      "country_code": "TH",
+      "city": "Pattaya",
+      "latitude": 12.9279,
+      "longitude": 100.8844,
+      "timestamp": "2026-09-10T13:14:19.574835",
+      "current": {
+        "time": "2026-09-10T20:00",
+        "interval": 900,
+        "temperature_2m": 26.9,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 32.3,
+        "weather_code": 55,
+        "wind_speed_10m": 8.0,
+        "wind_direction_10m": 293
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Thailand",
+      "country_code": "TH",
+      "city": "Krabi",
+      "latitude": 8.0863,
+      "longitude": 98.9083,
+      "timestamp": "2026-09-10T13:14:19.579879",
+      "current": {
+        "time": "2026-09-10T20:00",
+        "interval": 900,
+        "temperature_2m": 27.9,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 32.7,
         "weather_code": 3,
-        "wind_speed_10m": 3.8,
-        "wind_direction_10m": 115
+        "wind_speed_10m": 8.3,
+        "wind_direction_10m": 336
       },
       "history_24h": null
     },
@@ -27,15 +65,15 @@
       "city": "Phuket",
       "latitude": 7.8804,
       "longitude": 98.3923,
-      "timestamp": "2026-09-09T13:16:45.353806",
+      "timestamp": "2026-09-10T13:14:19.581290",
       "current": {
-        "time": "2026-09-09T20:15",
+        "time": "2026-09-10T20:00",
         "interval": 900,
-        "temperature_2m": 29.1,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 32.7,
+        "temperature_2m": 28.4,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 32.5,
         "weather_code": 3,
-        "wind_speed_10m": 12.5,
+        "wind_speed_10m": 11.4,
         "wind_direction_10m": 282
       },
       "history_24h": null
@@ -46,54 +84,16 @@
       "city": "Chiang Mai",
       "latitude": 18.7883,
       "longitude": 98.9853,
-      "timestamp": "2026-09-09T13:16:45.357703",
+      "timestamp": "2026-09-10T13:14:19.582980",
       "current": {
-        "time": "2026-09-09T20:15",
+        "time": "2026-09-10T20:00",
         "interval": 900,
-        "temperature_2m": 24.8,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": 30.2,
-        "weather_code": 3,
-        "wind_speed_10m": 2.6,
-        "wind_direction_10m": 12
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Thailand",
-      "country_code": "TH",
-      "city": "Pattaya",
-      "latitude": 12.9279,
-      "longitude": 100.8844,
-      "timestamp": "2026-09-09T13:16:45.365756",
-      "current": {
-        "time": "2026-09-09T20:15",
-        "interval": 900,
-        "temperature_2m": 29.0,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 33.9,
-        "weather_code": 3,
-        "wind_speed_10m": 12.8,
-        "wind_direction_10m": 190
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Thailand",
-      "country_code": "TH",
-      "city": "Krabi",
-      "latitude": 8.0863,
-      "longitude": 98.9083,
-      "timestamp": "2026-09-09T13:16:45.424338",
-      "current": {
-        "time": "2026-09-09T20:15",
-        "interval": 900,
-        "temperature_2m": 28.9,
-        "relative_humidity_2m": 72,
-        "apparent_temperature": 32.6,
-        "weather_code": 3,
-        "wind_speed_10m": 13.1,
-        "wind_direction_10m": 285
+        "temperature_2m": 25.2,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 31.1,
+        "weather_code": 51,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 183
       },
       "history_24h": null
     }
