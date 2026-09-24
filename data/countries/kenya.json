@@ -1,6 +1,6 @@
 {
   "country": "Kenya",
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "cities": [
     {
       "country": "Kenya",
@@ -8,16 +8,16 @@
       "city": "Nairobi",
       "latitude": -1.2921,
       "longitude": 36.8219,
-      "timestamp": "2026-09-23T13:59:14.914888",
+      "timestamp": "2026-09-24T13:55:49.513142",
       "current": {
-        "time": "2026-09-23T16:45",
+        "time": "2026-09-24T16:45",
         "interval": 900,
-        "temperature_2m": 23.1,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 21.9,
-        "weather_code": 51,
-        "wind_speed_10m": 14.2,
-        "wind_direction_10m": 89
+        "temperature_2m": 26.3,
+        "relative_humidity_2m": 35,
+        "apparent_temperature": 24.9,
+        "weather_code": 2,
+        "wind_speed_10m": 8.3,
+        "wind_direction_10m": 72
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Mombasa",
       "latitude": -4.0435,
       "longitude": 39.6682,
-      "timestamp": "2026-09-23T13:59:14.916741",
+      "timestamp": "2026-09-24T13:55:49.522766",
       "current": {
-        "time": "2026-09-23T16:45",
+        "time": "2026-09-24T16:45",
         "interval": 900,
-        "temperature_2m": 26.7,
+        "temperature_2m": 26.6,
         "relative_humidity_2m": 72,
-        "apparent_temperature": 28.6,
-        "weather_code": 1,
-        "wind_speed_10m": 17.6,
-        "wind_direction_10m": 151
+        "apparent_temperature": 28.9,
+        "weather_code": 3,
+        "wind_speed_10m": 14.6,
+        "wind_direction_10m": 159
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Nakuru",
       "latitude": -0.3031,
       "longitude": 36.08,
-      "timestamp": "2026-09-23T13:59:14.920273",
+      "timestamp": "2026-09-24T13:55:49.528879",
       "current": {
-        "time": "2026-09-23T16:45",
+        "time": "2026-09-24T16:45",
         "interval": 900,
-        "temperature_2m": 23.6,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 23.6,
-        "weather_code": 0,
-        "wind_speed_10m": 6.3,
-        "wind_direction_10m": 193
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Kenya",
-      "country_code": "KE",
-      "city": "Malindi",
-      "latitude": -3.2138,
-      "longitude": 40.1169,
-      "timestamp": "2026-09-23T13:59:14.994932",
-      "current": {
-        "time": "2026-09-23T16:45",
-        "interval": 900,
-        "temperature_2m": 26.7,
-        "relative_humidity_2m": 70,
-        "apparent_temperature": 27.8,
-        "weather_code": 2,
-        "wind_speed_10m": 21.1,
-        "wind_direction_10m": 160
+        "temperature_2m": 24.3,
+        "relative_humidity_2m": 45,
+        "apparent_temperature": 23.4,
+        "weather_code": 1,
+        "wind_speed_10m": 9.2,
+        "wind_direction_10m": 42
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Kisumu",
       "latitude": -0.1022,
       "longitude": 34.7617,
-      "timestamp": "2026-09-23T13:59:15.000769",
+      "timestamp": "2026-09-24T13:55:49.530285",
       "current": {
-        "time": "2026-09-23T16:45",
+        "time": "2026-09-24T16:45",
         "interval": 900,
-        "temperature_2m": 25.2,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 27.5,
-        "weather_code": 80,
-        "wind_speed_10m": 6.8,
-        "wind_direction_10m": 230
+        "temperature_2m": 28.7,
+        "relative_humidity_2m": 47,
+        "apparent_temperature": 28.7,
+        "weather_code": 3,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 241
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KE",
+      "city": "Malindi",
+      "latitude": -3.2138,
+      "longitude": 40.1169,
+      "timestamp": "2026-09-24T13:55:49.540745",
+      "current": {
+        "time": "2026-09-24T16:45",
+        "interval": 900,
+        "temperature_2m": 27.3,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 28.2,
+        "weather_code": 3,
+        "wind_speed_10m": 19.4,
+        "wind_direction_10m": 163
       },
       "history_24h": null
     }
