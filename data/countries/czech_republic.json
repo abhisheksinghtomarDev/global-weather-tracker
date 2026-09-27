@@ -1,6 +1,6 @@
 {
   "country": "Czech Republic",
-  "date": "2026-09-25",
+  "date": "2026-09-27",
   "cities": [
     {
       "country": "Czech Republic",
@@ -8,16 +8,16 @@
       "city": "Prague",
       "latitude": 50.0755,
       "longitude": 14.4378,
-      "timestamp": "2026-09-25T14:20:02.781739",
+      "timestamp": "2026-09-27T14:27:27.581675",
       "current": {
-        "time": "2026-09-25T16:15",
+        "time": "2026-09-27T16:15",
         "interval": 900,
-        "temperature_2m": 16.7,
-        "relative_humidity_2m": 53,
-        "apparent_temperature": 15.0,
-        "weather_code": 3,
-        "wind_speed_10m": 6.6,
-        "wind_direction_10m": 299
+        "temperature_2m": 21.9,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 20.1,
+        "weather_code": 1,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 108
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Brno",
       "latitude": 49.1951,
       "longitude": 16.6068,
-      "timestamp": "2026-09-25T14:20:02.788299",
+      "timestamp": "2026-09-27T14:27:27.586573",
       "current": {
-        "time": "2026-09-25T16:15",
+        "time": "2026-09-27T16:15",
         "interval": 900,
-        "temperature_2m": 16.5,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 14.7,
-        "weather_code": 3,
-        "wind_speed_10m": 6.3,
-        "wind_direction_10m": 329
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Czech Republic",
-      "country_code": "CZ",
-      "city": "Cesky Krumlov",
-      "latitude": 48.8127,
-      "longitude": 14.3175,
-      "timestamp": "2026-09-25T14:20:02.800876",
-      "current": {
-        "time": "2026-09-25T16:15",
-        "interval": 900,
-        "temperature_2m": 15.6,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 13.7,
-        "weather_code": 3,
-        "wind_speed_10m": 6.9,
-        "wind_direction_10m": 231
+        "temperature_2m": 20.2,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 18.4,
+        "weather_code": 2,
+        "wind_speed_10m": 10.5,
+        "wind_direction_10m": 121
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Karlovy Vary",
       "latitude": 50.2319,
       "longitude": 12.8716,
-      "timestamp": "2026-09-25T14:20:02.810157",
+      "timestamp": "2026-09-27T14:27:27.597649",
       "current": {
-        "time": "2026-09-25T16:15",
+        "time": "2026-09-27T16:15",
         "interval": 900,
-        "temperature_2m": 16.2,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 14.5,
-        "weather_code": 2,
-        "wind_speed_10m": 6.4,
-        "wind_direction_10m": 254
+        "temperature_2m": 20.9,
+        "relative_humidity_2m": 40,
+        "apparent_temperature": 18.7,
+        "weather_code": 3,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 90
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Pilsen",
       "latitude": 49.7384,
       "longitude": 13.3736,
-      "timestamp": "2026-09-25T14:20:02.811668",
+      "timestamp": "2026-09-27T14:27:27.603919",
       "current": {
-        "time": "2026-09-25T16:15",
+        "time": "2026-09-27T16:15",
         "interval": 900,
-        "temperature_2m": 18.0,
-        "relative_humidity_2m": 43,
-        "apparent_temperature": 15.9,
+        "temperature_2m": 22.4,
+        "relative_humidity_2m": 29,
+        "apparent_temperature": 19.3,
         "weather_code": 3,
-        "wind_speed_10m": 6.8,
-        "wind_direction_10m": 273
+        "wind_speed_10m": 10.5,
+        "wind_direction_10m": 98
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Cesky Krumlov",
+      "latitude": 48.8127,
+      "longitude": 14.3175,
+      "timestamp": "2026-09-27T14:27:27.604546",
+      "current": {
+        "time": "2026-09-27T16:15",
+        "interval": 900,
+        "temperature_2m": 19.6,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 17.8,
+        "weather_code": 3,
+        "wind_speed_10m": 12.6,
+        "wind_direction_10m": 77
       },
       "history_24h": null
     }

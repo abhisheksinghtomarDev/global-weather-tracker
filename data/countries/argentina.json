@@ -1,6 +1,6 @@
 {
   "country": "Argentina",
-  "date": "2026-09-25",
+  "date": "2026-09-27",
   "cities": [
     {
       "country": "Argentina",
@@ -8,54 +8,16 @@
       "city": "Buenos Aires",
       "latitude": -34.6037,
       "longitude": -58.3816,
-      "timestamp": "2026-09-25T14:20:02.496076",
+      "timestamp": "2026-09-27T14:27:27.457756",
       "current": {
-        "time": "2026-09-25T11:15",
+        "time": "2026-09-27T11:15",
         "interval": 900,
-        "temperature_2m": 23.6,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 23.9,
-        "weather_code": 0,
-        "wind_speed_10m": 6.9,
-        "wind_direction_10m": 219
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Argentina",
-      "country_code": "AR",
-      "city": "Cordoba",
-      "latitude": -31.4201,
-      "longitude": -64.1888,
-      "timestamp": "2026-09-25T14:20:02.503006",
-      "current": {
-        "time": "2026-09-25T11:15",
-        "interval": 900,
-        "temperature_2m": 23.7,
-        "relative_humidity_2m": 32,
-        "apparent_temperature": 21.2,
-        "weather_code": 0,
-        "wind_speed_10m": 17.9,
-        "wind_direction_10m": 190
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Argentina",
-      "country_code": "AR",
-      "city": "Mendoza",
-      "latitude": -32.8895,
-      "longitude": -68.8458,
-      "timestamp": "2026-09-25T14:20:02.504613",
-      "current": {
-        "time": "2026-09-25T11:15",
-        "interval": 900,
-        "temperature_2m": 22.1,
-        "relative_humidity_2m": 21,
-        "apparent_temperature": 18.2,
-        "weather_code": 2,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 156
+        "temperature_2m": 16.6,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 13.8,
+        "weather_code": 3,
+        "wind_speed_10m": 18.4,
+        "wind_direction_10m": 92
       },
       "history_24h": null
     },
@@ -65,16 +27,54 @@
       "city": "Rosario",
       "latitude": -32.9442,
       "longitude": -60.6505,
-      "timestamp": "2026-09-25T14:20:02.507307",
+      "timestamp": "2026-09-27T14:27:27.460352",
       "current": {
-        "time": "2026-09-25T11:15",
+        "time": "2026-09-27T11:15",
         "interval": 900,
-        "temperature_2m": 23.3,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 23.8,
+        "temperature_2m": 20.6,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 20.7,
+        "weather_code": 2,
+        "wind_speed_10m": 11.6,
+        "wind_direction_10m": 106
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Cordoba",
+      "latitude": -31.4201,
+      "longitude": -64.1888,
+      "timestamp": "2026-09-27T14:27:27.462196",
+      "current": {
+        "time": "2026-09-27T11:15",
+        "interval": 900,
+        "temperature_2m": 22.2,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 24.4,
+        "weather_code": 3,
+        "wind_speed_10m": 1.4,
+        "wind_direction_10m": 360
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Mendoza",
+      "latitude": -32.8895,
+      "longitude": -68.8458,
+      "timestamp": "2026-09-27T14:27:27.464690",
+      "current": {
+        "time": "2026-09-27T11:15",
+        "interval": 900,
+        "temperature_2m": 24.5,
+        "relative_humidity_2m": 23,
+        "apparent_temperature": 22.3,
         "weather_code": 0,
-        "wind_speed_10m": 10.5,
-        "wind_direction_10m": 131
+        "wind_speed_10m": 10.6,
+        "wind_direction_10m": 148
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Bariloche",
       "latitude": -41.1335,
       "longitude": -71.3103,
-      "timestamp": "2026-09-25T14:20:02.517775",
+      "timestamp": "2026-09-27T14:27:27.496320",
       "current": {
-        "time": "2026-09-25T11:15",
+        "time": "2026-09-27T11:15",
         "interval": 900,
-        "temperature_2m": 6.3,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 3.7,
-        "weather_code": 51,
-        "wind_speed_10m": 9.3,
-        "wind_direction_10m": 298
+        "temperature_2m": 9.0,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 7.0,
+        "weather_code": 1,
+        "wind_speed_10m": 5.8,
+        "wind_direction_10m": 274
       },
       "history_24h": null
     }
