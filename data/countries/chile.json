@@ -1,23 +1,42 @@
 {
   "country": "Chile",
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "cities": [
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Puerto Montt",
+      "latitude": -41.4689,
+      "longitude": -72.9424,
+      "timestamp": "2026-09-28T17:12:37.650484",
+      "current": {
+        "time": "2026-09-28T14:00",
+        "interval": 900,
+        "temperature_2m": 13.6,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 11.4,
+        "weather_code": 51,
+        "wind_speed_10m": 13.1,
+        "wind_direction_10m": 337
+      },
+      "history_24h": null
+    },
     {
       "country": "Chile",
       "country_code": "CL",
       "city": "Santiago",
       "latitude": -33.4489,
       "longitude": -70.6693,
-      "timestamp": "2026-09-27T14:27:27.471832",
+      "timestamp": "2026-09-28T17:12:37.651608",
       "current": {
-        "time": "2026-09-27T11:15",
+        "time": "2026-09-28T14:00",
         "interval": 900,
-        "temperature_2m": 18.8,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 18.8,
+        "temperature_2m": 19.8,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 19.3,
         "weather_code": 1,
-        "wind_speed_10m": 3.6,
-        "wind_direction_10m": 288
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 225
       },
       "history_24h": null
     },
@@ -27,54 +46,16 @@
       "city": "Valparaiso",
       "latitude": -33.0472,
       "longitude": -71.6127,
-      "timestamp": "2026-09-27T14:27:27.472997",
+      "timestamp": "2026-09-28T17:12:37.657611",
       "current": {
-        "time": "2026-09-27T11:15",
+        "time": "2026-09-28T14:00",
         "interval": 900,
-        "temperature_2m": 17.7,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 17.8,
-        "weather_code": 3,
-        "wind_speed_10m": 7.7,
-        "wind_direction_10m": 234
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Chile",
-      "country_code": "CL",
-      "city": "Puerto Montt",
-      "latitude": -41.4689,
-      "longitude": -72.9424,
-      "timestamp": "2026-09-27T14:27:27.485045",
-      "current": {
-        "time": "2026-09-27T11:15",
-        "interval": 900,
-        "temperature_2m": 13.6,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 10.5,
-        "weather_code": 1,
-        "wind_speed_10m": 18.7,
-        "wind_direction_10m": 20
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Chile",
-      "country_code": "CL",
-      "city": "Easter Island",
-      "latitude": -27.1127,
-      "longitude": -109.3497,
-      "timestamp": "2026-09-27T14:27:27.494199",
-      "current": {
-        "time": "2026-09-27T09:15",
-        "interval": 900,
-        "temperature_2m": 16.9,
+        "temperature_2m": 18.6,
         "relative_humidity_2m": 70,
-        "apparent_temperature": 15.4,
-        "weather_code": 1,
-        "wind_speed_10m": 13.1,
-        "wind_direction_10m": 1
+        "apparent_temperature": 18.9,
+        "weather_code": 0,
+        "wind_speed_10m": 13.9,
+        "wind_direction_10m": 221
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Punta Arenas",
       "latitude": -53.1638,
       "longitude": -70.9171,
-      "timestamp": "2026-09-27T14:27:27.495017",
+      "timestamp": "2026-09-28T17:12:37.660668",
       "current": {
-        "time": "2026-09-27T11:15",
+        "time": "2026-09-28T14:00",
         "interval": 900,
-        "temperature_2m": 5.7,
-        "relative_humidity_2m": 60,
-        "apparent_temperature": 2.5,
+        "temperature_2m": 7.9,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 5.3,
         "weather_code": 1,
-        "wind_speed_10m": 6.0,
+        "wind_speed_10m": 7.4,
         "wind_direction_10m": 119
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Easter Island",
+      "latitude": -27.1127,
+      "longitude": -109.3497,
+      "timestamp": "2026-09-28T17:12:37.662971",
+      "current": {
+        "time": "2026-09-28T12:00",
+        "interval": 900,
+        "temperature_2m": 20.9,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 19.8,
+        "weather_code": 1,
+        "wind_speed_10m": 21.4,
+        "wind_direction_10m": 326
       },
       "history_24h": null
     }
