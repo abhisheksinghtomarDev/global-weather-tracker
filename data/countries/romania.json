@@ -1,23 +1,42 @@
 {
   "country": "Romania",
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "cities": [
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Brasov",
+      "latitude": 45.6427,
+      "longitude": 25.5887,
+      "timestamp": "2026-09-29T15:15:31.212715",
+      "current": {
+        "time": "2026-09-29T18:15",
+        "interval": 900,
+        "temperature_2m": 15.4,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 13.6,
+        "weather_code": 3,
+        "wind_speed_10m": 7.8,
+        "wind_direction_10m": 77
+      },
+      "history_24h": null
+    },
     {
       "country": "Romania",
       "country_code": "RO",
       "city": "Bucharest",
       "latitude": 44.4268,
       "longitude": 26.1025,
-      "timestamp": "2026-09-28T17:12:38.034261",
+      "timestamp": "2026-09-29T15:15:31.214496",
       "current": {
-        "time": "2026-09-28T20:00",
+        "time": "2026-09-29T18:15",
         "interval": 900,
-        "temperature_2m": 19.5,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 17.5,
+        "temperature_2m": 20.8,
+        "relative_humidity_2m": 40,
+        "apparent_temperature": 18.4,
         "weather_code": 3,
-        "wind_speed_10m": 8.5,
-        "wind_direction_10m": 28
+        "wind_speed_10m": 10.4,
+        "wind_direction_10m": 44
       },
       "history_24h": null
     },
@@ -27,54 +46,16 @@
       "city": "Cluj-Napoca",
       "latitude": 46.7712,
       "longitude": 23.6236,
-      "timestamp": "2026-09-28T17:12:38.036464",
+      "timestamp": "2026-09-29T15:15:31.215697",
       "current": {
-        "time": "2026-09-28T20:00",
+        "time": "2026-09-29T18:15",
         "interval": 900,
-        "temperature_2m": 15.3,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 13.5,
-        "weather_code": 1,
-        "wind_speed_10m": 4.4,
-        "wind_direction_10m": 81
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Romania",
-      "country_code": "RO",
-      "city": "Brasov",
-      "latitude": 45.6427,
-      "longitude": 25.5887,
-      "timestamp": "2026-09-28T17:12:38.053059",
-      "current": {
-        "time": "2026-09-28T20:00",
-        "interval": 900,
-        "temperature_2m": 13.3,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 11.7,
-        "weather_code": 3,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 113
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Romania",
-      "country_code": "RO",
-      "city": "Timisoara",
-      "latitude": 45.7537,
-      "longitude": 21.2251,
-      "timestamp": "2026-09-28T17:12:38.056136",
-      "current": {
-        "time": "2026-09-28T20:00",
-        "interval": 900,
-        "temperature_2m": 21.7,
-        "relative_humidity_2m": 34,
-        "apparent_temperature": 19.0,
+        "temperature_2m": 19.5,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 17.6,
         "weather_code": 0,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 91
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 98
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Sibiu",
       "latitude": 45.7928,
       "longitude": 24.1433,
-      "timestamp": "2026-09-28T17:12:38.057345",
+      "timestamp": "2026-09-29T15:15:31.228374",
       "current": {
-        "time": "2026-09-28T20:00",
+        "time": "2026-09-29T18:15",
         "interval": 900,
-        "temperature_2m": 15.7,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 14.5,
-        "weather_code": 2,
-        "wind_speed_10m": 1.0,
-        "wind_direction_10m": 225
+        "temperature_2m": 18.8,
+        "relative_humidity_2m": 46,
+        "apparent_temperature": 16.7,
+        "weather_code": 1,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 95
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Timisoara",
+      "latitude": 45.7537,
+      "longitude": 21.2251,
+      "timestamp": "2026-09-29T15:15:31.233813",
+      "current": {
+        "time": "2026-09-29T18:15",
+        "interval": 900,
+        "temperature_2m": 24.6,
+        "relative_humidity_2m": 25,
+        "apparent_temperature": 22.1,
+        "weather_code": 0,
+        "wind_speed_10m": 5.8,
+        "wind_direction_10m": 90
       },
       "history_24h": null
     }

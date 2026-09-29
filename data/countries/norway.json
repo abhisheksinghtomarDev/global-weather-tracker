@@ -1,6 +1,6 @@
 {
   "country": "Norway",
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "cities": [
     {
       "country": "Norway",
@@ -8,35 +8,16 @@
       "city": "Oslo",
       "latitude": 59.9139,
       "longitude": 10.7522,
-      "timestamp": "2026-09-28T17:12:37.472544",
+      "timestamp": "2026-09-29T15:15:30.657878",
       "current": {
-        "time": "2026-09-28T19:00",
+        "time": "2026-09-29T17:15",
         "interval": 900,
-        "temperature_2m": 15.2,
-        "relative_humidity_2m": 98,
-        "apparent_temperature": 15.3,
-        "weather_code": 3,
-        "wind_speed_10m": 10.1,
-        "wind_direction_10m": 181
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Norway",
-      "country_code": "NO",
-      "city": "Trondheim",
-      "latitude": 63.4305,
-      "longitude": 10.3951,
-      "timestamp": "2026-09-28T17:12:37.474009",
-      "current": {
-        "time": "2026-09-28T19:00",
-        "interval": 900,
-        "temperature_2m": 11.8,
-        "relative_humidity_2m": 87,
-        "apparent_temperature": 11.2,
-        "weather_code": 3,
-        "wind_speed_10m": 3.2,
-        "wind_direction_10m": 194
+        "temperature_2m": 15.5,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 13.9,
+        "weather_code": 2,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 62
       },
       "history_24h": null
     },
@@ -46,35 +27,16 @@
       "city": "Bergen",
       "latitude": 60.3913,
       "longitude": 5.3221,
-      "timestamp": "2026-09-28T17:12:37.475117",
+      "timestamp": "2026-09-29T15:15:30.669666",
       "current": {
-        "time": "2026-09-28T19:00",
+        "time": "2026-09-29T17:15",
         "interval": 900,
-        "temperature_2m": 13.6,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 12.7,
-        "weather_code": 2,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 154
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Norway",
-      "country_code": "NO",
-      "city": "Tromso",
-      "latitude": 69.6492,
-      "longitude": 18.9553,
-      "timestamp": "2026-09-28T17:12:37.485762",
-      "current": {
-        "time": "2026-09-28T19:00",
-        "interval": 900,
-        "temperature_2m": 13.2,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 7.3,
-        "weather_code": 3,
-        "wind_speed_10m": 36.4,
-        "wind_direction_10m": 201
+        "temperature_2m": 15.5,
+        "relative_humidity_2m": 45,
+        "apparent_temperature": 13.3,
+        "weather_code": 0,
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 134
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Stavanger",
       "latitude": 58.969,
       "longitude": 5.7331,
-      "timestamp": "2026-09-28T17:12:37.486986",
+      "timestamp": "2026-09-29T15:15:30.680369",
       "current": {
-        "time": "2026-09-28T19:00",
+        "time": "2026-09-29T17:15",
         "interval": 900,
-        "temperature_2m": 14.0,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 12.7,
+        "temperature_2m": 17.1,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 15.9,
         "weather_code": 2,
-        "wind_speed_10m": 6.8,
-        "wind_direction_10m": 288
+        "wind_speed_10m": 6.1,
+        "wind_direction_10m": 96
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Norway",
+      "country_code": "NO",
+      "city": "Trondheim",
+      "latitude": 63.4305,
+      "longitude": 10.3951,
+      "timestamp": "2026-09-29T15:15:30.682596",
+      "current": {
+        "time": "2026-09-29T17:15",
+        "interval": 900,
+        "temperature_2m": 13.1,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 11.3,
+        "weather_code": 2,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 71
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Norway",
+      "country_code": "NO",
+      "city": "Tromso",
+      "latitude": 69.6492,
+      "longitude": 18.9553,
+      "timestamp": "2026-09-29T15:15:30.684559",
+      "current": {
+        "time": "2026-09-29T17:15",
+        "interval": 900,
+        "temperature_2m": 8.8,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 4.3,
+        "weather_code": 3,
+        "wind_speed_10m": 23.0,
+        "wind_direction_10m": 245
       },
       "history_24h": null
     }
