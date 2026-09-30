@@ -1,6 +1,6 @@
 {
   "country": "Turkey",
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "cities": [
     {
       "country": "Turkey",
@@ -8,16 +8,16 @@
       "city": "Istanbul",
       "latitude": 41.0082,
       "longitude": 28.9784,
-      "timestamp": "2026-09-29T15:15:30.379061",
+      "timestamp": "2026-09-30T15:29:25.582358",
       "current": {
-        "time": "2026-09-29T18:15",
+        "time": "2026-09-30T18:15",
         "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 15.9,
-        "weather_code": 3,
-        "wind_speed_10m": 25.2,
-        "wind_direction_10m": 14
+        "temperature_2m": 19.1,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 15.2,
+        "weather_code": 1,
+        "wind_speed_10m": 29.0,
+        "wind_direction_10m": 38
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Ankara",
       "latitude": 39.9334,
       "longitude": 32.8597,
-      "timestamp": "2026-09-29T15:15:30.389056",
+      "timestamp": "2026-09-30T15:29:25.591501",
       "current": {
-        "time": "2026-09-29T18:15",
+        "time": "2026-09-30T18:15",
         "interval": 900,
-        "temperature_2m": 15.0,
-        "relative_humidity_2m": 84,
-        "apparent_temperature": 14.9,
-        "weather_code": 61,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 248
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Turkey",
-      "country_code": "TR",
-      "city": "Antalya",
-      "latitude": 36.8969,
-      "longitude": 30.7133,
-      "timestamp": "2026-09-29T15:15:30.401641",
-      "current": {
-        "time": "2026-09-29T18:15",
-        "interval": 900,
-        "temperature_2m": 26.0,
-        "relative_humidity_2m": 60,
-        "apparent_temperature": 26.7,
-        "weather_code": 0,
-        "wind_speed_10m": 13.9,
-        "wind_direction_10m": 190
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Turkey",
-      "country_code": "TR",
-      "city": "Cappadocia",
-      "latitude": 38.6431,
-      "longitude": 34.8289,
-      "timestamp": "2026-09-29T15:15:30.403207",
-      "current": {
-        "time": "2026-09-29T18:15",
-        "interval": 900,
-        "temperature_2m": 17.1,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 15.2,
+        "temperature_2m": 15.4,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 13.7,
         "weather_code": 3,
-        "wind_speed_10m": 12.6,
-        "wind_direction_10m": 290
+        "wind_speed_10m": 12.5,
+        "wind_direction_10m": 44
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Izmir",
       "latitude": 38.4237,
       "longitude": 27.1428,
-      "timestamp": "2026-09-29T15:15:30.404849",
+      "timestamp": "2026-09-30T15:29:25.604647",
       "current": {
-        "time": "2026-09-29T18:15",
+        "time": "2026-09-30T18:15",
         "interval": 900,
-        "temperature_2m": 20.7,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 19.3,
-        "weather_code": 2,
-        "wind_speed_10m": 15.9,
-        "wind_direction_10m": 51
+        "temperature_2m": 22.6,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 20.7,
+        "weather_code": 0,
+        "wind_speed_10m": 20.7,
+        "wind_direction_10m": 49
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Antalya",
+      "latitude": 36.8969,
+      "longitude": 30.7133,
+      "timestamp": "2026-09-30T15:29:25.611445",
+      "current": {
+        "time": "2026-09-30T18:15",
+        "interval": 900,
+        "temperature_2m": 25.1,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 25.9,
+        "weather_code": 1,
+        "wind_speed_10m": 13.1,
+        "wind_direction_10m": 172
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Cappadocia",
+      "latitude": 38.6431,
+      "longitude": 34.8289,
+      "timestamp": "2026-09-30T15:29:25.618954",
+      "current": {
+        "time": "2026-09-30T18:15",
+        "interval": 900,
+        "temperature_2m": 15.3,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 13.7,
+        "weather_code": 3,
+        "wind_speed_10m": 15.1,
+        "wind_direction_10m": 28
       },
       "history_24h": null
     }
