@@ -1,6 +1,6 @@
 {
   "country": "Netherlands",
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "cities": [
     {
       "country": "Netherlands",
@@ -8,35 +8,16 @@
       "city": "Amsterdam",
       "latitude": 52.3676,
       "longitude": 4.9041,
-      "timestamp": "2026-09-30T15:29:25.817091",
+      "timestamp": "2026-10-01T15:52:19.435862",
       "current": {
-        "time": "2026-09-30T17:15",
+        "time": "2026-10-01T17:45",
         "interval": 900,
-        "temperature_2m": 23.6,
+        "temperature_2m": 19.7,
         "relative_humidity_2m": 65,
-        "apparent_temperature": 24.5,
+        "apparent_temperature": 18.5,
         "weather_code": 3,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 174
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "city": "The Hague",
-      "latitude": 52.0705,
-      "longitude": 4.3007,
-      "timestamp": "2026-09-30T15:29:25.838555",
-      "current": {
-        "time": "2026-09-30T17:15",
-        "interval": 900,
-        "temperature_2m": 22.5,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 23.5,
-        "weather_code": 3,
-        "wind_speed_10m": 9.7,
-        "wind_direction_10m": 188
+        "wind_speed_10m": 14.4,
+        "wind_direction_10m": 275
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Rotterdam",
       "latitude": 51.9244,
       "longitude": 4.4777,
-      "timestamp": "2026-09-30T15:29:25.843983",
+      "timestamp": "2026-10-01T15:52:19.438814",
       "current": {
-        "time": "2026-09-30T17:15",
+        "time": "2026-10-01T17:45",
         "interval": 900,
-        "temperature_2m": 23.3,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 24.3,
+        "temperature_2m": 19.9,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 19.1,
         "weather_code": 3,
-        "wind_speed_10m": 8.3,
-        "wind_direction_10m": 188
+        "wind_speed_10m": 11.9,
+        "wind_direction_10m": 271
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "The Hague",
+      "latitude": 52.0705,
+      "longitude": 4.3007,
+      "timestamp": "2026-10-01T15:52:19.450846",
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 19.3,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 18.8,
+        "weather_code": 3,
+        "wind_speed_10m": 11.9,
+        "wind_direction_10m": 272
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Utrecht",
       "latitude": 52.0907,
       "longitude": 5.1214,
-      "timestamp": "2026-09-30T15:29:25.856226",
+      "timestamp": "2026-10-01T15:52:19.451811",
       "current": {
-        "time": "2026-09-30T17:15",
+        "time": "2026-10-01T17:45",
         "interval": 900,
-        "temperature_2m": 24.7,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 25.1,
+        "temperature_2m": 20.1,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 19.1,
         "weather_code": 3,
-        "wind_speed_10m": 8.6,
-        "wind_direction_10m": 171
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 292
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Eindhoven",
       "latitude": 51.4416,
       "longitude": 5.4697,
-      "timestamp": "2026-09-30T15:29:25.860177",
+      "timestamp": "2026-10-01T15:52:19.454263",
       "current": {
-        "time": "2026-09-30T17:15",
+        "time": "2026-10-01T17:45",
         "interval": 900,
-        "temperature_2m": 25.6,
-        "relative_humidity_2m": 53,
-        "apparent_temperature": 26.8,
+        "temperature_2m": 20.9,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 20.4,
         "weather_code": 3,
-        "wind_speed_10m": 4.0,
-        "wind_direction_10m": 205
+        "wind_speed_10m": 11.9,
+        "wind_direction_10m": 295
       },
       "history_24h": null
     }

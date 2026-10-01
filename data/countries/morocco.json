@@ -1,6 +1,6 @@
 {
   "country": "Morocco",
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "cities": [
     {
       "country": "Morocco",
@@ -8,35 +8,16 @@
       "city": "Casablanca",
       "latitude": 33.5731,
       "longitude": -7.5898,
-      "timestamp": "2026-09-30T15:29:26.279633",
+      "timestamp": "2026-10-01T15:52:19.768109",
       "current": {
-        "time": "2026-09-30T16:15",
+        "time": "2026-10-01T16:45",
         "interval": 900,
-        "temperature_2m": 26.6,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 28.5,
-        "weather_code": 1,
-        "wind_speed_10m": 12.3,
-        "wind_direction_10m": 355
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Morocco",
-      "country_code": "MA",
-      "city": "Marrakech",
-      "latitude": 31.6295,
-      "longitude": -7.9811,
-      "timestamp": "2026-09-30T15:29:26.295125",
-      "current": {
-        "time": "2026-09-30T16:15",
-        "interval": 900,
-        "temperature_2m": 34.1,
-        "relative_humidity_2m": 25,
-        "apparent_temperature": 32.6,
-        "weather_code": 2,
-        "wind_speed_10m": 13.4,
-        "wind_direction_10m": 301
+        "temperature_2m": 25.1,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 27.3,
+        "weather_code": 3,
+        "wind_speed_10m": 13.8,
+        "wind_direction_10m": 9
       },
       "history_24h": null
     },
@@ -46,35 +27,35 @@
       "city": "Fes",
       "latitude": 34.0181,
       "longitude": -5.0078,
-      "timestamp": "2026-09-30T15:29:26.315084",
+      "timestamp": "2026-10-01T15:52:19.775529",
       "current": {
-        "time": "2026-09-30T16:15",
+        "time": "2026-10-01T16:45",
         "interval": 900,
-        "temperature_2m": 32.7,
-        "relative_humidity_2m": 31,
-        "apparent_temperature": 31.8,
-        "weather_code": 0,
-        "wind_speed_10m": 13.6,
-        "wind_direction_10m": 323
+        "temperature_2m": 29.6,
+        "relative_humidity_2m": 40,
+        "apparent_temperature": 29.8,
+        "weather_code": 3,
+        "wind_speed_10m": 9.1,
+        "wind_direction_10m": 304
       },
       "history_24h": null
     },
     {
       "country": "Morocco",
       "country_code": "MA",
-      "city": "Tangier",
-      "latitude": 35.7595,
-      "longitude": -5.834,
-      "timestamp": "2026-09-30T15:29:26.318126",
+      "city": "Marrakech",
+      "latitude": 31.6295,
+      "longitude": -7.9811,
+      "timestamp": "2026-10-01T15:52:20.773304",
       "current": {
-        "time": "2026-09-30T16:15",
+        "time": "2026-10-01T16:45",
         "interval": 900,
-        "temperature_2m": 27.0,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 28.3,
-        "weather_code": 3,
-        "wind_speed_10m": 10.4,
-        "wind_direction_10m": 346
+        "temperature_2m": 33.9,
+        "relative_humidity_2m": 28,
+        "apparent_temperature": 33.4,
+        "weather_code": 2,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 342
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Agadir",
       "latitude": 30.4278,
       "longitude": -9.5983,
-      "timestamp": "2026-09-30T15:29:26.333740",
+      "timestamp": "2026-10-01T15:52:20.777126",
       "current": {
-        "time": "2026-09-30T16:15",
+        "time": "2026-10-01T16:45",
         "interval": 900,
-        "temperature_2m": 30.2,
-        "relative_humidity_2m": 42,
-        "apparent_temperature": 30.5,
+        "temperature_2m": 26.4,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 28.5,
         "weather_code": 1,
-        "wind_speed_10m": 13.3,
-        "wind_direction_10m": 289
+        "wind_speed_10m": 6.8,
+        "wind_direction_10m": 267
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Tangier",
+      "latitude": 35.7595,
+      "longitude": -5.834,
+      "timestamp": "2026-10-01T15:52:20.788891",
+      "current": {
+        "time": "2026-10-01T16:45",
+        "interval": 900,
+        "temperature_2m": 25.7,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 27.9,
+        "weather_code": 3,
+        "wind_speed_10m": 9.8,
+        "wind_direction_10m": 352
       },
       "history_24h": null
     }
