@@ -1,42 +1,42 @@
 {
   "country": "Greece",
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "cities": [
-    {
-      "country": "Greece",
-      "country_code": "GR",
-      "city": "Thessaloniki",
-      "latitude": 40.6401,
-      "longitude": 22.9444,
-      "timestamp": "2026-10-01T15:52:19.582138",
-      "current": {
-        "time": "2026-10-01T18:45",
-        "interval": 900,
-        "temperature_2m": 22.9,
-        "relative_humidity_2m": 27,
-        "apparent_temperature": 20.7,
-        "weather_code": 2,
-        "wind_speed_10m": 4.2,
-        "wind_direction_10m": 59
-      },
-      "history_24h": null
-    },
     {
       "country": "Greece",
       "country_code": "GR",
       "city": "Athens",
       "latitude": 37.9838,
       "longitude": 23.7275,
-      "timestamp": "2026-10-01T15:52:19.583180",
+      "timestamp": "2026-10-02T15:13:14.206938",
       "current": {
-        "time": "2026-10-01T18:45",
+        "time": "2026-10-02T18:00",
         "interval": 900,
-        "temperature_2m": 19.3,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 16.8,
+        "temperature_2m": 19.1,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 15.9,
+        "weather_code": 2,
+        "wind_speed_10m": 21.7,
+        "wind_direction_10m": 21
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Thessaloniki",
+      "latitude": 40.6401,
+      "longitude": 22.9444,
+      "timestamp": "2026-10-02T15:13:14.215012",
+      "current": {
+        "time": "2026-10-02T18:00",
+        "interval": 900,
+        "temperature_2m": 24.2,
+        "relative_humidity_2m": 23,
+        "apparent_temperature": 20.9,
         "weather_code": 1,
-        "wind_speed_10m": 16.7,
-        "wind_direction_10m": 19
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 4
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Santorini",
       "latitude": 36.3932,
       "longitude": 25.4615,
-      "timestamp": "2026-10-01T15:52:19.595445",
+      "timestamp": "2026-10-02T15:13:14.216371",
       "current": {
-        "time": "2026-10-01T18:45",
+        "time": "2026-10-02T18:00",
         "interval": 900,
-        "temperature_2m": 21.6,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 17.9,
-        "weather_code": 3,
-        "wind_speed_10m": 29.7,
-        "wind_direction_10m": 6
+        "temperature_2m": 20.0,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 16.2,
+        "weather_code": 2,
+        "wind_speed_10m": 32.4,
+        "wind_direction_10m": 360
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Mykonos",
       "latitude": 37.4467,
       "longitude": 25.3289,
-      "timestamp": "2026-10-01T15:52:19.600931",
+      "timestamp": "2026-10-02T15:13:14.235809",
       "current": {
-        "time": "2026-10-01T18:45",
+        "time": "2026-10-02T18:00",
         "interval": 900,
-        "temperature_2m": 21.7,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": 17.5,
+        "temperature_2m": 18.8,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 14.5,
         "weather_code": 2,
-        "wind_speed_10m": 34.3,
-        "wind_direction_10m": 10
+        "wind_speed_10m": 39.1,
+        "wind_direction_10m": 6
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Crete",
       "latitude": 35.2401,
       "longitude": 24.8317,
-      "timestamp": "2026-10-01T15:52:19.604555",
+      "timestamp": "2026-10-02T15:13:14.242752",
       "current": {
-        "time": "2026-10-01T18:45",
+        "time": "2026-10-02T18:00",
         "interval": 900,
-        "temperature_2m": 11.0,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 8.8,
+        "temperature_2m": 10.3,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 7.8,
         "weather_code": 3,
-        "wind_speed_10m": 16.1,
-        "wind_direction_10m": 350
+        "wind_speed_10m": 16.7,
+        "wind_direction_10m": 353
       },
       "history_24h": null
     }
