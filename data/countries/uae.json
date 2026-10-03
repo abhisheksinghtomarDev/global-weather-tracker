@@ -1,6 +1,6 @@
 {
   "country": "UAE",
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "cities": [
     {
       "country": "UAE",
@@ -8,16 +8,16 @@
       "city": "Abu Dhabi",
       "latitude": 24.4539,
       "longitude": 54.3773,
-      "timestamp": "2026-10-02T15:13:13.901194",
+      "timestamp": "2026-10-03T14:05:06.481192",
       "current": {
-        "time": "2026-10-02T19:00",
+        "time": "2026-10-03T18:00",
         "interval": 900,
-        "temperature_2m": 35.0,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 39.5,
+        "temperature_2m": 34.3,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 37.6,
         "weather_code": 0,
-        "wind_speed_10m": 11.9,
-        "wind_direction_10m": 3
+        "wind_speed_10m": 11.8,
+        "wind_direction_10m": 351
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Dubai",
       "latitude": 25.2048,
       "longitude": 55.2708,
-      "timestamp": "2026-10-02T15:13:13.902696",
+      "timestamp": "2026-10-03T14:05:06.487041",
       "current": {
-        "time": "2026-10-02T19:00",
+        "time": "2026-10-03T18:00",
         "interval": 900,
         "temperature_2m": 33.5,
-        "relative_humidity_2m": 59,
-        "apparent_temperature": 37.9,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 37.2,
         "weather_code": 0,
-        "wind_speed_10m": 13.0,
-        "wind_direction_10m": 19
-      },
-      "history_24h": null
-    },
-    {
-      "country": "UAE",
-      "country_code": "AE",
-      "city": "Sharjah",
-      "latitude": 25.3463,
-      "longitude": 55.4209,
-      "timestamp": "2026-10-02T15:13:13.904037",
-      "current": {
-        "time": "2026-10-02T19:00",
-        "interval": 900,
-        "temperature_2m": 33.1,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 37.3,
-        "weather_code": 0,
-        "wind_speed_10m": 14.0,
-        "wind_direction_10m": 23
+        "wind_speed_10m": 12.1,
+        "wind_direction_10m": 314
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Ras Al Khaimah",
       "latitude": 25.7895,
       "longitude": 55.9432,
-      "timestamp": "2026-10-02T15:13:13.915570",
+      "timestamp": "2026-10-03T14:05:06.488033",
       "current": {
-        "time": "2026-10-02T19:00",
+        "time": "2026-10-03T18:00",
         "interval": 900,
-        "temperature_2m": 31.8,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 36.6,
+        "temperature_2m": 32.8,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 36.4,
         "weather_code": 0,
-        "wind_speed_10m": 9.7,
-        "wind_direction_10m": 15
+        "wind_speed_10m": 5.5,
+        "wind_direction_10m": 17
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Sharjah",
+      "latitude": 25.3463,
+      "longitude": 55.4209,
+      "timestamp": "2026-10-03T14:05:06.489970",
+      "current": {
+        "time": "2026-10-03T18:00",
+        "interval": 900,
+        "temperature_2m": 33.5,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 37.5,
+        "weather_code": 0,
+        "wind_speed_10m": 11.5,
+        "wind_direction_10m": 304
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Al Ain",
       "latitude": 24.2075,
       "longitude": 55.7447,
-      "timestamp": "2026-10-02T15:13:13.917862",
+      "timestamp": "2026-10-03T14:05:07.508303",
       "current": {
-        "time": "2026-10-02T19:00",
+        "time": "2026-10-03T18:00",
         "interval": 900,
         "temperature_2m": 35.8,
-        "relative_humidity_2m": 37,
-        "apparent_temperature": 37.2,
+        "relative_humidity_2m": 31,
+        "apparent_temperature": 37.1,
         "weather_code": 0,
-        "wind_speed_10m": 12.3,
-        "wind_direction_10m": 104
+        "wind_speed_10m": 5.8,
+        "wind_direction_10m": 284
       },
       "history_24h": null
     }
