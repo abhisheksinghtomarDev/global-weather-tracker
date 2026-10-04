@@ -1,6 +1,6 @@
 {
   "country": "Mexico",
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "cities": [
     {
       "country": "Mexico",
@@ -8,35 +8,16 @@
       "city": "Mexico City",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "timestamp": "2026-10-03T14:05:06.392011",
+      "timestamp": "2026-10-04T14:31:18.658804",
       "current": {
-        "time": "2026-10-03T08:00",
+        "time": "2026-10-04T08:30",
         "interval": 900,
-        "temperature_2m": 14.8,
-        "relative_humidity_2m": 89,
-        "apparent_temperature": 15.0,
-        "weather_code": 51,
-        "wind_speed_10m": 4.8,
-        "wind_direction_10m": 22
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Mexico",
-      "country_code": "MX",
-      "city": "Cancun",
-      "latitude": 21.1619,
-      "longitude": -86.8515,
-      "timestamp": "2026-10-03T14:05:06.393120",
-      "current": {
-        "time": "2026-10-03T09:00",
-        "interval": 900,
-        "temperature_2m": 26.7,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 31.5,
+        "temperature_2m": 15.9,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 16.4,
         "weather_code": 3,
-        "wind_speed_10m": 14.9,
-        "wind_direction_10m": 139
+        "wind_speed_10m": 4.5,
+        "wind_direction_10m": 326
       },
       "history_24h": null
     },
@@ -46,35 +27,16 @@
       "city": "Guadalajara",
       "latitude": 20.6597,
       "longitude": -103.3496,
-      "timestamp": "2026-10-03T14:05:06.394422",
+      "timestamp": "2026-10-04T14:31:18.665331",
       "current": {
-        "time": "2026-10-03T08:00",
+        "time": "2026-10-04T08:30",
         "interval": 900,
-        "temperature_2m": 18.0,
-        "relative_humidity_2m": 89,
-        "apparent_temperature": 20.0,
-        "weather_code": 3,
-        "wind_speed_10m": 0.9,
-        "wind_direction_10m": 233
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Mexico",
-      "country_code": "MX",
-      "city": "Monterrey",
-      "latitude": 25.6866,
-      "longitude": -100.3161,
-      "timestamp": "2026-10-03T14:05:06.395410",
-      "current": {
-        "time": "2026-10-03T08:00",
-        "interval": 900,
-        "temperature_2m": 22.3,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 26.3,
-        "weather_code": 3,
-        "wind_speed_10m": 2.9,
-        "wind_direction_10m": 277
+        "temperature_2m": 19.0,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 20.8,
+        "weather_code": 0,
+        "wind_speed_10m": 4.1,
+        "wind_direction_10m": 90
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Tijuana",
       "latitude": 32.5149,
       "longitude": -117.0382,
-      "timestamp": "2026-10-03T14:05:06.397700",
+      "timestamp": "2026-10-04T14:31:18.673802",
       "current": {
-        "time": "2026-10-03T07:00",
+        "time": "2026-10-04T07:30",
         "interval": 900,
-        "temperature_2m": 24.2,
-        "relative_humidity_2m": 33,
-        "apparent_temperature": 21.7,
+        "temperature_2m": 26.0,
+        "relative_humidity_2m": 38,
+        "apparent_temperature": 24.8,
         "weather_code": 0,
-        "wind_speed_10m": 11.6,
-        "wind_direction_10m": 158
+        "wind_speed_10m": 9.3,
+        "wind_direction_10m": 144
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Cancun",
+      "latitude": 21.1619,
+      "longitude": -86.8515,
+      "timestamp": "2026-10-04T14:31:18.676619",
+      "current": {
+        "time": "2026-10-04T09:30",
+        "interval": 900,
+        "temperature_2m": 27.3,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 33.9,
+        "weather_code": 3,
+        "wind_speed_10m": 2.1,
+        "wind_direction_10m": 211
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Monterrey",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "timestamp": "2026-10-04T14:31:18.678020",
+      "current": {
+        "time": "2026-10-04T08:30",
+        "interval": 900,
+        "temperature_2m": 21.7,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 24.8,
+        "weather_code": 3,
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 302
       },
       "history_24h": null
     }
