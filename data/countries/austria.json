@@ -1,42 +1,42 @@
 {
   "country": "Austria",
-  "date": "2026-10-04",
+  "date": "2026-10-06",
   "cities": [
-    {
-      "country": "Austria",
-      "country_code": "AT",
-      "city": "Salzburg",
-      "latitude": 47.8095,
-      "longitude": 13.055,
-      "timestamp": "2026-10-04T14:31:19.177431",
-      "current": {
-        "time": "2026-10-04T16:30",
-        "interval": 900,
-        "temperature_2m": 21.7,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 21.3,
-        "weather_code": 3,
-        "wind_speed_10m": 9.0,
-        "wind_direction_10m": 344
-      },
-      "history_24h": null
-    },
     {
       "country": "Austria",
       "country_code": "AT",
       "city": "Vienna",
       "latitude": 48.2082,
       "longitude": 16.3738,
-      "timestamp": "2026-10-04T14:31:19.179007",
+      "timestamp": "2026-10-06T15:35:58.272476",
       "current": {
-        "time": "2026-10-04T16:30",
+        "time": "2026-10-06T17:30",
         "interval": 900,
-        "temperature_2m": 23.2,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 22.0,
-        "weather_code": 2,
-        "wind_speed_10m": 6.3,
-        "wind_direction_10m": 121
+        "temperature_2m": 22.9,
+        "relative_humidity_2m": 27,
+        "apparent_temperature": 19.4,
+        "weather_code": 0,
+        "wind_speed_10m": 12.8,
+        "wind_direction_10m": 130
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Salzburg",
+      "latitude": 47.8095,
+      "longitude": 13.055,
+      "timestamp": "2026-10-06T15:35:58.284894",
+      "current": {
+        "time": "2026-10-06T17:30",
+        "interval": 900,
+        "temperature_2m": 21.0,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 21.4,
+        "weather_code": 3,
+        "wind_speed_10m": 3.1,
+        "wind_direction_10m": 21
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Innsbruck",
       "latitude": 47.2692,
       "longitude": 11.4041,
-      "timestamp": "2026-10-04T14:31:19.184708",
+      "timestamp": "2026-10-06T15:35:58.294268",
       "current": {
-        "time": "2026-10-04T16:30",
+        "time": "2026-10-06T17:30",
         "interval": 900,
-        "temperature_2m": 22.8,
-        "relative_humidity_2m": 45,
-        "apparent_temperature": 21.8,
-        "weather_code": 2,
-        "wind_speed_10m": 7.6,
-        "wind_direction_10m": 45
+        "temperature_2m": 19.7,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 19.9,
+        "weather_code": 0,
+        "wind_speed_10m": 4.3,
+        "wind_direction_10m": 90
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Graz",
       "latitude": 47.0707,
       "longitude": 15.4395,
-      "timestamp": "2026-10-04T14:31:19.188568",
+      "timestamp": "2026-10-06T15:35:58.313701",
       "current": {
-        "time": "2026-10-04T16:30",
+        "time": "2026-10-06T17:30",
         "interval": 900,
         "temperature_2m": 20.5,
-        "relative_humidity_2m": 37,
-        "apparent_temperature": 18.5,
-        "weather_code": 0,
-        "wind_speed_10m": 5.7,
-        "wind_direction_10m": 162
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 18.4,
+        "weather_code": 3,
+        "wind_speed_10m": 7.1,
+        "wind_direction_10m": 165
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Hallstatt",
       "latitude": 47.5622,
       "longitude": 13.6493,
-      "timestamp": "2026-10-04T14:31:19.196111",
+      "timestamp": "2026-10-06T15:35:58.316273",
       "current": {
-        "time": "2026-10-04T16:30",
+        "time": "2026-10-06T17:30",
         "interval": 900,
-        "temperature_2m": 21.2,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 22.0,
-        "weather_code": 1,
-        "wind_speed_10m": 2.3,
-        "wind_direction_10m": 342
+        "temperature_2m": 21.6,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 21.9,
+        "weather_code": 3,
+        "wind_speed_10m": 2.1,
+        "wind_direction_10m": 59
       },
       "history_24h": null
     }
