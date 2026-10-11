@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "cities": [
     {
       "country": "Spain",
@@ -8,35 +8,16 @@
       "city": "Madrid",
       "latitude": 40.4168,
       "longitude": -3.7038,
-      "timestamp": "2026-10-10T14:56:07.994963",
+      "timestamp": "2026-10-11T15:12:58.635550",
       "current": {
-        "time": "2026-10-10T16:45",
+        "time": "2026-10-11T17:00",
         "interval": 900,
-        "temperature_2m": 23.7,
-        "relative_humidity_2m": 31,
-        "apparent_temperature": 22.3,
-        "weather_code": 0,
-        "wind_speed_10m": 1.5,
-        "wind_direction_10m": 225
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Spain",
-      "country_code": "ES",
-      "city": "Barcelona",
-      "latitude": 41.3851,
-      "longitude": 2.1734,
-      "timestamp": "2026-10-10T14:56:07.996375",
-      "current": {
-        "time": "2026-10-10T16:45",
-        "interval": 900,
-        "temperature_2m": 23.6,
-        "relative_humidity_2m": 47,
-        "apparent_temperature": 22.0,
-        "weather_code": 1,
-        "wind_speed_10m": 13.7,
-        "wind_direction_10m": 198
+        "temperature_2m": 23.3,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 22.1,
+        "weather_code": 2,
+        "wind_speed_10m": 6.6,
+        "wind_direction_10m": 229
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Valencia",
       "latitude": 39.4699,
       "longitude": -0.3763,
-      "timestamp": "2026-10-10T14:56:07.998220",
+      "timestamp": "2026-10-11T15:12:58.639924",
       "current": {
-        "time": "2026-10-10T16:45",
+        "time": "2026-10-11T17:00",
         "interval": 900,
-        "temperature_2m": 24.1,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 22.3,
-        "weather_code": 0,
-        "wind_speed_10m": 9.7,
-        "wind_direction_10m": 135
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 25.4,
+        "weather_code": 3,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 127
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Barcelona",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "timestamp": "2026-10-11T15:12:58.641070",
+      "current": {
+        "time": "2026-10-11T17:00",
+        "interval": 900,
+        "temperature_2m": 21.7,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 22.4,
+        "weather_code": 2,
+        "wind_speed_10m": 7.4,
+        "wind_direction_10m": 113
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Seville",
       "latitude": 37.3891,
       "longitude": -5.9845,
-      "timestamp": "2026-10-10T14:56:08.002026",
+      "timestamp": "2026-10-11T15:12:58.695659",
       "current": {
-        "time": "2026-10-10T16:45",
+        "time": "2026-10-11T17:00",
         "interval": 900,
-        "temperature_2m": 29.3,
-        "relative_humidity_2m": 26,
-        "apparent_temperature": 28.3,
-        "weather_code": 0,
-        "wind_speed_10m": 3.2,
-        "wind_direction_10m": 360
+        "temperature_2m": 27.5,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 27.6,
+        "weather_code": 2,
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 254
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Bilbao",
       "latitude": 43.263,
       "longitude": -2.935,
-      "timestamp": "2026-10-10T14:56:08.020059",
+      "timestamp": "2026-10-11T15:12:58.698138",
       "current": {
-        "time": "2026-10-10T16:45",
+        "time": "2026-10-11T17:00",
         "interval": 900,
-        "temperature_2m": 21.3,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 21.5,
-        "weather_code": 1,
-        "wind_speed_10m": 10.6,
-        "wind_direction_10m": 342
+        "temperature_2m": 22.5,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 22.3,
+        "weather_code": 0,
+        "wind_speed_10m": 9.5,
+        "wind_direction_10m": 335
       },
       "history_24h": null
     }
