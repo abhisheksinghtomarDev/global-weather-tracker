@@ -1,6 +1,6 @@
 {
   "country": "Switzerland",
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "cities": [
     {
       "country": "Switzerland",
@@ -8,54 +8,16 @@
       "city": "Zurich",
       "latitude": 47.3769,
       "longitude": 8.5417,
-      "timestamp": "2026-10-11T15:12:59.264002",
+      "timestamp": "2026-10-12T18:24:46.376258",
       "current": {
-        "time": "2026-10-11T17:00",
+        "time": "2026-10-12T20:15",
         "interval": 900,
-        "temperature_2m": 13.5,
-        "relative_humidity_2m": 58,
-        "apparent_temperature": 10.8,
-        "weather_code": 3,
-        "wind_speed_10m": 10.4,
-        "wind_direction_10m": 290
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Switzerland",
-      "country_code": "CH",
-      "city": "Bern",
-      "latitude": 46.948,
-      "longitude": 7.4474,
-      "timestamp": "2026-10-11T15:12:59.265409",
-      "current": {
-        "time": "2026-10-11T17:00",
-        "interval": 900,
-        "temperature_2m": 13.9,
-        "relative_humidity_2m": 49,
-        "apparent_temperature": 11.2,
-        "weather_code": 3,
-        "wind_speed_10m": 7.7,
-        "wind_direction_10m": 281
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Switzerland",
-      "country_code": "CH",
-      "city": "Interlaken",
-      "latitude": 46.6863,
-      "longitude": 7.8632,
-      "timestamp": "2026-10-11T15:12:59.266609",
-      "current": {
-        "time": "2026-10-11T17:00",
-        "interval": 900,
-        "temperature_2m": 13.5,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 10.5,
-        "weather_code": 3,
-        "wind_speed_10m": 14.1,
-        "wind_direction_10m": 238
+        "temperature_2m": 12.3,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 10.2,
+        "weather_code": 0,
+        "wind_speed_10m": 4.1,
+        "wind_direction_10m": 45
       },
       "history_24h": null
     },
@@ -65,16 +27,35 @@
       "city": "Geneva",
       "latitude": 46.2044,
       "longitude": 6.1432,
-      "timestamp": "2026-10-11T15:13:00.413606",
+      "timestamp": "2026-10-12T18:24:46.378923",
       "current": {
-        "time": "2026-10-11T17:00",
+        "time": "2026-10-12T20:15",
         "interval": 900,
-        "temperature_2m": 15.9,
-        "relative_humidity_2m": 50,
-        "apparent_temperature": 14.3,
-        "weather_code": 3,
-        "wind_speed_10m": 4.0,
-        "wind_direction_10m": 80
+        "temperature_2m": 14.7,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 14.7,
+        "weather_code": 0,
+        "wind_speed_10m": 0.5,
+        "wind_direction_10m": 315
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Bern",
+      "latitude": 46.948,
+      "longitude": 7.4474,
+      "timestamp": "2026-10-12T18:24:46.383221",
+      "current": {
+        "time": "2026-10-12T20:15",
+        "interval": 900,
+        "temperature_2m": 10.7,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 9.7,
+        "weather_code": 0,
+        "wind_speed_10m": 1.1,
+        "wind_direction_10m": 270
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Lucerne",
       "latitude": 47.0502,
       "longitude": 8.3093,
-      "timestamp": "2026-10-11T15:13:00.415596",
+      "timestamp": "2026-10-12T18:24:46.384451",
       "current": {
-        "time": "2026-10-11T17:00",
+        "time": "2026-10-12T20:15",
         "interval": 900,
-        "temperature_2m": 14.5,
-        "relative_humidity_2m": 58,
-        "apparent_temperature": 12.5,
-        "weather_code": 3,
-        "wind_speed_10m": 7.0,
-        "wind_direction_10m": 325
+        "temperature_2m": 9.7,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 7.9,
+        "weather_code": 0,
+        "wind_speed_10m": 5.1,
+        "wind_direction_10m": 266
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Interlaken",
+      "latitude": 46.6863,
+      "longitude": 7.8632,
+      "timestamp": "2026-10-12T18:24:46.385789",
+      "current": {
+        "time": "2026-10-12T20:15",
+        "interval": 900,
+        "temperature_2m": 12.4,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 11.5,
+        "weather_code": 0,
+        "wind_speed_10m": 1.6,
+        "wind_direction_10m": 153
       },
       "history_24h": null
     }
