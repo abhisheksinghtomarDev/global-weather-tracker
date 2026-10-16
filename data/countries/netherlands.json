@@ -1,61 +1,42 @@
 {
   "country": "Netherlands",
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "cities": [
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "city": "Amsterdam",
-      "latitude": 52.3676,
-      "longitude": 4.9041,
-      "timestamp": "2026-10-15T13:48:49.998539",
-      "current": {
-        "time": "2026-10-15T15:45",
-        "interval": 900,
-        "temperature_2m": 18.2,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 16.8,
-        "weather_code": 3,
-        "wind_speed_10m": 17.3,
-        "wind_direction_10m": 199
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "city": "The Hague",
-      "latitude": 52.0705,
-      "longitude": 4.3007,
-      "timestamp": "2026-10-15T13:48:49.999925",
-      "current": {
-        "time": "2026-10-15T15:45",
-        "interval": 900,
-        "temperature_2m": 18.0,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 16.9,
-        "weather_code": 3,
-        "wind_speed_10m": 15.1,
-        "wind_direction_10m": 193
-      },
-      "history_24h": null
-    },
     {
       "country": "Netherlands",
       "country_code": "NL",
       "city": "Rotterdam",
       "latitude": 51.9244,
       "longitude": 4.4777,
-      "timestamp": "2026-10-15T13:48:50.001150",
+      "timestamp": "2026-10-16T13:39:00.047409",
       "current": {
-        "time": "2026-10-15T15:45",
+        "time": "2026-10-16T15:30",
         "interval": 900,
-        "temperature_2m": 17.7,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 16.2,
-        "weather_code": 3,
-        "wind_speed_10m": 16.6,
-        "wind_direction_10m": 195
+        "temperature_2m": 16.9,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 16.9,
+        "weather_code": 53,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 264
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "Amsterdam",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "timestamp": "2026-10-16T13:39:00.048758",
+      "current": {
+        "time": "2026-10-16T15:30",
+        "interval": 900,
+        "temperature_2m": 16.7,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 16.8,
+        "weather_code": 55,
+        "wind_speed_10m": 10.4,
+        "wind_direction_10m": 291
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Utrecht",
       "latitude": 52.0907,
       "longitude": 5.1214,
-      "timestamp": "2026-10-15T13:48:50.023952",
+      "timestamp": "2026-10-16T13:39:00.051550",
       "current": {
-        "time": "2026-10-15T15:45",
+        "time": "2026-10-16T15:30",
         "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 17.0,
+        "temperature_2m": 17.6,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 17.2,
         "weather_code": 3,
-        "wind_speed_10m": 15.1,
-        "wind_direction_10m": 204
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 252
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "The Hague",
+      "latitude": 52.0705,
+      "longitude": 4.3007,
+      "timestamp": "2026-10-16T13:39:00.052955",
+      "current": {
+        "time": "2026-10-16T15:30",
+        "interval": 900,
+        "temperature_2m": 16.2,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 16.8,
+        "weather_code": 53,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 281
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Eindhoven",
       "latitude": 51.4416,
       "longitude": 5.4697,
-      "timestamp": "2026-10-15T13:48:50.053958",
+      "timestamp": "2026-10-16T13:39:00.055643",
       "current": {
-        "time": "2026-10-15T15:45",
+        "time": "2026-10-16T15:30",
         "interval": 900,
         "temperature_2m": 18.7,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 17.6,
-        "weather_code": 3,
-        "wind_speed_10m": 12.2,
-        "wind_direction_10m": 200
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 18.3,
+        "weather_code": 2,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 250
       },
       "history_24h": null
     }
