@@ -1,6 +1,6 @@
 {
   "country": "Peru",
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "cities": [
     {
       "country": "Peru",
@@ -8,16 +8,16 @@
       "city": "Lima",
       "latitude": -12.0464,
       "longitude": -77.0428,
-      "timestamp": "2026-10-16T13:39:00.356217",
+      "timestamp": "2026-10-17T12:36:20.420278",
       "current": {
-        "time": "2026-10-16T08:30",
+        "time": "2026-10-17T07:30",
         "interval": 900,
-        "temperature_2m": 23.7,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 25.1,
-        "weather_code": 1,
-        "wind_speed_10m": 8.6,
-        "wind_direction_10m": 160
+        "temperature_2m": 21.9,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 23.2,
+        "weather_code": 3,
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 115
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Cusco",
       "latitude": -13.5319,
       "longitude": -71.9675,
-      "timestamp": "2026-10-16T13:39:00.361569",
+      "timestamp": "2026-10-17T12:36:20.444616",
       "current": {
-        "time": "2026-10-16T08:30",
+        "time": "2026-10-17T07:30",
         "interval": 900,
-        "temperature_2m": 15.3,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 15.0,
-        "weather_code": 0,
-        "wind_speed_10m": 0.6,
-        "wind_direction_10m": 72
+        "temperature_2m": 11.0,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 10.4,
+        "weather_code": 2,
+        "wind_speed_10m": 0.8,
+        "wind_direction_10m": 63
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Arequipa",
       "latitude": -16.409,
       "longitude": -71.5375,
-      "timestamp": "2026-10-16T13:39:00.371739",
+      "timestamp": "2026-10-17T12:36:20.454779",
       "current": {
-        "time": "2026-10-16T08:30",
+        "time": "2026-10-17T07:30",
         "interval": 900,
-        "temperature_2m": 21.3,
-        "relative_humidity_2m": 16,
-        "apparent_temperature": 19.2,
+        "temperature_2m": 19.1,
+        "relative_humidity_2m": 11,
+        "apparent_temperature": 15.4,
         "weather_code": 0,
-        "wind_speed_10m": 4.5,
-        "wind_direction_10m": 217
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Peru",
-      "country_code": "PE",
-      "city": "Machu Picchu",
-      "latitude": -13.1631,
-      "longitude": -72.545,
-      "timestamp": "2026-10-16T13:39:00.377994",
-      "current": {
-        "time": "2026-10-16T08:30",
-        "interval": 900,
-        "temperature_2m": 18.7,
-        "relative_humidity_2m": 59,
-        "apparent_temperature": 18.8,
-        "weather_code": 0,
-        "wind_speed_10m": 3.1,
-        "wind_direction_10m": 280
+        "wind_speed_10m": 1.7,
+        "wind_direction_10m": 162
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Trujillo",
       "latitude": -8.1116,
       "longitude": -79.0288,
-      "timestamp": "2026-10-16T13:39:00.389276",
+      "timestamp": "2026-10-17T12:36:20.458314",
       "current": {
-        "time": "2026-10-16T08:30",
+        "time": "2026-10-17T07:30",
         "interval": 900,
-        "temperature_2m": 25.8,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 27.3,
-        "weather_code": 1,
-        "wind_speed_10m": 11.3,
-        "wind_direction_10m": 147
+        "temperature_2m": 24.3,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 26.1,
+        "weather_code": 3,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 116
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Machu Picchu",
+      "latitude": -13.1631,
+      "longitude": -72.545,
+      "timestamp": "2026-10-17T12:36:20.476095",
+      "current": {
+        "time": "2026-10-17T07:30",
+        "interval": 900,
+        "temperature_2m": 16.1,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 16.3,
+        "weather_code": 2,
+        "wind_speed_10m": 1.2,
+        "wind_direction_10m": 207
       },
       "history_24h": null
     }
