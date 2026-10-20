@@ -1,61 +1,23 @@
 {
   "country": "United States",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "cities": [
-    {
-      "country": "United States",
-      "country_code": "US",
-      "city": "New York",
-      "latitude": 40.7128,
-      "longitude": -74.006,
-      "timestamp": "2026-10-19T16:02:58.699211",
-      "current": {
-        "time": "2026-10-19T12:00",
-        "interval": 900,
-        "temperature_2m": 14.9,
-        "relative_humidity_2m": 54,
-        "apparent_temperature": 12.6,
-        "weather_code": 0,
-        "wind_speed_10m": 11.9,
-        "wind_direction_10m": 40
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United States",
-      "country_code": "US",
-      "city": "Seattle",
-      "latitude": 47.6062,
-      "longitude": -122.3321,
-      "timestamp": "2026-10-19T16:02:58.700138",
-      "current": {
-        "time": "2026-10-19T09:00",
-        "interval": 900,
-        "temperature_2m": 8.3,
-        "relative_humidity_2m": 91,
-        "apparent_temperature": 7.1,
-        "weather_code": 3,
-        "wind_speed_10m": 2.8,
-        "wind_direction_10m": 24
-      },
-      "history_24h": null
-    },
     {
       "country": "United States",
       "country_code": "US",
       "city": "San Francisco",
       "latitude": 37.7749,
       "longitude": -122.4194,
-      "timestamp": "2026-10-19T16:02:58.716141",
+      "timestamp": "2026-10-20T13:59:31.173088",
       "current": {
-        "time": "2026-10-19T09:00",
+        "time": "2026-10-20T06:45",
         "interval": 900,
-        "temperature_2m": 14.3,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 12.4,
-        "weather_code": 0,
-        "wind_speed_10m": 12.2,
-        "wind_direction_10m": 268
+        "temperature_2m": 10.6,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 8.5,
+        "weather_code": 1,
+        "wind_speed_10m": 8.7,
+        "wind_direction_10m": 169
       },
       "history_24h": null
     },
@@ -65,35 +27,16 @@
       "city": "Miami",
       "latitude": 25.7617,
       "longitude": -80.1918,
-      "timestamp": "2026-10-19T16:02:58.742581",
+      "timestamp": "2026-10-20T13:59:31.190415",
       "current": {
-        "time": "2026-10-19T12:00",
+        "time": "2026-10-20T09:45",
         "interval": 900,
-        "temperature_2m": 27.9,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 29.8,
-        "weather_code": 0,
-        "wind_speed_10m": 21.6,
-        "wind_direction_10m": 67
-      },
-      "history_24h": null
-    },
-    {
-      "country": "United States",
-      "country_code": "US",
-      "city": "Boston",
-      "latitude": 42.3601,
-      "longitude": -71.0589,
-      "timestamp": "2026-10-19T16:02:58.743627",
-      "current": {
-        "time": "2026-10-19T12:00",
-        "interval": 900,
-        "temperature_2m": 12.9,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 11.0,
-        "weather_code": 0,
-        "wind_speed_10m": 8.5,
-        "wind_direction_10m": 94
+        "temperature_2m": 24.7,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 26.8,
+        "weather_code": 3,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 29
       },
       "history_24h": null
     },
@@ -103,16 +46,16 @@
       "city": "Denver",
       "latitude": 39.7392,
       "longitude": -104.9903,
-      "timestamp": "2026-10-19T16:02:58.746586",
+      "timestamp": "2026-10-20T13:59:31.214447",
       "current": {
-        "time": "2026-10-19T10:00",
+        "time": "2026-10-20T07:45",
         "interval": 900,
-        "temperature_2m": 11.7,
-        "relative_humidity_2m": 38,
-        "apparent_temperature": 8.8,
+        "temperature_2m": 6.7,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 3.9,
         "weather_code": 0,
-        "wind_speed_10m": 3.5,
-        "wind_direction_10m": 19
+        "wind_speed_10m": 5.7,
+        "wind_direction_10m": 231
       },
       "history_24h": null
     },
@@ -122,35 +65,54 @@
       "city": "Los Angeles",
       "latitude": 34.0522,
       "longitude": -118.2437,
-      "timestamp": "2026-10-19T16:02:58.748037",
+      "timestamp": "2026-10-20T13:59:31.216697",
       "current": {
-        "time": "2026-10-19T09:00",
+        "time": "2026-10-20T06:45",
         "interval": 900,
-        "temperature_2m": 21.9,
-        "relative_humidity_2m": 45,
-        "apparent_temperature": 20.8,
-        "weather_code": 0,
-        "wind_speed_10m": 7.0,
-        "wind_direction_10m": 56
+        "temperature_2m": 18.7,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 21.0,
+        "weather_code": 3,
+        "wind_speed_10m": 3.5,
+        "wind_direction_10m": 53
       },
       "history_24h": null
     },
     {
       "country": "United States",
       "country_code": "US",
-      "city": "Chicago",
-      "latitude": 41.8781,
-      "longitude": -87.6298,
-      "timestamp": "2026-10-19T16:02:58.748748",
+      "city": "Boston",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "timestamp": "2026-10-20T13:59:31.224113",
       "current": {
-        "time": "2026-10-19T11:00",
+        "time": "2026-10-20T09:45",
         "interval": 900,
-        "temperature_2m": 12.9,
-        "relative_humidity_2m": 74,
-        "apparent_temperature": 11.5,
+        "temperature_2m": 9.9,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 6.9,
+        "weather_code": 3,
+        "wind_speed_10m": 14.1,
+        "wind_direction_10m": 3
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "New York",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "timestamp": "2026-10-20T13:59:31.225632",
+      "current": {
+        "time": "2026-10-20T09:45",
+        "interval": 900,
+        "temperature_2m": 13.7,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 9.8,
         "weather_code": 0,
-        "wind_speed_10m": 6.4,
-        "wind_direction_10m": 213
+        "wind_speed_10m": 20.7,
+        "wind_direction_10m": 23
       },
       "history_24h": null
     },
@@ -160,16 +122,54 @@
       "city": "Houston",
       "latitude": 29.7604,
       "longitude": -95.3698,
-      "timestamp": "2026-10-19T16:02:58.758571",
+      "timestamp": "2026-10-20T13:59:31.227021",
       "current": {
-        "time": "2026-10-19T11:00",
+        "time": "2026-10-20T08:45",
         "interval": 900,
-        "temperature_2m": 21.4,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 21.6,
-        "weather_code": 3,
-        "wind_speed_10m": 10.1,
-        "wind_direction_10m": 85
+        "temperature_2m": 15.4,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 14.3,
+        "weather_code": 0,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 31
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Chicago",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "timestamp": "2026-10-20T13:59:31.233488",
+      "current": {
+        "time": "2026-10-20T08:45",
+        "interval": 900,
+        "temperature_2m": 7.2,
+        "relative_humidity_2m": 100,
+        "apparent_temperature": 6.3,
+        "weather_code": 45,
+        "wind_speed_10m": 1.1,
+        "wind_direction_10m": 258
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Seattle",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "timestamp": "2026-10-20T13:59:31.235161",
+      "current": {
+        "time": "2026-10-20T06:45",
+        "interval": 900,
+        "temperature_2m": 7.0,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 4.5,
+        "weather_code": 0,
+        "wind_speed_10m": 8.5,
+        "wind_direction_10m": 38
       },
       "history_24h": null
     },
@@ -179,16 +179,16 @@
       "city": "Phoenix",
       "latitude": 33.4484,
       "longitude": -112.074,
-      "timestamp": "2026-10-19T16:02:58.765863",
+      "timestamp": "2026-10-20T13:59:31.236462",
       "current": {
-        "time": "2026-10-19T09:00",
+        "time": "2026-10-20T06:45",
         "interval": 900,
-        "temperature_2m": 24.3,
-        "relative_humidity_2m": 44,
-        "apparent_temperature": 23.8,
+        "temperature_2m": 20.7,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 21.3,
         "weather_code": 0,
-        "wind_speed_10m": 5.9,
-        "wind_direction_10m": 92
+        "wind_speed_10m": 1.1,
+        "wind_direction_10m": 153
       },
       "history_24h": null
     }

@@ -1,6 +1,6 @@
 {
   "country": "Hungary",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "cities": [
     {
       "country": "Hungary",
@@ -8,54 +8,16 @@
       "city": "Budapest",
       "latitude": 47.4979,
       "longitude": 19.0402,
-      "timestamp": "2026-10-19T16:03:00.180514",
+      "timestamp": "2026-10-20T13:59:33.022053",
       "current": {
-        "time": "2026-10-19T18:00",
+        "time": "2026-10-20T15:45",
         "interval": 900,
-        "temperature_2m": 15.9,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 13.4,
-        "weather_code": 3,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 208
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Hungary",
-      "country_code": "HU",
-      "city": "Szeged",
-      "latitude": 46.253,
-      "longitude": 20.1414,
-      "timestamp": "2026-10-19T16:03:00.185351",
-      "current": {
-        "time": "2026-10-19T18:00",
-        "interval": 900,
-        "temperature_2m": 16.9,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 14.5,
-        "weather_code": 3,
-        "wind_speed_10m": 6.1,
-        "wind_direction_10m": 351
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Hungary",
-      "country_code": "HU",
-      "city": "Debrecen",
-      "latitude": 47.5316,
-      "longitude": 21.6273,
-      "timestamp": "2026-10-19T16:03:00.193750",
-      "current": {
-        "time": "2026-10-19T18:00",
-        "interval": 900,
-        "temperature_2m": 14.9,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 12.3,
-        "weather_code": 3,
-        "wind_speed_10m": 9.7,
-        "wind_direction_10m": 353
+        "temperature_2m": 16.8,
+        "relative_humidity_2m": 46,
+        "apparent_temperature": 14.1,
+        "weather_code": 2,
+        "wind_speed_10m": 10.4,
+        "wind_direction_10m": 137
       },
       "history_24h": null
     },
@@ -65,16 +27,54 @@
       "city": "Lake Balaton",
       "latitude": 46.7094,
       "longitude": 17.5526,
-      "timestamp": "2026-10-19T16:03:00.194183",
+      "timestamp": "2026-10-20T13:59:33.032924",
       "current": {
-        "time": "2026-10-19T18:00",
+        "time": "2026-10-20T15:45",
         "interval": 900,
-        "temperature_2m": 13.5,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 12.2,
-        "weather_code": 0,
-        "wind_speed_10m": 4.8,
-        "wind_direction_10m": 347
+        "temperature_2m": 19.6,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 16.7,
+        "weather_code": 2,
+        "wind_speed_10m": 17.9,
+        "wind_direction_10m": 161
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "city": "Szeged",
+      "latitude": 46.253,
+      "longitude": 20.1414,
+      "timestamp": "2026-10-20T13:59:33.045394",
+      "current": {
+        "time": "2026-10-20T15:45",
+        "interval": 900,
+        "temperature_2m": 18.8,
+        "relative_humidity_2m": 36,
+        "apparent_temperature": 16.2,
+        "weather_code": 3,
+        "wind_speed_10m": 6.8,
+        "wind_direction_10m": 131
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "city": "Debrecen",
+      "latitude": 47.5316,
+      "longitude": 21.6273,
+      "timestamp": "2026-10-20T13:59:33.046845",
+      "current": {
+        "time": "2026-10-20T15:45",
+        "interval": 900,
+        "temperature_2m": 17.3,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 15.4,
+        "weather_code": 2,
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 203
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Pecs",
       "latitude": 46.0792,
       "longitude": 18.2,
-      "timestamp": "2026-10-19T16:03:00.199507",
+      "timestamp": "2026-10-20T13:59:33.051053",
       "current": {
-        "time": "2026-10-19T18:00",
+        "time": "2026-10-20T15:45",
         "interval": 900,
-        "temperature_2m": 16.0,
-        "relative_humidity_2m": 45,
-        "apparent_temperature": 13.7,
-        "weather_code": 1,
-        "wind_speed_10m": 6.5,
-        "wind_direction_10m": 11
+        "temperature_2m": 19.3,
+        "relative_humidity_2m": 35,
+        "apparent_temperature": 16.4,
+        "weather_code": 2,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 156
       },
       "history_24h": null
     }
