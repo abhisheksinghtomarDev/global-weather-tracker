@@ -1,6 +1,6 @@
 {
   "country": "South Africa",
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "cities": [
     {
       "country": "South Africa",
@@ -8,16 +8,16 @@
       "city": "Johannesburg",
       "latitude": -26.2041,
       "longitude": 28.0473,
-      "timestamp": "2026-10-20T13:59:32.186709",
+      "timestamp": "2026-10-21T14:15:29.254096",
       "current": {
-        "time": "2026-10-20T15:45",
+        "time": "2026-10-21T16:15",
         "interval": 900,
-        "temperature_2m": 25.5,
+        "temperature_2m": 27.3,
         "relative_humidity_2m": 14,
-        "apparent_temperature": 21.8,
+        "apparent_temperature": 22.8,
         "weather_code": 0,
-        "wind_speed_10m": 8.1,
-        "wind_direction_10m": 267
+        "wind_speed_10m": 13.7,
+        "wind_direction_10m": 260
       },
       "history_24h": null
     },
@@ -27,35 +27,16 @@
       "city": "Cape Town",
       "latitude": -33.9249,
       "longitude": 18.4241,
-      "timestamp": "2026-10-20T13:59:32.188613",
+      "timestamp": "2026-10-21T14:15:29.259743",
       "current": {
-        "time": "2026-10-20T15:45",
+        "time": "2026-10-21T16:15",
         "interval": 900,
-        "temperature_2m": 14.9,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 12.2,
-        "weather_code": 3,
-        "wind_speed_10m": 18.8,
-        "wind_direction_10m": 302
-      },
-      "history_24h": null
-    },
-    {
-      "country": "South Africa",
-      "country_code": "ZA",
-      "city": "Pretoria",
-      "latitude": -25.7479,
-      "longitude": 28.2293,
-      "timestamp": "2026-10-20T13:59:32.195979",
-      "current": {
-        "time": "2026-10-20T15:45",
-        "interval": 900,
-        "temperature_2m": 28.6,
-        "relative_humidity_2m": 9,
-        "apparent_temperature": 24.3,
-        "weather_code": 0,
-        "wind_speed_10m": 10.0,
-        "wind_direction_10m": 261
+        "temperature_2m": 17.3,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 16.1,
+        "weather_code": 51,
+        "wind_speed_10m": 16.8,
+        "wind_direction_10m": 301
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Durban",
       "latitude": -29.8587,
       "longitude": 31.0218,
-      "timestamp": "2026-10-20T13:59:32.205585",
+      "timestamp": "2026-10-21T14:15:29.260834",
       "current": {
-        "time": "2026-10-20T15:45",
+        "time": "2026-10-21T16:15",
         "interval": 900,
-        "temperature_2m": 21.4,
-        "relative_humidity_2m": 58,
-        "apparent_temperature": 20.7,
-        "weather_code": 0,
-        "wind_speed_10m": 10.3,
-        "wind_direction_10m": 83
+        "temperature_2m": 25.5,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 23.8,
+        "weather_code": 1,
+        "wind_speed_10m": 14.8,
+        "wind_direction_10m": 180
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Port Elizabeth",
       "latitude": -33.9608,
       "longitude": 25.5852,
-      "timestamp": "2026-10-20T13:59:32.214295",
+      "timestamp": "2026-10-21T14:15:29.268553",
       "current": {
-        "time": "2026-10-20T15:45",
+        "time": "2026-10-21T16:15",
         "interval": 900,
-        "temperature_2m": 17.9,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 16.4,
-        "weather_code": 3,
-        "wind_speed_10m": 12.7,
-        "wind_direction_10m": 83
+        "temperature_2m": 19.1,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 15.5,
+        "weather_code": 1,
+        "wind_speed_10m": 31.8,
+        "wind_direction_10m": 231
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "city": "Pretoria",
+      "latitude": -25.7479,
+      "longitude": 28.2293,
+      "timestamp": "2026-10-21T14:15:29.278023",
+      "current": {
+        "time": "2026-10-21T16:15",
+        "interval": 900,
+        "temperature_2m": 29.6,
+        "relative_humidity_2m": 15,
+        "apparent_temperature": 25.4,
+        "weather_code": 0,
+        "wind_speed_10m": 13.9,
+        "wind_direction_10m": 295
       },
       "history_24h": null
     }
