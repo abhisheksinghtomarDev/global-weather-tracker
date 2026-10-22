@@ -1,6 +1,6 @@
 {
   "country": "Austria",
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "cities": [
     {
       "country": "Austria",
@@ -8,54 +8,16 @@
       "city": "Vienna",
       "latitude": 48.2082,
       "longitude": 16.3738,
-      "timestamp": "2026-10-21T14:15:29.825682",
+      "timestamp": "2026-10-22T14:14:55.586714",
       "current": {
-        "time": "2026-10-21T16:15",
+        "time": "2026-10-22T16:00",
         "interval": 900,
-        "temperature_2m": 20.6,
-        "relative_humidity_2m": 49,
-        "apparent_temperature": 17.7,
-        "weather_code": 3,
-        "wind_speed_10m": 18.7,
-        "wind_direction_10m": 161
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Austria",
-      "country_code": "AT",
-      "city": "Salzburg",
-      "latitude": 47.8095,
-      "longitude": 13.055,
-      "timestamp": "2026-10-21T14:15:29.835588",
-      "current": {
-        "time": "2026-10-21T16:15",
-        "interval": 900,
-        "temperature_2m": 12.3,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 11.2,
-        "weather_code": 61,
-        "wind_speed_10m": 7.7,
-        "wind_direction_10m": 11
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Austria",
-      "country_code": "AT",
-      "city": "Innsbruck",
-      "latitude": 47.2692,
-      "longitude": 11.4041,
-      "timestamp": "2026-10-21T14:15:29.836711",
-      "current": {
-        "time": "2026-10-21T16:15",
-        "interval": 900,
-        "temperature_2m": 16.5,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 15.7,
-        "weather_code": 61,
-        "wind_speed_10m": 5.5,
-        "wind_direction_10m": 349
+        "temperature_2m": 14.1,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 10.1,
+        "weather_code": 2,
+        "wind_speed_10m": 15.5,
+        "wind_direction_10m": 292
       },
       "history_24h": null
     },
@@ -65,16 +27,54 @@
       "city": "Graz",
       "latitude": 47.0707,
       "longitude": 15.4395,
-      "timestamp": "2026-10-21T14:15:29.837839",
+      "timestamp": "2026-10-22T14:14:55.588898",
       "current": {
-        "time": "2026-10-21T16:15",
+        "time": "2026-10-22T16:00",
         "interval": 900,
         "temperature_2m": 14.5,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 14.5,
-        "weather_code": 61,
-        "wind_speed_10m": 3.1,
-        "wind_direction_10m": 21
+        "relative_humidity_2m": 38,
+        "apparent_temperature": 11.0,
+        "weather_code": 1,
+        "wind_speed_10m": 9.8,
+        "wind_direction_10m": 332
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Salzburg",
+      "latitude": 47.8095,
+      "longitude": 13.055,
+      "timestamp": "2026-10-22T14:14:55.589869",
+      "current": {
+        "time": "2026-10-22T16:00",
+        "interval": 900,
+        "temperature_2m": 13.1,
+        "relative_humidity_2m": 47,
+        "apparent_temperature": 10.1,
+        "weather_code": 1,
+        "wind_speed_10m": 8.2,
+        "wind_direction_10m": 308
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Innsbruck",
+      "latitude": 47.2692,
+      "longitude": 11.4041,
+      "timestamp": "2026-10-22T14:14:55.591132",
+      "current": {
+        "time": "2026-10-22T16:00",
+        "interval": 900,
+        "temperature_2m": 12.7,
+        "relative_humidity_2m": 46,
+        "apparent_temperature": 10.1,
+        "weather_code": 1,
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 150
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Hallstatt",
       "latitude": 47.5622,
       "longitude": 13.6493,
-      "timestamp": "2026-10-21T14:15:29.853032",
+      "timestamp": "2026-10-22T14:14:55.596377",
       "current": {
-        "time": "2026-10-21T16:15",
+        "time": "2026-10-22T16:00",
         "interval": 900,
-        "temperature_2m": 19.4,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 19.0,
-        "weather_code": 61,
-        "wind_speed_10m": 9.2,
-        "wind_direction_10m": 318
+        "temperature_2m": 11.4,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 9.7,
+        "weather_code": 2,
+        "wind_speed_10m": 1.8,
+        "wind_direction_10m": 37
       },
       "history_24h": null
     }

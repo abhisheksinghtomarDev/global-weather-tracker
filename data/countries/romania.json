@@ -1,6 +1,6 @@
 {
   "country": "Romania",
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "cities": [
     {
       "country": "Romania",
@@ -8,16 +8,16 @@
       "city": "Bucharest",
       "latitude": 44.4268,
       "longitude": 26.1025,
-      "timestamp": "2026-10-21T14:15:29.993455",
+      "timestamp": "2026-10-22T14:14:55.731458",
       "current": {
-        "time": "2026-10-21T17:15",
+        "time": "2026-10-22T17:00",
         "interval": 900,
-        "temperature_2m": 18.5,
-        "relative_humidity_2m": 70,
-        "apparent_temperature": 18.2,
-        "weather_code": 1,
-        "wind_speed_10m": 8.1,
-        "wind_direction_10m": 69
+        "temperature_2m": 16.5,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 17.7,
+        "weather_code": 3,
+        "wind_speed_10m": 1.1,
+        "wind_direction_10m": 72
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Cluj-Napoca",
       "latitude": 46.7712,
       "longitude": 23.6236,
-      "timestamp": "2026-10-21T14:15:29.995425",
+      "timestamp": "2026-10-22T14:14:55.736210",
       "current": {
-        "time": "2026-10-21T17:15",
+        "time": "2026-10-22T17:00",
         "interval": 900,
-        "temperature_2m": 18.5,
-        "relative_humidity_2m": 53,
-        "apparent_temperature": 16.3,
-        "weather_code": 0,
-        "wind_speed_10m": 12.5,
-        "wind_direction_10m": 134
+        "temperature_2m": 15.1,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 14.5,
+        "weather_code": 80,
+        "wind_speed_10m": 7.4,
+        "wind_direction_10m": 137
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Brasov",
       "latitude": 45.6427,
       "longitude": 25.5887,
-      "timestamp": "2026-10-21T14:15:30.024805",
+      "timestamp": "2026-10-22T14:14:55.736940",
       "current": {
-        "time": "2026-10-21T17:15",
+        "time": "2026-10-22T17:00",
         "interval": 900,
-        "temperature_2m": 18.7,
-        "relative_humidity_2m": 55,
-        "apparent_temperature": 17.9,
-        "weather_code": 0,
-        "wind_speed_10m": 4.6,
-        "wind_direction_10m": 198
+        "temperature_2m": 15.7,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 15.7,
+        "weather_code": 1,
+        "wind_speed_10m": 2.9,
+        "wind_direction_10m": 210
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Sibiu",
       "latitude": 45.7928,
       "longitude": 24.1433,
-      "timestamp": "2026-10-21T14:15:30.058444",
+      "timestamp": "2026-10-22T14:14:55.739000",
       "current": {
-        "time": "2026-10-21T17:15",
+        "time": "2026-10-22T17:00",
         "interval": 900,
-        "temperature_2m": 19.6,
-        "relative_humidity_2m": 42,
-        "apparent_temperature": 15.9,
-        "weather_code": 0,
-        "wind_speed_10m": 19.4,
-        "wind_direction_10m": 132
+        "temperature_2m": 17.3,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 16.7,
+        "weather_code": 3,
+        "wind_speed_10m": 6.0,
+        "wind_direction_10m": 147
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Timisoara",
       "latitude": 45.7537,
       "longitude": 21.2251,
-      "timestamp": "2026-10-21T14:15:30.061101",
+      "timestamp": "2026-10-22T14:14:55.739808",
       "current": {
-        "time": "2026-10-21T17:15",
+        "time": "2026-10-22T17:00",
         "interval": 900,
-        "temperature_2m": 24.5,
-        "relative_humidity_2m": 33,
-        "apparent_temperature": 21.0,
+        "temperature_2m": 13.8,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 12.2,
         "weather_code": 3,
-        "wind_speed_10m": 18.4,
-        "wind_direction_10m": 167
+        "wind_speed_10m": 11.5,
+        "wind_direction_10m": 299
       },
       "history_24h": null
     }
