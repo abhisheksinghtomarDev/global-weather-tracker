@@ -1,42 +1,23 @@
 {
   "country": "Indonesia",
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "cities": [
-    {
-      "country": "Indonesia",
-      "country_code": "ID",
-      "city": "Bandung",
-      "latitude": -6.9175,
-      "longitude": 107.6191,
-      "timestamp": "2026-10-24T13:00:55.452864",
-      "current": {
-        "time": "2026-10-24T20:00",
-        "interval": 900,
-        "temperature_2m": 23.9,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": 27.2,
-        "weather_code": 3,
-        "wind_speed_10m": 5.1,
-        "wind_direction_10m": 207
-      },
-      "history_24h": null
-    },
     {
       "country": "Indonesia",
       "country_code": "ID",
       "city": "Jakarta",
       "latitude": -6.2088,
       "longitude": 106.8456,
-      "timestamp": "2026-10-24T13:00:55.522279",
+      "timestamp": "2026-10-25T13:27:54.328740",
       "current": {
-        "time": "2026-10-24T20:00",
+        "time": "2026-10-25T20:15",
         "interval": 900,
-        "temperature_2m": 27.1,
+        "temperature_2m": 27.5,
         "relative_humidity_2m": 80,
-        "apparent_temperature": 31.4,
+        "apparent_temperature": 32.8,
         "weather_code": 3,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 188
+        "wind_speed_10m": 4.3,
+        "wind_direction_10m": 163
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Surabaya",
       "latitude": -7.2575,
       "longitude": 112.7521,
-      "timestamp": "2026-10-24T13:00:55.523485",
+      "timestamp": "2026-10-25T13:27:54.330796",
       "current": {
-        "time": "2026-10-24T20:00",
+        "time": "2026-10-25T20:15",
         "interval": 900,
-        "temperature_2m": 30.0,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 33.1,
+        "temperature_2m": 30.2,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 33.6,
         "weather_code": 3,
-        "wind_speed_10m": 13.7,
-        "wind_direction_10m": 136
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 135
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Bandung",
+      "latitude": -6.9175,
+      "longitude": 107.6191,
+      "timestamp": "2026-10-25T13:27:54.331628",
+      "current": {
+        "time": "2026-10-25T20:15",
+        "interval": 900,
+        "temperature_2m": 22.5,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 26.5,
+        "weather_code": 3,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 173
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Bali",
       "latitude": -8.4095,
       "longitude": 115.1889,
-      "timestamp": "2026-10-24T13:00:55.526736",
+      "timestamp": "2026-10-25T13:27:54.332687",
       "current": {
-        "time": "2026-10-24T21:00",
+        "time": "2026-10-25T21:15",
         "interval": 900,
-        "temperature_2m": 21.3,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 25.1,
-        "weather_code": 45,
-        "wind_speed_10m": 2.6,
-        "wind_direction_10m": 25
+        "temperature_2m": 21.6,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 25.5,
+        "weather_code": 53,
+        "wind_speed_10m": 4.4,
+        "wind_direction_10m": 83
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Medan",
       "latitude": 3.5952,
       "longitude": 98.6722,
-      "timestamp": "2026-10-24T13:00:55.528355",
+      "timestamp": "2026-10-25T13:27:54.333481",
       "current": {
-        "time": "2026-10-24T20:00",
+        "time": "2026-10-25T20:15",
         "interval": 900,
         "temperature_2m": 25.4,
         "relative_humidity_2m": 97,
         "apparent_temperature": 31.5,
-        "weather_code": 51,
-        "wind_speed_10m": 3.7,
-        "wind_direction_10m": 321
+        "weather_code": 3,
+        "wind_speed_10m": 4.3,
+        "wind_direction_10m": 147
       },
       "history_24h": null
     }

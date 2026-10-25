@@ -1,6 +1,6 @@
 {
   "country": "Ireland",
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "cities": [
     {
       "country": "Ireland",
@@ -8,16 +8,16 @@
       "city": "Dublin",
       "latitude": 53.3498,
       "longitude": -6.2603,
-      "timestamp": "2026-10-24T13:00:56.061907",
+      "timestamp": "2026-10-25T13:27:55.191140",
       "current": {
-        "time": "2026-10-24T14:00",
+        "time": "2026-10-25T13:15",
         "interval": 900,
-        "temperature_2m": 14.8,
-        "relative_humidity_2m": 88,
-        "apparent_temperature": 12.4,
-        "weather_code": 51,
-        "wind_speed_10m": 22.3,
-        "wind_direction_10m": 228
+        "temperature_2m": 11.2,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 4.5,
+        "weather_code": 2,
+        "wind_speed_10m": 31.7,
+        "wind_direction_10m": 275
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Cork",
       "latitude": 51.8969,
       "longitude": -8.4863,
-      "timestamp": "2026-10-24T13:00:56.992745",
+      "timestamp": "2026-10-25T13:27:55.194376",
       "current": {
-        "time": "2026-10-24T14:00",
+        "time": "2026-10-25T13:15",
         "interval": 900,
-        "temperature_2m": 15.9,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 13.4,
-        "weather_code": 51,
-        "wind_speed_10m": 27.4,
-        "wind_direction_10m": 240
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Ireland",
-      "country_code": "IE",
-      "city": "Limerick",
-      "latitude": 52.668,
-      "longitude": -8.6305,
-      "timestamp": "2026-10-24T13:00:57.003603",
-      "current": {
-        "time": "2026-10-24T14:00",
-        "interval": 900,
-        "temperature_2m": 14.7,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": 12.1,
-        "weather_code": 63,
+        "temperature_2m": 12.3,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 6.7,
+        "weather_code": 1,
         "wind_speed_10m": 25.6,
-        "wind_direction_10m": 260
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Ireland",
-      "country_code": "IE",
-      "city": "Belfast",
-      "latitude": 54.5973,
-      "longitude": -5.9301,
-      "timestamp": "2026-10-24T13:00:57.012920",
-      "current": {
-        "time": "2026-10-24T14:00",
-        "interval": 900,
-        "temperature_2m": 12.2,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 9.2,
-        "weather_code": 61,
-        "wind_speed_10m": 22.7,
-        "wind_direction_10m": 208
+        "wind_direction_10m": 283
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Galway",
       "latitude": 53.2707,
       "longitude": -9.0568,
-      "timestamp": "2026-10-24T13:00:57.063538",
+      "timestamp": "2026-10-25T13:27:55.201011",
       "current": {
-        "time": "2026-10-24T14:00",
+        "time": "2026-10-25T13:15",
         "interval": 900,
-        "temperature_2m": 12.6,
-        "relative_humidity_2m": 88,
-        "apparent_temperature": 8.5,
-        "weather_code": 53,
-        "wind_speed_10m": 29.5,
-        "wind_direction_10m": 250
+        "temperature_2m": 11.3,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 6.5,
+        "weather_code": 3,
+        "wind_speed_10m": 22.3,
+        "wind_direction_10m": 278
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Limerick",
+      "latitude": 52.668,
+      "longitude": -8.6305,
+      "timestamp": "2026-10-25T13:27:55.201763",
+      "current": {
+        "time": "2026-10-25T13:15",
+        "interval": 900,
+        "temperature_2m": 11.7,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 6.2,
+        "weather_code": 0,
+        "wind_speed_10m": 27.0,
+        "wind_direction_10m": 274
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Belfast",
+      "latitude": 54.5973,
+      "longitude": -5.9301,
+      "timestamp": "2026-10-25T13:27:55.205509",
+      "current": {
+        "time": "2026-10-25T13:15",
+        "interval": 900,
+        "temperature_2m": 8.7,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 2.1,
+        "weather_code": 0,
+        "wind_speed_10m": 34.6,
+        "wind_direction_10m": 273
       },
       "history_24h": null
     }
