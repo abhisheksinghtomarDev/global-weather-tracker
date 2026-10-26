@@ -1,80 +1,42 @@
 {
   "country": "South Africa",
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "cities": [
-    {
-      "country": "South Africa",
-      "country_code": "ZA",
-      "city": "Cape Town",
-      "latitude": -33.9249,
-      "longitude": 18.4241,
-      "timestamp": "2026-10-25T13:27:54.592551",
-      "current": {
-        "time": "2026-10-25T15:15",
-        "interval": 900,
-        "temperature_2m": 19.8,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 17.8,
-        "weather_code": 3,
-        "wind_speed_10m": 23.8,
-        "wind_direction_10m": 155
-      },
-      "history_24h": null
-    },
-    {
-      "country": "South Africa",
-      "country_code": "ZA",
-      "city": "Durban",
-      "latitude": -29.8587,
-      "longitude": 31.0218,
-      "timestamp": "2026-10-25T13:27:54.593340",
-      "current": {
-        "time": "2026-10-25T15:15",
-        "interval": 900,
-        "temperature_2m": 26.5,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 26.9,
-        "weather_code": 3,
-        "wind_speed_10m": 21.1,
-        "wind_direction_10m": 193
-      },
-      "history_24h": null
-    },
     {
       "country": "South Africa",
       "country_code": "ZA",
       "city": "Johannesburg",
       "latitude": -26.2041,
       "longitude": 28.0473,
-      "timestamp": "2026-10-25T13:27:54.594272",
+      "timestamp": "2026-10-26T15:39:52.047357",
       "current": {
-        "time": "2026-10-25T15:15",
+        "time": "2026-10-26T17:30",
         "interval": 900,
-        "temperature_2m": 29.1,
+        "temperature_2m": 27.9,
         "relative_humidity_2m": 19,
-        "apparent_temperature": 26.7,
-        "weather_code": 1,
-        "wind_speed_10m": 7.8,
-        "wind_direction_10m": 308
+        "apparent_temperature": 23.9,
+        "weather_code": 2,
+        "wind_speed_10m": 14.5,
+        "wind_direction_10m": 326
       },
       "history_24h": null
     },
     {
       "country": "South Africa",
       "country_code": "ZA",
-      "city": "Pretoria",
-      "latitude": -25.7479,
-      "longitude": 28.2293,
-      "timestamp": "2026-10-25T13:27:54.594754",
+      "city": "Cape Town",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "timestamp": "2026-10-26T15:39:52.048610",
       "current": {
-        "time": "2026-10-25T15:15",
+        "time": "2026-10-26T17:30",
         "interval": 900,
-        "temperature_2m": 32.4,
-        "relative_humidity_2m": 16,
-        "apparent_temperature": 30.1,
-        "weather_code": 1,
-        "wind_speed_10m": 7.2,
-        "wind_direction_10m": 333
+        "temperature_2m": 19.9,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 18.2,
+        "weather_code": 0,
+        "wind_speed_10m": 15.6,
+        "wind_direction_10m": 166
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Port Elizabeth",
       "latitude": -33.9608,
       "longitude": 25.5852,
-      "timestamp": "2026-10-25T13:27:54.596333",
+      "timestamp": "2026-10-26T15:39:52.054626",
       "current": {
-        "time": "2026-10-25T15:15",
+        "time": "2026-10-26T17:30",
         "interval": 900,
-        "temperature_2m": 21.0,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 21.0,
+        "temperature_2m": 19.6,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 19.2,
+        "weather_code": 3,
+        "wind_speed_10m": 15.9,
+        "wind_direction_10m": 112
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "city": "Pretoria",
+      "latitude": -25.7479,
+      "longitude": 28.2293,
+      "timestamp": "2026-10-26T15:39:52.137929",
+      "current": {
+        "time": "2026-10-26T17:30",
+        "interval": 900,
+        "temperature_2m": 31.3,
+        "relative_humidity_2m": 13,
+        "apparent_temperature": 27.3,
         "weather_code": 2,
-        "wind_speed_10m": 12.8,
-        "wind_direction_10m": 176
+        "wind_speed_10m": 12.9,
+        "wind_direction_10m": 293
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "city": "Durban",
+      "latitude": -29.8587,
+      "longitude": 31.0218,
+      "timestamp": "2026-10-26T15:39:52.143854",
+      "current": {
+        "time": "2026-10-26T17:30",
+        "interval": 900,
+        "temperature_2m": 22.2,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 25.2,
+        "weather_code": 55,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 205
       },
       "history_24h": null
     }
