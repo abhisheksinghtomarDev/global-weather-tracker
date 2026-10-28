@@ -1,0 +1,4725 @@
+{
+  "date": "2026-10-28",
+  "timestamp": "2026-10-28T15:38:31.028185",
+  "summary": {
+    "total_cities": 248,
+    "avg_temperature": 17.48,
+    "avg_humidity": 70.69,
+    "hottest_city": "Riyadh",
+    "coldest_city": "Calgary"
+  },
+  "cities": [
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "San Francisco",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "timestamp": "2026-10-28T15:38:29.929242",
+      "current": {
+        "time": "2026-10-28T08:30",
+        "interval": 900,
+        "temperature_2m": 10.0,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 8.7,
+        "weather_code": 1,
+        "wind_speed_10m": 4.0,
+        "wind_direction_10m": 74
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Los Angeles",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "timestamp": "2026-10-28T15:38:29.930840",
+      "current": {
+        "time": "2026-10-28T08:30",
+        "interval": 900,
+        "temperature_2m": 16.2,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 16.9,
+        "weather_code": 3,
+        "wind_speed_10m": 2.2,
+        "wind_direction_10m": 87
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Boston",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "timestamp": "2026-10-28T15:38:29.932300",
+      "current": {
+        "time": "2026-10-28T11:30",
+        "interval": 900,
+        "temperature_2m": 8.8,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 6.4,
+        "weather_code": 3,
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 16
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Chennai",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "timestamp": "2026-10-28T15:38:29.933859",
+      "current": {
+        "time": "2026-10-28T21:00",
+        "interval": 900,
+        "temperature_2m": 28.1,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 32.1,
+        "weather_code": 0,
+        "wind_speed_10m": 7.7,
+        "wind_direction_10m": 210
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "London",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "timestamp": "2026-10-28T15:38:29.935474",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 15.7,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 13.2,
+        "weather_code": 1,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 247
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Houston",
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "timestamp": "2026-10-28T15:38:29.937166",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 24.8,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 27.3,
+        "weather_code": 1,
+        "wind_speed_10m": 11.8,
+        "wind_direction_10m": 123
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Glasgow",
+      "latitude": 55.8642,
+      "longitude": -4.2518,
+      "timestamp": "2026-10-28T15:38:29.938057",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 12.4,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 10.6,
+        "weather_code": 3,
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 243
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Kolkata",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "timestamp": "2026-10-28T15:38:29.939499",
+      "current": {
+        "time": "2026-10-28T21:00",
+        "interval": 900,
+        "temperature_2m": 25.4,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 30.2,
+        "weather_code": 2,
+        "wind_speed_10m": 6.0,
+        "wind_direction_10m": 69
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Manchester",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "timestamp": "2026-10-28T15:38:29.940941",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 14.1,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 11.6,
+        "weather_code": 1,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 276
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Delhi",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "timestamp": "2026-10-28T15:38:29.942809",
+      "current": {
+        "time": "2026-10-28T21:00",
+        "interval": 900,
+        "temperature_2m": 22.0,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 23.0,
+        "weather_code": 3,
+        "wind_speed_10m": 4.5,
+        "wind_direction_10m": 323
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Phoenix",
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "timestamp": "2026-10-28T15:38:29.944122",
+      "current": {
+        "time": "2026-10-28T08:30",
+        "interval": 900,
+        "temperature_2m": 19.3,
+        "relative_humidity_2m": 39,
+        "apparent_temperature": 16.4,
+        "weather_code": 0,
+        "wind_speed_10m": 11.6,
+        "wind_direction_10m": 111
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Denver",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "timestamp": "2026-10-28T15:38:29.945625",
+      "current": {
+        "time": "2026-10-28T09:30",
+        "interval": 900,
+        "temperature_2m": 8.7,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 7.0,
+        "weather_code": 3,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 130
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Miami",
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "timestamp": "2026-10-28T15:38:29.947256",
+      "current": {
+        "time": "2026-10-28T11:30",
+        "interval": 900,
+        "temperature_2m": 27.6,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 31.9,
+        "weather_code": 2,
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 86
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Mumbai",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "timestamp": "2026-10-28T15:38:29.948537",
+      "current": {
+        "time": "2026-10-28T21:00",
+        "interval": 900,
+        "temperature_2m": 29.9,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 29.8,
+        "weather_code": 0,
+        "wind_speed_10m": 13.5,
+        "wind_direction_10m": 359
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Chicago",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "timestamp": "2026-10-28T15:38:29.949727",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 16.4,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 15.7,
+        "weather_code": 0,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 180
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Bangalore",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timestamp": "2026-10-28T15:38:29.951103",
+      "current": {
+        "time": "2026-10-28T21:00",
+        "interval": 900,
+        "temperature_2m": 21.8,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 22.3,
+        "weather_code": 1,
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 301
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "New York",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "timestamp": "2026-10-28T15:38:29.952876",
+      "current": {
+        "time": "2026-10-28T11:30",
+        "interval": 900,
+        "temperature_2m": 11.7,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 9.4,
+        "weather_code": 3,
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 48
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Hyderabad",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "timestamp": "2026-10-28T15:38:30.003034",
+      "current": {
+        "time": "2026-10-28T21:00",
+        "interval": 900,
+        "temperature_2m": 24.4,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 26.3,
+        "weather_code": 3,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 316
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Jaipur",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "timestamp": "2026-10-28T15:38:30.005071",
+      "current": {
+        "time": "2026-10-28T21:00",
+        "interval": 900,
+        "temperature_2m": 23.1,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 21.7,
+        "weather_code": 0,
+        "wind_speed_10m": 8.2,
+        "wind_direction_10m": 38
+      },
+      "history_24h": null
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "city": "Beijing",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "timestamp": "2026-10-28T15:38:30.006518",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 8.6,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 6.5,
+        "weather_code": 1,
+        "wind_speed_10m": 5.8,
+        "wind_direction_10m": 356
+      },
+      "history_24h": null
+    },
+    {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Ahmedabad",
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "timestamp": "2026-10-28T15:38:30.007675",
+      "current": {
+        "time": "2026-10-28T21:00",
+        "interval": 900,
+        "temperature_2m": 29.8,
+        "relative_humidity_2m": 27,
+        "apparent_temperature": 28.4,
+        "weather_code": 0,
+        "wind_speed_10m": 7.0,
+        "wind_direction_10m": 48
+      },
+      "history_24h": null
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "city": "Shanghai",
+      "latitude": 31.2304,
+      "longitude": 121.4737,
+      "timestamp": "2026-10-28T15:38:30.009032",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 14.6,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 13.8,
+        "weather_code": 1,
+        "wind_speed_10m": 6.7,
+        "wind_direction_10m": 96
+      },
+      "history_24h": null
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "city": "Shenzhen",
+      "latitude": 22.5431,
+      "longitude": 114.0579,
+      "timestamp": "2026-10-28T15:38:30.010355",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 24.6,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 26.6,
+        "weather_code": 3,
+        "wind_speed_10m": 12.5,
+        "wind_direction_10m": 97
+      },
+      "history_24h": null
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "city": "Chengdu",
+      "latitude": 30.5728,
+      "longitude": 104.0668,
+      "timestamp": "2026-10-28T15:38:30.012737",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 14.9,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 14.8,
+        "weather_code": 2,
+        "wind_speed_10m": 7.8,
+        "wind_direction_10m": 353
+      },
+      "history_24h": null
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "city": "Guangzhou",
+      "latitude": 23.1291,
+      "longitude": 113.2644,
+      "timestamp": "2026-10-28T15:38:30.014132",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 26.3,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 28.4,
+        "weather_code": 3,
+        "wind_speed_10m": 3.2,
+        "wind_direction_10m": 196
+      },
+      "history_24h": null
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "city": "Wuhan",
+      "latitude": 30.5928,
+      "longitude": 114.3055,
+      "timestamp": "2026-10-28T15:38:30.015483",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 16.4,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 17.5,
+        "weather_code": 2,
+        "wind_speed_10m": 2.0,
+        "wind_direction_10m": 10
+      },
+      "history_24h": null
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "city": "Xi'an",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "timestamp": "2026-10-28T15:38:30.017002",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 10.5,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 8.6,
+        "weather_code": 2,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 190
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Tokyo",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "timestamp": "2026-10-28T15:38:30.018253",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 10.9,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 8.5,
+        "weather_code": 1,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 4
+      },
+      "history_24h": null
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "city": "Hangzhou",
+      "latitude": 30.2741,
+      "longitude": 120.1551,
+      "timestamp": "2026-10-28T15:38:30.020478",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 15.1,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 15.1,
+        "weather_code": 0,
+        "wind_speed_10m": 5.3,
+        "wind_direction_10m": 108
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Kyoto",
+      "latitude": 35.0116,
+      "longitude": 135.7681,
+      "timestamp": "2026-10-28T15:38:30.022296",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 10.0,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 8.5,
+        "weather_code": 0,
+        "wind_speed_10m": 2.5,
+        "wind_direction_10m": 360
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Yokohama",
+      "latitude": 35.4437,
+      "longitude": 139.638,
+      "timestamp": "2026-10-28T15:38:30.023371",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 11.9,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 8.8,
+        "weather_code": 1,
+        "wind_speed_10m": 10.5,
+        "wind_direction_10m": 22
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Osaka",
+      "latitude": 34.6937,
+      "longitude": 135.5023,
+      "timestamp": "2026-10-28T15:38:30.023537",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 11.0,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 10.0,
+        "weather_code": 0,
+        "wind_speed_10m": 3.1,
+        "wind_direction_10m": 69
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Sapporo",
+      "latitude": 43.0618,
+      "longitude": 141.3545,
+      "timestamp": "2026-10-28T15:38:30.025603",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 1.7,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": -1.7,
+        "weather_code": 2,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 165
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "city": "Nagoya",
+      "latitude": 35.1815,
+      "longitude": 136.9066,
+      "timestamp": "2026-10-28T15:38:30.027141",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 9.9,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 7.6,
+        "weather_code": 0,
+        "wind_speed_10m": 5.1,
+        "wind_direction_10m": 352
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Berlin",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "timestamp": "2026-10-28T15:38:30.075373",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.3,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 10.6,
+        "weather_code": 3,
+        "wind_speed_10m": 10.5,
+        "wind_direction_10m": 297
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Munich",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "timestamp": "2026-10-28T15:38:30.077788",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.2,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 8.4,
+        "weather_code": 61,
+        "wind_speed_10m": 8.3,
+        "wind_direction_10m": 288
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Hamburg",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "timestamp": "2026-10-28T15:38:30.079923",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.8,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 11.0,
+        "weather_code": 2,
+        "wind_speed_10m": 8.8,
+        "wind_direction_10m": 258
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Frankfurt",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "timestamp": "2026-10-28T15:38:30.082183",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 14.3,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 12.2,
+        "weather_code": 0,
+        "wind_speed_10m": 7.2,
+        "wind_direction_10m": 323
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Cologne",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "timestamp": "2026-10-28T15:38:30.083892",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 13.9,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 11.9,
+        "weather_code": 0,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 281
+      },
+      "history_24h": null
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "city": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "timestamp": "2026-10-28T15:38:30.085568",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 15.5,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 14.2,
+        "weather_code": 2,
+        "wind_speed_10m": 2.8,
+        "wind_direction_10m": 310
+      },
+      "history_24h": null
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "city": "Lyon",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "timestamp": "2026-10-28T15:38:30.086954",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 14.8,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 11.2,
+        "weather_code": 1,
+        "wind_speed_10m": 15.5,
+        "wind_direction_10m": 357
+      },
+      "history_24h": null
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "city": "Nice",
+      "latitude": 43.7102,
+      "longitude": 7.262,
+      "timestamp": "2026-10-28T15:38:30.088386",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 18.3,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 18.4,
+        "weather_code": 2,
+        "wind_speed_10m": 5.1,
+        "wind_direction_10m": 188
+      },
+      "history_24h": null
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "city": "Marseille",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "timestamp": "2026-10-28T15:38:30.090663",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 19.1,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 15.9,
+        "weather_code": 0,
+        "wind_speed_10m": 18.6,
+        "wind_direction_10m": 319
+      },
+      "history_24h": null
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "city": "Toulouse",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "timestamp": "2026-10-28T15:38:30.094545",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 17.8,
+        "relative_humidity_2m": 38,
+        "apparent_temperature": 15.0,
+        "weather_code": 0,
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 313
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Toronto",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "timestamp": "2026-10-28T15:38:30.096307",
+      "current": {
+        "time": "2026-10-28T11:30",
+        "interval": 900,
+        "temperature_2m": 13.2,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 10.7,
+        "weather_code": 3,
+        "wind_speed_10m": 12.1,
+        "wind_direction_10m": 79
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Vancouver",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "timestamp": "2026-10-28T15:38:30.097881",
+      "current": {
+        "time": "2026-10-28T08:30",
+        "interval": 900,
+        "temperature_2m": 6.0,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 4.0,
+        "weather_code": 2,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 119
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Calgary",
+      "latitude": 51.0447,
+      "longitude": -114.0719,
+      "timestamp": "2026-10-28T15:38:30.099744",
+      "current": {
+        "time": "2026-10-28T09:30",
+        "interval": 900,
+        "temperature_2m": -0.6,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": -4.1,
+        "weather_code": 3,
+        "wind_speed_10m": 7.8,
+        "wind_direction_10m": 23
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Montreal",
+      "latitude": 45.5017,
+      "longitude": -73.5673,
+      "timestamp": "2026-10-28T15:38:30.100850",
+      "current": {
+        "time": "2026-10-28T11:30",
+        "interval": 900,
+        "temperature_2m": 5.2,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 2.0,
+        "weather_code": 2,
+        "wind_speed_10m": 8.9,
+        "wind_direction_10m": 168
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "city": "Melbourne",
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "timestamp": "2026-10-28T15:38:30.103302",
+      "current": {
+        "time": "2026-10-29T02:30",
+        "interval": 900,
+        "temperature_2m": 11.3,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 9.9,
+        "weather_code": 0,
+        "wind_speed_10m": 8.9,
+        "wind_direction_10m": 263
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Ottawa",
+      "latitude": 45.4215,
+      "longitude": -75.6972,
+      "timestamp": "2026-10-28T15:38:30.104606",
+      "current": {
+        "time": "2026-10-28T11:30",
+        "interval": 900,
+        "temperature_2m": 4.7,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 1.5,
+        "weather_code": 3,
+        "wind_speed_10m": 7.2,
+        "wind_direction_10m": 98
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "city": "Sydney",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "timestamp": "2026-10-28T15:38:30.105722",
+      "current": {
+        "time": "2026-10-29T02:30",
+        "interval": 900,
+        "temperature_2m": 13.5,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 13.0,
+        "weather_code": 0,
+        "wind_speed_10m": 6.6,
+        "wind_direction_10m": 287
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "city": "Brisbane",
+      "latitude": -27.4698,
+      "longitude": 153.0251,
+      "timestamp": "2026-10-28T15:38:30.147756",
+      "current": {
+        "time": "2026-10-29T01:30",
+        "interval": 900,
+        "temperature_2m": 16.2,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 15.0,
+        "weather_code": 0,
+        "wind_speed_10m": 11.9,
+        "wind_direction_10m": 250
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "city": "Perth",
+      "latitude": -31.9505,
+      "longitude": 115.8605,
+      "timestamp": "2026-10-28T15:38:30.150409",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 17.0,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 17.0,
+        "weather_code": 3,
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 180
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "city": "Adelaide",
+      "latitude": -34.9285,
+      "longitude": 138.6007,
+      "timestamp": "2026-10-28T15:38:30.151744",
+      "current": {
+        "time": "2026-10-29T02:00",
+        "interval": 900,
+        "temperature_2m": 12.2,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 11.3,
+        "weather_code": 0,
+        "wind_speed_10m": 4.4,
+        "wind_direction_10m": 128
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Sao Paulo",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "timestamp": "2026-10-28T15:38:30.154682",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 22.3,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 24.5,
+        "weather_code": 3,
+        "wind_speed_10m": 1.0,
+        "wind_direction_10m": 112
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Rio de Janeiro",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "timestamp": "2026-10-28T15:38:30.157178",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 24.8,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 26.9,
+        "weather_code": 3,
+        "wind_speed_10m": 16.8,
+        "wind_direction_10m": 131
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Brasilia",
+      "latitude": -15.7975,
+      "longitude": -47.8919,
+      "timestamp": "2026-10-28T15:38:30.158459",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 25.0,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 26.5,
+        "weather_code": 3,
+        "wind_speed_10m": 8.9,
+        "wind_direction_10m": 58
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Salvador",
+      "latitude": -12.9714,
+      "longitude": -38.5014,
+      "timestamp": "2026-10-28T15:38:30.159799",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 26.4,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 31.0,
+        "weather_code": 3,
+        "wind_speed_10m": 16.8,
+        "wind_direction_10m": 168
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Fortaleza",
+      "latitude": -3.7172,
+      "longitude": -38.5433,
+      "timestamp": "2026-10-28T15:38:30.161344",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 31.2,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 34.2,
+        "weather_code": 0,
+        "wind_speed_10m": 22.2,
+        "wind_direction_10m": 105
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Moscow",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "timestamp": "2026-10-28T15:38:30.163187",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 8.9,
+        "relative_humidity_2m": 40,
+        "apparent_temperature": 5.5,
+        "weather_code": 0,
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 122
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Saint Petersburg",
+      "latitude": 59.9311,
+      "longitude": 30.3609,
+      "timestamp": "2026-10-28T15:38:30.167521",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 8.1,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 5.3,
+        "weather_code": 0,
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 175
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Novosibirsk",
+      "latitude": 55.0084,
+      "longitude": 82.9357,
+      "timestamp": "2026-10-28T15:38:30.171175",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 3.8,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 0.2,
+        "weather_code": 3,
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 237
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Yekaterinburg",
+      "latitude": 56.8389,
+      "longitude": 60.6057,
+      "timestamp": "2026-10-28T15:38:30.172821",
+      "current": {
+        "time": "2026-10-28T20:30",
+        "interval": 900,
+        "temperature_2m": 5.3,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 1.4,
+        "weather_code": 3,
+        "wind_speed_10m": 9.8,
+        "wind_direction_10m": 264
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KR",
+      "city": "Seoul",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "timestamp": "2026-10-28T15:38:30.174689",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 6.4,
+        "relative_humidity_2m": 56,
+        "apparent_temperature": 3.5,
+        "weather_code": 0,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 53
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KR",
+      "city": "Busan",
+      "latitude": 35.1796,
+      "longitude": 129.0756,
+      "timestamp": "2026-10-28T15:38:30.176004",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 11.1,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 8.6,
+        "weather_code": 0,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 354
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Vladivostok",
+      "latitude": 43.1332,
+      "longitude": 131.9113,
+      "timestamp": "2026-10-28T15:38:30.177308",
+      "current": {
+        "time": "2026-10-29T01:30",
+        "interval": 900,
+        "temperature_2m": 9.8,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 3.7,
+        "weather_code": 2,
+        "wind_speed_10m": 27.7,
+        "wind_direction_10m": 218
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KR",
+      "city": "Incheon",
+      "latitude": 37.4563,
+      "longitude": 126.7052,
+      "timestamp": "2026-10-28T15:38:30.178572",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 5.5,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 1.7,
+        "weather_code": 0,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 84
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KR",
+      "city": "Daegu",
+      "latitude": 35.8714,
+      "longitude": 128.6014,
+      "timestamp": "2026-10-28T15:38:30.179770",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 7.6,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 4.8,
+        "weather_code": 0,
+        "wind_speed_10m": 2.5,
+        "wind_direction_10m": 262
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KR",
+      "city": "Daejeon",
+      "latitude": 36.3504,
+      "longitude": 127.3845,
+      "timestamp": "2026-10-28T15:38:30.225697",
+      "current": {
+        "time": "2026-10-29T00:30",
+        "interval": 900,
+        "temperature_2m": 6.0,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 3.2,
+        "weather_code": 0,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 256
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Rome",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "timestamp": "2026-10-28T15:38:30.227885",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 19.0,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 18.4,
+        "weather_code": 3,
+        "wind_speed_10m": 4.0,
+        "wind_direction_10m": 350
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Milan",
+      "latitude": 45.4642,
+      "longitude": 9.19,
+      "timestamp": "2026-10-28T15:38:30.229219",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 16.4,
+        "relative_humidity_2m": 66,
+        "apparent_temperature": 15.8,
+        "weather_code": 2,
+        "wind_speed_10m": 4.0,
+        "wind_direction_10m": 180
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Naples",
+      "latitude": 40.8518,
+      "longitude": 14.2681,
+      "timestamp": "2026-10-28T15:38:30.232128",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 19.5,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 17.3,
+        "weather_code": 3,
+        "wind_speed_10m": 9.1,
+        "wind_direction_10m": 353
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Florence",
+      "latitude": 43.7696,
+      "longitude": 11.2558,
+      "timestamp": "2026-10-28T15:38:30.233552",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 18.9,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 18.6,
+        "weather_code": 1,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 319
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Venice",
+      "latitude": 45.4408,
+      "longitude": 12.3155,
+      "timestamp": "2026-10-28T15:38:30.235154",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 16.2,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 15.3,
+        "weather_code": 3,
+        "wind_speed_10m": 6.2,
+        "wind_direction_10m": 291
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Madrid",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "timestamp": "2026-10-28T15:38:30.236199",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 21.8,
+        "relative_humidity_2m": 33,
+        "apparent_temperature": 20.0,
+        "weather_code": 0,
+        "wind_speed_10m": 3.5,
+        "wind_direction_10m": 114
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Barcelona",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "timestamp": "2026-10-28T15:38:30.237529",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 22.6,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 22.3,
+        "weather_code": 1,
+        "wind_speed_10m": 14.2,
+        "wind_direction_10m": 189
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Valencia",
+      "latitude": 39.4699,
+      "longitude": -0.3763,
+      "timestamp": "2026-10-28T15:38:30.238695",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 22.5,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 23.3,
+        "weather_code": 1,
+        "wind_speed_10m": 9.1,
+        "wind_direction_10m": 108
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Seville",
+      "latitude": 37.3891,
+      "longitude": -5.9845,
+      "timestamp": "2026-10-28T15:38:30.241910",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 27.7,
+        "relative_humidity_2m": 24,
+        "apparent_temperature": 25.7,
+        "weather_code": 0,
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 47
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Mexico City",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "timestamp": "2026-10-28T15:38:30.245544",
+      "current": {
+        "time": "2026-10-28T09:30",
+        "interval": 900,
+        "temperature_2m": 16.7,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 16.3,
+        "weather_code": 1,
+        "wind_speed_10m": 2.1,
+        "wind_direction_10m": 218
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Guadalajara",
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "timestamp": "2026-10-28T15:38:30.247386",
+      "current": {
+        "time": "2026-10-28T09:30",
+        "interval": 900,
+        "temperature_2m": 17.9,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 18.9,
+        "weather_code": 3,
+        "wind_speed_10m": 4.2,
+        "wind_direction_10m": 95
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Bilbao",
+      "latitude": 43.263,
+      "longitude": -2.935,
+      "timestamp": "2026-10-28T15:38:30.249526",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 18.0,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 16.0,
+        "weather_code": 0,
+        "wind_speed_10m": 10.0,
+        "wind_direction_10m": 64
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Monterrey",
+      "latitude": 25.6866,
+      "longitude": -100.3161,
+      "timestamp": "2026-10-28T15:38:30.250751",
+      "current": {
+        "time": "2026-10-28T09:30",
+        "interval": 900,
+        "temperature_2m": 21.7,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 23.6,
+        "weather_code": 3,
+        "wind_speed_10m": 9.6,
+        "wind_direction_10m": 68
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Cancun",
+      "latitude": 21.1619,
+      "longitude": -86.8515,
+      "timestamp": "2026-10-28T15:38:30.252191",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 28.1,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 30.4,
+        "weather_code": 0,
+        "wind_speed_10m": 12.5,
+        "wind_direction_10m": 12
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Tijuana",
+      "latitude": 32.5149,
+      "longitude": -117.0382,
+      "timestamp": "2026-10-28T15:38:30.253711",
+      "current": {
+        "time": "2026-10-28T08:30",
+        "interval": 900,
+        "temperature_2m": 16.5,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 16.5,
+        "weather_code": 3,
+        "wind_speed_10m": 7.4,
+        "wind_direction_10m": 125
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Jakarta",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "timestamp": "2026-10-28T15:38:30.254572",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 31.4,
+        "weather_code": 3,
+        "wind_speed_10m": 3.1,
+        "wind_direction_10m": 230
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Surabaya",
+      "latitude": -7.2575,
+      "longitude": 112.7521,
+      "timestamp": "2026-10-28T15:38:30.297735",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 28.3,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 34.1,
+        "weather_code": 0,
+        "wind_speed_10m": 5.5,
+        "wind_direction_10m": 157
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Bandung",
+      "latitude": -6.9175,
+      "longitude": 107.6191,
+      "timestamp": "2026-10-28T15:38:30.300358",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 21.8,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 25.6,
+        "weather_code": 3,
+        "wind_speed_10m": 2.1,
+        "wind_direction_10m": 59
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Bali",
+      "latitude": -8.4095,
+      "longitude": 115.1889,
+      "timestamp": "2026-10-28T15:38:30.301690",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 22.0,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 25.7,
+        "weather_code": 45,
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 70
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "ID",
+      "city": "Medan",
+      "latitude": 3.5952,
+      "longitude": 98.6722,
+      "timestamp": "2026-10-28T15:38:30.305202",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 24.6,
+        "relative_humidity_2m": 99,
+        "apparent_temperature": 30.0,
+        "weather_code": 80,
+        "wind_speed_10m": 6.0,
+        "wind_direction_10m": 175
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Thailand",
+      "country_code": "TH",
+      "city": "Bangkok",
+      "latitude": 13.7563,
+      "longitude": 100.5018,
+      "timestamp": "2026-10-28T15:38:30.306973",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 25.3,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 31.0,
+        "weather_code": 3,
+        "wind_speed_10m": 2.6,
+        "wind_direction_10m": 309
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Thailand",
+      "country_code": "TH",
+      "city": "Chiang Mai",
+      "latitude": 18.7883,
+      "longitude": 98.9853,
+      "timestamp": "2026-10-28T15:38:30.310612",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 25.0,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 29.1,
+        "weather_code": 0,
+        "wind_speed_10m": 2.7,
+        "wind_direction_10m": 337
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Thailand",
+      "country_code": "TH",
+      "city": "Phuket",
+      "latitude": 7.8804,
+      "longitude": 98.3923,
+      "timestamp": "2026-10-28T15:38:30.312528",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 24.8,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 28.4,
+        "weather_code": 80,
+        "wind_speed_10m": 16.3,
+        "wind_direction_10m": 113
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Thailand",
+      "country_code": "TH",
+      "city": "Krabi",
+      "latitude": 8.0863,
+      "longitude": 98.9083,
+      "timestamp": "2026-10-28T15:38:30.314713",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 24.7,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 30.2,
+        "weather_code": 3,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 92
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "city": "Ho Chi Minh City",
+      "latitude": 10.8231,
+      "longitude": 106.6297,
+      "timestamp": "2026-10-28T15:38:30.316274",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 26.9,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 32.8,
+        "weather_code": 3,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 41
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Thailand",
+      "country_code": "TH",
+      "city": "Pattaya",
+      "latitude": 12.9279,
+      "longitude": 100.8844,
+      "timestamp": "2026-10-28T15:38:30.317288",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 25.7,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 31.9,
+        "weather_code": 2,
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 46
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "city": "Hanoi",
+      "latitude": 21.0285,
+      "longitude": 105.8542,
+      "timestamp": "2026-10-28T15:38:30.318628",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 30.1,
+        "weather_code": 3,
+        "wind_speed_10m": 5.1,
+        "wind_direction_10m": 188
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "city": "Da Nang",
+      "latitude": 16.0544,
+      "longitude": 108.2022,
+      "timestamp": "2026-10-28T15:38:30.319972",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 24.8,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 30.4,
+        "weather_code": 51,
+        "wind_speed_10m": 4.3,
+        "wind_direction_10m": 285
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "city": "Nha Trang",
+      "latitude": 12.2451,
+      "longitude": 109.1945,
+      "timestamp": "2026-10-28T15:38:30.325043",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 26.3,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 32.6,
+        "weather_code": 51,
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 12
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "city": "Hue",
+      "latitude": 16.4637,
+      "longitude": 107.5869,
+      "timestamp": "2026-10-28T15:38:30.326558",
+      "current": {
+        "time": "2026-10-28T22:30",
+        "interval": 900,
+        "temperature_2m": 23.9,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 28.6,
+        "weather_code": 80,
+        "wind_speed_10m": 7.4,
+        "wind_direction_10m": 158
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Istanbul",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "timestamp": "2026-10-28T15:38:30.327784",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 16.0,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 14.6,
+        "weather_code": 3,
+        "wind_speed_10m": 18.2,
+        "wind_direction_10m": 27
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Ankara",
+      "latitude": 39.9334,
+      "longitude": 32.8597,
+      "timestamp": "2026-10-28T15:38:30.329243",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 15.5,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 15.1,
+        "weather_code": 3,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 63
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Izmir",
+      "latitude": 38.4237,
+      "longitude": 27.1428,
+      "timestamp": "2026-10-28T15:38:30.330285",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 16.0,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 15.1,
+        "weather_code": 61,
+        "wind_speed_10m": 6.6,
+        "wind_direction_10m": 61
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Antalya",
+      "latitude": 36.8969,
+      "longitude": 30.7133,
+      "timestamp": "2026-10-28T15:38:30.370796",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 17.9,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 19.5,
+        "weather_code": 95,
+        "wind_speed_10m": 4.4,
+        "wind_direction_10m": 81
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TR",
+      "city": "Cappadocia",
+      "latitude": 38.6431,
+      "longitude": 34.8289,
+      "timestamp": "2026-10-28T15:38:30.374613",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 15.6,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 15.2,
+        "weather_code": 3,
+        "wind_speed_10m": 4.6,
+        "wind_direction_10m": 252
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Riyadh",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "timestamp": "2026-10-28T15:38:30.376022",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 33.1,
+        "relative_humidity_2m": 15,
+        "apparent_temperature": 29.9,
+        "weather_code": 0,
+        "wind_speed_10m": 10.2,
+        "wind_direction_10m": 146
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Jeddah",
+      "latitude": 21.4858,
+      "longitude": 39.1925,
+      "timestamp": "2026-10-28T15:38:30.378006",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 32.0,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 37.9,
+        "weather_code": 1,
+        "wind_speed_10m": 7.2,
+        "wind_direction_10m": 252
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Mecca",
+      "latitude": 21.3891,
+      "longitude": 39.8579,
+      "timestamp": "2026-10-28T15:38:30.381471",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 32.8,
+        "relative_humidity_2m": 38,
+        "apparent_temperature": 33.9,
+        "weather_code": 0,
+        "wind_speed_10m": 8.2,
+        "wind_direction_10m": 255
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Dammam",
+      "latitude": 26.4207,
+      "longitude": 50.0888,
+      "timestamp": "2026-10-28T15:38:30.383690",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 30.4,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 34.7,
+        "weather_code": 0,
+        "wind_speed_10m": 6.6,
+        "wind_direction_10m": 61
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "city": "Medina",
+      "latitude": 24.5247,
+      "longitude": 39.5692,
+      "timestamp": "2026-10-28T15:38:30.386564",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 32.3,
+        "relative_humidity_2m": 27,
+        "apparent_temperature": 30.6,
+        "weather_code": 0,
+        "wind_speed_10m": 13.6,
+        "wind_direction_10m": 241
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Dubai",
+      "latitude": 25.2048,
+      "longitude": 55.2708,
+      "timestamp": "2026-10-28T15:38:30.387857",
+      "current": {
+        "time": "2026-10-28T19:30",
+        "interval": 900,
+        "temperature_2m": 29.8,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 34.7,
+        "weather_code": 0,
+        "wind_speed_10m": 7.7,
+        "wind_direction_10m": 349
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Abu Dhabi",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "timestamp": "2026-10-28T15:38:30.389640",
+      "current": {
+        "time": "2026-10-28T19:30",
+        "interval": 900,
+        "temperature_2m": 30.8,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 34.9,
+        "weather_code": 0,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 2
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Sharjah",
+      "latitude": 25.3463,
+      "longitude": 55.4209,
+      "timestamp": "2026-10-28T15:38:30.391476",
+      "current": {
+        "time": "2026-10-28T19:30",
+        "interval": 900,
+        "temperature_2m": 29.1,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 34.5,
+        "weather_code": 1,
+        "wind_speed_10m": 5.8,
+        "wind_direction_10m": 353
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Al Ain",
+      "latitude": 24.2075,
+      "longitude": 55.7447,
+      "timestamp": "2026-10-28T15:38:30.392765",
+      "current": {
+        "time": "2026-10-28T19:30",
+        "interval": 900,
+        "temperature_2m": 29.1,
+        "relative_humidity_2m": 46,
+        "apparent_temperature": 29.4,
+        "weather_code": 0,
+        "wind_speed_10m": 12.6,
+        "wind_direction_10m": 2
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Ras Al Khaimah",
+      "latitude": 25.7895,
+      "longitude": 55.9432,
+      "timestamp": "2026-10-28T15:38:30.394049",
+      "current": {
+        "time": "2026-10-28T19:30",
+        "interval": 900,
+        "temperature_2m": 29.9,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 34.8,
+        "weather_code": 0,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 355
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Singapore",
+      "country_code": "SG",
+      "city": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "timestamp": "2026-10-28T15:38:30.397162",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 25.2,
+        "relative_humidity_2m": 100,
+        "apparent_temperature": 31.5,
+        "weather_code": 45,
+        "wind_speed_10m": 4.2,
+        "wind_direction_10m": 317
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Kuala Lumpur",
+      "latitude": 3.139,
+      "longitude": 101.6869,
+      "timestamp": "2026-10-28T15:38:30.398983",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 24.5,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 30.4,
+        "weather_code": 3,
+        "wind_speed_10m": 2.0,
+        "wind_direction_10m": 260
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Penang",
+      "latitude": 5.4141,
+      "longitude": 100.3288,
+      "timestamp": "2026-10-28T15:38:30.403065",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 25.7,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 31.9,
+        "weather_code": 3,
+        "wind_speed_10m": 4.2,
+        "wind_direction_10m": 175
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Kuching",
+      "latitude": 1.5575,
+      "longitude": 110.3595,
+      "timestamp": "2026-10-28T15:38:30.404646",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 24.8,
+        "relative_humidity_2m": 99,
+        "apparent_temperature": 31.0,
+        "weather_code": 80,
+        "wind_speed_10m": 1.9,
+        "wind_direction_10m": 139
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Johor Bahru",
+      "latitude": 1.4927,
+      "longitude": 103.7414,
+      "timestamp": "2026-10-28T15:38:30.406017",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 25.4,
+        "relative_humidity_2m": 99,
+        "apparent_temperature": 31.6,
+        "weather_code": 3,
+        "wind_speed_10m": 4.5,
+        "wind_direction_10m": 299
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MY",
+      "city": "Langkawi",
+      "latitude": 6.3371,
+      "longitude": 99.8521,
+      "timestamp": "2026-10-28T15:38:30.446210",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 24.8,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 29.7,
+        "weather_code": 3,
+        "wind_speed_10m": 8.7,
+        "wind_direction_10m": 173
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Manila",
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "timestamp": "2026-10-28T15:38:30.447846",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 27.1,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 31.9,
+        "weather_code": 53,
+        "wind_speed_10m": 3.8,
+        "wind_direction_10m": 107
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Cebu",
+      "latitude": 10.3157,
+      "longitude": 123.8854,
+      "timestamp": "2026-10-28T15:38:30.449295",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 26.2,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 31.8,
+        "weather_code": 1,
+        "wind_speed_10m": 5.7,
+        "wind_direction_10m": 9
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Davao",
+      "latitude": 7.0731,
+      "longitude": 125.6128,
+      "timestamp": "2026-10-28T15:38:30.450574",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 26.4,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 32.1,
+        "weather_code": 0,
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 8
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Boracay",
+      "latitude": 11.9674,
+      "longitude": 121.924,
+      "timestamp": "2026-10-28T15:38:30.455301",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 25.7,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 29.8,
+        "weather_code": 53,
+        "wind_speed_10m": 17.3,
+        "wind_direction_10m": 48
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Palawan",
+      "latitude": 9.8348,
+      "longitude": 118.7383,
+      "timestamp": "2026-10-28T15:38:30.459024",
+      "current": {
+        "time": "2026-10-28T23:30",
+        "interval": 900,
+        "temperature_2m": 27.0,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 32.5,
+        "weather_code": 51,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 107
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "city": "Johannesburg",
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "timestamp": "2026-10-28T15:38:30.460472",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 23.8,
+        "relative_humidity_2m": 22,
+        "apparent_temperature": 19.8,
+        "weather_code": 0,
+        "wind_speed_10m": 12.7,
+        "wind_direction_10m": 173
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "city": "Cape Town",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "timestamp": "2026-10-28T15:38:30.461760",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 21.7,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 19.9,
+        "weather_code": 0,
+        "wind_speed_10m": 19.9,
+        "wind_direction_10m": 154
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "city": "Durban",
+      "latitude": -29.8587,
+      "longitude": 31.0218,
+      "timestamp": "2026-10-28T15:38:30.463333",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 20.6,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 21.3,
+        "weather_code": 0,
+        "wind_speed_10m": 4.9,
+        "wind_direction_10m": 57
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "city": "Pretoria",
+      "latitude": -25.7479,
+      "longitude": 28.2293,
+      "timestamp": "2026-10-28T15:38:30.464633",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 29.4,
+        "relative_humidity_2m": 12,
+        "apparent_temperature": 26.2,
+        "weather_code": 0,
+        "wind_speed_10m": 4.2,
+        "wind_direction_10m": 239
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZA",
+      "city": "Port Elizabeth",
+      "latitude": -33.9608,
+      "longitude": 25.5852,
+      "timestamp": "2026-10-28T15:38:30.465883",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 20.0,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 20.4,
+        "weather_code": 0,
+        "wind_speed_10m": 11.6,
+        "wind_direction_10m": 212
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Cairo",
+      "latitude": 30.0444,
+      "longitude": 31.2357,
+      "timestamp": "2026-10-28T15:38:30.467215",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 26.8,
+        "relative_humidity_2m": 37,
+        "apparent_temperature": 25.9,
+        "weather_code": 2,
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 223
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Alexandria",
+      "latitude": 31.2001,
+      "longitude": 29.9187,
+      "timestamp": "2026-10-28T15:38:30.470296",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 24.4,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 24.0,
+        "weather_code": 2,
+        "wind_speed_10m": 8.3,
+        "wind_direction_10m": 268
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Luxor",
+      "latitude": 25.6872,
+      "longitude": 32.6396,
+      "timestamp": "2026-10-28T15:38:30.473528",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 28.4,
+        "relative_humidity_2m": 29,
+        "apparent_temperature": 26.9,
+        "weather_code": 0,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 309
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Sharm El Sheikh",
+      "latitude": 27.9158,
+      "longitude": 34.33,
+      "timestamp": "2026-10-28T15:38:30.478852",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 30.3,
+        "relative_humidity_2m": 30,
+        "apparent_temperature": 29.5,
+        "weather_code": 0,
+        "wind_speed_10m": 6.6,
+        "wind_direction_10m": 299
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Egypt",
+      "country_code": "EG",
+      "city": "Aswan",
+      "latitude": 24.0889,
+      "longitude": 32.8998,
+      "timestamp": "2026-10-28T15:38:30.482311",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 29.8,
+        "relative_humidity_2m": 23,
+        "apparent_temperature": 26.8,
+        "weather_code": 0,
+        "wind_speed_10m": 14.8,
+        "wind_direction_10m": 357
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "Amsterdam",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "timestamp": "2026-10-28T15:38:30.483710",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 14.1,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 11.2,
+        "weather_code": 2,
+        "wind_speed_10m": 17.6,
+        "wind_direction_10m": 236
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "Rotterdam",
+      "latitude": 51.9244,
+      "longitude": 4.4777,
+      "timestamp": "2026-10-28T15:38:30.518310",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 14.2,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 11.6,
+        "weather_code": 1,
+        "wind_speed_10m": 16.6,
+        "wind_direction_10m": 236
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "The Hague",
+      "latitude": 52.0705,
+      "longitude": 4.3007,
+      "timestamp": "2026-10-28T15:38:30.522204",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 14.2,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 11.2,
+        "weather_code": 1,
+        "wind_speed_10m": 18.4,
+        "wind_direction_10m": 244
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "Utrecht",
+      "latitude": 52.0907,
+      "longitude": 5.1214,
+      "timestamp": "2026-10-28T15:38:30.523618",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 13.8,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 11.7,
+        "weather_code": 3,
+        "wind_speed_10m": 13.3,
+        "wind_direction_10m": 229
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "Eindhoven",
+      "latitude": 51.4416,
+      "longitude": 5.4697,
+      "timestamp": "2026-10-28T15:38:30.524949",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 13.8,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 11.9,
+        "weather_code": 0,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 241
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Stockholm",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "timestamp": "2026-10-28T15:38:30.527163",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 11.9,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 10.1,
+        "weather_code": 2,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 232
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Gothenburg",
+      "latitude": 57.7089,
+      "longitude": 11.9746,
+      "timestamp": "2026-10-28T15:38:30.532153",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 11.9,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 9.9,
+        "weather_code": 2,
+        "wind_speed_10m": 13.7,
+        "wind_direction_10m": 203
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Malmo",
+      "latitude": 55.6045,
+      "longitude": 13.0038,
+      "timestamp": "2026-10-28T15:38:30.534102",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.5,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 10.9,
+        "weather_code": 1,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 253
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Uppsala",
+      "latitude": 59.8588,
+      "longitude": 17.6389,
+      "timestamp": "2026-10-28T15:38:30.535469",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.7,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 9.1,
+        "weather_code": 1,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 212
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Norway",
+      "country_code": "NO",
+      "city": "Oslo",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "timestamp": "2026-10-28T15:38:30.537835",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.9,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 7.9,
+        "weather_code": 2,
+        "wind_speed_10m": 16.6,
+        "wind_direction_10m": 181
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Norway",
+      "country_code": "NO",
+      "city": "Bergen",
+      "latitude": 60.3913,
+      "longitude": 5.3221,
+      "timestamp": "2026-10-28T15:38:30.539065",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.9,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 9.6,
+        "weather_code": 3,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 221
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "city": "Kiruna",
+      "latitude": 67.8557,
+      "longitude": 20.2253,
+      "timestamp": "2026-10-28T15:38:30.540326",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 3.8,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 0.3,
+        "weather_code": 0,
+        "wind_speed_10m": 13.7,
+        "wind_direction_10m": 207
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Norway",
+      "country_code": "NO",
+      "city": "Trondheim",
+      "latitude": 63.4305,
+      "longitude": 10.3951,
+      "timestamp": "2026-10-28T15:38:30.542476",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 11.9,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 8.0,
+        "weather_code": 2,
+        "wind_speed_10m": 16.6,
+        "wind_direction_10m": 199
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Norway",
+      "country_code": "NO",
+      "city": "Stavanger",
+      "latitude": 58.969,
+      "longitude": 5.7331,
+      "timestamp": "2026-10-28T15:38:30.543418",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 11.2,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 8.1,
+        "weather_code": 3,
+        "wind_speed_10m": 21.6,
+        "wind_direction_10m": 219
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Norway",
+      "country_code": "NO",
+      "city": "Tromso",
+      "latitude": 69.6492,
+      "longitude": 18.9553,
+      "timestamp": "2026-10-28T15:38:30.551223",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 8.9,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 3.5,
+        "weather_code": 2,
+        "wind_speed_10m": 28.1,
+        "wind_direction_10m": 183
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Zurich",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "timestamp": "2026-10-28T15:38:30.552648",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 11.5,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 10.6,
+        "weather_code": 3,
+        "wind_speed_10m": 1.6,
+        "wind_direction_10m": 63
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Geneva",
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "timestamp": "2026-10-28T15:38:30.555603",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 14.2,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 11.4,
+        "weather_code": 2,
+        "wind_speed_10m": 15.1,
+        "wind_direction_10m": 38
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Bern",
+      "latitude": 46.948,
+      "longitude": 7.4474,
+      "timestamp": "2026-10-28T15:38:30.557467",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.7,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 8.8,
+        "weather_code": 3,
+        "wind_speed_10m": 7.4,
+        "wind_direction_10m": 47
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Interlaken",
+      "latitude": 46.6863,
+      "longitude": 7.8632,
+      "timestamp": "2026-10-28T15:38:30.593647",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.7,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 9.9,
+        "weather_code": 45,
+        "wind_speed_10m": 4.6,
+        "wind_direction_10m": 231
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Lucerne",
+      "latitude": 47.0502,
+      "longitude": 8.3093,
+      "timestamp": "2026-10-28T15:38:30.595221",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 11.0,
+        "relative_humidity_2m": 86,
+        "apparent_temperature": 10.2,
+        "weather_code": 3,
+        "wind_speed_10m": 3.1,
+        "wind_direction_10m": 291
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "city": "Warsaw",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "timestamp": "2026-10-28T15:38:30.596493",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.6,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 9.0,
+        "weather_code": 1,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 111
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "city": "Krakow",
+      "latitude": 50.0647,
+      "longitude": 19.945,
+      "timestamp": "2026-10-28T15:38:30.598806",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.9,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 9.3,
+        "weather_code": 3,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 67
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "city": "Gdansk",
+      "latitude": 54.352,
+      "longitude": 18.6466,
+      "timestamp": "2026-10-28T15:38:30.602356",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 8.7,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 6.4,
+        "weather_code": 3,
+        "wind_speed_10m": 8.0,
+        "wind_direction_10m": 190
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "city": "Wroclaw",
+      "latitude": 51.1079,
+      "longitude": 17.0385,
+      "timestamp": "2026-10-28T15:38:30.604796",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 9.2,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 8.2,
+        "weather_code": 61,
+        "wind_speed_10m": 1.1,
+        "wind_direction_10m": 288
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Athens",
+      "latitude": 37.9838,
+      "longitude": 23.7275,
+      "timestamp": "2026-10-28T15:38:30.608912",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 13.4,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 11.4,
+        "weather_code": 0,
+        "wind_speed_10m": 7.1,
+        "wind_direction_10m": 311
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Thessaloniki",
+      "latitude": 40.6401,
+      "longitude": 22.9444,
+      "timestamp": "2026-10-28T15:38:30.611215",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 15.8,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 11.8,
+        "weather_code": 3,
+        "wind_speed_10m": 21.3,
+        "wind_direction_10m": 354
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "city": "Poznan",
+      "latitude": 52.4064,
+      "longitude": 16.9252,
+      "timestamp": "2026-10-28T15:38:30.612575",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 9.5,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 8.2,
+        "weather_code": 3,
+        "wind_speed_10m": 0.8,
+        "wind_direction_10m": 63
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Mykonos",
+      "latitude": 37.4467,
+      "longitude": 25.3289,
+      "timestamp": "2026-10-28T15:38:30.613850",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 15.3,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 14.0,
+        "weather_code": 3,
+        "wind_speed_10m": 15.2,
+        "wind_direction_10m": 7
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Santorini",
+      "latitude": 36.3932,
+      "longitude": 25.4615,
+      "timestamp": "2026-10-28T15:38:30.615167",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 16.4,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 15.7,
+        "weather_code": 3,
+        "wind_speed_10m": 7.4,
+        "wind_direction_10m": 231
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Lisbon",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "timestamp": "2026-10-28T15:38:30.617399",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 22.6,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 21.5,
+        "weather_code": 0,
+        "wind_speed_10m": 13.2,
+        "wind_direction_10m": 343
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "city": "Crete",
+      "latitude": 35.2401,
+      "longitude": 24.8317,
+      "timestamp": "2026-10-28T15:38:30.618634",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 6.8,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 3.7,
+        "weather_code": 80,
+        "wind_speed_10m": 14.3,
+        "wind_direction_10m": 214
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Porto",
+      "latitude": 41.1579,
+      "longitude": -8.6291,
+      "timestamp": "2026-10-28T15:38:30.625336",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 16.4,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 16.2,
+        "weather_code": 2,
+        "wind_speed_10m": 7.3,
+        "wind_direction_10m": 259
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Algarve",
+      "latitude": 37.0194,
+      "longitude": -7.9322,
+      "timestamp": "2026-10-28T15:38:30.627694",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 22.4,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 22.4,
+        "weather_code": 1,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 247
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Coimbra",
+      "latitude": 40.2033,
+      "longitude": -8.4103,
+      "timestamp": "2026-10-28T15:38:30.630061",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 19.5,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 19.1,
+        "weather_code": 2,
+        "wind_speed_10m": 11.8,
+        "wind_direction_10m": 297
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Sintra",
+      "latitude": 38.7976,
+      "longitude": -9.3908,
+      "timestamp": "2026-10-28T15:38:30.632404",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 18.1,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 16.8,
+        "weather_code": 1,
+        "wind_speed_10m": 13.5,
+        "wind_direction_10m": 351
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Buenos Aires",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "timestamp": "2026-10-28T15:38:30.665926",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 19.4,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 20.5,
+        "weather_code": 1,
+        "wind_speed_10m": 8.3,
+        "wind_direction_10m": 51
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Cordoba",
+      "latitude": -31.4201,
+      "longitude": -64.1888,
+      "timestamp": "2026-10-28T15:38:30.668355",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 22.3,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 24.6,
+        "weather_code": 1,
+        "wind_speed_10m": 5.2,
+        "wind_direction_10m": 70
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Mendoza",
+      "latitude": -32.8895,
+      "longitude": -68.8458,
+      "timestamp": "2026-10-28T15:38:30.669634",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 21.8,
+        "relative_humidity_2m": 43,
+        "apparent_temperature": 22.3,
+        "weather_code": 1,
+        "wind_speed_10m": 8.0,
+        "wind_direction_10m": 36
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Rosario",
+      "latitude": -32.9442,
+      "longitude": -60.6505,
+      "timestamp": "2026-10-28T15:38:30.671415",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 22.2,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 24.0,
+        "weather_code": 0,
+        "wind_speed_10m": 7.4,
+        "wind_direction_10m": 7
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Argentina",
+      "country_code": "AR",
+      "city": "Bariloche",
+      "latitude": -41.1335,
+      "longitude": -71.3103,
+      "timestamp": "2026-10-28T15:38:30.674365",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 17.3,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 17.1,
+        "weather_code": 0,
+        "wind_speed_10m": 11.1,
+        "wind_direction_10m": 102
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Santiago",
+      "latitude": -33.4489,
+      "longitude": -70.6693,
+      "timestamp": "2026-10-28T15:38:30.677079",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 23.3,
+        "relative_humidity_2m": 44,
+        "apparent_temperature": 25.9,
+        "weather_code": 0,
+        "wind_speed_10m": 3.2,
+        "wind_direction_10m": 273
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Valparaiso",
+      "latitude": -33.0472,
+      "longitude": -71.6127,
+      "timestamp": "2026-10-28T15:38:30.681818",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 19.6,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 22.1,
+        "weather_code": 45,
+        "wind_speed_10m": 9.8,
+        "wind_direction_10m": 337
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Puerto Montt",
+      "latitude": -41.4689,
+      "longitude": -72.9424,
+      "timestamp": "2026-10-28T15:38:30.683987",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 15.1,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 14.7,
+        "weather_code": 0,
+        "wind_speed_10m": 12.5,
+        "wind_direction_10m": 165
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Punta Arenas",
+      "latitude": -53.1638,
+      "longitude": -70.9171,
+      "timestamp": "2026-10-28T15:38:30.686133",
+      "current": {
+        "time": "2026-10-28T12:30",
+        "interval": 900,
+        "temperature_2m": 17.3,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 14.4,
+        "weather_code": 2,
+        "wind_speed_10m": 20.5,
+        "wind_direction_10m": 321
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Colombia",
+      "country_code": "CO",
+      "city": "Bogota",
+      "latitude": 4.711,
+      "longitude": -74.0721,
+      "timestamp": "2026-10-28T15:38:30.687417",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 20.4,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 22.2,
+        "weather_code": 51,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 49
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Easter Island",
+      "latitude": -27.1127,
+      "longitude": -109.3497,
+      "timestamp": "2026-10-28T15:38:30.688735",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 18.0,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 15.8,
+        "weather_code": 3,
+        "wind_speed_10m": 22.6,
+        "wind_direction_10m": 155
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Colombia",
+      "country_code": "CO",
+      "city": "Medellin",
+      "latitude": 6.2442,
+      "longitude": -75.5812,
+      "timestamp": "2026-10-28T15:38:30.689984",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 25.0,
+        "relative_humidity_2m": 66,
+        "apparent_temperature": 28.3,
+        "weather_code": 51,
+        "wind_speed_10m": 7.0,
+        "wind_direction_10m": 64
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Colombia",
+      "country_code": "CO",
+      "city": "Cali",
+      "latitude": 3.4516,
+      "longitude": -76.532,
+      "timestamp": "2026-10-28T15:38:30.691404",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 27.6,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 33.1,
+        "weather_code": 0,
+        "wind_speed_10m": 3.2,
+        "wind_direction_10m": 106
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Colombia",
+      "country_code": "CO",
+      "city": "Cartagena",
+      "latitude": 10.391,
+      "longitude": -75.4794,
+      "timestamp": "2026-10-28T15:38:30.697664",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 30.3,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 37.1,
+        "weather_code": 1,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 20
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Colombia",
+      "country_code": "CO",
+      "city": "Barranquilla",
+      "latitude": 10.9685,
+      "longitude": -74.7813,
+      "timestamp": "2026-10-28T15:38:30.700353",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 30.4,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 36.9,
+        "weather_code": 0,
+        "wind_speed_10m": 8.1,
+        "wind_direction_10m": 5
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Lima",
+      "latitude": -12.0464,
+      "longitude": -77.0428,
+      "timestamp": "2026-10-28T15:38:30.702519",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 25.9,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 29.8,
+        "weather_code": 2,
+        "wind_speed_10m": 12.7,
+        "wind_direction_10m": 192
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Cusco",
+      "latitude": -13.5319,
+      "longitude": -71.9675,
+      "timestamp": "2026-10-28T15:38:30.705940",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 17.1,
+        "relative_humidity_2m": 45,
+        "apparent_temperature": 14.8,
+        "weather_code": 51,
+        "wind_speed_10m": 12.1,
+        "wind_direction_10m": 320
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Arequipa",
+      "latitude": -16.409,
+      "longitude": -71.5375,
+      "timestamp": "2026-10-28T15:38:30.738165",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 22.2,
+        "relative_humidity_2m": 31,
+        "apparent_temperature": 21.5,
+        "weather_code": 0,
+        "wind_speed_10m": 14.7,
+        "wind_direction_10m": 276
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Machu Picchu",
+      "latitude": -13.1631,
+      "longitude": -72.545,
+      "timestamp": "2026-10-28T15:38:30.745022",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 14.4,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 14.5,
+        "weather_code": 55,
+        "wind_speed_10m": 4.8,
+        "wind_direction_10m": 211
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PE",
+      "city": "Trujillo",
+      "latitude": -8.1116,
+      "longitude": -79.0288,
+      "timestamp": "2026-10-28T15:38:30.746362",
+      "current": {
+        "time": "2026-10-28T10:30",
+        "interval": 900,
+        "temperature_2m": 26.6,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 29.1,
+        "weather_code": 3,
+        "wind_speed_10m": 17.5,
+        "wind_direction_10m": 182
+      },
+      "history_24h": null
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "city": "Wellington",
+      "latitude": -41.2865,
+      "longitude": 174.7762,
+      "timestamp": "2026-10-28T15:38:30.747689",
+      "current": {
+        "time": "2026-10-29T04:30",
+        "interval": 900,
+        "temperature_2m": 13.2,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 6.3,
+        "weather_code": 1,
+        "wind_speed_10m": 42.3,
+        "wind_direction_10m": 323
+      },
+      "history_24h": null
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "city": "Christchurch",
+      "latitude": -43.5321,
+      "longitude": 172.6362,
+      "timestamp": "2026-10-28T15:38:30.749289",
+      "current": {
+        "time": "2026-10-29T04:30",
+        "interval": 900,
+        "temperature_2m": 12.8,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 9.1,
+        "weather_code": 2,
+        "wind_speed_10m": 15.7,
+        "wind_direction_10m": 236
+      },
+      "history_24h": null
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "city": "Auckland",
+      "latitude": -36.8509,
+      "longitude": 174.7645,
+      "timestamp": "2026-10-28T15:38:30.750331",
+      "current": {
+        "time": "2026-10-29T04:30",
+        "interval": 900,
+        "temperature_2m": 13.7,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 11.0,
+        "weather_code": 1,
+        "wind_speed_10m": 17.6,
+        "wind_direction_10m": 276
+      },
+      "history_24h": null
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "city": "Queenstown",
+      "latitude": -45.0312,
+      "longitude": 168.6626,
+      "timestamp": "2026-10-28T15:38:30.756263",
+      "current": {
+        "time": "2026-10-29T04:30",
+        "interval": 900,
+        "temperature_2m": 6.0,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 4.0,
+        "weather_code": 51,
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 235
+      },
+      "history_24h": null
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "city": "Rotorua",
+      "latitude": -38.1378,
+      "longitude": 176.2514,
+      "timestamp": "2026-10-28T15:38:30.757862",
+      "current": {
+        "time": "2026-10-29T04:30",
+        "interval": 900,
+        "temperature_2m": 9.4,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 5.5,
+        "weather_code": 0,
+        "wind_speed_10m": 21.3,
+        "wind_direction_10m": 258
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KE",
+      "city": "Nairobi",
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "timestamp": "2026-10-28T15:38:30.759187",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 21.4,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 22.5,
+        "weather_code": 51,
+        "wind_speed_10m": 10.9,
+        "wind_direction_10m": 39
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KE",
+      "city": "Mombasa",
+      "latitude": -4.0435,
+      "longitude": 39.6682,
+      "timestamp": "2026-10-28T15:38:30.763801",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 26.9,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 31.1,
+        "weather_code": 1,
+        "wind_speed_10m": 11.4,
+        "wind_direction_10m": 125
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KE",
+      "city": "Kisumu",
+      "latitude": -0.1022,
+      "longitude": 34.7617,
+      "timestamp": "2026-10-28T15:38:30.765114",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 25.9,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 27.1,
+        "weather_code": 2,
+        "wind_speed_10m": 4.5,
+        "wind_direction_10m": 355
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KE",
+      "city": "Nakuru",
+      "latitude": -0.3031,
+      "longitude": 36.08,
+      "timestamp": "2026-10-28T15:38:30.766659",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 22.1,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 23.3,
+        "weather_code": 2,
+        "wind_speed_10m": 2.4,
+        "wind_direction_10m": 42
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KE",
+      "city": "Malindi",
+      "latitude": -3.2138,
+      "longitude": 40.1169,
+      "timestamp": "2026-10-28T15:38:30.769180",
+      "current": {
+        "time": "2026-10-28T18:30",
+        "interval": 900,
+        "temperature_2m": 26.9,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 30.8,
+        "weather_code": 3,
+        "wind_speed_10m": 12.1,
+        "wind_direction_10m": 133
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Casablanca",
+      "latitude": 33.5731,
+      "longitude": -7.5898,
+      "timestamp": "2026-10-28T15:38:30.770514",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 23.0,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 23.2,
+        "weather_code": 3,
+        "wind_speed_10m": 12.1,
+        "wind_direction_10m": 17
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Marrakech",
+      "latitude": 31.6295,
+      "longitude": -7.9811,
+      "timestamp": "2026-10-28T15:38:30.773017",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 30.0,
+        "relative_humidity_2m": 23,
+        "apparent_temperature": 28.5,
+        "weather_code": 3,
+        "wind_speed_10m": 3.9,
+        "wind_direction_10m": 326
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Fes",
+      "latitude": 34.0181,
+      "longitude": -5.0078,
+      "timestamp": "2026-10-28T15:38:30.777252",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 28.0,
+        "relative_humidity_2m": 28,
+        "apparent_temperature": 26.3,
+        "weather_code": 0,
+        "wind_speed_10m": 7.7,
+        "wind_direction_10m": 349
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Tangier",
+      "latitude": 35.7595,
+      "longitude": -5.834,
+      "timestamp": "2026-10-28T15:38:30.780387",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 22.5,
+        "relative_humidity_2m": 66,
+        "apparent_temperature": 23.1,
+        "weather_code": 0,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 22
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Agadir",
+      "latitude": 30.4278,
+      "longitude": -9.5983,
+      "timestamp": "2026-10-28T15:38:30.812685",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 29.0,
+        "relative_humidity_2m": 42,
+        "apparent_temperature": 29.7,
+        "weather_code": 3,
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 284
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Prague",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "timestamp": "2026-10-28T15:38:30.817948",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 9.5,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 8.1,
+        "weather_code": 61,
+        "wind_speed_10m": 5.1,
+        "wind_direction_10m": 321
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Brno",
+      "latitude": 49.1951,
+      "longitude": 16.6068,
+      "timestamp": "2026-10-28T15:38:30.820198",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 9.5,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 7.3,
+        "weather_code": 3,
+        "wind_speed_10m": 5.3,
+        "wind_direction_10m": 332
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Cesky Krumlov",
+      "latitude": 48.8127,
+      "longitude": 14.3175,
+      "timestamp": "2026-10-28T15:38:30.822118",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 11.2,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 10.4,
+        "weather_code": 3,
+        "wind_speed_10m": 2.9,
+        "wind_direction_10m": 83
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Karlovy Vary",
+      "latitude": 50.2319,
+      "longitude": 12.8716,
+      "timestamp": "2026-10-28T15:38:30.823402",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 9.3,
+        "relative_humidity_2m": 87,
+        "apparent_temperature": 7.7,
+        "weather_code": 3,
+        "wind_speed_10m": 6.1,
+        "wind_direction_10m": 242
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Pilsen",
+      "latitude": 49.7384,
+      "longitude": 13.3736,
+      "timestamp": "2026-10-28T15:38:30.824684",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 8.9,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 8.2,
+        "weather_code": 61,
+        "wind_speed_10m": 0.8,
+        "wind_direction_10m": 297
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Vienna",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "timestamp": "2026-10-28T15:38:30.828790",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.4,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 8.5,
+        "weather_code": 3,
+        "wind_speed_10m": 3.7,
+        "wind_direction_10m": 331
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Salzburg",
+      "latitude": 47.8095,
+      "longitude": 13.055,
+      "timestamp": "2026-10-28T15:38:30.833676",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.7,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 9.2,
+        "weather_code": 63,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 345
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Innsbruck",
+      "latitude": 47.2692,
+      "longitude": 11.4041,
+      "timestamp": "2026-10-28T15:38:30.835198",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.2,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 9.2,
+        "weather_code": 3,
+        "wind_speed_10m": 2.0,
+        "wind_direction_10m": 315
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Graz",
+      "latitude": 47.0707,
+      "longitude": 15.4395,
+      "timestamp": "2026-10-28T15:38:30.838164",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 10.1,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 9.3,
+        "weather_code": 3,
+        "wind_speed_10m": 0.4,
+        "wind_direction_10m": 90
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "city": "Hallstatt",
+      "latitude": 47.5622,
+      "longitude": 13.6493,
+      "timestamp": "2026-10-28T15:38:30.840856",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.7,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 11.4,
+        "weather_code": 61,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 358
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Dublin",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "timestamp": "2026-10-28T15:38:30.842732",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 15.1,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 12.6,
+        "weather_code": 3,
+        "wind_speed_10m": 15.5,
+        "wind_direction_10m": 236
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Cork",
+      "latitude": 51.8969,
+      "longitude": -8.4863,
+      "timestamp": "2026-10-28T15:38:30.843931",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 14.7,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 13.3,
+        "weather_code": 3,
+        "wind_speed_10m": 12.2,
+        "wind_direction_10m": 216
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Galway",
+      "latitude": 53.2707,
+      "longitude": -9.0568,
+      "timestamp": "2026-10-28T15:38:30.845309",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 14.2,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 12.2,
+        "weather_code": 2,
+        "wind_speed_10m": 17.3,
+        "wind_direction_10m": 219
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Limerick",
+      "latitude": 52.668,
+      "longitude": -8.6305,
+      "timestamp": "2026-10-28T15:38:30.846575",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 14.1,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 12.4,
+        "weather_code": 3,
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 216
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "city": "Belfast",
+      "latitude": 54.5973,
+      "longitude": -5.9301,
+      "timestamp": "2026-10-28T15:38:30.849911",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 14.4,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 12.3,
+        "weather_code": 3,
+        "wind_speed_10m": 11.9,
+        "wind_direction_10m": 226
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "city": "Copenhagen",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "timestamp": "2026-10-28T15:38:30.854995",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 13.0,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 11.3,
+        "weather_code": 1,
+        "wind_speed_10m": 7.2,
+        "wind_direction_10m": 244
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "city": "Aarhus",
+      "latitude": 56.1629,
+      "longitude": 10.2039,
+      "timestamp": "2026-10-28T15:38:30.886872",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.6,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 10.7,
+        "weather_code": 2,
+        "wind_speed_10m": 13.7,
+        "wind_direction_10m": 222
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "city": "Odense",
+      "latitude": 55.4038,
+      "longitude": 10.4027,
+      "timestamp": "2026-10-28T15:38:30.892243",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.9,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 11.1,
+        "weather_code": 2,
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 224
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "city": "Aalborg",
+      "latitude": 57.0488,
+      "longitude": 9.9217,
+      "timestamp": "2026-10-28T15:38:30.893335",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.2,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 10.0,
+        "weather_code": 3,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 210
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "city": "Billund",
+      "latitude": 55.7304,
+      "longitude": 9.1103,
+      "timestamp": "2026-10-28T15:38:30.895138",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.0,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 10.2,
+        "weather_code": 3,
+        "wind_speed_10m": 11.5,
+        "wind_direction_10m": 214
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Helsinki",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "timestamp": "2026-10-28T15:38:30.896455",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 10.4,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 5.7,
+        "weather_code": 3,
+        "wind_speed_10m": 27.4,
+        "wind_direction_10m": 201
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Tampere",
+      "latitude": 61.4978,
+      "longitude": 23.7608,
+      "timestamp": "2026-10-28T15:38:30.898023",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 10.2,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 6.8,
+        "weather_code": 3,
+        "wind_speed_10m": 20.5,
+        "wind_direction_10m": 200
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Turku",
+      "latitude": 60.4518,
+      "longitude": 22.2666,
+      "timestamp": "2026-10-28T15:38:30.902176",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 11.0,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 8.8,
+        "weather_code": 3,
+        "wind_speed_10m": 14.4,
+        "wind_direction_10m": 198
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Rovaniemi",
+      "latitude": 66.5039,
+      "longitude": 25.7294,
+      "timestamp": "2026-10-28T15:38:30.909572",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 9.2,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 5.4,
+        "weather_code": 3,
+        "wind_speed_10m": 22.7,
+        "wind_direction_10m": 215
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "city": "Budapest",
+      "latitude": 47.4979,
+      "longitude": 19.0402,
+      "timestamp": "2026-10-28T15:38:30.910005",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 13.9,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 11.3,
+        "weather_code": 0,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 314
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Oulu",
+      "latitude": 65.0121,
+      "longitude": 25.4651,
+      "timestamp": "2026-10-28T15:38:30.912000",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 11.6,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 8.3,
+        "weather_code": 3,
+        "wind_speed_10m": 18.7,
+        "wind_direction_10m": 211
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "city": "Debrecen",
+      "latitude": 47.5316,
+      "longitude": 21.6273,
+      "timestamp": "2026-10-28T15:38:30.913841",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 14.6,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 12.9,
+        "weather_code": 0,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 345
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "city": "Szeged",
+      "latitude": 46.253,
+      "longitude": 20.1414,
+      "timestamp": "2026-10-28T15:38:30.917249",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 15.2,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 12.9,
+        "weather_code": 0,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 317
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "city": "Lake Balaton",
+      "latitude": 46.7094,
+      "longitude": 17.5526,
+      "timestamp": "2026-10-28T15:38:30.920007",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.1,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 10.6,
+        "weather_code": 1,
+        "wind_speed_10m": 3.9,
+        "wind_direction_10m": 304
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "city": "Pecs",
+      "latitude": 46.0792,
+      "longitude": 18.2,
+      "timestamp": "2026-10-28T15:38:30.920733",
+      "current": {
+        "time": "2026-10-28T16:30",
+        "interval": 900,
+        "temperature_2m": 12.1,
+        "relative_humidity_2m": 54,
+        "apparent_temperature": 9.9,
+        "weather_code": 1,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 293
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Bucharest",
+      "latitude": 44.4268,
+      "longitude": 26.1025,
+      "timestamp": "2026-10-28T15:38:30.922393",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 12.3,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 12.1,
+        "weather_code": 3,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 45
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Cluj-Napoca",
+      "latitude": 46.7712,
+      "longitude": 23.6236,
+      "timestamp": "2026-10-28T15:38:30.925118",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 13.0,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 12.1,
+        "weather_code": 3,
+        "wind_speed_10m": 2.4,
+        "wind_direction_10m": 117
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Brasov",
+      "latitude": 45.6427,
+      "longitude": 25.5887,
+      "timestamp": "2026-10-28T15:38:30.929895",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 8.3,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 7.4,
+        "weather_code": 3,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 256
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Timisoara",
+      "latitude": 45.7537,
+      "longitude": 21.2251,
+      "timestamp": "2026-10-28T15:38:30.960994",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 14.3,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 12.4,
+        "weather_code": 0,
+        "wind_speed_10m": 6.8,
+        "wind_direction_10m": 356
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Sibiu",
+      "latitude": 45.7928,
+      "longitude": 24.1433,
+      "timestamp": "2026-10-28T15:38:30.966864",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 10.5,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 9.8,
+        "weather_code": 3,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 135
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UA",
+      "city": "Kyiv",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "timestamp": "2026-10-28T15:38:30.967852",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 8.1,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 6.0,
+        "weather_code": 3,
+        "wind_speed_10m": 6.0,
+        "wind_direction_10m": 65
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UA",
+      "city": "Lviv",
+      "latitude": 49.8397,
+      "longitude": 24.0297,
+      "timestamp": "2026-10-28T15:38:30.970921",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 10.2,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 8.4,
+        "weather_code": 3,
+        "wind_speed_10m": 7.2,
+        "wind_direction_10m": 37
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UA",
+      "city": "Odessa",
+      "latitude": 46.4825,
+      "longitude": 30.7233,
+      "timestamp": "2026-10-28T15:38:30.971962",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 14.0,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 13.4,
+        "weather_code": 80,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 37
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UA",
+      "city": "Kharkiv",
+      "latitude": 49.9935,
+      "longitude": 36.2304,
+      "timestamp": "2026-10-28T15:38:30.972986",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 12.2,
+        "relative_humidity_2m": 34,
+        "apparent_temperature": 8.5,
+        "weather_code": 3,
+        "wind_speed_10m": 7.8,
+        "wind_direction_10m": 77
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UA",
+      "city": "Chernivtsi",
+      "latitude": 48.2921,
+      "longitude": 25.9398,
+      "timestamp": "2026-10-28T15:38:30.977548",
+      "current": {
+        "time": "2026-10-28T17:30",
+        "interval": 900,
+        "temperature_2m": 9.4,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 8.6,
+        "weather_code": 3,
+        "wind_speed_10m": 3.1,
+        "wind_direction_10m": 306
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Edinburgh",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "timestamp": "2026-10-28T15:38:31.018608",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 12.8,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 10.1,
+        "weather_code": 3,
+        "wind_speed_10m": 16.9,
+        "wind_direction_10m": 242
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "Birmingham",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "timestamp": "2026-10-28T15:38:31.020784",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 14.4,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 12.5,
+        "weather_code": 1,
+        "wind_speed_10m": 13.7,
+        "wind_direction_10m": 235
+      },
+      "history_24h": null
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Seattle",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "timestamp": "2026-10-28T15:38:31.026258",
+      "current": {
+        "time": "2026-10-28T08:30",
+        "interval": 900,
+        "temperature_2m": 7.5,
+        "relative_humidity_2m": 87,
+        "apparent_temperature": 4.4,
+        "weather_code": 3,
+        "wind_speed_10m": 14.0,
+        "wind_direction_10m": 237
+      },
+      "history_24h": null
+    }
+  ]
+}

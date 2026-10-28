@@ -1,80 +1,23 @@
 {
   "country": "Portugal",
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "cities": [
-    {
-      "country": "Portugal",
-      "country_code": "PT",
-      "city": "Algarve",
-      "latitude": 37.0194,
-      "longitude": -7.9322,
-      "timestamp": "2026-10-27T15:02:19.762415",
-      "current": {
-        "time": "2026-10-27T15:00",
-        "interval": 900,
-        "temperature_2m": 22.7,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 21.8,
-        "weather_code": 1,
-        "wind_speed_10m": 17.1,
-        "wind_direction_10m": 262
-      },
-      "history_24h": null
-    },
     {
       "country": "Portugal",
       "country_code": "PT",
       "city": "Lisbon",
       "latitude": 38.7223,
       "longitude": -9.1393,
-      "timestamp": "2026-10-27T15:02:19.764200",
+      "timestamp": "2026-10-28T15:38:30.617399",
       "current": {
-        "time": "2026-10-27T15:00",
+        "time": "2026-10-28T15:30",
         "interval": 900,
-        "temperature_2m": 23.0,
-        "relative_humidity_2m": 49,
-        "apparent_temperature": 22.0,
-        "weather_code": 1,
-        "wind_speed_10m": 10.3,
-        "wind_direction_10m": 331
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Portugal",
-      "country_code": "PT",
-      "city": "Coimbra",
-      "latitude": 40.2033,
-      "longitude": -8.4103,
-      "timestamp": "2026-10-27T15:02:19.765533",
-      "current": {
-        "time": "2026-10-27T15:00",
-        "interval": 900,
-        "temperature_2m": 20.9,
-        "relative_humidity_2m": 61,
-        "apparent_temperature": 20.7,
-        "weather_code": 3,
-        "wind_speed_10m": 8.1,
-        "wind_direction_10m": 283
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Portugal",
-      "country_code": "PT",
-      "city": "Sintra",
-      "latitude": 38.7976,
-      "longitude": -9.3908,
-      "timestamp": "2026-10-27T15:02:19.766890",
-      "current": {
-        "time": "2026-10-27T15:00",
-        "interval": 900,
-        "temperature_2m": 19.8,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 18.7,
-        "weather_code": 3,
-        "wind_speed_10m": 14.3,
-        "wind_direction_10m": 326
+        "temperature_2m": 22.6,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 21.5,
+        "weather_code": 0,
+        "wind_speed_10m": 13.2,
+        "wind_direction_10m": 343
       },
       "history_24h": null
     },
@@ -84,16 +27,73 @@
       "city": "Porto",
       "latitude": 41.1579,
       "longitude": -8.6291,
-      "timestamp": "2026-10-27T15:02:19.851109",
+      "timestamp": "2026-10-28T15:38:30.625336",
       "current": {
-        "time": "2026-10-27T15:00",
+        "time": "2026-10-28T15:30",
         "interval": 900,
-        "temperature_2m": 18.3,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 18.5,
-        "weather_code": 3,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 209
+        "temperature_2m": 16.4,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 16.2,
+        "weather_code": 2,
+        "wind_speed_10m": 7.3,
+        "wind_direction_10m": 259
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Algarve",
+      "latitude": 37.0194,
+      "longitude": -7.9322,
+      "timestamp": "2026-10-28T15:38:30.627694",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 22.4,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 22.4,
+        "weather_code": 1,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 247
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Coimbra",
+      "latitude": 40.2033,
+      "longitude": -8.4103,
+      "timestamp": "2026-10-28T15:38:30.630061",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 19.5,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 19.1,
+        "weather_code": 2,
+        "wind_speed_10m": 11.8,
+        "wind_direction_10m": 297
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "city": "Sintra",
+      "latitude": 38.7976,
+      "longitude": -9.3908,
+      "timestamp": "2026-10-28T15:38:30.632404",
+      "current": {
+        "time": "2026-10-28T15:30",
+        "interval": 900,
+        "temperature_2m": 18.1,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 16.8,
+        "weather_code": 1,
+        "wind_speed_10m": 13.5,
+        "wind_direction_10m": 351
       },
       "history_24h": null
     }
