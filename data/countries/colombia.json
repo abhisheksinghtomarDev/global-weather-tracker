@@ -1,23 +1,42 @@
 {
   "country": "Colombia",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "cities": [
+    {
+      "country": "Colombia",
+      "country_code": "CO",
+      "city": "Cali",
+      "latitude": 3.4516,
+      "longitude": -76.532,
+      "timestamp": "2026-10-29T15:44:37.850520",
+      "current": {
+        "time": "2026-10-29T10:30",
+        "interval": 900,
+        "temperature_2m": 26.1,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 31.2,
+        "weather_code": 3,
+        "wind_speed_10m": 2.1,
+        "wind_direction_10m": 160
+      },
+      "history_24h": null
+    },
     {
       "country": "Colombia",
       "country_code": "CO",
       "city": "Bogota",
       "latitude": 4.711,
       "longitude": -74.0721,
-      "timestamp": "2026-10-28T15:38:30.687417",
+      "timestamp": "2026-10-29T15:44:37.928833",
       "current": {
-        "time": "2026-10-28T10:30",
+        "time": "2026-10-29T10:30",
         "interval": 900,
-        "temperature_2m": 20.4,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 22.2,
-        "weather_code": 51,
-        "wind_speed_10m": 3.3,
-        "wind_direction_10m": 49
+        "temperature_2m": 20.1,
+        "relative_humidity_2m": 51,
+        "apparent_temperature": 21.8,
+        "weather_code": 3,
+        "wind_speed_10m": 2.7,
+        "wind_direction_10m": 110
       },
       "history_24h": null
     },
@@ -27,35 +46,16 @@
       "city": "Medellin",
       "latitude": 6.2442,
       "longitude": -75.5812,
-      "timestamp": "2026-10-28T15:38:30.689984",
+      "timestamp": "2026-10-29T15:44:37.930229",
       "current": {
-        "time": "2026-10-28T10:30",
+        "time": "2026-10-29T10:30",
         "interval": 900,
-        "temperature_2m": 25.0,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 28.3,
-        "weather_code": 51,
-        "wind_speed_10m": 7.0,
-        "wind_direction_10m": 64
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Colombia",
-      "country_code": "CO",
-      "city": "Cali",
-      "latitude": 3.4516,
-      "longitude": -76.532,
-      "timestamp": "2026-10-28T15:38:30.691404",
-      "current": {
-        "time": "2026-10-28T10:30",
-        "interval": 900,
-        "temperature_2m": 27.6,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 33.1,
-        "weather_code": 0,
-        "wind_speed_10m": 3.2,
-        "wind_direction_10m": 106
+        "temperature_2m": 26.6,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 29.9,
+        "weather_code": 3,
+        "wind_speed_10m": 6.1,
+        "wind_direction_10m": 66
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Cartagena",
       "latitude": 10.391,
       "longitude": -75.4794,
-      "timestamp": "2026-10-28T15:38:30.697664",
+      "timestamp": "2026-10-29T15:44:37.932209",
       "current": {
-        "time": "2026-10-28T10:30",
+        "time": "2026-10-29T10:30",
         "interval": 900,
-        "temperature_2m": 30.3,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 37.1,
-        "weather_code": 1,
-        "wind_speed_10m": 5.4,
-        "wind_direction_10m": 20
+        "temperature_2m": 31.4,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 38.2,
+        "weather_code": 3,
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 359
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Barranquilla",
       "latitude": 10.9685,
       "longitude": -74.7813,
-      "timestamp": "2026-10-28T15:38:30.700353",
+      "timestamp": "2026-10-29T15:44:37.936068",
       "current": {
-        "time": "2026-10-28T10:30",
+        "time": "2026-10-29T10:30",
         "interval": 900,
-        "temperature_2m": 30.4,
-        "relative_humidity_2m": 70,
-        "apparent_temperature": 36.9,
-        "weather_code": 0,
-        "wind_speed_10m": 8.1,
-        "wind_direction_10m": 5
+        "temperature_2m": 32.4,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 39.1,
+        "weather_code": 2,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 70
       },
       "history_24h": null
     }

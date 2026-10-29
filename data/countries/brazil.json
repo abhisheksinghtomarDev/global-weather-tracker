@@ -1,6 +1,6 @@
 {
   "country": "Brazil",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "cities": [
     {
       "country": "Brazil",
@@ -8,54 +8,16 @@
       "city": "Sao Paulo",
       "latitude": -23.5505,
       "longitude": -46.6333,
-      "timestamp": "2026-10-28T15:38:30.154682",
+      "timestamp": "2026-10-29T15:44:37.243822",
       "current": {
-        "time": "2026-10-28T12:30",
+        "time": "2026-10-29T12:30",
         "interval": 900,
-        "temperature_2m": 22.3,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 24.5,
-        "weather_code": 3,
-        "wind_speed_10m": 1.0,
-        "wind_direction_10m": 112
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Brazil",
-      "country_code": "BR",
-      "city": "Rio de Janeiro",
-      "latitude": -22.9068,
-      "longitude": -43.1729,
-      "timestamp": "2026-10-28T15:38:30.157178",
-      "current": {
-        "time": "2026-10-28T12:30",
-        "interval": 900,
-        "temperature_2m": 24.8,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 26.9,
-        "weather_code": 3,
-        "wind_speed_10m": 16.8,
-        "wind_direction_10m": 131
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Brazil",
-      "country_code": "BR",
-      "city": "Brasilia",
-      "latitude": -15.7975,
-      "longitude": -47.8919,
-      "timestamp": "2026-10-28T15:38:30.158459",
-      "current": {
-        "time": "2026-10-28T12:30",
-        "interval": 900,
-        "temperature_2m": 25.0,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 26.5,
-        "weather_code": 3,
-        "wind_speed_10m": 8.9,
-        "wind_direction_10m": 58
+        "temperature_2m": 19.5,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 21.4,
+        "weather_code": 80,
+        "wind_speed_10m": 6.0,
+        "wind_direction_10m": 231
       },
       "history_24h": null
     },
@@ -65,16 +27,16 @@
       "city": "Salvador",
       "latitude": -12.9714,
       "longitude": -38.5014,
-      "timestamp": "2026-10-28T15:38:30.159799",
+      "timestamp": "2026-10-29T15:44:37.249174",
       "current": {
-        "time": "2026-10-28T12:30",
+        "time": "2026-10-29T12:30",
         "interval": 900,
-        "temperature_2m": 26.4,
-        "relative_humidity_2m": 78,
-        "apparent_temperature": 31.0,
+        "temperature_2m": 27.2,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 33.2,
         "weather_code": 3,
-        "wind_speed_10m": 16.8,
-        "wind_direction_10m": 168
+        "wind_speed_10m": 11.1,
+        "wind_direction_10m": 146
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Fortaleza",
       "latitude": -3.7172,
       "longitude": -38.5433,
-      "timestamp": "2026-10-28T15:38:30.161344",
+      "timestamp": "2026-10-29T15:44:37.260586",
       "current": {
-        "time": "2026-10-28T12:30",
+        "time": "2026-10-29T12:30",
         "interval": 900,
-        "temperature_2m": 31.2,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 34.2,
+        "temperature_2m": 31.8,
+        "relative_humidity_2m": 48,
+        "apparent_temperature": 34.4,
         "weather_code": 0,
-        "wind_speed_10m": 22.2,
-        "wind_direction_10m": 105
+        "wind_speed_10m": 21.1,
+        "wind_direction_10m": 101
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Brasilia",
+      "latitude": -15.7975,
+      "longitude": -47.8919,
+      "timestamp": "2026-10-29T15:44:37.329563",
+      "current": {
+        "time": "2026-10-29T12:30",
+        "interval": 900,
+        "temperature_2m": 27.0,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 29.6,
+        "weather_code": 3,
+        "wind_speed_10m": 11.0,
+        "wind_direction_10m": 5
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Brazil",
+      "country_code": "BR",
+      "city": "Rio de Janeiro",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "timestamp": "2026-10-29T15:44:37.330438",
+      "current": {
+        "time": "2026-10-29T12:30",
+        "interval": 900,
+        "temperature_2m": 22.9,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 25.1,
+        "weather_code": 51,
+        "wind_speed_10m": 10.8,
+        "wind_direction_10m": 154
       },
       "history_24h": null
     }
