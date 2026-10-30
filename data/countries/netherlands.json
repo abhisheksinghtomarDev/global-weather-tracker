@@ -1,61 +1,42 @@
 {
   "country": "Netherlands",
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "cities": [
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "city": "Amsterdam",
-      "latitude": 52.3676,
-      "longitude": 4.9041,
-      "timestamp": "2026-10-29T15:44:37.617168",
-      "current": {
-        "time": "2026-10-29T16:30",
-        "interval": 900,
-        "temperature_2m": 15.4,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 14.8,
-        "weather_code": 2,
-        "wind_speed_10m": 5.8,
-        "wind_direction_10m": 314
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Netherlands",
-      "country_code": "NL",
-      "city": "Eindhoven",
-      "latitude": 51.4416,
-      "longitude": 5.4697,
-      "timestamp": "2026-10-29T15:44:37.627690",
-      "current": {
-        "time": "2026-10-29T16:30",
-        "interval": 900,
-        "temperature_2m": 15.0,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 14.6,
-        "weather_code": 2,
-        "wind_speed_10m": 3.2,
-        "wind_direction_10m": 136
-      },
-      "history_24h": null
-    },
     {
       "country": "Netherlands",
       "country_code": "NL",
       "city": "Rotterdam",
       "latitude": 51.9244,
       "longitude": 4.4777,
-      "timestamp": "2026-10-29T15:44:37.699092",
+      "timestamp": "2026-10-30T15:27:00.386089",
       "current": {
-        "time": "2026-10-29T16:30",
+        "time": "2026-10-30T16:15",
         "interval": 900,
-        "temperature_2m": 15.9,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 15.1,
-        "weather_code": 3,
-        "wind_speed_10m": 5.0,
-        "wind_direction_10m": 27
+        "temperature_2m": 13.9,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 11.8,
+        "weather_code": 0,
+        "wind_speed_10m": 12.6,
+        "wind_direction_10m": 86
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "Amsterdam",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "timestamp": "2026-10-30T15:27:00.386802",
+      "current": {
+        "time": "2026-10-30T16:15",
+        "interval": 900,
+        "temperature_2m": 14.0,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 12.4,
+        "weather_code": 1,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 84
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "The Hague",
       "latitude": 52.0705,
       "longitude": 4.3007,
-      "timestamp": "2026-10-29T15:44:37.700652",
+      "timestamp": "2026-10-30T15:27:00.477222",
       "current": {
-        "time": "2026-10-29T16:30",
+        "time": "2026-10-30T16:15",
         "interval": 900,
-        "temperature_2m": 14.6,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": 14.3,
-        "weather_code": 0,
-        "wind_speed_10m": 5.4,
-        "wind_direction_10m": 349
+        "temperature_2m": 14.2,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 12.8,
+        "weather_code": 1,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 81
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Utrecht",
       "latitude": 52.0907,
       "longitude": 5.1214,
-      "timestamp": "2026-10-29T15:44:37.701981",
+      "timestamp": "2026-10-30T15:27:00.478462",
       "current": {
-        "time": "2026-10-29T16:30",
+        "time": "2026-10-30T16:15",
         "interval": 900,
-        "temperature_2m": 15.4,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 15.1,
-        "weather_code": 1,
-        "wind_speed_10m": 4.3,
-        "wind_direction_10m": 352
+        "temperature_2m": 13.8,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 12.2,
+        "weather_code": 0,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 83
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "city": "Eindhoven",
+      "latitude": 51.4416,
+      "longitude": 5.4697,
+      "timestamp": "2026-10-30T15:27:00.479516",
+      "current": {
+        "time": "2026-10-30T16:15",
+        "interval": 900,
+        "temperature_2m": 11.2,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 10.0,
+        "weather_code": 0,
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 90
       },
       "history_24h": null
     }
