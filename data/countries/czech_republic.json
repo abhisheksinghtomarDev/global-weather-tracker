@@ -1,61 +1,23 @@
 {
   "country": "Czech Republic",
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "cities": [
-    {
-      "country": "Czech Republic",
-      "country_code": "CZ",
-      "city": "Prague",
-      "latitude": 50.0755,
-      "longitude": 14.4378,
-      "timestamp": "2026-10-31T14:55:07.434678",
-      "current": {
-        "time": "2026-10-31T15:45",
-        "interval": 900,
-        "temperature_2m": 9.5,
-        "relative_humidity_2m": 75,
-        "apparent_temperature": 6.7,
-        "weather_code": 3,
-        "wind_speed_10m": 11.0,
-        "wind_direction_10m": 341
-      },
-      "history_24h": null
-    },
     {
       "country": "Czech Republic",
       "country_code": "CZ",
       "city": "Brno",
       "latitude": 49.1951,
       "longitude": 16.6068,
-      "timestamp": "2026-10-31T14:55:07.438967",
+      "timestamp": "2026-11-01T15:37:52.123327",
       "current": {
-        "time": "2026-10-31T15:45",
+        "time": "2026-11-01T16:30",
         "interval": 900,
-        "temperature_2m": 10.5,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 7.0,
-        "weather_code": 3,
-        "wind_speed_10m": 14.4,
-        "wind_direction_10m": 357
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Czech Republic",
-      "country_code": "CZ",
-      "city": "Cesky Krumlov",
-      "latitude": 48.8127,
-      "longitude": 14.3175,
-      "timestamp": "2026-10-31T14:55:07.441802",
-      "current": {
-        "time": "2026-10-31T15:45",
-        "interval": 900,
-        "temperature_2m": 7.2,
-        "relative_humidity_2m": 84,
-        "apparent_temperature": 4.8,
-        "weather_code": 61,
-        "wind_speed_10m": 7.3,
-        "wind_direction_10m": 349
+        "temperature_2m": 8.9,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 5.4,
+        "weather_code": 2,
+        "wind_speed_10m": 11.4,
+        "wind_direction_10m": 13
       },
       "history_24h": null
     },
@@ -65,16 +27,35 @@
       "city": "Karlovy Vary",
       "latitude": 50.2319,
       "longitude": 12.8716,
-      "timestamp": "2026-10-31T14:55:07.444905",
+      "timestamp": "2026-11-01T15:37:52.125251",
       "current": {
-        "time": "2026-10-31T15:45",
+        "time": "2026-11-01T16:30",
         "interval": 900,
-        "temperature_2m": 8.9,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": 6.4,
+        "temperature_2m": 7.0,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": 4.5,
         "weather_code": 3,
-        "wind_speed_10m": 7.0,
-        "wind_direction_10m": 348
+        "wind_speed_10m": 5.9,
+        "wind_direction_10m": 104
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Prague",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "timestamp": "2026-11-01T15:37:52.126429",
+      "current": {
+        "time": "2026-11-01T16:30",
+        "interval": 900,
+        "temperature_2m": 9.3,
+        "relative_humidity_2m": 62,
+        "apparent_temperature": 6.5,
+        "weather_code": 3,
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 65
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Pilsen",
       "latitude": 49.7384,
       "longitude": 13.3736,
-      "timestamp": "2026-10-31T14:55:07.450079",
+      "timestamp": "2026-11-01T15:37:52.129999",
       "current": {
-        "time": "2026-10-31T15:45",
+        "time": "2026-11-01T16:30",
         "interval": 900,
-        "temperature_2m": 9.3,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 6.8,
-        "weather_code": 3,
-        "wind_speed_10m": 7.6,
-        "wind_direction_10m": 5
+        "temperature_2m": 7.9,
+        "relative_humidity_2m": 64,
+        "apparent_temperature": 5.0,
+        "weather_code": 2,
+        "wind_speed_10m": 6.6,
+        "wind_direction_10m": 49
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "city": "Cesky Krumlov",
+      "latitude": 48.8127,
+      "longitude": 14.3175,
+      "timestamp": "2026-11-01T15:37:52.136027",
+      "current": {
+        "time": "2026-11-01T16:30",
+        "interval": 900,
+        "temperature_2m": 5.6,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 2.6,
+        "weather_code": 61,
+        "wind_speed_10m": 9.2,
+        "wind_direction_10m": 26
       },
       "history_24h": null
     }

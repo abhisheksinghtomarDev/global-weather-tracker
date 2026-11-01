@@ -1,6 +1,6 @@
 {
   "country": "Canada",
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "cities": [
     {
       "country": "Canada",
@@ -8,16 +8,16 @@
       "city": "Toronto",
       "latitude": 43.6532,
       "longitude": -79.3832,
-      "timestamp": "2026-10-31T14:55:06.650982",
+      "timestamp": "2026-11-01T15:37:51.881032",
       "current": {
-        "time": "2026-10-31T10:45",
+        "time": "2026-11-01T10:30",
         "interval": 900,
-        "temperature_2m": 9.8,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 7.3,
+        "temperature_2m": 13.4,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 12.2,
         "weather_code": 0,
-        "wind_speed_10m": 8.8,
-        "wind_direction_10m": 291
+        "wind_speed_10m": 5.7,
+        "wind_direction_10m": 136
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Vancouver",
       "latitude": 49.2827,
       "longitude": -123.1207,
-      "timestamp": "2026-10-31T14:55:06.653307",
+      "timestamp": "2026-11-01T15:37:51.884031",
       "current": {
-        "time": "2026-10-31T07:45",
+        "time": "2026-11-01T07:30",
         "interval": 900,
-        "temperature_2m": 5.0,
-        "relative_humidity_2m": 78,
-        "apparent_temperature": 2.1,
+        "temperature_2m": 3.1,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 0.2,
         "weather_code": 0,
-        "wind_speed_10m": 7.3,
-        "wind_direction_10m": 153
+        "wind_speed_10m": 4.1,
+        "wind_direction_10m": 149
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Montreal",
       "latitude": 45.5017,
       "longitude": -73.5673,
-      "timestamp": "2026-10-31T14:55:06.653781",
+      "timestamp": "2026-11-01T15:37:51.885329",
       "current": {
-        "time": "2026-10-31T10:45",
+        "time": "2026-11-01T10:30",
         "interval": 900,
-        "temperature_2m": 4.7,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 0.6,
+        "temperature_2m": 6.8,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 2.8,
         "weather_code": 0,
-        "wind_speed_10m": 12.7,
-        "wind_direction_10m": 328
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Canada",
-      "country_code": "CA",
-      "city": "Ottawa",
-      "latitude": 45.4215,
-      "longitude": -75.6972,
-      "timestamp": "2026-10-31T14:55:06.654743",
-      "current": {
-        "time": "2026-10-31T10:45",
-        "interval": 900,
-        "temperature_2m": 4.8,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 1.7,
-        "weather_code": 0,
-        "wind_speed_10m": 4.8,
-        "wind_direction_10m": 326
+        "wind_speed_10m": 14.8,
+        "wind_direction_10m": 236
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Calgary",
       "latitude": 51.0447,
       "longitude": -114.0719,
-      "timestamp": "2026-10-31T14:55:07.723998",
+      "timestamp": "2026-11-01T15:37:51.888373",
       "current": {
-        "time": "2026-10-31T08:45",
+        "time": "2026-11-01T08:30",
         "interval": 900,
-        "temperature_2m": -1.1,
-        "relative_humidity_2m": 99,
-        "apparent_temperature": -4.0,
-        "weather_code": 45,
-        "wind_speed_10m": 4.0,
-        "wind_direction_10m": 265
+        "temperature_2m": -2.8,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": -6.7,
+        "weather_code": 0,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 342
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "city": "Ottawa",
+      "latitude": 45.4215,
+      "longitude": -75.6972,
+      "timestamp": "2026-11-01T15:37:51.889305",
+      "current": {
+        "time": "2026-11-01T10:30",
+        "interval": 900,
+        "temperature_2m": 6.9,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 4.1,
+        "weather_code": 0,
+        "wind_speed_10m": 7.3,
+        "wind_direction_10m": 214
       },
       "history_24h": null
     }
