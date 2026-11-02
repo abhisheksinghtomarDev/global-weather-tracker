@@ -1,6 +1,6 @@
 {
   "country": "Russia",
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "cities": [
     {
       "country": "Russia",
@@ -8,35 +8,16 @@
       "city": "Moscow",
       "latitude": 55.7558,
       "longitude": 37.6173,
-      "timestamp": "2026-11-01T15:37:51.901949",
+      "timestamp": "2026-11-02T18:59:32.587197",
       "current": {
-        "time": "2026-11-01T18:30",
+        "time": "2026-11-02T21:45",
         "interval": 900,
-        "temperature_2m": 2.2,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": -0.5,
-        "weather_code": 1,
-        "wind_speed_10m": 6.0,
-        "wind_direction_10m": 17
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Russia",
-      "country_code": "RU",
-      "city": "Novosibirsk",
-      "latitude": 55.0084,
-      "longitude": 82.9357,
-      "timestamp": "2026-11-01T15:37:51.905088",
-      "current": {
-        "time": "2026-11-01T22:30",
-        "interval": 900,
-        "temperature_2m": 3.2,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": -0.5,
-        "weather_code": 3,
-        "wind_speed_10m": 13.1,
-        "wind_direction_10m": 247
+        "temperature_2m": 0.5,
+        "relative_humidity_2m": 100,
+        "apparent_temperature": -2.2,
+        "weather_code": 45,
+        "wind_speed_10m": 4.4,
+        "wind_direction_10m": 55
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Saint Petersburg",
       "latitude": 59.9311,
       "longitude": 30.3609,
-      "timestamp": "2026-11-01T15:37:51.906474",
+      "timestamp": "2026-11-02T18:59:32.591167",
       "current": {
-        "time": "2026-11-01T18:30",
+        "time": "2026-11-02T21:45",
         "interval": 900,
-        "temperature_2m": 8.0,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 5.4,
+        "temperature_2m": 6.0,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 2.8,
         "weather_code": 3,
-        "wind_speed_10m": 9.7,
-        "wind_direction_10m": 212
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 238
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RU",
+      "city": "Novosibirsk",
+      "latitude": 55.0084,
+      "longitude": 82.9357,
+      "timestamp": "2026-11-02T18:59:32.595736",
+      "current": {
+        "time": "2026-11-03T01:45",
+        "interval": 900,
+        "temperature_2m": -2.3,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": -6.9,
+        "weather_code": 3,
+        "wind_speed_10m": 12.2,
+        "wind_direction_10m": 333
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Vladivostok",
       "latitude": 43.1332,
       "longitude": 131.9113,
-      "timestamp": "2026-11-01T15:37:51.908115",
+      "timestamp": "2026-11-02T18:59:32.602532",
       "current": {
-        "time": "2026-11-02T01:30",
+        "time": "2026-11-03T04:45",
         "interval": 900,
-        "temperature_2m": -0.0,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": -6.0,
+        "temperature_2m": 0.6,
+        "relative_humidity_2m": 75,
+        "apparent_temperature": -2.2,
         "weather_code": 3,
-        "wind_speed_10m": 20.7,
-        "wind_direction_10m": 358
+        "wind_speed_10m": 1.2,
+        "wind_direction_10m": 27
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Yekaterinburg",
       "latitude": 56.8389,
       "longitude": 60.6057,
-      "timestamp": "2026-11-01T15:37:51.913853",
+      "timestamp": "2026-11-02T18:59:32.607496",
       "current": {
-        "time": "2026-11-01T20:30",
+        "time": "2026-11-02T23:45",
         "interval": 900,
-        "temperature_2m": 3.4,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 0.4,
+        "temperature_2m": 0.8,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": -2.8,
         "weather_code": 3,
-        "wind_speed_10m": 7.1,
-        "wind_direction_10m": 300
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 246
       },
       "history_24h": null
     }
