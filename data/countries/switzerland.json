@@ -1,23 +1,23 @@
 {
   "country": "Switzerland",
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "cities": [
     {
       "country": "Switzerland",
       "country_code": "CH",
-      "city": "Zurich",
-      "latitude": 47.3769,
-      "longitude": 8.5417,
-      "timestamp": "2026-11-02T18:59:33.090729",
+      "city": "Geneva",
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "timestamp": "2026-11-03T16:44:43.933610",
       "current": {
-        "time": "2026-11-02T19:45",
+        "time": "2026-11-03T17:30",
         "interval": 900,
-        "temperature_2m": 6.5,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 3.4,
+        "temperature_2m": 7.7,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 3.6,
         "weather_code": 3,
-        "wind_speed_10m": 9.3,
-        "wind_direction_10m": 28
+        "wind_speed_10m": 16.2,
+        "wind_direction_10m": 32
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Interlaken",
       "latitude": 46.6863,
       "longitude": 7.8632,
-      "timestamp": "2026-11-02T18:59:33.096129",
+      "timestamp": "2026-11-03T16:44:43.941882",
       "current": {
-        "time": "2026-11-02T19:45",
+        "time": "2026-11-03T17:30",
         "interval": 900,
-        "temperature_2m": 4.3,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 2.2,
+        "temperature_2m": 6.1,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 4.2,
         "weather_code": 3,
-        "wind_speed_10m": 2.9,
-        "wind_direction_10m": 120
+        "wind_speed_10m": 2.1,
+        "wind_direction_10m": 59
       },
       "history_24h": null
     },
@@ -46,35 +46,35 @@
       "city": "Lucerne",
       "latitude": 47.0502,
       "longitude": 8.3093,
-      "timestamp": "2026-11-02T18:59:33.097880",
+      "timestamp": "2026-11-03T16:44:43.943055",
       "current": {
-        "time": "2026-11-02T19:45",
+        "time": "2026-11-03T17:30",
         "interval": 900,
-        "temperature_2m": 7.1,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 4.4,
+        "temperature_2m": 6.6,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 4.0,
         "weather_code": 3,
-        "wind_speed_10m": 6.4,
-        "wind_direction_10m": 16
+        "wind_speed_10m": 6.5,
+        "wind_direction_10m": 19
       },
       "history_24h": null
     },
     {
       "country": "Switzerland",
       "country_code": "CH",
-      "city": "Geneva",
-      "latitude": 46.2044,
-      "longitude": 6.1432,
-      "timestamp": "2026-11-02T18:59:34.081788",
+      "city": "Zurich",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "timestamp": "2026-11-03T16:44:44.023311",
       "current": {
-        "time": "2026-11-02T19:45",
+        "time": "2026-11-03T17:30",
         "interval": 900,
-        "temperature_2m": 7.5,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 3.6,
+        "temperature_2m": 6.0,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 2.8,
         "weather_code": 3,
-        "wind_speed_10m": 13.6,
-        "wind_direction_10m": 40
+        "wind_speed_10m": 9.9,
+        "wind_direction_10m": 44
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Bern",
       "latitude": 46.948,
       "longitude": 7.4474,
-      "timestamp": "2026-11-02T18:59:34.082460",
+      "timestamp": "2026-11-03T16:44:44.030822",
       "current": {
-        "time": "2026-11-02T19:45",
+        "time": "2026-11-03T17:30",
         "interval": 900,
-        "temperature_2m": 5.3,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 2.0,
-        "weather_code": 2,
-        "wind_speed_10m": 8.5,
-        "wind_direction_10m": 54
+        "temperature_2m": 5.0,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 1.7,
+        "weather_code": 3,
+        "wind_speed_10m": 10.3,
+        "wind_direction_10m": 36
       },
       "history_24h": null
     }
