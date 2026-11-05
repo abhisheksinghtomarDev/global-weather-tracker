@@ -1,61 +1,23 @@
 {
   "country": "Morocco",
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "cities": [
-    {
-      "country": "Morocco",
-      "country_code": "MA",
-      "city": "Casablanca",
-      "latitude": 33.5731,
-      "longitude": -7.5898,
-      "timestamp": "2026-11-04T16:41:40.290776",
-      "current": {
-        "time": "2026-11-04T16:30",
-        "interval": 900,
-        "temperature_2m": 20.9,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 21.3,
-        "weather_code": 2,
-        "wind_speed_10m": 13.1,
-        "wind_direction_10m": 279
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Morocco",
-      "country_code": "MA",
-      "city": "Marrakech",
-      "latitude": 31.6295,
-      "longitude": -7.9811,
-      "timestamp": "2026-11-04T16:41:40.292533",
-      "current": {
-        "time": "2026-11-04T16:30",
-        "interval": 900,
-        "temperature_2m": 22.6,
-        "relative_humidity_2m": 53,
-        "apparent_temperature": 21.8,
-        "weather_code": 2,
-        "wind_speed_10m": 11.2,
-        "wind_direction_10m": 274
-      },
-      "history_24h": null
-    },
     {
       "country": "Morocco",
       "country_code": "MA",
       "city": "Fes",
       "latitude": 34.0181,
       "longitude": -5.0078,
-      "timestamp": "2026-11-04T16:41:40.294339",
+      "timestamp": "2026-11-05T16:59:06.626319",
       "current": {
-        "time": "2026-11-04T16:30",
+        "time": "2026-11-05T16:45",
         "interval": 900,
-        "temperature_2m": 19.6,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 17.6,
-        "weather_code": 2,
-        "wind_speed_10m": 20.9,
-        "wind_direction_10m": 268
+        "temperature_2m": 20.8,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 21.5,
+        "weather_code": 3,
+        "wind_speed_10m": 4.5,
+        "wind_direction_10m": 346
       },
       "history_24h": null
     },
@@ -65,16 +27,16 @@
       "city": "Tangier",
       "latitude": 35.7595,
       "longitude": -5.834,
-      "timestamp": "2026-11-04T16:41:40.295754",
+      "timestamp": "2026-11-05T16:59:06.629536",
       "current": {
-        "time": "2026-11-04T16:30",
+        "time": "2026-11-05T16:45",
         "interval": 900,
-        "temperature_2m": 19.1,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 19.9,
-        "weather_code": 3,
-        "wind_speed_10m": 9.2,
-        "wind_direction_10m": 231
+        "temperature_2m": 19.6,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 20.0,
+        "weather_code": 2,
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 230
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Agadir",
       "latitude": 30.4278,
       "longitude": -9.5983,
-      "timestamp": "2026-11-04T16:41:40.330915",
+      "timestamp": "2026-11-05T16:59:06.632566",
       "current": {
-        "time": "2026-11-04T16:30",
+        "time": "2026-11-05T16:45",
         "interval": 900,
-        "temperature_2m": 23.3,
-        "relative_humidity_2m": 65,
-        "apparent_temperature": 24.1,
-        "weather_code": 0,
-        "wind_speed_10m": 9.0,
-        "wind_direction_10m": 286
+        "temperature_2m": 27.5,
+        "relative_humidity_2m": 40,
+        "apparent_temperature": 27.5,
+        "weather_code": 2,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 82
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Casablanca",
+      "latitude": 33.5731,
+      "longitude": -7.5898,
+      "timestamp": "2026-11-05T16:59:06.691859",
+      "current": {
+        "time": "2026-11-05T16:45",
+        "interval": 900,
+        "temperature_2m": 20.9,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 21.9,
+        "weather_code": 3,
+        "wind_speed_10m": 8.0,
+        "wind_direction_10m": 342
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MA",
+      "city": "Marrakech",
+      "latitude": 31.6295,
+      "longitude": -7.9811,
+      "timestamp": "2026-11-05T16:59:06.698550",
+      "current": {
+        "time": "2026-11-05T16:45",
+        "interval": 900,
+        "temperature_2m": 23.7,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 22.8,
+        "weather_code": 3,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 333
       },
       "history_24h": null
     }
