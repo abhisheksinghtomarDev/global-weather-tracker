@@ -1,6 +1,6 @@
 {
   "country": "China",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "cities": [
     {
       "country": "China",
@@ -8,16 +8,16 @@
       "city": "Beijing",
       "latitude": 39.9042,
       "longitude": 116.4074,
-      "timestamp": "2026-11-07T15:17:18.568690",
+      "timestamp": "2026-11-08T15:40:53.717735",
       "current": {
-        "time": "2026-11-07T23:15",
+        "time": "2026-11-08T23:30",
         "interval": 900,
-        "temperature_2m": 1.3,
-        "relative_humidity_2m": 100,
-        "apparent_temperature": -2.3,
-        "weather_code": 73,
-        "wind_speed_10m": 11.3,
-        "wind_direction_10m": 2
+        "temperature_2m": 1.0,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": -2.5,
+        "weather_code": 0,
+        "wind_speed_10m": 5.0,
+        "wind_direction_10m": 334
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Shanghai",
       "latitude": 31.2304,
       "longitude": 121.4737,
-      "timestamp": "2026-11-07T15:17:18.571473",
+      "timestamp": "2026-11-08T15:40:53.719510",
       "current": {
-        "time": "2026-11-07T23:15",
+        "time": "2026-11-08T23:30",
         "interval": 900,
-        "temperature_2m": 15.8,
-        "relative_humidity_2m": 72,
-        "apparent_temperature": 14.6,
-        "weather_code": 53,
-        "wind_speed_10m": 9.8,
-        "wind_direction_10m": 110
+        "temperature_2m": 15.3,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 15.0,
+        "weather_code": 3,
+        "wind_speed_10m": 11.8,
+        "wind_direction_10m": 301
       },
       "history_24h": null
     },
@@ -46,16 +46,16 @@
       "city": "Guangzhou",
       "latitude": 23.1291,
       "longitude": 113.2644,
-      "timestamp": "2026-11-07T15:17:18.572815",
+      "timestamp": "2026-11-08T15:40:53.720832",
       "current": {
-        "time": "2026-11-07T23:15",
+        "time": "2026-11-08T23:30",
         "interval": 900,
-        "temperature_2m": 24.1,
-        "relative_humidity_2m": 88,
-        "apparent_temperature": 28.1,
+        "temperature_2m": 21.1,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 20.4,
         "weather_code": 1,
-        "wind_speed_10m": 6.2,
-        "wind_direction_10m": 116
+        "wind_speed_10m": 18.2,
+        "wind_direction_10m": 14
       },
       "history_24h": null
     },
@@ -65,35 +65,16 @@
       "city": "Shenzhen",
       "latitude": 22.5431,
       "longitude": 114.0579,
-      "timestamp": "2026-11-07T15:17:18.574139",
+      "timestamp": "2026-11-08T15:40:53.723374",
       "current": {
-        "time": "2026-11-07T23:15",
+        "time": "2026-11-08T23:30",
         "interval": 900,
-        "temperature_2m": 24.3,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 26.6,
+        "temperature_2m": 24.0,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 25.4,
         "weather_code": 1,
-        "wind_speed_10m": 14.2,
-        "wind_direction_10m": 78
-      },
-      "history_24h": null
-    },
-    {
-      "country": "China",
-      "country_code": "CN",
-      "city": "Chengdu",
-      "latitude": 30.5728,
-      "longitude": 104.0668,
-      "timestamp": "2026-11-07T15:17:18.575551",
-      "current": {
-        "time": "2026-11-07T23:15",
-        "interval": 900,
-        "temperature_2m": 15.6,
-        "relative_humidity_2m": 70,
-        "apparent_temperature": 13.1,
-        "weather_code": 51,
-        "wind_speed_10m": 17.3,
-        "wind_direction_10m": 51
+        "wind_speed_10m": 16.5,
+        "wind_direction_10m": 34
       },
       "history_24h": null
     },
@@ -103,16 +84,16 @@
       "city": "Hangzhou",
       "latitude": 30.2741,
       "longitude": 120.1551,
-      "timestamp": "2026-11-07T15:17:18.576976",
+      "timestamp": "2026-11-08T15:40:53.724874",
       "current": {
-        "time": "2026-11-07T23:15",
+        "time": "2026-11-08T23:30",
         "interval": 900,
-        "temperature_2m": 14.9,
-        "relative_humidity_2m": 96,
-        "apparent_temperature": 15.1,
-        "weather_code": 61,
-        "wind_speed_10m": 7.8,
-        "wind_direction_10m": 109
+        "temperature_2m": 15.2,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 13.7,
+        "weather_code": 3,
+        "wind_speed_10m": 16.8,
+        "wind_direction_10m": 315
       },
       "history_24h": null
     },
@@ -122,16 +103,35 @@
       "city": "Wuhan",
       "latitude": 30.5928,
       "longitude": 114.3055,
-      "timestamp": "2026-11-07T15:17:18.578333",
+      "timestamp": "2026-11-08T15:40:53.726251",
       "current": {
-        "time": "2026-11-07T23:15",
+        "time": "2026-11-08T23:30",
         "interval": 900,
-        "temperature_2m": 15.8,
-        "relative_humidity_2m": 97,
-        "apparent_temperature": 16.8,
-        "weather_code": 55,
-        "wind_speed_10m": 5.2,
-        "wind_direction_10m": 333
+        "temperature_2m": 10.4,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": 5.9,
+        "weather_code": 2,
+        "wind_speed_10m": 21.0,
+        "wind_direction_10m": 5
+      },
+      "history_24h": null
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "city": "Chengdu",
+      "latitude": 30.5728,
+      "longitude": 104.0668,
+      "timestamp": "2026-11-08T15:40:53.727532",
+      "current": {
+        "time": "2026-11-08T23:30",
+        "interval": 900,
+        "temperature_2m": 13.7,
+        "relative_humidity_2m": 72,
+        "apparent_temperature": 11.9,
+        "weather_code": 3,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 325
       },
       "history_24h": null
     },
@@ -141,16 +141,16 @@
       "city": "Xi'an",
       "latitude": 34.3416,
       "longitude": 108.9398,
-      "timestamp": "2026-11-07T15:17:18.632573",
+      "timestamp": "2026-11-08T15:40:53.730263",
       "current": {
-        "time": "2026-11-07T23:15",
+        "time": "2026-11-08T23:30",
         "interval": 900,
-        "temperature_2m": 10.3,
-        "relative_humidity_2m": 92,
-        "apparent_temperature": 9.0,
-        "weather_code": 3,
-        "wind_speed_10m": 7.5,
-        "wind_direction_10m": 226
+        "temperature_2m": 5.9,
+        "relative_humidity_2m": 50,
+        "apparent_temperature": 2.3,
+        "weather_code": 2,
+        "wind_speed_10m": 6.8,
+        "wind_direction_10m": 58
       },
       "history_24h": null
     }

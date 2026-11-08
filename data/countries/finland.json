@@ -1,42 +1,23 @@
 {
   "country": "Finland",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "cities": [
-    {
-      "country": "Finland",
-      "country_code": "FI",
-      "city": "Oulu",
-      "latitude": 65.0121,
-      "longitude": 25.4651,
-      "timestamp": "2026-11-07T15:17:19.671030",
-      "current": {
-        "time": "2026-11-07T17:15",
-        "interval": 900,
-        "temperature_2m": 5.9,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 1.8,
-        "weather_code": 1,
-        "wind_speed_10m": 17.3,
-        "wind_direction_10m": 262
-      },
-      "history_24h": null
-    },
     {
       "country": "Finland",
       "country_code": "FI",
       "city": "Helsinki",
       "latitude": 60.1699,
       "longitude": 24.9384,
-      "timestamp": "2026-11-07T15:17:19.738299",
+      "timestamp": "2026-11-08T15:40:55.060690",
       "current": {
-        "time": "2026-11-07T17:15",
+        "time": "2026-11-08T17:30",
         "interval": 900,
-        "temperature_2m": 6.2,
-        "relative_humidity_2m": 83,
-        "apparent_temperature": 1.9,
+        "temperature_2m": 6.3,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 2.7,
         "weather_code": 3,
-        "wind_speed_10m": 19.1,
-        "wind_direction_10m": 302
+        "wind_speed_10m": 16.9,
+        "wind_direction_10m": 287
       },
       "history_24h": null
     },
@@ -46,16 +27,16 @@
       "city": "Tampere",
       "latitude": 61.4978,
       "longitude": 23.7608,
-      "timestamp": "2026-11-07T15:17:19.745301",
+      "timestamp": "2026-11-08T15:40:55.061553",
       "current": {
-        "time": "2026-11-07T17:15",
+        "time": "2026-11-08T17:30",
         "interval": 900,
-        "temperature_2m": 5.3,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": 1.7,
-        "weather_code": 1,
-        "wind_speed_10m": 15.1,
-        "wind_direction_10m": 268
+        "temperature_2m": 6.2,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 2.1,
+        "weather_code": 3,
+        "wind_speed_10m": 19.1,
+        "wind_direction_10m": 258
       },
       "history_24h": null
     },
@@ -65,16 +46,16 @@
       "city": "Turku",
       "latitude": 60.4518,
       "longitude": 22.2666,
-      "timestamp": "2026-11-07T15:17:19.746382",
+      "timestamp": "2026-11-08T15:40:55.062479",
       "current": {
-        "time": "2026-11-07T17:15",
+        "time": "2026-11-08T17:30",
         "interval": 900,
-        "temperature_2m": 6.5,
-        "relative_humidity_2m": 88,
+        "temperature_2m": 6.1,
+        "relative_humidity_2m": 90,
         "apparent_temperature": 3.3,
         "weather_code": 3,
-        "wind_speed_10m": 13.3,
-        "wind_direction_10m": 289
+        "wind_speed_10m": 10.1,
+        "wind_direction_10m": 266
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Rovaniemi",
       "latitude": 66.5039,
       "longitude": 25.7294,
-      "timestamp": "2026-11-07T15:17:19.750716",
+      "timestamp": "2026-11-08T15:40:55.064739",
       "current": {
-        "time": "2026-11-07T17:15",
+        "time": "2026-11-08T17:30",
         "interval": 900,
-        "temperature_2m": 0.7,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": -2.8,
+        "temperature_2m": 1.9,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": -1.7,
         "weather_code": 3,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 231
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 227
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Oulu",
+      "latitude": 65.0121,
+      "longitude": 25.4651,
+      "timestamp": "2026-11-08T15:40:55.066058",
+      "current": {
+        "time": "2026-11-08T17:30",
+        "interval": 900,
+        "temperature_2m": 6.5,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 2.0,
+        "weather_code": 2,
+        "wind_speed_10m": 20.2,
+        "wind_direction_10m": 254
       },
       "history_24h": null
     }
