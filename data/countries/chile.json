@@ -1,61 +1,23 @@
 {
   "country": "Chile",
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "cities": [
-    {
-      "country": "Chile",
-      "country_code": "CL",
-      "city": "Puerto Montt",
-      "latitude": -41.4689,
-      "longitude": -72.9424,
-      "timestamp": "2026-11-12T17:15:30.634242",
-      "current": {
-        "time": "2026-11-12T14:15",
-        "interval": 900,
-        "temperature_2m": 16.6,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 15.8,
-        "weather_code": 3,
-        "wind_speed_10m": 12.0,
-        "wind_direction_10m": 150
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Chile",
-      "country_code": "CL",
-      "city": "Easter Island",
-      "latitude": -27.1127,
-      "longitude": -109.3497,
-      "timestamp": "2026-11-12T17:15:30.639430",
-      "current": {
-        "time": "2026-11-12T12:15",
-        "interval": 900,
-        "temperature_2m": 21.3,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 20.7,
-        "weather_code": 2,
-        "wind_speed_10m": 17.6,
-        "wind_direction_10m": 15
-      },
-      "history_24h": null
-    },
     {
       "country": "Chile",
       "country_code": "CL",
       "city": "Santiago",
       "latitude": -33.4489,
       "longitude": -70.6693,
-      "timestamp": "2026-11-12T17:15:30.705308",
+      "timestamp": "2026-11-13T16:51:46.201562",
       "current": {
-        "time": "2026-11-12T14:15",
+        "time": "2026-11-13T13:45",
         "interval": 900,
-        "temperature_2m": 30.7,
-        "relative_humidity_2m": 34,
-        "apparent_temperature": 33.6,
-        "weather_code": 1,
-        "wind_speed_10m": 6.5,
-        "wind_direction_10m": 238
+        "temperature_2m": 30.4,
+        "relative_humidity_2m": 36,
+        "apparent_temperature": 33.1,
+        "weather_code": 0,
+        "wind_speed_10m": 9.5,
+        "wind_direction_10m": 217
       },
       "history_24h": null
     },
@@ -65,16 +27,16 @@
       "city": "Valparaiso",
       "latitude": -33.0472,
       "longitude": -71.6127,
-      "timestamp": "2026-11-12T17:15:30.710493",
+      "timestamp": "2026-11-13T16:51:46.202518",
       "current": {
-        "time": "2026-11-12T14:15",
+        "time": "2026-11-13T13:45",
         "interval": 900,
-        "temperature_2m": 25.5,
-        "relative_humidity_2m": 57,
-        "apparent_temperature": 26.6,
+        "temperature_2m": 20.6,
+        "relative_humidity_2m": 74,
+        "apparent_temperature": 21.0,
         "weather_code": 2,
-        "wind_speed_10m": 22.9,
-        "wind_direction_10m": 207
+        "wind_speed_10m": 23.2,
+        "wind_direction_10m": 17
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Punta Arenas",
       "latitude": -53.1638,
       "longitude": -70.9171,
-      "timestamp": "2026-11-12T17:15:30.718504",
+      "timestamp": "2026-11-13T16:51:46.203646",
       "current": {
-        "time": "2026-11-12T14:15",
+        "time": "2026-11-13T13:45",
         "interval": 900,
-        "temperature_2m": 13.2,
-        "relative_humidity_2m": 41,
-        "apparent_temperature": 10.0,
-        "weather_code": 1,
-        "wind_speed_10m": 18.0,
-        "wind_direction_10m": 299
+        "temperature_2m": 10.6,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 4.4,
+        "weather_code": 51,
+        "wind_speed_10m": 35.3,
+        "wind_direction_10m": 279
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Puerto Montt",
+      "latitude": -41.4689,
+      "longitude": -72.9424,
+      "timestamp": "2026-11-13T16:51:46.204827",
+      "current": {
+        "time": "2026-11-13T13:45",
+        "interval": 900,
+        "temperature_2m": 16.6,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 16.2,
+        "weather_code": 0,
+        "wind_speed_10m": 20.1,
+        "wind_direction_10m": 171
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Chile",
+      "country_code": "CL",
+      "city": "Easter Island",
+      "latitude": -27.1127,
+      "longitude": -109.3497,
+      "timestamp": "2026-11-13T16:51:46.226888",
+      "current": {
+        "time": "2026-11-13T11:45",
+        "interval": 900,
+        "temperature_2m": 21.0,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 20.0,
+        "weather_code": 3,
+        "wind_speed_10m": 25.7,
+        "wind_direction_10m": 325
       },
       "history_24h": null
     }
