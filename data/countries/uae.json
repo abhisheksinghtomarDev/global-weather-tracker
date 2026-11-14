@@ -1,6 +1,6 @@
 {
   "country": "UAE",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "cities": [
     {
       "country": "UAE",
@@ -8,35 +8,16 @@
       "city": "Dubai",
       "latitude": 25.2048,
       "longitude": 55.2708,
-      "timestamp": "2026-11-13T16:51:45.906749",
+      "timestamp": "2026-11-14T15:25:53.736364",
       "current": {
-        "time": "2026-11-13T20:45",
+        "time": "2026-11-14T19:15",
         "interval": 900,
-        "temperature_2m": 26.9,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 26.9,
+        "temperature_2m": 27.2,
+        "relative_humidity_2m": 57,
+        "apparent_temperature": 29.0,
         "weather_code": 0,
-        "wind_speed_10m": 14.6,
-        "wind_direction_10m": 280
-      },
-      "history_24h": null
-    },
-    {
-      "country": "UAE",
-      "country_code": "AE",
-      "city": "Abu Dhabi",
-      "latitude": 24.4539,
-      "longitude": 54.3773,
-      "timestamp": "2026-11-13T16:51:45.908920",
-      "current": {
-        "time": "2026-11-13T20:45",
-        "interval": 900,
-        "temperature_2m": 26.0,
-        "relative_humidity_2m": 63,
-        "apparent_temperature": 25.9,
-        "weather_code": 1,
-        "wind_speed_10m": 21.3,
-        "wind_direction_10m": 307
+        "wind_speed_10m": 6.8,
+        "wind_direction_10m": 273
       },
       "history_24h": null
     },
@@ -46,35 +27,16 @@
       "city": "Sharjah",
       "latitude": 25.3463,
       "longitude": 55.4209,
-      "timestamp": "2026-11-13T16:51:45.909639",
+      "timestamp": "2026-11-14T15:25:53.738979",
       "current": {
-        "time": "2026-11-13T20:45",
+        "time": "2026-11-14T19:15",
         "interval": 900,
-        "temperature_2m": 26.0,
-        "relative_humidity_2m": 52,
-        "apparent_temperature": 26.2,
-        "weather_code": 0,
-        "wind_speed_10m": 11.5,
-        "wind_direction_10m": 272
-      },
-      "history_24h": null
-    },
-    {
-      "country": "UAE",
-      "country_code": "AE",
-      "city": "Ras Al Khaimah",
-      "latitude": 25.7895,
-      "longitude": 55.9432,
-      "timestamp": "2026-11-13T16:51:45.910360",
-      "current": {
-        "time": "2026-11-13T20:45",
-        "interval": 900,
-        "temperature_2m": 27.4,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 28.8,
+        "temperature_2m": 26.2,
+        "relative_humidity_2m": 60,
+        "apparent_temperature": 28.3,
         "weather_code": 1,
-        "wind_speed_10m": 5.4,
-        "wind_direction_10m": 233
+        "wind_speed_10m": 5.2,
+        "wind_direction_10m": 254
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Al Ain",
       "latitude": 24.2075,
       "longitude": 55.7447,
-      "timestamp": "2026-11-13T16:51:45.911931",
+      "timestamp": "2026-11-14T15:25:53.741682",
       "current": {
-        "time": "2026-11-13T20:45",
+        "time": "2026-11-14T19:15",
         "interval": 900,
-        "temperature_2m": 23.2,
-        "relative_humidity_2m": 60,
-        "apparent_temperature": 23.2,
+        "temperature_2m": 24.4,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 23.7,
         "weather_code": 0,
-        "wind_speed_10m": 11.5,
-        "wind_direction_10m": 315
+        "wind_speed_10m": 13.4,
+        "wind_direction_10m": 303
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Abu Dhabi",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "timestamp": "2026-11-14T15:25:53.743276",
+      "current": {
+        "time": "2026-11-14T19:15",
+        "interval": 900,
+        "temperature_2m": 26.2,
+        "relative_humidity_2m": 59,
+        "apparent_temperature": 25.9,
+        "weather_code": 0,
+        "wind_speed_10m": 20.1,
+        "wind_direction_10m": 307
+      },
+      "history_24h": null
+    },
+    {
+      "country": "UAE",
+      "country_code": "AE",
+      "city": "Ras Al Khaimah",
+      "latitude": 25.7895,
+      "longitude": 55.9432,
+      "timestamp": "2026-11-14T15:25:53.745667",
+      "current": {
+        "time": "2026-11-14T19:15",
+        "interval": 900,
+        "temperature_2m": 27.3,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 29.4,
+        "weather_code": 0,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 233
       },
       "history_24h": null
     }
