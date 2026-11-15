@@ -1,23 +1,23 @@
 {
   "country": "Germany",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "cities": [
     {
       "country": "Germany",
       "country_code": "DE",
-      "city": "Berlin",
-      "latitude": 52.52,
-      "longitude": 13.405,
-      "timestamp": "2026-11-14T15:25:53.615191",
+      "city": "Munich",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "timestamp": "2026-11-15T15:58:30.792629",
       "current": {
-        "time": "2026-11-14T16:15",
+        "time": "2026-11-15T16:45",
         "interval": 900,
-        "temperature_2m": 8.5,
-        "relative_humidity_2m": 67,
-        "apparent_temperature": 5.7,
+        "temperature_2m": 9.0,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 7.3,
         "weather_code": 2,
-        "wind_speed_10m": 7.2,
-        "wind_direction_10m": 217
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 174
       },
       "history_24h": null
     },
@@ -27,54 +27,35 @@
       "city": "Hamburg",
       "latitude": 53.5511,
       "longitude": 9.9937,
-      "timestamp": "2026-11-14T15:25:53.617126",
+      "timestamp": "2026-11-15T15:58:30.794724",
       "current": {
-        "time": "2026-11-14T16:15",
+        "time": "2026-11-15T16:45",
         "interval": 900,
-        "temperature_2m": 8.1,
-        "relative_humidity_2m": 71,
-        "apparent_temperature": 5.0,
-        "weather_code": 2,
-        "wind_speed_10m": 10.3,
-        "wind_direction_10m": 209
+        "temperature_2m": 6.7,
+        "relative_humidity_2m": 80,
+        "apparent_temperature": 3.6,
+        "weather_code": 61,
+        "wind_speed_10m": 10.7,
+        "wind_direction_10m": 194
       },
       "history_24h": null
     },
     {
       "country": "Germany",
       "country_code": "DE",
-      "city": "Frankfurt",
-      "latitude": 50.1109,
-      "longitude": 8.6821,
-      "timestamp": "2026-11-14T15:25:53.618801",
+      "city": "Berlin",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "timestamp": "2026-11-15T15:58:30.796526",
       "current": {
-        "time": "2026-11-14T16:15",
+        "time": "2026-11-15T16:45",
         "interval": 900,
-        "temperature_2m": 7.1,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 4.3,
-        "weather_code": 0,
-        "wind_speed_10m": 7.6,
-        "wind_direction_10m": 98
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "city": "Munich",
-      "latitude": 48.1351,
-      "longitude": 11.582,
-      "timestamp": "2026-11-14T15:25:53.623863",
-      "current": {
-        "time": "2026-11-14T16:15",
-        "interval": 900,
-        "temperature_2m": 5.1,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 1.4,
-        "weather_code": 1,
-        "wind_speed_10m": 10.1,
-        "wind_direction_10m": 94
+        "temperature_2m": 8.2,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 4.2,
+        "weather_code": 3,
+        "wind_speed_10m": 13.0,
+        "wind_direction_10m": 174
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Cologne",
       "latitude": 50.9375,
       "longitude": 6.9603,
-      "timestamp": "2026-11-14T15:25:53.626132",
+      "timestamp": "2026-11-15T15:58:30.812362",
       "current": {
-        "time": "2026-11-14T16:15",
+        "time": "2026-11-15T16:45",
         "interval": 900,
-        "temperature_2m": 7.7,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 4.1,
-        "weather_code": 0,
-        "wind_speed_10m": 12.6,
-        "wind_direction_10m": 144
+        "temperature_2m": 9.6,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 6.6,
+        "weather_code": 3,
+        "wind_speed_10m": 14.4,
+        "wind_direction_10m": 161
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Frankfurt",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "timestamp": "2026-11-15T15:58:30.813732",
+      "current": {
+        "time": "2026-11-15T16:45",
+        "interval": 900,
+        "temperature_2m": 6.3,
+        "relative_humidity_2m": 95,
+        "apparent_temperature": 4.7,
+        "weather_code": 3,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 354
       },
       "history_24h": null
     }
