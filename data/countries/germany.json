@@ -1,61 +1,23 @@
 {
   "country": "Germany",
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "cities": [
     {
       "country": "Germany",
       "country_code": "DE",
-      "city": "Munich",
-      "latitude": 48.1351,
-      "longitude": 11.582,
-      "timestamp": "2026-11-18T17:41:27.109495",
+      "city": "Berlin",
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "timestamp": "2026-11-19T17:51:56.380139",
       "current": {
-        "time": "2026-11-18T18:30",
+        "time": "2026-11-19T18:45",
         "interval": 900,
-        "temperature_2m": 9.0,
-        "relative_humidity_2m": 73,
-        "apparent_temperature": 4.4,
-        "weather_code": 2,
-        "wind_speed_10m": 22.3,
-        "wind_direction_10m": 239
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "city": "Frankfurt",
-      "latitude": 50.1109,
-      "longitude": 8.6821,
-      "timestamp": "2026-11-18T17:41:27.111697",
-      "current": {
-        "time": "2026-11-18T18:30",
-        "interval": 900,
-        "temperature_2m": 10.6,
-        "relative_humidity_2m": 78,
-        "apparent_temperature": 7.6,
-        "weather_code": 2,
-        "wind_speed_10m": 15.5,
-        "wind_direction_10m": 224
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Germany",
-      "country_code": "DE",
-      "city": "Cologne",
-      "latitude": 50.9375,
-      "longitude": 6.9603,
-      "timestamp": "2026-11-18T17:41:27.115252",
-      "current": {
-        "time": "2026-11-18T18:30",
-        "interval": 900,
-        "temperature_2m": 10.6,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 7.0,
+        "temperature_2m": 9.7,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 6.4,
         "weather_code": 3,
-        "wind_speed_10m": 19.1,
-        "wind_direction_10m": 256
+        "wind_speed_10m": 16.3,
+        "wind_direction_10m": 242
       },
       "history_24h": null
     },
@@ -65,35 +27,73 @@
       "city": "Hamburg",
       "latitude": 53.5511,
       "longitude": 9.9937,
-      "timestamp": "2026-11-18T17:41:27.324626",
+      "timestamp": "2026-11-19T17:51:56.382270",
       "current": {
-        "time": "2026-11-18T18:30",
+        "time": "2026-11-19T18:45",
         "interval": 900,
-        "temperature_2m": 8.2,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 4.5,
-        "weather_code": 3,
-        "wind_speed_10m": 17.9,
-        "wind_direction_10m": 279
+        "temperature_2m": 4.0,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 1.0,
+        "weather_code": 61,
+        "wind_speed_10m": 9.4,
+        "wind_direction_10m": 47
       },
       "history_24h": null
     },
     {
       "country": "Germany",
       "country_code": "DE",
-      "city": "Berlin",
-      "latitude": 52.52,
-      "longitude": 13.405,
-      "timestamp": "2026-11-18T17:41:27.325834",
+      "city": "Munich",
+      "latitude": 48.1351,
+      "longitude": 11.582,
+      "timestamp": "2026-11-19T17:51:56.383624",
       "current": {
-        "time": "2026-11-18T18:30",
+        "time": "2026-11-19T18:45",
         "interval": 900,
-        "temperature_2m": 10.7,
-        "relative_humidity_2m": 66,
-        "apparent_temperature": 5.4,
+        "temperature_2m": 8.0,
+        "relative_humidity_2m": 73,
+        "apparent_temperature": 4.1,
+        "weather_code": 0,
+        "wind_speed_10m": 16.1,
+        "wind_direction_10m": 241
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Cologne",
+      "latitude": 50.9375,
+      "longitude": 6.9603,
+      "timestamp": "2026-11-19T17:51:56.385027",
+      "current": {
+        "time": "2026-11-19T18:45",
+        "interval": 900,
+        "temperature_2m": 9.8,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 7.9,
+        "weather_code": 53,
+        "wind_speed_10m": 9.7,
+        "wind_direction_10m": 227
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "city": "Frankfurt",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "timestamp": "2026-11-19T17:51:56.386352",
+      "current": {
+        "time": "2026-11-19T18:45",
+        "interval": 900,
+        "temperature_2m": 10.3,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 7.0,
         "weather_code": 61,
-        "wind_speed_10m": 27.5,
-        "wind_direction_10m": 243
+        "wind_speed_10m": 16.8,
+        "wind_direction_10m": 223
       },
       "history_24h": null
     }

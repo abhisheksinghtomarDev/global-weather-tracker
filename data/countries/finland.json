@@ -1,23 +1,23 @@
 {
   "country": "Finland",
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "cities": [
     {
       "country": "Finland",
       "country_code": "FI",
-      "city": "Tampere",
-      "latitude": 61.4978,
-      "longitude": 23.7608,
-      "timestamp": "2026-11-18T17:41:27.549253",
+      "city": "Helsinki",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "timestamp": "2026-11-19T17:51:57.354247",
       "current": {
-        "time": "2026-11-18T19:30",
+        "time": "2026-11-19T19:45",
         "interval": 900,
-        "temperature_2m": 3.9,
-        "relative_humidity_2m": 80,
-        "apparent_temperature": -0.6,
-        "weather_code": 3,
-        "wind_speed_10m": 17.3,
-        "wind_direction_10m": 150
+        "temperature_2m": 6.0,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 0.6,
+        "weather_code": 51,
+        "wind_speed_10m": 28.4,
+        "wind_direction_10m": 168
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Turku",
       "latitude": 60.4518,
       "longitude": 22.2666,
-      "timestamp": "2026-11-18T17:41:27.551034",
+      "timestamp": "2026-11-19T17:51:57.429638",
       "current": {
-        "time": "2026-11-18T19:30",
+        "time": "2026-11-19T19:45",
         "interval": 900,
-        "temperature_2m": 4.6,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 0.8,
-        "weather_code": 3,
-        "wind_speed_10m": 14.0,
-        "wind_direction_10m": 131
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Finland",
-      "country_code": "FI",
-      "city": "Rovaniemi",
-      "latitude": 66.5039,
-      "longitude": 25.7294,
-      "timestamp": "2026-11-18T17:41:27.556603",
-      "current": {
-        "time": "2026-11-18T19:30",
-        "interval": 900,
-        "temperature_2m": 0.2,
-        "relative_humidity_2m": 96,
-        "apparent_temperature": -3.4,
-        "weather_code": 51,
-        "wind_speed_10m": 9.7,
-        "wind_direction_10m": 94
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Finland",
-      "country_code": "FI",
-      "city": "Helsinki",
-      "latitude": 60.1699,
-      "longitude": 24.9384,
-      "timestamp": "2026-11-18T17:41:27.857085",
-      "current": {
-        "time": "2026-11-18T19:30",
-        "interval": 900,
-        "temperature_2m": 5.5,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": -0.1,
-        "weather_code": 3,
-        "wind_speed_10m": 26.6,
-        "wind_direction_10m": 141
+        "temperature_2m": 2.6,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": -0.5,
+        "weather_code": 55,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 340
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Oulu",
       "latitude": 65.0121,
       "longitude": 25.4651,
-      "timestamp": "2026-11-18T17:41:27.858874",
+      "timestamp": "2026-11-19T17:51:57.431011",
       "current": {
-        "time": "2026-11-18T19:30",
+        "time": "2026-11-19T19:45",
         "interval": 900,
-        "temperature_2m": 1.5,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": -2.6,
+        "temperature_2m": 1.2,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": -2.9,
         "weather_code": 3,
-        "wind_speed_10m": 14.8,
-        "wind_direction_10m": 133
+        "wind_speed_10m": 13.3,
+        "wind_direction_10m": 100
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Tampere",
+      "latitude": 61.4978,
+      "longitude": 23.7608,
+      "timestamp": "2026-11-19T17:51:57.465269",
+      "current": {
+        "time": "2026-11-19T19:45",
+        "interval": 900,
+        "temperature_2m": 1.0,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": -3.5,
+        "weather_code": 53,
+        "wind_speed_10m": 16.6,
+        "wind_direction_10m": 91
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "city": "Rovaniemi",
+      "latitude": 66.5039,
+      "longitude": 25.7294,
+      "timestamp": "2026-11-19T17:51:57.497850",
+      "current": {
+        "time": "2026-11-19T19:45",
+        "interval": 900,
+        "temperature_2m": 0.7,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": -2.5,
+        "weather_code": 3,
+        "wind_speed_10m": 7.2,
+        "wind_direction_10m": 102
       },
       "history_24h": null
     }

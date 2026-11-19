@@ -1,6 +1,6 @@
 {
   "country": "Vietnam",
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "cities": [
     {
       "country": "Vietnam",
@@ -8,16 +8,16 @@
       "city": "Ho Chi Minh City",
       "latitude": 10.8231,
       "longitude": 106.6297,
-      "timestamp": "2026-11-18T17:41:27.231591",
+      "timestamp": "2026-11-19T17:51:56.485901",
       "current": {
-        "time": "2026-11-19T00:30",
+        "time": "2026-11-20T00:45",
         "interval": 900,
-        "temperature_2m": 26.5,
-        "relative_humidity_2m": 84,
-        "apparent_temperature": 31.6,
+        "temperature_2m": 26.7,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 32.1,
         "weather_code": 0,
-        "wind_speed_10m": 4.1,
-        "wind_direction_10m": 67
+        "wind_speed_10m": 7.5,
+        "wind_direction_10m": 327
       },
       "history_24h": null
     },
@@ -27,16 +27,16 @@
       "city": "Hanoi",
       "latitude": 21.0285,
       "longitude": 105.8542,
-      "timestamp": "2026-11-18T17:41:27.234384",
+      "timestamp": "2026-11-19T17:51:56.488450",
       "current": {
-        "time": "2026-11-19T00:30",
+        "time": "2026-11-20T00:45",
         "interval": 900,
-        "temperature_2m": 21.2,
-        "relative_humidity_2m": 64,
-        "apparent_temperature": 20.5,
-        "weather_code": 3,
-        "wind_speed_10m": 13.9,
-        "wind_direction_10m": 17
+        "temperature_2m": 16.5,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 15.5,
+        "weather_code": 53,
+        "wind_speed_10m": 15.5,
+        "wind_direction_10m": 23
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Da Nang",
       "latitude": 16.0544,
       "longitude": 108.2022,
-      "timestamp": "2026-11-18T17:41:27.238084",
+      "timestamp": "2026-11-19T17:51:56.489845",
       "current": {
-        "time": "2026-11-19T00:30",
+        "time": "2026-11-20T00:45",
         "interval": 900,
-        "temperature_2m": 25.4,
-        "relative_humidity_2m": 85,
-        "apparent_temperature": 30.6,
-        "weather_code": 2,
-        "wind_speed_10m": 0.6,
-        "wind_direction_10m": 326
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Vietnam",
-      "country_code": "VN",
-      "city": "Nha Trang",
-      "latitude": 12.2451,
-      "longitude": 109.1945,
-      "timestamp": "2026-11-18T17:41:27.240941",
-      "current": {
-        "time": "2026-11-19T00:30",
-        "interval": 900,
-        "temperature_2m": 25.3,
-        "relative_humidity_2m": 93,
-        "apparent_temperature": 29.8,
-        "weather_code": 51,
-        "wind_speed_10m": 11.4,
-        "wind_direction_10m": 353
+        "temperature_2m": 24.4,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 29.5,
+        "weather_code": 53,
+        "wind_speed_10m": 2.8,
+        "wind_direction_10m": 305
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Hue",
       "latitude": 16.4637,
       "longitude": 107.5869,
-      "timestamp": "2026-11-18T17:41:28.471629",
+      "timestamp": "2026-11-19T17:51:56.491273",
       "current": {
-        "time": "2026-11-19T00:30",
+        "time": "2026-11-20T00:45",
         "interval": 900,
-        "temperature_2m": 24.0,
-        "relative_humidity_2m": 89,
-        "apparent_temperature": 28.2,
-        "weather_code": 1,
-        "wind_speed_10m": 4.7,
-        "wind_direction_10m": 220
+        "temperature_2m": 23.6,
+        "relative_humidity_2m": 97,
+        "apparent_temperature": 28.7,
+        "weather_code": 51,
+        "wind_speed_10m": 2.1,
+        "wind_direction_10m": 250
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Vietnam",
+      "country_code": "VN",
+      "city": "Nha Trang",
+      "latitude": 12.2451,
+      "longitude": 109.1945,
+      "timestamp": "2026-11-19T17:51:56.492610",
+      "current": {
+        "time": "2026-11-20T00:45",
+        "interval": 900,
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 83,
+        "apparent_temperature": 28.9,
+        "weather_code": 51,
+        "wind_speed_10m": 13.2,
+        "wind_direction_10m": 5
       },
       "history_24h": null
     }
