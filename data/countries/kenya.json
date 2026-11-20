@@ -1,6 +1,6 @@
 {
   "country": "Kenya",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "cities": [
     {
       "country": "Kenya",
@@ -8,35 +8,16 @@
       "city": "Nairobi",
       "latitude": -1.2921,
       "longitude": 36.8219,
-      "timestamp": "2026-11-19T17:51:57.114050",
+      "timestamp": "2026-11-20T17:26:07.201107",
       "current": {
-        "time": "2026-11-19T20:45",
+        "time": "2026-11-20T20:15",
         "interval": 900,
-        "temperature_2m": 17.6,
+        "temperature_2m": 17.8,
         "relative_humidity_2m": 94,
-        "apparent_temperature": 17.9,
-        "weather_code": 80,
-        "wind_speed_10m": 13.8,
-        "wind_direction_10m": 70
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Kenya",
-      "country_code": "KE",
-      "city": "Mombasa",
-      "latitude": -4.0435,
-      "longitude": 39.6682,
-      "timestamp": "2026-11-19T17:51:57.117274",
-      "current": {
-        "time": "2026-11-19T20:45",
-        "interval": 900,
-        "temperature_2m": 27.3,
-        "relative_humidity_2m": 86,
-        "apparent_temperature": 32.5,
-        "weather_code": 1,
-        "wind_speed_10m": 8.5,
-        "wind_direction_10m": 155
+        "apparent_temperature": 18.7,
+        "weather_code": 3,
+        "wind_speed_10m": 9.9,
+        "wind_direction_10m": 35
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Nakuru",
       "latitude": -0.3031,
       "longitude": 36.08,
-      "timestamp": "2026-11-19T17:51:57.139539",
+      "timestamp": "2026-11-20T17:26:07.204848",
       "current": {
-        "time": "2026-11-19T20:45",
+        "time": "2026-11-20T20:15",
         "interval": 900,
-        "temperature_2m": 18.3,
+        "temperature_2m": 18.0,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 19.6,
+        "weather_code": 2,
+        "wind_speed_10m": 4.2,
+        "wind_direction_10m": 342
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KE",
+      "city": "Mombasa",
+      "latitude": -4.0435,
+      "longitude": 39.6682,
+      "timestamp": "2026-11-20T17:26:07.205818",
+      "current": {
+        "time": "2026-11-20T20:15",
+        "interval": 900,
+        "temperature_2m": 27.7,
         "relative_humidity_2m": 80,
-        "apparent_temperature": 18.4,
+        "apparent_temperature": 32.6,
         "weather_code": 1,
-        "wind_speed_10m": 10.4,
-        "wind_direction_10m": 334
+        "wind_speed_10m": 7.6,
+        "wind_direction_10m": 146
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Kisumu",
       "latitude": -0.1022,
       "longitude": 34.7617,
-      "timestamp": "2026-11-19T17:51:57.141064",
+      "timestamp": "2026-11-20T17:26:07.208436",
       "current": {
-        "time": "2026-11-19T20:45",
+        "time": "2026-11-20T20:15",
         "interval": 900,
-        "temperature_2m": 23.5,
-        "relative_humidity_2m": 79,
-        "apparent_temperature": 26.6,
-        "weather_code": 3,
-        "wind_speed_10m": 3.1,
-        "wind_direction_10m": 357
+        "temperature_2m": 23.4,
+        "relative_humidity_2m": 81,
+        "apparent_temperature": 26.8,
+        "weather_code": 2,
+        "wind_speed_10m": 2.9,
+        "wind_direction_10m": 4
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Malindi",
       "latitude": -3.2138,
       "longitude": 40.1169,
-      "timestamp": "2026-11-19T17:51:57.143909",
+      "timestamp": "2026-11-20T17:26:07.210337",
       "current": {
-        "time": "2026-11-19T20:45",
+        "time": "2026-11-20T20:15",
         "interval": 900,
-        "temperature_2m": 27.8,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 32.0,
+        "temperature_2m": 26.7,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 31.9,
         "weather_code": 0,
-        "wind_speed_10m": 9.3,
-        "wind_direction_10m": 151
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 155
       },
       "history_24h": null
     }

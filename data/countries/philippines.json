@@ -1,6 +1,6 @@
 {
   "country": "Philippines",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "cities": [
     {
       "country": "Philippines",
@@ -8,35 +8,16 @@
       "city": "Manila",
       "latitude": 14.5995,
       "longitude": 120.9842,
-      "timestamp": "2026-11-19T17:51:56.530087",
+      "timestamp": "2026-11-20T17:26:07.066004",
       "current": {
-        "time": "2026-11-20T01:45",
+        "time": "2026-11-21T01:15",
         "interval": 900,
-        "temperature_2m": 27.2,
-        "relative_humidity_2m": 81,
-        "apparent_temperature": 33.0,
-        "weather_code": 0,
-        "wind_speed_10m": 0.3,
-        "wind_direction_10m": 225
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Philippines",
-      "country_code": "PH",
-      "city": "Cebu",
-      "latitude": 10.3157,
-      "longitude": 123.8854,
-      "timestamp": "2026-11-19T17:51:56.532696",
-      "current": {
-        "time": "2026-11-20T01:45",
-        "interval": 900,
-        "temperature_2m": 25.0,
-        "relative_humidity_2m": 95,
-        "apparent_temperature": 29.6,
-        "weather_code": 51,
-        "wind_speed_10m": 10.8,
-        "wind_direction_10m": 21
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 31.1,
+        "weather_code": 3,
+        "wind_speed_10m": 2.7,
+        "wind_direction_10m": 58
       },
       "history_24h": null
     },
@@ -46,16 +27,35 @@
       "city": "Davao",
       "latitude": 7.0731,
       "longitude": 125.6128,
-      "timestamp": "2026-11-19T17:51:56.534083",
+      "timestamp": "2026-11-20T17:26:07.069813",
       "current": {
-        "time": "2026-11-20T01:45",
+        "time": "2026-11-21T01:15",
         "interval": 900,
-        "temperature_2m": 24.3,
-        "relative_humidity_2m": 96,
-        "apparent_temperature": 28.1,
-        "weather_code": 51,
-        "wind_speed_10m": 13.7,
-        "wind_direction_10m": 2
+        "temperature_2m": 24.6,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 28.5,
+        "weather_code": 3,
+        "wind_speed_10m": 8.7,
+        "wind_direction_10m": 17
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PH",
+      "city": "Cebu",
+      "latitude": 10.3157,
+      "longitude": 123.8854,
+      "timestamp": "2026-11-20T17:26:07.070498",
+      "current": {
+        "time": "2026-11-21T01:15",
+        "interval": 900,
+        "temperature_2m": 25.9,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 30.5,
+        "weather_code": 3,
+        "wind_speed_10m": 12.1,
+        "wind_direction_10m": 33
       },
       "history_24h": null
     },
@@ -65,16 +65,16 @@
       "city": "Boracay",
       "latitude": 11.9674,
       "longitude": 121.924,
-      "timestamp": "2026-11-19T17:51:56.638288",
+      "timestamp": "2026-11-20T17:26:07.073286",
       "current": {
-        "time": "2026-11-20T01:45",
+        "time": "2026-11-21T01:15",
         "interval": 900,
-        "temperature_2m": 27.0,
-        "relative_humidity_2m": 82,
-        "apparent_temperature": 30.1,
-        "weather_code": 3,
-        "wind_speed_10m": 18.7,
-        "wind_direction_10m": 56
+        "temperature_2m": 25.6,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 28.4,
+        "weather_code": 53,
+        "wind_speed_10m": 20.7,
+        "wind_direction_10m": 61
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Palawan",
       "latitude": 9.8348,
       "longitude": 118.7383,
-      "timestamp": "2026-11-19T17:51:56.639724",
+      "timestamp": "2026-11-20T17:26:07.074645",
       "current": {
-        "time": "2026-11-20T01:45",
+        "time": "2026-11-21T01:15",
         "interval": 900,
-        "temperature_2m": 25.9,
-        "relative_humidity_2m": 87,
-        "apparent_temperature": 31.7,
+        "temperature_2m": 25.7,
+        "relative_humidity_2m": 90,
+        "apparent_temperature": 31.6,
         "weather_code": 3,
-        "wind_speed_10m": 1.3,
-        "wind_direction_10m": 278
+        "wind_speed_10m": 1.6,
+        "wind_direction_10m": 264
       },
       "history_24h": null
     }
