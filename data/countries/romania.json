@@ -1,42 +1,42 @@
 {
   "country": "Romania",
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "cities": [
-    {
-      "country": "Romania",
-      "country_code": "RO",
-      "city": "Cluj-Napoca",
-      "latitude": 46.7712,
-      "longitude": 23.6236,
-      "timestamp": "2026-11-20T17:26:07.298316",
-      "current": {
-        "time": "2026-11-20T19:15",
-        "interval": 900,
-        "temperature_2m": 8.4,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 6.5,
-        "weather_code": 3,
-        "wind_speed_10m": 4.3,
-        "wind_direction_10m": 175
-      },
-      "history_24h": null
-    },
     {
       "country": "Romania",
       "country_code": "RO",
       "city": "Bucharest",
       "latitude": 44.4268,
       "longitude": 26.1025,
-      "timestamp": "2026-11-20T17:26:07.299624",
+      "timestamp": "2026-11-21T16:30:31.874220",
       "current": {
-        "time": "2026-11-20T19:15",
+        "time": "2026-11-21T18:30",
         "interval": 900,
-        "temperature_2m": 10.8,
-        "relative_humidity_2m": 76,
-        "apparent_temperature": 8.7,
+        "temperature_2m": 11.3,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 9.7,
         "weather_code": 0,
-        "wind_speed_10m": 8.6,
-        "wind_direction_10m": 255
+        "wind_speed_10m": 7.8,
+        "wind_direction_10m": 248
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Cluj-Napoca",
+      "latitude": 46.7712,
+      "longitude": 23.6236,
+      "timestamp": "2026-11-21T16:30:31.883030",
+      "current": {
+        "time": "2026-11-21T18:30",
+        "interval": 900,
+        "temperature_2m": 8.4,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 5.5,
+        "weather_code": 3,
+        "wind_speed_10m": 12.5,
+        "wind_direction_10m": 311
       },
       "history_24h": null
     },
@@ -46,35 +46,16 @@
       "city": "Brasov",
       "latitude": 45.6427,
       "longitude": 25.5887,
-      "timestamp": "2026-11-20T17:26:07.302722",
+      "timestamp": "2026-11-21T16:30:31.884076",
       "current": {
-        "time": "2026-11-20T19:15",
+        "time": "2026-11-21T18:30",
         "interval": 900,
         "temperature_2m": 7.4,
-        "relative_humidity_2m": 62,
-        "apparent_temperature": 4.1,
-        "weather_code": 0,
-        "wind_speed_10m": 8.4,
-        "wind_direction_10m": 211
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Romania",
-      "country_code": "RO",
-      "city": "Sibiu",
-      "latitude": 45.7928,
-      "longitude": 24.1433,
-      "timestamp": "2026-11-20T17:26:07.307490",
-      "current": {
-        "time": "2026-11-20T19:15",
-        "interval": 900,
-        "temperature_2m": 7.6,
-        "relative_humidity_2m": 80,
-        "apparent_temperature": 5.8,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 5.5,
         "weather_code": 3,
-        "wind_speed_10m": 2.7,
-        "wind_direction_10m": 157
+        "wind_speed_10m": 3.2,
+        "wind_direction_10m": 270
       },
       "history_24h": null
     },
@@ -84,16 +65,35 @@
       "city": "Timisoara",
       "latitude": 45.7537,
       "longitude": 21.2251,
-      "timestamp": "2026-11-20T17:26:07.308230",
+      "timestamp": "2026-11-21T16:30:31.887475",
       "current": {
-        "time": "2026-11-20T19:15",
+        "time": "2026-11-21T18:30",
         "interval": 900,
-        "temperature_2m": 12.3,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 10.1,
-        "weather_code": 55,
+        "temperature_2m": 9.7,
+        "relative_humidity_2m": 84,
+        "apparent_temperature": 6.6,
+        "weather_code": 2,
         "wind_speed_10m": 16.2,
-        "wind_direction_10m": 197
+        "wind_direction_10m": 298
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "city": "Sibiu",
+      "latitude": 45.7928,
+      "longitude": 24.1433,
+      "timestamp": "2026-11-21T16:30:31.890111",
+      "current": {
+        "time": "2026-11-21T18:30",
+        "interval": 900,
+        "temperature_2m": 8.4,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 5.7,
+        "weather_code": 3,
+        "wind_speed_10m": 10.2,
+        "wind_direction_10m": 288
       },
       "history_24h": null
     }
