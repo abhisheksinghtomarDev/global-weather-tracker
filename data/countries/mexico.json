@@ -1,42 +1,23 @@
 {
   "country": "Mexico",
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "cities": [
-    {
-      "country": "Mexico",
-      "country_code": "MX",
-      "city": "Mexico City",
-      "latitude": 19.4326,
-      "longitude": -99.1332,
-      "timestamp": "2026-11-21T16:30:31.197338",
-      "current": {
-        "time": "2026-11-21T10:30",
-        "interval": 900,
-        "temperature_2m": 19.3,
-        "relative_humidity_2m": 42,
-        "apparent_temperature": 18.7,
-        "weather_code": 2,
-        "wind_speed_10m": 3.0,
-        "wind_direction_10m": 194
-      },
-      "history_24h": null
-    },
     {
       "country": "Mexico",
       "country_code": "MX",
       "city": "Guadalajara",
       "latitude": 20.6597,
       "longitude": -103.3496,
-      "timestamp": "2026-11-21T16:30:31.212514",
+      "timestamp": "2026-11-22T16:48:00.988047",
       "current": {
-        "time": "2026-11-21T10:30",
+        "time": "2026-11-22T10:45",
         "interval": 900,
-        "temperature_2m": 22.4,
-        "relative_humidity_2m": 52,
+        "temperature_2m": 22.1,
+        "relative_humidity_2m": 53,
         "apparent_temperature": 23.0,
-        "weather_code": 1,
-        "wind_speed_10m": 0.4,
-        "wind_direction_10m": 117
+        "weather_code": 0,
+        "wind_speed_10m": 2.3,
+        "wind_direction_10m": 90
       },
       "history_24h": null
     },
@@ -46,35 +27,16 @@
       "city": "Cancun",
       "latitude": 21.1619,
       "longitude": -86.8515,
-      "timestamp": "2026-11-21T16:30:31.213840",
+      "timestamp": "2026-11-22T16:48:00.989925",
       "current": {
-        "time": "2026-11-21T11:30",
+        "time": "2026-11-22T11:45",
         "interval": 900,
-        "temperature_2m": 28.2,
+        "temperature_2m": 28.9,
         "relative_humidity_2m": 66,
-        "apparent_temperature": 32.8,
-        "weather_code": 0,
-        "wind_speed_10m": 6.3,
-        "wind_direction_10m": 268
-      },
-      "history_24h": null
-    },
-    {
-      "country": "Mexico",
-      "country_code": "MX",
-      "city": "Tijuana",
-      "latitude": 32.5149,
-      "longitude": -117.0382,
-      "timestamp": "2026-11-21T16:30:31.214824",
-      "current": {
-        "time": "2026-11-21T08:30",
-        "interval": 900,
-        "temperature_2m": 12.7,
-        "relative_humidity_2m": 68,
-        "apparent_temperature": 10.2,
-        "weather_code": 0,
-        "wind_speed_10m": 11.3,
-        "wind_direction_10m": 131
+        "apparent_temperature": 33.5,
+        "weather_code": 1,
+        "wind_speed_10m": 7.9,
+        "wind_direction_10m": 73
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Monterrey",
       "latitude": 25.6866,
       "longitude": -100.3161,
-      "timestamp": "2026-11-21T16:30:31.218077",
+      "timestamp": "2026-11-22T16:48:00.990801",
       "current": {
-        "time": "2026-11-21T10:30",
+        "time": "2026-11-22T10:45",
         "interval": 900,
-        "temperature_2m": 19.1,
-        "relative_humidity_2m": 90,
-        "apparent_temperature": 21.7,
-        "weather_code": 3,
-        "wind_speed_10m": 0.8,
-        "wind_direction_10m": 62
+        "temperature_2m": 24.1,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 24.1,
+        "weather_code": 0,
+        "wind_speed_10m": 12.4,
+        "wind_direction_10m": 20
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Mexico City",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "timestamp": "2026-11-22T16:48:00.992354",
+      "current": {
+        "time": "2026-11-22T10:45",
+        "interval": 900,
+        "temperature_2m": 20.4,
+        "relative_humidity_2m": 46,
+        "apparent_temperature": 20.5,
+        "weather_code": 0,
+        "wind_speed_10m": 2.9,
+        "wind_direction_10m": 223
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Tijuana",
+      "latitude": 32.5149,
+      "longitude": -117.0382,
+      "timestamp": "2026-11-22T16:48:00.993608",
+      "current": {
+        "time": "2026-11-22T08:45",
+        "interval": 900,
+        "temperature_2m": 13.2,
+        "relative_humidity_2m": 61,
+        "apparent_temperature": 10.7,
+        "weather_code": 0,
+        "wind_speed_10m": 9.9,
+        "wind_direction_10m": 121
       },
       "history_24h": null
     }
