@@ -1,23 +1,23 @@
 {
   "country": "South Korea",
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "cities": [
     {
       "country": "South Korea",
       "country_code": "KR",
-      "city": "Seoul",
-      "latitude": 37.5665,
-      "longitude": 126.978,
-      "timestamp": "2026-11-23T20:44:30.429164",
+      "city": "Incheon",
+      "latitude": 37.4563,
+      "longitude": 126.7052,
+      "timestamp": "2026-11-24T19:49:43.842668",
       "current": {
-        "time": "2026-11-24T05:30",
+        "time": "2026-11-25T04:45",
         "interval": 900,
-        "temperature_2m": -0.2,
-        "relative_humidity_2m": 45,
-        "apparent_temperature": -4.6,
+        "temperature_2m": -2.8,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": -7.2,
         "weather_code": 1,
-        "wind_speed_10m": 7.6,
-        "wind_direction_10m": 315
+        "wind_speed_10m": 10.2,
+        "wind_direction_10m": 39
       },
       "history_24h": null
     },
@@ -27,54 +27,16 @@
       "city": "Busan",
       "latitude": 35.1796,
       "longitude": 129.0756,
-      "timestamp": "2026-11-23T20:44:30.430953",
+      "timestamp": "2026-11-24T19:49:43.842921",
       "current": {
-        "time": "2026-11-24T05:30",
+        "time": "2026-11-25T04:45",
         "interval": 900,
-        "temperature_2m": 8.5,
-        "relative_humidity_2m": 77,
-        "apparent_temperature": 5.0,
-        "weather_code": 1,
-        "wind_speed_10m": 15.3,
-        "wind_direction_10m": 313
-      },
-      "history_24h": null
-    },
-    {
-      "country": "South Korea",
-      "country_code": "KR",
-      "city": "Incheon",
-      "latitude": 37.4563,
-      "longitude": 126.7052,
-      "timestamp": "2026-11-23T20:44:30.432546",
-      "current": {
-        "time": "2026-11-24T05:30",
-        "interval": 900,
-        "temperature_2m": 0.5,
-        "relative_humidity_2m": 56,
-        "apparent_temperature": -5.3,
-        "weather_code": 1,
-        "wind_speed_10m": 18.9,
-        "wind_direction_10m": 342
-      },
-      "history_24h": null
-    },
-    {
-      "country": "South Korea",
-      "country_code": "KR",
-      "city": "Daegu",
-      "latitude": 35.8714,
-      "longitude": 128.6014,
-      "timestamp": "2026-11-23T20:44:30.434374",
-      "current": {
-        "time": "2026-11-24T05:30",
-        "interval": 900,
-        "temperature_2m": 4.3,
-        "relative_humidity_2m": 59,
-        "apparent_temperature": -0.2,
-        "weather_code": 1,
-        "wind_speed_10m": 13.5,
-        "wind_direction_10m": 295
+        "temperature_2m": -1.5,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": -6.6,
+        "weather_code": 0,
+        "wind_speed_10m": 14.8,
+        "wind_direction_10m": 304
       },
       "history_24h": null
     },
@@ -84,16 +46,54 @@
       "city": "Daejeon",
       "latitude": 36.3504,
       "longitude": 127.3845,
-      "timestamp": "2026-11-23T20:44:30.437121",
+      "timestamp": "2026-11-24T19:49:43.844495",
       "current": {
-        "time": "2026-11-24T05:30",
+        "time": "2026-11-25T04:45",
         "interval": 900,
-        "temperature_2m": 1.3,
-        "relative_humidity_2m": 69,
-        "apparent_temperature": -2.4,
+        "temperature_2m": -3.5,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": -7.0,
         "weather_code": 1,
-        "wind_speed_10m": 7.6,
-        "wind_direction_10m": 355
+        "wind_speed_10m": 2.5,
+        "wind_direction_10m": 172
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KR",
+      "city": "Daegu",
+      "latitude": 35.8714,
+      "longitude": 128.6014,
+      "timestamp": "2026-11-24T19:49:43.845611",
+      "current": {
+        "time": "2026-11-25T04:45",
+        "interval": 900,
+        "temperature_2m": -2.7,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": -6.7,
+        "weather_code": 0,
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 254
+      },
+      "history_24h": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KR",
+      "city": "Seoul",
+      "latitude": 37.5665,
+      "longitude": 126.978,
+      "timestamp": "2026-11-24T19:49:43.847478",
+      "current": {
+        "time": "2026-11-25T04:45",
+        "interval": 900,
+        "temperature_2m": -3.3,
+        "relative_humidity_2m": 65,
+        "apparent_temperature": -6.9,
+        "weather_code": 0,
+        "wind_speed_10m": 3.1,
+        "wind_direction_10m": 21
       },
       "history_24h": null
     }
