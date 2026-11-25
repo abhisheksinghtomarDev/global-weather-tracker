@@ -1,42 +1,23 @@
 {
   "country": "Mexico",
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "cities": [
-    {
-      "country": "Mexico",
-      "country_code": "MX",
-      "city": "Mexico City",
-      "latitude": 19.4326,
-      "longitude": -99.1332,
-      "timestamp": "2026-11-24T19:49:43.856276",
-      "current": {
-        "time": "2026-11-24T13:45",
-        "interval": 900,
-        "temperature_2m": 20.4,
-        "relative_humidity_2m": 51,
-        "apparent_temperature": 20.5,
-        "weather_code": 51,
-        "wind_speed_10m": 2.0,
-        "wind_direction_10m": 170
-      },
-      "history_24h": null
-    },
     {
       "country": "Mexico",
       "country_code": "MX",
       "city": "Guadalajara",
       "latitude": 20.6597,
       "longitude": -103.3496,
-      "timestamp": "2026-11-24T19:49:43.858202",
+      "timestamp": "2026-11-25T18:54:44.704353",
       "current": {
-        "time": "2026-11-24T13:45",
+        "time": "2026-11-25T12:45",
         "interval": 900,
-        "temperature_2m": 25.6,
-        "relative_humidity_2m": 36,
-        "apparent_temperature": 25.3,
-        "weather_code": 3,
-        "wind_speed_10m": 5.1,
-        "wind_direction_10m": 324
+        "temperature_2m": 22.4,
+        "relative_humidity_2m": 37,
+        "apparent_temperature": 21.6,
+        "weather_code": 1,
+        "wind_speed_10m": 8.4,
+        "wind_direction_10m": 71
       },
       "history_24h": null
     },
@@ -46,16 +27,16 @@
       "city": "Monterrey",
       "latitude": 25.6866,
       "longitude": -100.3161,
-      "timestamp": "2026-11-24T19:49:43.859030",
+      "timestamp": "2026-11-25T18:54:44.708629",
       "current": {
-        "time": "2026-11-24T13:45",
+        "time": "2026-11-25T12:45",
         "interval": 900,
-        "temperature_2m": 16.1,
-        "relative_humidity_2m": 60,
-        "apparent_temperature": 14.3,
-        "weather_code": 3,
-        "wind_speed_10m": 9.4,
-        "wind_direction_10m": 358
+        "temperature_2m": 16.7,
+        "relative_humidity_2m": 43,
+        "apparent_temperature": 15.7,
+        "weather_code": 0,
+        "wind_speed_10m": 6.1,
+        "wind_direction_10m": 43
       },
       "history_24h": null
     },
@@ -65,16 +46,35 @@
       "city": "Cancun",
       "latitude": 21.1619,
       "longitude": -86.8515,
-      "timestamp": "2026-11-24T19:49:43.859959",
+      "timestamp": "2026-11-25T18:54:44.709748",
       "current": {
-        "time": "2026-11-24T14:45",
+        "time": "2026-11-25T13:45",
         "interval": 900,
-        "temperature_2m": 24.2,
-        "relative_humidity_2m": 94,
-        "apparent_temperature": 28.6,
-        "weather_code": 95,
-        "wind_speed_10m": 7.4,
-        "wind_direction_10m": 131
+        "temperature_2m": 27.5,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 28.4,
+        "weather_code": 3,
+        "wind_speed_10m": 20.3,
+        "wind_direction_10m": 318
+      },
+      "history_24h": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MX",
+      "city": "Mexico City",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "timestamp": "2026-11-25T18:54:44.714526",
+      "current": {
+        "time": "2026-11-25T12:45",
+        "interval": 900,
+        "temperature_2m": 17.6,
+        "relative_humidity_2m": 58,
+        "apparent_temperature": 18.2,
+        "weather_code": 0,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 243
       },
       "history_24h": null
     },
@@ -84,16 +84,16 @@
       "city": "Tijuana",
       "latitude": 32.5149,
       "longitude": -117.0382,
-      "timestamp": "2026-11-24T19:49:43.860899",
+      "timestamp": "2026-11-25T18:54:44.749149",
       "current": {
-        "time": "2026-11-24T11:45",
+        "time": "2026-11-25T10:45",
         "interval": 900,
         "temperature_2m": 21.7,
-        "relative_humidity_2m": 31,
-        "apparent_temperature": 19.4,
-        "weather_code": 0,
-        "wind_speed_10m": 9.2,
-        "wind_direction_10m": 317
+        "relative_humidity_2m": 38,
+        "apparent_temperature": 19.6,
+        "weather_code": 3,
+        "wind_speed_10m": 11.0,
+        "wind_direction_10m": 307
       },
       "history_24h": null
     }
